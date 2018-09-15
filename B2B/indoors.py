@@ -25,6 +25,7 @@ def traverse(building_id, start_floor=1, end_floor=1, stair_limit=INF):
     total_time, meth_d = 0, None
     floor_map = building_map[building_id][start_floor]
     # TODO: find time to travel normally based on line of travel or averaging (averaging is bad for thin buildings)
+    # TODO: *could also use door indexing and pass these
     if start_floor != end_floor:
         floor_diff = abs(start_floor - end_floor)
         if floor_diff <= stair_limit:
