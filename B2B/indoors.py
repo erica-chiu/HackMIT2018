@@ -7,7 +7,7 @@ STAIRCASE = 2
 ELEVATOR = 3
 
 
-def traverse(building_id, start_floor = 1, end_floor = 1):
+def traverse(building_id, start_floor=1, end_floor=1):
     """
     Finds time to traverse through a building
     :param building_id: building to start
@@ -15,6 +15,7 @@ def traverse(building_id, start_floor = 1, end_floor = 1):
     :param end_floor: floor to end
     :return: the travel time
     """
+    return 0
     # go to a staircase or an elevator, then just sum up travel distances
     floor_map = building_map[building_id][start_floor]
     if start_floor != end_floor:
