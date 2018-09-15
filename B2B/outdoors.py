@@ -1,17 +1,76 @@
 import queue as Q
 import indoors
+import math
+import random
 
 building_map = []  # the building map, 2D array of labels (strings/ints) floodfilled to building number
 foot_traffic = []  # the foot traffic, for distance purposes (based on time). Default is 100
+
+VERBS = ["Head", "Walk", "Travel", "Go",  "Move", "Grapevine"]  # to reduce redundancy
 
 OUTSIDE = -1
 ILLEGAL = -2
 rows, cols = -1, -1
 INF = 1e9  # very large
+TIMESCALE = 1 / 100  # fixing the foot traffic ratio  TODO: fix this scaling
 
-# directional displacements
-dx = [0, 1, 0, -1]
-dy = [1, 0, -1, 0]
+# directional displacements (N, W, S, E, NW, SW, SE, NE)
+root2 = math.sqrt(2)/2
+dx = [-1, 0, 1, 0, -root2, root2, root2, -root2]
+dy = [0, -1, 0, 1, -root2, -root2, root2, root2]
+
+
+def get_direction(c1, c2):
+    """
+    Gets the closest cardinal direction between two points
+    :param c1: starting coordinates
+    :param c2: ending coordinates
+    :return: North, West, South, or East
+    """
+    xd, yd = c2[0]-c1[0], c2[1]-c1[1]
+    mx_val, mx_ind = -INF, -1
+    for k in range(8):
+        cand = dx[k] * xd + dy[k] * yd
+        if cand > mx_val:
+            mx_val, mx_ind = cand, k
+    return ["North", "West", "South", "East", "Northwest", "Southwest", "Southeast", "Northeast"][mx_ind]
+
+
+def generate_instructions(path):
+    """
+    Gets an English set of directions given a coordinate path and distance
+    :param path: the output from shortest_path
+    :return: an English string
+    """
+    def get_building_name(bid):
+        """Helper function."""
+        return "the outdoors" if bid == OUTSIDE else "building {}".format(bid)
+
+    t, coords = path
+    i, n = 0, len(coords)
+    ret = "This path should take you at most {0:.3f} minutes.\nStart at building {1}".format(t * TIMESCALE / 60,
+                                                                                             building_map[coords[i][0]][coords[i][1]])
+    while i < n-1:  # shouldn't do directions for last building
+        j = i+1
+        building_i = building_map[coords[i][0]][coords[i][1]]
+        building_j = building_map[coords[j][0]][coords[j][1]]
+        while j < n and building_i == building_j:
+            j += 1
+            building_j = building_map[coords[j][0]][coords[j][1]]
+        # j is next building change
+        word = random.choice(VERBS)
+        direction = get_direction(coords[i], coords[j])
+        from_building = get_building_name(building_i)
+        to_building = get_building_name(building_j)
+        ret += "\n{word} {direction} to leave {from_building} and enter {to_building}".format(word=word,
+                                                                                              direction=direction,
+                                                                                              from_building=from_building,
+                                                                                              to_building=to_building)
+        # TODO: add in time per step
+        # TODO: this is really bad at handling curvy outdoor paths
+        i = j  # update current position
+    ret += "\nYou have arrived at building {}!".format(building_map[coords[-1][0]][coords[-1][1]])
+    return ret
 
 
 def find_xy_cluster(building_id):
@@ -59,7 +118,7 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1):
             if building_map[nx][ny] == OUTSIDE:
                 ndist += foot_traffic[nx][ny]
             elif building_map[nx][ny] != building_map[cx][cy]:
-                # this probably has to be more rigorous (implement doors)
+                # TODO: implement doors
                 ndist += indoors.traverse(building_map[nx][ny])
             if ndist < dist[nx][ny]:
                 dist[nx][ny] = ndist
@@ -94,19 +153,21 @@ def build_vals(buildings, traffic=None):
 if __name__ == '__main__':
     x = 'N52'
     y = 54
-    building_map = [[x, x, -1, -1, -1],
-                    [-1, x, -1, -1, -1],
-                    [-2, -1, -2, -2, -1],
-                    [-2, -1, -1, -1, -1],
-                    [-2, -1, -2, -1, -2],
-                    [y, y, -2, y, -2],
-                    [y, y, y, y, y]]
-    foot_traffic = [[100, 100, 100, 100, 100],
-                    [100, 100, 100, 100, 100],
-                    [100, 800, 100, 100, 100],
-                    [100, 150, 100, 100, 100],
-                    [100, 100, 100, 2000, 100],
-                    [100, 100, 100, 100, 100],
-                    [100, 100, 100, 100, 100]]
-    rows, cols = 7, 5
-    print(shortest_path(x, y))
+    building_map = [[x, x, -1, -1, -1, -2, -2, -2],
+                    [-1, x, -1, -1, -1, 10, 10, -1],
+                    [-2, -1, -2, -2, -2, -1, -1, -1],
+                    [-2, -1, -1, -1, -2, -1, 16, -1],
+                    [-2, -1, -2, -1, 13, -1, -1, -1],
+                    [y, y, -2, y, -2, -2, -2, -2],
+                    [y, y, y, y, y, y, y, y]]
+    foot_traffic = [[100, 100, 100, 100, 100, 100, 100, 100],
+                    [100, 100, 100, 100, 100, 100, 100, 100],
+                    [100, 8000, 100, 100, 100, 100, 100, 100],
+                    [100, 150, 100, 100, 100, 100, 100, 100],
+                    [100, 100, 100, 2000, 100, 100, 100, 100],
+                    [100, 100, 100, 100, 100, 100, 100, 100],
+                    [100, 100, 100, 100, 100, 100, 100, 100]]
+    rows, cols = 7, 8
+    sp = shortest_path(x, y)
+    print(sp)
+    print(generate_instructions(sp))

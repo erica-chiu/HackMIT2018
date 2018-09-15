@@ -16,6 +16,7 @@ def traverse(building_id, start_floor=1, end_floor=1):
     :return: the travel time
     """
     return 0
+    # TODO: implement this indoor stuff
     # go to a staircase or an elevator, then just sum up travel distances
     floor_map = building_map[building_id][start_floor]
     if start_floor != end_floor:
