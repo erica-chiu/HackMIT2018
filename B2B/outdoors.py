@@ -12,8 +12,8 @@ OUTSIDE = -1
 ILLEGAL = -2
 rows, cols = -1, -1
 INF = 1e9  # very large
-TIMESCALE = 1 / 100  # fixing the foot traffic ratio  TODO: fix this scaling
-CHANGE_DIRECTION_STEP = 2  # the number of steps to check if overall path direction changed (to get around curvy paths)
+TO_MIN = 1 / 6000  # from pure units to minutes  TODO: fix this scaling
+CHANGE_DIRECTION_STEP = 2  # the number of steps to check if overall path direction changed (to get around curvy paths)  TODO: fix this scaling
 
 # directional displacements (N, W, S, E, NW, SW, SE, NE)
 root2 = math.sqrt(2)/2
@@ -37,19 +37,18 @@ def get_direction(c1, c2):
     return ["North", "West", "South", "East", "Northwest", "Southwest", "Southeast", "Northeast"][mx_ind]
 
 
-def generate_instructions(path):
+def generate_instructions(coords):
     """
     Gets an English set of directions given a coordinate path and distance
-    :param path: the output from shortest_path
+    :param coords: the output from shortest_path
     :return: an English string
     """
     def get_building_name(bid):
         """Helper function."""
         return "the outdoors" if bid == OUTSIDE else "building {}".format(bid)
 
-    t, coords = path
     i, n = 0, len(coords)
-    ret = "This path should take you at most {0:.3f} minutes.\nStart at building {1}".format(t * TIMESCALE / 60,
+    ret = "This path should take you at most {0:.3f} minutes.\nStart at building {1}".format(coords[-1][2] * TO_MIN,
                                                                                              building_map[coords[i][0]][coords[i][1]])
     while i < n-1:  # shouldn't do directions for last building
         j = i+1
@@ -57,6 +56,7 @@ def generate_instructions(path):
         building_j = building_map[coords[j][0]][coords[j][1]]
         cds = CHANGE_DIRECTION_STEP
         while j < n and building_i == building_j and (
+                building_i != OUTSIDE or
                 j - i < 2 * cds or
                 get_direction(coords[j - 2 * cds], coords[j - cds]) == get_direction(coords[j - cds], coords[j])):
             j += 1
@@ -68,12 +68,11 @@ def generate_instructions(path):
         to_building = get_building_name(building_j)
         prefix = ("\n{word} {direction}, staying in {from_building}" if from_building == to_building else
                   "\n{word} {direction} to leave {from_building} and enter {to_building}")
-        ret += prefix.format(word=word,
-                             direction=direction,
-                             from_building=from_building,
-                             to_building=to_building)
-        # TODO: add in time per step
-        # TODO: add in amount of moves per step if they stay in same building/outdoors
+        ret += (prefix + " (~{time:.3f} minutes)").format(word=word,
+                                                          direction=direction,
+                                                          from_building=from_building,
+                                                          to_building=to_building,
+                                                          time=(coords[j][2]-coords[j][1]) * TO_MIN)
         i = j  # update current position
     ret += "\nYou have arrived at building {}!".format(building_map[coords[-1][0]][coords[-1][1]])
     return ret
@@ -100,7 +99,7 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1):
     :param end_building: building the user ends at
     :param start_floor: floor you start on
     :param end_floor: floor you end on
-    :return: tuple(time, a list of coordinates for the user to go)
+    :return: a list of coordinates for the user to go with times
     """
     startx, starty = find_xy_cluster(start_building)
     endx, endy = find_xy_cluster(end_building)
@@ -134,9 +133,9 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1):
     dist[endx][endy] += indoors.traverse(building_map[endx][endy], end_floor=end_floor)
     cur = (endx, endy)
     while cur:
-        ret.append((cur[0], cur[1]))
+        ret.append((cur[0], cur[1], dist[cur[0]][cur[1]]))
         cur = prev[cur[0]][cur[1]]
-    return dist[endx][endy], list(reversed(ret))
+    return list(reversed(ret))
 
 
 def build_vals(buildings, traffic=None):
@@ -160,9 +159,9 @@ if __name__ == '__main__':
     x = 'N52'
     y = 54
     building_map = [[x, x, -1, -1, -1, -2, -2, -2],
-                    [-1, x, -1, -1, -1, 10, 10, -1],
-                    [-2, -1, -2, -2, -2, -1, -1, -1],
-                    [-2, -1, -1, -1, -2, -1, 16, -1],
+                    [-1, x, -1, 10, 10, 10, -1, -1],
+                    [-2, -1, -2, -2, -2, 10, -1, -1],
+                    [-2, -1, -1, -1, -2, 10, 16, -1],
                     [-2, -1, -2, -1, -1, -1, -1, -1],
                     [y, y, -2, -2, -2, -2, -2, -2],
                     [y, y, y, y, y, y, y, y]]
