@@ -17,31 +17,32 @@
 						<div class="input-group-prepend">
 							<span class="input-group-text" id="basic-addon1">Depart From</span>
 						</div>
-						<input type="text" class="form-control" placeholder="Enter a classroom number or building number(Ex. 10-250)" aria-label="departure" aria-describedby="basic-addon1">
+						<input type="text" class="form-control" id="dept" placeholder="Enter a classroom/building number(Ex. 10-250)" aria-label="departure" aria-describedby="basic-addon1">
 					</div>
 					<div class="input-group mb-3">
 						<div class="input-group-prepend">
 							<span class="input-group-text" id="basic-addon1">Destination</span>
 						</div>
-						<input type="text" class="form-control" placeholder="Enter a classroom number or building number(Ex. E25-111)" aria-label="destination" aria-describedby="basic-addon1">
-						<div>
-							<button type="button" class="btn btn-primary">Submit</button>
-						</div>
+						<input type="text" class="form-control" id="dest" placeholder="Enter a classroom/building number(Ex. E25-111)" aria-label="destination" aria-describedby="basic-addon1">
+					</div>
+					<div class="row">
+						<button type="button" class="btn btn-primary" id="submit">Submit</button>
 					</div>
 				</div>
 				<div class="col-sm">
-					<!-- Embed MIT map here -->
+					<h2>Instructions</h2>
+					<div class="instruction-list">
+						<ul>
+							<li>Exit the stairs to the first floor of building 10</li>
+							<li>Walk east, and turn left at the end the hallway to enter building 16.</li>
+						</ul>
+					</div>
 				</div>
 			</div>
 			<div class="row">
-				<h2>Instructions</h2>
-				<div class="instruction-list">
-					<ul>
-						<li>Exit the stairs to the first floor of building 10</li>
-						<li>Walk east, and turn left at the end the hallway to enter building 16.</li>
-					</ul>
-				</div>
+				<!-- Insert map here -->
 			</div>
 		</div>
+		<script src="main.js"></script>
 	</body>
 </html>
