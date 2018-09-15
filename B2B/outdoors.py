@@ -13,6 +13,7 @@ ILLEGAL = -2
 rows, cols = -1, -1
 INF = 1e9  # very large
 TIMESCALE = 1 / 100  # fixing the foot traffic ratio  TODO: fix this scaling
+CHANGE_DIRECTION_STEP = 2  # the number of steps to check if overall path direction changed (to get around curvy paths)
 
 # directional displacements (N, W, S, E, NW, SW, SE, NE)
 root2 = math.sqrt(2)/2
@@ -54,7 +55,10 @@ def generate_instructions(path):
         j = i+1
         building_i = building_map[coords[i][0]][coords[i][1]]
         building_j = building_map[coords[j][0]][coords[j][1]]
-        while j < n and building_i == building_j:
+        cds = CHANGE_DIRECTION_STEP
+        while j < n and building_i == building_j and (
+                j - i < 2 * cds or
+                get_direction(coords[j - 2 * cds], coords[j - cds]) == get_direction(coords[j - cds], coords[j])):
             j += 1
             building_j = building_map[coords[j][0]][coords[j][1]]
         # j is next building change
@@ -62,12 +66,14 @@ def generate_instructions(path):
         direction = get_direction(coords[i], coords[j])
         from_building = get_building_name(building_i)
         to_building = get_building_name(building_j)
-        ret += "\n{word} {direction} to leave {from_building} and enter {to_building}".format(word=word,
-                                                                                              direction=direction,
-                                                                                              from_building=from_building,
-                                                                                              to_building=to_building)
+        prefix = ("\n{word} {direction}, staying in {from_building}" if from_building == to_building else
+                  "\n{word} {direction} to leave {from_building} and enter {to_building}")
+        ret += prefix.format(word=word,
+                             direction=direction,
+                             from_building=from_building,
+                             to_building=to_building)
         # TODO: add in time per step
-        # TODO: this is really bad at handling curvy outdoor paths
+        # TODO: add in amount of moves per step if they stay in same building/outdoors
         i = j  # update current position
     ret += "\nYou have arrived at building {}!".format(building_map[coords[-1][0]][coords[-1][1]])
     return ret
@@ -157,8 +163,8 @@ if __name__ == '__main__':
                     [-1, x, -1, -1, -1, 10, 10, -1],
                     [-2, -1, -2, -2, -2, -1, -1, -1],
                     [-2, -1, -1, -1, -2, -1, 16, -1],
-                    [-2, -1, -2, -1, 13, -1, -1, -1],
-                    [y, y, -2, y, -2, -2, -2, -2],
+                    [-2, -1, -2, -1, -1, -1, -1, -1],
+                    [y, y, -2, -2, -2, -2, -2, -2],
                     [y, y, y, y, y, y, y, y]]
     foot_traffic = [[100, 100, 100, 100, 100, 100, 100, 100],
                     [100, 100, 100, 100, 100, 100, 100, 100],
