@@ -162,6 +162,30 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1):
     :param end_floor: floor you end on
     :return: an English direction based on a list of coordinates generated
     """
+    with open('building_map.txt', 'r') as f:
+        string_v = f.readline()
+
+    building_map = eval(string_v)  # the building map, 2D array of labels (strings/ints) floodfilled to building number
+    foot_traffic = 100*list(np.ones([len(building_map),len(building_map[0])]))  # the foot traffic, for distance purposes (based on time). Default is 100
+    extrema = {}
+
+    VERBS = ["Head", "Walk", "Travel", "Go",  "Move", "Grapevine"]  # to reduce redundancy
+
+    OUTSIDE = "0"
+    ILLEGAL = "-2"
+    rows, cols = -1, -1
+    INF = 1e9  # very large
+    TO_MIN = 1 / (6000 * 4)  # from pure units to minutes
+    SWITCH_PENALTY = 2000  # don't switch between inside and outside
+    CHANGE_DIRECTION_STEP = 15  # the number of steps to check if overall path direction changed (to get around curvy paths)
+
+    STAIR_LIM = INF
+
+    # directional displacements (N, W, S, E, NW, SW, SE, NE)
+    root2 = math.sqrt(2)/2
+    dx = [-1, 0, 1, 0, -root2, root2, root2, -root2]
+    dy = [0, -1, 0, 1, -root2, -root2, root2, root2]
+
     startx, starty = find_xy_cluster(start_building)
     #startx, starty, startd = get_closest_door(startx, starty, start_building, start_floor)
     dist = [[INF] * cols for _ in range(rows)]
