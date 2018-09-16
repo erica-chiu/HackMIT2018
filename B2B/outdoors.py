@@ -16,11 +16,13 @@ VERBS = ["Head", "Walk", "Travel", "Go",  "Move", "Grapevine"]  # to reduce redu
 
 OUTSIDE = "0"
 ILLEGAL = "-2"
+STREET = "-10"
 rows, cols = -1, -1
 INF = 1e9  # very large
 TO_MIN = 1 / (6000 * 4)  # from pure units to minutes
 SWITCH_PENALTY = 2000  # don't switch between inside and outside
 CHANGE_DIRECTION_STEP = 15  # the number of steps to check if overall path direction changed (to get around curvy paths)
+CROSS_STREET_PENALTY = int(1 / (2*TO_MIN))  # about half a minute of wait
 
 STAIR_LIM = INF
 
@@ -57,7 +59,11 @@ def generate_instructions(coords, s_meth_d=None, e_floor=1, e_meth_d=None):
     """
     def get_building_name(bid):
         """Helper function."""
-        return "the outdoors" if bid == OUTSIDE else "building {}".format(bid)
+        if bid == OUTSIDE:
+            return "the outdoors"
+        elif bid == STREET:
+            return "the street"
+        return "building {}".format(bid)
 
     i, n = 0, len(coords)
     ret = "This path should take you at most {0:.3f} minutes.\nStart at building {1}".format(coords[-1][2] * TO_MIN,
@@ -135,7 +141,7 @@ def get_size(building_id):
     """
     min_x, max_x, min_y, max_y = extrema[building_id]
     range_x, range_y = max_x - min_x, max_y - min_y
-    return math.sqrt(range_x * range_x + range_y * range_y)
+    return math.sqrt((range_x * range_x + range_y * range_y)/2)
 
 
 def get_closest_door(cur_x, cur_y, building_id, floor):
@@ -205,16 +211,17 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1, stai
             if nx < 0 or ny < 0 or nx >= rows or ny >= cols or building_map[nx][ny] == ILLEGAL:  # no illegal steps
                 continue
             ndist = cdist
-            if (building_map[cx][cy] != OUTSIDE and building_map[nx][ny] == OUTSIDE or
-                    building_map[cx][cy] == OUTSIDE and building_map[nx][ny] != OUTSIDE):
+            if (building_map[cx][cy] not in [OUTSIDE, STREET] and building_map[nx][ny] in [OUTSIDE, STREET] or
+                    building_map[cx][cy] in [OUTSIDE, STREET] and building_map[nx][ny] not in [OUTSIDE, STREET]):
                 ndist += SWITCH_PENALTY
-            if building_map[nx][ny] == OUTSIDE:
+            if building_map[cx][cy] == OUTSIDE and building_map[nx][ny] == STREET:
+                ndist += CROSS_STREET_PENALTY
+            elif building_map[nx][ny] in [OUTSIDE, STREET]:
                 ndist += foot_traffic[nx][ny]
             elif building_map[nx][ny] != building_map[cx][cy]:
                 # starting_door = get_closest_door(nx, ny, building_map[nx][ny], 1)[2]
                 # door_dists = indoors.traverse(building_map[nx][ny], door_index=starting_door, stair_limit=STAIR_LIM)
-                add, meth_d = indoors.traverse(get_size(building_map[nx][ny]))
-                ndist += add
+                ndist += indoors.traverse(get_size(building_map[nx][ny]))[0]
             if ndist < dist[nx][ny]:
                 dist[nx][ny] = ndist
                 prev[nx][ny] = (cx, cy)
@@ -237,8 +244,8 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1, stai
 # debugging
 if __name__ == '__main__':
 
-    x = 'W51'
-    y = '8'
+    x = 'W20'
+    y = '57'
     sp = shortest_path(x, y, 1, 3)
     print(sp)
     # x = 'N52'
