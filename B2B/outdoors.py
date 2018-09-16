@@ -2,9 +2,13 @@ import queue as Q
 import indoors
 import math
 import random
+import numpy as np
 
-building_map = []  # the building map, 2D array of labels (strings/ints) floodfilled to building number
-foot_traffic = []  # the foot traffic, for distance purposes (based on time). Default is 100
+with open('building_map.txt','r') as f:
+    string_v = f.readline()
+
+building_map = eval(string_v)  # the building map, 2D array of labels (strings/ints) floodfilled to building number
+foot_traffic = 100*list(np.ones([len(building_map),len(building_map[0])]))  # the foot traffic, for distance purposes (based on time). Default is 100
 
 VERBS = ["Head", "Walk", "Travel", "Go",  "Move", "Grapevine"]  # to reduce redundancy
 
@@ -207,23 +211,28 @@ def build_vals(buildings, traffic=None, stair_lim=None):
 
 # debugging
 if __name__ == '__main__':
+
     x = 'N52'
-    y = 54
-    building_map = [[x, x, -1, -1, -1, -2, -2, -2],
-                    [-1, x, -1, 10, 10, 10, -1, -1],
-                    [-2, -1, -2, -2, -2, 10, -1, -1],
-                    [-2, -1, -1, -1, -2, 10, 16, -1],
-                    [-2, -1, -2, -1, -1, -1, -1, -1],
-                    [y, y, -2, -2, -2, -2, -2, -2],
-                    [y, y, y, y, y, y, y, y]]
-    foot_traffic = [[100, 100, 100, 100, 100, 100, 100, 100],
-                    [100, 100, 100, 100, 100, 100, 100, 100],
-                    [100, 8000, 100, 100, 100, 100, 100, 100],
-                    [100, 150, 100, 100, 100, 100, 100, 100],
-                    [100, 100, 100, 2000, 100, 100, 100, 100],
-                    [100, 100, 100, 100, 100, 100, 100, 100],
-                    [100, 100, 100, 100, 100, 100, 100, 100]]
-    rows, cols = 7, 8
-    sp = shortest_path(x, y)
+    y = 'W20'
+    sp = shortest_path(x,y)
     print(sp)
-    print(generate_instructions(sp))
+    # x = 'N52'
+    # y = 54
+    # building_map = [[x, x, -1, -1, -1, -2, -2, -2],
+    #                 [-1, x, -1, 10, 10, 10, -1, -1],
+    #                 [-2, -1, -2, -2, -2, 10, -1, -1],
+    #                 [-2, -1, -1, -1, -2, 10, 16, -1],
+    #                 [-2, -1, -2, -1, -1, -1, -1, -1],
+    #                 [y, y, -2, -2, -2, -2, -2, -2],
+    #                 [y, y, y, y, y, y, y, y]]
+    # foot_traffic = [[100, 100, 100, 100, 100, 100, 100, 100],
+    #                 [100, 100, 100, 100, 100, 100, 100, 100],
+    #                 [100, 8000, 100, 100, 100, 100, 100, 100],
+    #                 [100, 150, 100, 100, 100, 100, 100, 100],
+    #                 [100, 100, 100, 2000, 100, 100, 100, 100],
+    #                 [100, 100, 100, 100, 100, 100, 100, 100],
+    #                 [100, 100, 100, 100, 100, 100, 100, 100]]
+    # rows, cols = 7, 8
+    # sp = shortest_path(x, y)
+    # print(sp)
+    # print(generate_instructions(sp))
