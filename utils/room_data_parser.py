@@ -35,4 +35,3 @@ def main():
 	writer.close()
 
 main()
-print(cut_space('1-038         '))
