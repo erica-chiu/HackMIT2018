@@ -100,18 +100,22 @@ def generate_instructions(coords, s_meth_d=None, e_floor=1, e_meth_d=None):
     return ret
 
 
-def find_xy_cluster(building_id):
+def find_center(building_id):
     """
-    Floodfill finder
-    :param building_id: building id to search
-    :return: (x, y) coordinates of first matching ID or (-1, -1) if not found
+    Finds center
+    :param building_id: building
+    :return: (x, y)
     """
-    assert(building_id != OUTSIDE), "This should not be done on the outdoors"
-    for i in range(rows):
-        for j in range(cols):
-            if building_map[i][j] == building_id:
-                return i, j
-    return -1, -1
+    x, y, max_dist = -1, -1, 0
+    min_x, max_x, min_y, max_y = extrema[building_id]
+    for cx in range(min_x, max_x + 1):
+        for cy in range(min_y, max_y + 1):
+            if building_map[cx][cy] == building_id:
+                man_d = min(abs(cx - min_x), abs(cx - max_x)) + min(abs(cy - min_y), abs(cy - max_y))
+                if man_d > max_dist:
+                    max_dist = man_d
+                    x, y = cx, cy
+    return x, y
 
 
 def get_building_extrema():
@@ -182,7 +186,7 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1, stai
     draw = ImageDraw.Draw(im)
 
     # shortest paths
-    startx, starty = find_xy_cluster(start_building)
+    startx, starty = find_center(start_building)
     if start_building not in extrema:
         return "Invalid starting building"
     if end_building not in extrema:
@@ -243,10 +247,9 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1, stai
 
 # debugging
 if __name__ == '__main__':
-
-    x = 'W20'
-    y = '57'
-    sp = shortest_path(x, y, 1, 3)
+    x = 'N4'
+    y = '26'
+    sp = shortest_path(x, y, 1, 1)
     print(sp)
     # x = 'N52'
     # y = 54
