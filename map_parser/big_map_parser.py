@@ -181,13 +181,11 @@ def map_parse():
                         queue.append((ti, tj))
             index += 1
 
-        out = PILImage.new(mode='L', size=img.size)
-        out.putdata(np.reshape(test, [-1]))
-        out.save('briggs.png')
-
-
-
-
+        red = np.all(np.equal(img_data, np.reshape(
+            np.tile([204, 153, 102], len(img_data)), [len(img_data), 3])),
+                     axis=1)
+        red = 255 * red
+        red = np.reshape(red,[img.size[1],img.size[0]])
 
 
         yellow = np.reshape(yellow, [img.size[1],img.size[0]])
@@ -283,6 +281,15 @@ def map_parse():
             for y in range(len(map[0])):
                 if railroad[x][y] == 255:
                     map[x][y] = '-2'
+                if red[x][y] == 255:
+                    map[x][y] = '-3'
+
+        hello = 255*(np.array(map) == '-2')
+        out = PILImage.new(mode='L', size=img.size)
+        out.putdata(np.reshape(hello, [-1]))
+        out.save('no.png')
+
+
 
         with open('building_map.txt','w+') as f:
             f.write(str(map))
@@ -323,10 +330,7 @@ def map_parse():
 
 
 
-        red = np.all(np.equal(img_data, np.reshape(
-            np.tile([204, 153, 102], len(img_data)), [len(img_data), 3])),
-                       axis=1)
-        red = 255 * red
+
         # out = PILImage.new(mode='L', size=img.size)
         # out.putdata(red)
         # out.save('red.png')
