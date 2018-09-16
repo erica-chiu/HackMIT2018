@@ -9,6 +9,7 @@ with open('building_map.txt', 'r') as f:
 
 building_map = eval(string_v)  # the building map, 2D array of labels (strings/ints) floodfilled to building number
 foot_traffic = 100*list(np.ones([len(building_map),len(building_map[0])]))  # the foot traffic, for distance purposes (based on time). Default is 100
+extrema = {}
 
 VERBS = ["Head", "Walk", "Travel", "Go",  "Move", "Grapevine"]  # to reduce redundancy
 
@@ -66,7 +67,6 @@ def generate_instructions(coords, s_meth_d=None, e_floor=1, e_meth_d=None):
         building_i = building_map[coords[i][0]][coords[i][1]]
         building_j = building_map[coords[j][0]][coords[j][1]]
         cds = CHANGE_DIRECTION_STEP
-        # TODO: refactor this, buildings are now all one step
         while j < n and building_i == building_j and (
                 building_i != OUTSIDE or
                 j - i < 2 * cds or
@@ -112,6 +112,8 @@ def get_building_extrema(building_id):
     :param building_id: the building
     :return: tuple of 4 (minx, maxx, miny, maxy)
     """
+    if building_id in extrema:
+        return extrema[building_id]
     min_x, min_y, max_x, max_y = INF, INF, 0, 0
     for i in range(rows):
         for j in range(cols):
@@ -124,7 +126,8 @@ def get_building_extrema(building_id):
                     min_y = j
                 if j > max_y:
                     max_y = j
-    return min_x, max_x, min_y, max_y
+    extrema[building_id] = (min_x, max_x, min_y, max_y)
+    return extrema[building_id]
 
 
 def get_size(building_id):
