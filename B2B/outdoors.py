@@ -3,6 +3,7 @@ import indoors
 import math
 import random
 import numpy as np
+from PIL import Image, ImageDraw, ImageColor
 
 with open('building_map.txt', 'r') as f:
     string_v = f.readline()
@@ -156,7 +157,7 @@ def get_closest_door(cur_x, cur_y, building_id, floor):
 
 def shortest_path(start_building, end_building, start_floor=1, end_floor=1, stair_limit=INF):
     """
-    Finds detailed shortest path between two buildings.
+    Finds detailed shortest path between two buildings and draws an image locally to reflect this path
     :param start_building: building the user starts at
     :param end_building: building the user ends at
     :param start_floor: floor you start on
@@ -164,14 +165,22 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1, stai
     :param stair_limit: max amount of stairs user wants to climb in a row
     :return: an English direction based on a list of coordinates generated
     """
-    # initialize useful globals
+    if end_building in ["E23", "E25"]:
+        end_building = "E23/E25"
+    # initialize useful globals/variables
     global rows, cols, STAIR_LIM
     rows, cols = len(building_map), len(building_map[0])
     STAIR_LIM = stair_limit
     get_building_extrema()
+    im = Image.open("bigmap.png").convert("RGB")
+    draw = ImageDraw.Draw(im)
 
     # shortest paths
     startx, starty = find_xy_cluster(start_building)
+    if start_building not in extrema:
+        return "Invalid starting building"
+    if end_building not in extrema:
+        return "Invalid ending building"
     #startx, starty, startd = get_closest_door(startx, starty, start_building, start_floor)
     dist = [[INF] * cols for _ in range(rows)]
     prev = [[None] * cols for _ in range(rows)]
@@ -217,15 +226,20 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1, stai
     while cur:
         ret.append((cur[0], cur[1], dist[cur[0]][cur[1]]))
         cur = prev[cur[0]][cur[1]]
-    return generate_instructions(list(reversed(ret)), s_meth_d=s_meth_d, e_floor=end_floor, e_meth_d=e_meth_d)
+    coords = list(reversed(ret))
+    for i in range(len(coords)-1):
+        draw.line((coords[i][1], coords[i][0], coords[i+1][1], coords[i+1][0]), fill=(0, 0, 255), width=3)
+    del draw
+    im.save("sp_out.png", "PNG")
+    return generate_instructions(coords, s_meth_d=s_meth_d, e_floor=end_floor, e_meth_d=e_meth_d)
 
 
 # debugging
 if __name__ == '__main__':
 
-    x = 'NW13'
-    y = '3'
-    sp = shortest_path(x, y, 1, 8)
+    x = 'W51'
+    y = '8'
+    sp = shortest_path(x, y, 1, 3)
     print(sp)
     # x = 'N52'
     # y = 54
