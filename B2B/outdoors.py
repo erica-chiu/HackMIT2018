@@ -146,8 +146,6 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1):
     """
     startx, starty = find_xy_cluster(start_building)
     startx, starty, startd = get_closest_door(startx, starty, start_building, start_floor)
-    endx, endy = find_xy_cluster(end_building)
-    endx, endy, end = get_closest_door(endx, endy, end_building, end_floor)
     dist = [[INF] * cols for _ in range(rows)]
     prev = [[None] * cols for _ in range(rows)]
     starting_doors = indoors.get_scaled_door_locs(start_building, start_floor, get_building_extrema(start_building))
@@ -180,7 +178,8 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1):
                 prev[nx][ny] = (cx, cy)
                 q.put((ndist, nx, ny))
     ret = []
-    dist[endx][endy] += indoors.traverse(building_map[endx][endy], end_floor=end_floor)
+    _, _, endd = get_closest_door(endx, endy, end_building, end_floor)
+    dist[endx][endy] += min(indoors.traverse(end_building, endd, end_floor, stair_limit=STAIR_LIM)[0])
     cur = (endx, endy)
     while cur:
         ret.append((cur[0], cur[1], dist[cur[0]][cur[1]]))
