@@ -120,11 +120,11 @@ def map_parse():
         # out.putdata(yellow)
         # out.save('test.png')
 
-        # white = np.all(np.equal(img_data, np.reshape(
-        #     np.tile([255, 255, 255], len(img_data)), [len(img_data), 3])),
-        #                axis=1)
-        # white = 255 * white
-        # white = np.reshape(white,[img.size[1],img.size[0]])
+        white = np.all(np.equal(img_data, np.reshape(
+            np.tile([255, 255, 255], len(img_data)), [len(img_data), 3])),
+                       axis=1)
+        white = 255 * white
+        white = np.reshape(white,[img.size[1],img.size[0]])
         # white[355][1100] = 100
         #
         # out = PILImage.new(mode='L', size=img.size)
@@ -290,7 +290,8 @@ def map_parse():
                             if map[px][py] != '0' and map[px][py] != '-2':
                                 map[x][y] = map[px][py]
                                 break
-
+                if white[x][y] == 255:
+                    map[x][y] = '-10'
 
         hello = np.int32(np.array(map) == '-2') +np.int32(np.array(map) == '0')
         hello = 255*(hello==0)
