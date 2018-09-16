@@ -18,7 +18,7 @@ ILLEGAL = "-2"
 rows, cols = -1, -1
 INF = 1e9  # very large
 TO_MIN = 1 / (6000 * 4)  # from pure units to minutes
-SWITCH_PENALTY = 25000  # don't switch between inside and outside
+SWITCH_PENALTY = 2000  # don't switch between inside and outside
 CHANGE_DIRECTION_STEP = 15  # the number of steps to check if overall path direction changed (to get around curvy paths)
 
 STAIR_LIM = INF
@@ -208,7 +208,7 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1):
     while cur:
         ret.append((cur[0], cur[1], dist[cur[0]][cur[1]]))
         cur = prev[cur[0]][cur[1]]
-    return generate_instructions(list(reversed(ret)), s_meth_d=s_meth_d, e_meth_d=e_meth_d)
+    return generate_instructions(list(reversed(ret)), s_meth_d=s_meth_d, e_floor=end_floor, e_meth_d=e_meth_d)
 
 
 def build_vals(traffic=None, stair_lim=None):
@@ -232,10 +232,10 @@ def build_vals(traffic=None, stair_lim=None):
 # debugging
 if __name__ == '__main__':
 
-    x = '3'
-    y = '8'
+    x = '8'
+    y = '38'
     build_vals()
-    sp = shortest_path(x, y)
+    sp = shortest_path(x, y, 1, 8)
     print(sp)
     # x = 'N52'
     # y = 54

@@ -10,9 +10,9 @@ WALL = -2
 STAIRCASE = -3
 ELEVATOR = -4
 
-CLIMBING_TIME = 1000  # about this many units for one flight of stairs
-ELEVATOR_WAIT = 10  # this is multiplied by foot traffic to estimate wait time
-ELEVATOR_TIME = 200  # time to ascend floors (also increased by foot traffic because of floor waiting)
+CLIMBING_TIME = 2000  # about this many units for one flight of stairs
+ELEVATOR_WAIT = 30  # this is multiplied by foot traffic to estimate wait time
+ELEVATOR_TIME = 15  # time to ascend floors (also increased by foot traffic because of floor waiting)
 
 dx = [-1, 0, 1, 0]
 dy = [0, -1, 0, 1]
@@ -113,7 +113,7 @@ def traverse(building_size, door_index=0, start_floor=1, end_floor=1, stair_limi
         # if meth_d == "elevator":
         floor_diff = abs(start_floor - end_floor)
         can_stair = floor_diff <= stair_limit
-        elevator_wait = ELEVATOR_WAIT * floor_traffic
+        elevator_wait = ELEVATOR_WAIT * floor_traffic / 50
         elevator_time = ELEVATOR_TIME * floor_traffic / 100 * floor_diff
         tot_elevator_time = elevator_time + elevator_wait
         tot_stair_time = CLIMBING_TIME * floor_diff
