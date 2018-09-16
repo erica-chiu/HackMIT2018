@@ -91,6 +91,24 @@ def make_clouds(buildings,black):
             index += 1
     return letters
 
+
+def make_clouds2(railroad):
+    new_railroad = np.zeros(railroad.shape)
+    for x in range(len(railroad)):
+        for y in range(len(railroad[0])):
+            if railroad[x][y]==255:
+                new_railroad[x][y] = 255
+                neighbors = [(x + 1, y), (x - 1, y), (x, y + 1),
+                         (x, y - 1), (x + 1, y + 1), (x + 1, y - 1),
+                         (x - 1, y + 1), (x - 1, y - 1)]
+
+                for ti, tj in neighbors:
+                    if 0 <= ti < railroad.shape[0] and 0 <= tj < railroad.shape[1]:
+                        new_railroad[ti][tj] = 255
+
+    return new_railroad
+
+
 def map_parse():
     with open('bigmap.png', 'rb') as img_handle:
         img = PILImage.open(img_handle)
@@ -102,6 +120,19 @@ def map_parse():
         # out.putdata(yellow)
         # out.save('test.png')
 
+        # white = np.all(np.equal(img_data, np.reshape(
+        #     np.tile([255, 255, 255], len(img_data)), [len(img_data), 3])),
+        #                axis=1)
+        # white = 255 * white
+        # white = np.reshape(white,[img.size[1],img.size[0]])
+        # white[355][1100] = 100
+        #
+        # out = PILImage.new(mode='L', size=img.size)
+        # out.putdata(np.reshape(white,[-1]))
+        # out.save('mass.png')
+
+
+
         c = set()
         for i in list(img_data):
             c.add(tuple(i))
@@ -111,10 +142,15 @@ def map_parse():
             np.tile([102, 102, 102], len(img_data)), [len(img_data), 3])),
                           axis=1)
         railroad = 255*railroad
+
+        mass = -255*np.pad(np.ones([10,10]),[[355,700-355-10],[1100,2100-1100-10]],'constant')
+        mass = np.reshape(mass,[-1])
+        railroad = mass+railroad
         out = PILImage.new(mode='L', size=img.size)
         out.putdata(np.reshape(railroad,[-1]))
         out.save('railroad.png')
         railroad = np.reshape(railroad,[img.size[1],img.size[0]])
+        railroad = make_clouds2(railroad)
 
         briggs = np.all(np.equal(img_data, np.reshape(
             np.tile([153, 204, 153], len(img_data)), [len(img_data), 3])),
@@ -295,10 +331,7 @@ def map_parse():
         # out.putdata(red)
         # out.save('red.png')
 
-        white = np.all(np.equal(img_data, np.reshape(
-            np.tile([255, 255, 255], len(img_data)), [len(img_data), 3])),
-                     axis=1)
-        white = 255 * white
+
         # out = PILImage.new(mode='L', size=img.size)
         # out.putdata(white)
         # out.save('white.png')
