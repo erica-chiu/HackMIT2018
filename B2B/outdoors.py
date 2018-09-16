@@ -17,8 +17,9 @@ OUTSIDE = "0"
 ILLEGAL = "-2"
 rows, cols = -1, -1
 INF = 1e9  # very large
-TO_MIN = 1 / (6000 * 4)  # from pure units to minutes  TODO: fix this scaling
-CHANGE_DIRECTION_STEP = 15  # the number of steps to check if overall path direction changed (to get around curvy paths)  TODO: fix this scaling
+TO_MIN = 1 / (6000 * 4)  # from pure units to minutes
+SWITCH_PENALTY = 25000  # don't switch between inside and outside
+CHANGE_DIRECTION_STEP = 15  # the number of steps to check if overall path direction changed (to get around curvy paths)
 
 STAIR_LIM = INF
 
@@ -106,28 +107,22 @@ def find_xy_cluster(building_id):
     return -1, -1
 
 
-def get_building_extrema(building_id):
+def get_building_extrema():
     """
-    Gets building extrema
-    :param building_id: the building
-    :return: tuple of 4 (minx, maxx, miny, maxy)
+    Builds building extrema
     """
-    if building_id in extrema:
-        return extrema[building_id]
-    min_x, min_y, max_x, max_y = INF, INF, 0, 0
     for i in range(rows):
         for j in range(cols):
-            if building_map[i][j] == building_id:
-                if i < min_x:
-                    min_x = i
-                if i > max_x:
-                    max_x = i
-                if j < min_y:
-                    min_y = j
-                if j > max_y:
-                    max_y = j
-    extrema[building_id] = (min_x, max_x, min_y, max_y)
-    return extrema[building_id]
+            min_x, max_x, min_y, max_y = extrema.get(building_map[i][j], (INF, 0, INF, 0))
+            if i < min_x:
+                min_x = i
+            if i > max_x:
+                max_x = i
+            if j < min_y:
+                min_y = j
+            if j > max_y:
+                max_y = j
+            extrema[building_map[i][j]] = (min_x, max_x, min_y, max_y)
 
 
 def get_size(building_id):
@@ -136,7 +131,7 @@ def get_size(building_id):
     :param building_id: id
     :return: size
     """
-    min_x, max_x, min_y, max_y = get_building_extrema(building_id)
+    min_x, max_x, min_y, max_y = extrema[building_id]
     range_x, range_y = max_x - min_x, max_y - min_y
     return math.sqrt(range_x * range_x + range_y * range_y)
 
@@ -150,7 +145,7 @@ def get_closest_door(cur_x, cur_y, building_id, floor):
     :param floor: floor number
     :return: closest door's coordinates as a tuple (approximately)
     """
-    min_x, max_x, min_y, max_y = get_building_extrema(building_id)
+    min_x, max_x, min_y, max_y = extrema[building_id]
     cur_x -= min_x
     cur_y -= min_y
     cd = indoors.closest_door(building_id, floor, cur_x / (max_x - min_x), cur_y / (max_y - min_y))[0:1]
@@ -165,7 +160,7 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1):
     :param end_building: building the user ends at
     :param start_floor: floor you start on
     :param end_floor: floor you end on
-    :return: a list of coordinates for the user to go with times
+    :return: an English direction based on a list of coordinates generated
     """
     startx, starty = find_xy_cluster(start_building)
     #startx, starty, startd = get_closest_door(startx, starty, start_building, start_floor)
@@ -192,6 +187,9 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1):
             if nx < 0 or ny < 0 or nx >= rows or ny >= cols or building_map[nx][ny] == ILLEGAL:  # no illegal steps
                 continue
             ndist = cdist
+            if (building_map[cx][cy] != OUTSIDE and building_map[nx][ny] == OUTSIDE or
+                building_map[cx][cy] == OUTSIDE and building_map[nx][ny] != OUTSIDE):
+                ndist += SWITCH_PENALTY
             if building_map[nx][ny] == OUTSIDE:
                 ndist += foot_traffic[nx][ny]
             elif building_map[nx][ny] != building_map[cx][cy]:
@@ -216,12 +214,13 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1):
 def build_vals(traffic=None, stair_lim=None):
     """
     Builds globals
-    :param buildings: map of buildings
     :param traffic: map of foot traffic
+    :param stair_lim: limit of stairs to travel
     :return: None
     """
     global foot_traffic, STAIR_LIM, rows, cols
     rows, cols = len(building_map), len(building_map[0])
+    get_building_extrema()
     if traffic is None:
         foot_traffic = [[100] * cols for _ in range(rows)]
     else:
@@ -233,8 +232,8 @@ def build_vals(traffic=None, stair_lim=None):
 # debugging
 if __name__ == '__main__':
 
-    x = 'NE43'
-    y = '26'
+    x = '3'
+    y = '8'
     build_vals()
     sp = shortest_path(x, y)
     print(sp)

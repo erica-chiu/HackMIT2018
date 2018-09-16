@@ -100,7 +100,7 @@ def traverse(building_size, door_index=0, start_floor=1, end_floor=1, stair_limi
     :param stair_limit: max amount of floors the user wants to climb in a row
     :return: time taken to travel
     """
-    floor_traffic = 250 * building_size
+    floor_traffic = 200 * building_size
     total_time, meth_d = floor_traffic, None  # method of descent
     #door_x, door_y = door_locs[building_id][start_floor][door_index]
     if start_floor != end_floor:
