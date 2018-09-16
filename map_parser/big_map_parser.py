@@ -102,6 +102,58 @@ def map_parse():
         # out.putdata(yellow)
         # out.save('test.png')
 
+        c = set()
+        for i in list(img_data):
+            c.add(tuple(i))
+        print(c)
+
+        railroad = np.all(np.equal(img_data, np.reshape(
+            np.tile([102, 102, 102], len(img_data)), [len(img_data), 3])),
+                          axis=1)
+        railroad = 255*railroad
+        out = PILImage.new(mode='L', size=img.size)
+        out.putdata(np.reshape(railroad,[-1]))
+        out.save('railroad.png')
+        railroad = np.reshape(railroad,[img.size[1],img.size[0]])
+
+        briggs = np.all(np.equal(img_data, np.reshape(
+            np.tile([153, 204, 153], len(img_data)), [len(img_data), 3])),
+                          axis=1)
+        briggs = 255*briggs
+        # out = PILImage.new(mode='L', size=img.size)
+        # out.putdata(np.reshape(briggs, [-1]))
+        # out.save('briggs.png')
+        briggs = np.reshape(briggs, [img.size[1], img.size[0]])
+
+        print(img.size)
+
+
+        briggs_vals = {(525,630),(525,750)}
+        queue = list(briggs_vals)
+        index = 0
+        test = np.zeros(briggs.shape)
+
+        while index < len(queue):
+            pi, pj = queue[index]
+            test[pi][pj] = 255
+            neighbors = [(pi + 1, pj), (pi - 1, pj), (pi, pj + 1),
+                         (pi, pj - 1)]
+            for ti, tj in neighbors:
+                if 0 <= ti < img.size[1] and 0 <= tj < img.size[0]:
+                    if briggs[ti][tj] == 255 and (ti, tj) not in briggs_vals:
+                        briggs_vals.add((ti, tj))
+                        queue.append((ti, tj))
+            index += 1
+
+        out = PILImage.new(mode='L', size=img.size)
+        out.putdata(np.reshape(test, [-1]))
+        out.save('briggs.png')
+
+
+
+
+
+
         yellow = np.reshape(yellow, [img.size[1],img.size[0]])
         # out = PILImage.new(mode='L', size=img.size)
         # out.putdata(np.reshape(yellow,[-1]))
@@ -189,6 +241,12 @@ def map_parse():
         for i,b in enumerate(buildings):
             for x,y in b:
                 map[x][y] = building_nums[i]
+        for x,y in briggs_vals:
+            map[x][y] = -2
+        for x in range(len(map)):
+            for y in range(len(map[0])):
+                if railroad[x][y] == 255:
+                    map[x][y] = -2
 
         with open('building_map.txt','w+') as f:
             f.write(str(map))
@@ -225,6 +283,9 @@ def map_parse():
         # out = PILImage.new(mode='L', size=img.size)
         # out.putdata(black)
         # out.save('black.png')
+
+
+
 
         red = np.all(np.equal(img_data, np.reshape(
             np.tile([204, 153, 102], len(img_data)), [len(img_data), 3])),
