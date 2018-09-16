@@ -1,0 +1,564 @@
+3-000CA                2,000   CORRIDOR           DP OF FACILITIES                                  
+3-000CB                  420   CORRIDOR           DP OF FACILITIES                                  
+3-000CC                  900   CORRIDOR           DP OF FACILITIES                                  
+3-000E1                   79   ELEVATOR           DP OF FACILITIES                                  
+3-000E2                   50   ELEVATOR           DP OF FACILITIES                                  
+3-000SA                   90   STAIRWAY           DP OF FACILITIES                                  
+3-000SB                  108   STAIRWAY           DP OF FACILITIES                                  
+3-000Z                   786   SHAFT SPACE        DP OF FACILITIES                                  
+3-001                    774   OFFICE             ADMISSIONS                                        
+3-001A                   182   OFFICE SERVICE     ADMISSIONS                                        
+3-001B                     5   OFFICE SERVICE     ADMISSIONS                                        
+3-002                    216   FEMALE LAVATORY    DP OF FACILITIES                                  
+3-002J                    18   JANITOR CLOSET     DP OF FACILITIES                                  
+3-003                    335   LAB SUPPORT SHOP   MECHANICAL ENG                                    
+3-004                  1,052   LAB SUPPORT SHOP   MECHANICAL ENG                                    
+3-004A                    17   LABORATORY SVC     MECHANICAL ENG                                    
+3-004B                    15   LABORATORY SVC     MECHANICAL ENG                                    
+3-005                     53   PVT CIRCULATION    COPY TECH CENTER                                  
+3-005A                   155   OFFICE             COPY TECH CENTER                                  
+3-005B                   119   OFFICE             COPY TECH CENTER                                  
+3-007                    282   OFFICE             ADMISSIONS                                        
+3-009                    228   UTILITY/MECH RM    DP OF FACILITIES                                  
+3-009B                   240   UTILITY/MECH RM    DP OF FACILITIES                                  
+3-010                  1,252   UTILITY/MECH RM    DP OF FACILITIES                                  
+3-011                     47   PVT CIRCULATION    COPY TECH CENTER                                  
+3-011A                   111   OFFICE             COPY TECH CENTER                                  
+3-011B                   159   OFFICE             COPY TECH CENTER                                  
+3-012                     26   UTILITY/MECH RM    DP OF FACILITIES                                  
+3-013                    238   MAIL ROOM          DP OF FACIL ADM                                   
+3-013E                    10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-014                    146   UTILITY/MECH RM    DP OF FACILITIES                                  
+3-014T                    30   TELECOM CLOSET     DP OF FACILITIES                                  
+3-015                    313   OFFICE SERVICE     COPY TECH CENTER                                  
+3-015A                    81   MAIL ROOM          DP OF FACIL ADM                                   
+3-016                    151   JANITOR STORAGE    DP OF FACILITIES                                  
+3-017                    538   OFFICE SERVICE     DP OF FACIL ADM        LIBRAR-AMPS VP             
+3-017A                   102   OFFICE SERVICE     DP OF FACIL ADM                                   
+3-018                    157   PVT CIRCULATION    COPY TECH CENTER                                  
+3-020                    309   UTILITY/MECH RM    DP OF FACILITIES                                  
+3-020A                    60   UTILITY/MECH RM    DP OF FACILITIES                                  
+3-023                    375   RECEIVING ROOM     DP OF FACIL ADM                                   
+3-025                    347   RECEIVING ROOM     DP OF FACIL ADM                                   
+3-030                    472   LABORATORY SVC     MECHANICAL ENG                                    
+3-030A                    14   LABORATORY SVC     MECHANICAL ENG                                    
+3-030B                    31   LABORATORY SVC     MECHANICAL ENG                                    
+3-030C                    14   LABORATORY SVC     MECHANICAL ENG                                    
+3-031                    278   RECEIVING ROOM     DP OF FACIL ADM                                   
+3-033                    585   LAB SUPPORT SHOP   MECHANICAL ENG                                    
+3-034                    927   UTILITY/MECH RM    DP OF FACILITIES                                  
+3-034AE                    3   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-034E                   264   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-036                    193   LABORATORY SVC     MECHANICAL ENG                                    
+3-036A                   240   LABORATORY SVC     MECHANICAL ENG                                    
+3-036B                   132   TEACHING LAB       MECHANICAL ENG                                    
+3-037                    596   CONFERENCE ROOM    MECHANICAL ENG                                    
+3-038                  1,288   TEACHING LAB       MECHANICAL ENG                                    
+3-042                     29   UTILITY/MECH RM    DP OF FACILITIES                                  
+3-042E                    26   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-044                    194   OFFICE             MECHANICAL ENG                                    
+3-046                    704   LABORATORY SVC     MECHANICAL ENG                                    
+3-050                  2,013   LAB SUPPORT SHOP   MECHANICAL ENG                                    
+3-050A                   143   LABORATORY SVC     MECHANICAL ENG                                    
+3-051                  3,425   TEACHING LAB       MECHANICAL ENG                                    
+3-054                    585   LABORATORY SVC     MECHANICAL ENG                                    
+3-056                    201   OFFICE             MECHANICAL ENG                                    
+3-058                    144   LABORATORY SVC     MECHANICAL ENG                                    
+3-059                    217   OFFICE             MECHANICAL ENG                                    
+3-060                    526   LABORATORY SVC     MECHANICAL ENG                                    
+3-060A                    24   LABORATORY SVC     MECHANICAL ENG                                    
+3-060B                    31   LABORATORY SVC     MECHANICAL ENG                                    
+3-060C                    30   LABORATORY SVC     MECHANICAL ENG                                    
+3-060E                    18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-061                    542   CONFERENCE ROOM    MECHANICAL ENG                                    
+3-062                  1,672   TEACHING LAB       MECHANICAL ENG                                    
+3-065                    259   LABORATORY SVC     MECHANICAL ENG                                    
+3-067                     13   UTILITY/MECH RM    DP OF FACILITIES                                  
+3-068                    613   LABORATORY SVC     MECHANICAL ENG                                    
+3-069                     36   JANITOR STORAGE    DP OF FACILITIES                                  
+3-070                    960   RESEARCH LAB       MECHANICAL ENG                                    
+3-070A                    16   LABORATORY SVC     MECHANICAL ENG                                    
+3-070B                    13   LABORATORY SVC     MECHANICAL ENG                                    
+3-070C                   425   UTILITY/MECH RM    DP OF FACILITIES                                  
+3-072                    395   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-072A                    13   LABORATORY SVC     MECHANICAL ENG                                    
+3-082                    415   UTILITY/MECH RM    DP OF FACILITIES                                  
+3-082A                   170   UTILITY/MECH RM    DP OF FACILITIES                                  
+3-085                    132   LABORATORY SVC     MECHANICAL ENG                                    
+3-085T                    96   TELECOM CLOSET     DP OF FACILITIES                                  
+3-089                     86   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      31,779                                                                        
+                                                                                                    
+3-100CA                2,088   CORRIDOR           DP OF FACILITIES                                  
+3-100CB                2,834   CORRIDOR           DP OF FACILITIES                                  
+3-100CC                1,053   CORRIDOR           DP OF FACILITIES                                  
+3-100E1                   80   ELEVATOR           DP OF FACILITIES                                  
+3-100E2                   53   ELEVATOR           DP OF FACILITIES                                  
+3-100LA                   54   LOBBY              DP OF FACILITIES                                  
+3-100LB                  151   LOBBY              DP OF FACILITIES                                  
+3-100SA                  304   STAIRWAY           DP OF FACILITIES                                  
+3-100SB                  336   STAIRWAY           DP OF FACILITIES                                  
+3-100Z                   581   SHAFT SPACE        DP OF FACILITIES                                  
+3-101                    260   FEMALE LAVATORY    DP OF FACILITIES                                  
+3-102                    357   OFFICE             ADMISSIONS                                        
+3-102A                    12   OFFICE SERVICE     ADMISSIONS                                        
+3-102B                    39   PVT CIRCULATION    ADMISSIONS                                        
+3-103                    243   OFFICE SERVICE     ADMISSIONS                                        
+3-103A                    56   OFFICE SERVICE     ADMISSIONS                                        
+3-103B                    21   OFFICE SERVICE     ADMISSIONS                                        
+3-103C                    59   OFFICE SERVICE     ADMISSIONS                                        
+3-103D                    27   OFFICE             ADMISSIONS                                        
+3-103F                    27   OFFICE             ADMISSIONS                                        
+3-103G                    36   OFFICE             ADMISSIONS                                        
+3-103H                    55   OFFICE             ADMISSIONS                                        
+3-103K                    57   OFFICE             ADMISSIONS                                        
+3-103L                    58   OFFICE             ADMISSIONS                                        
+3-103N                    58   OFFICE             ADMISSIONS                                        
+3-103P                    38   OFFICE             ADMISSIONS                                        
+3-104                    227   OFFICE             ADMISSIONS                                        
+3-107                    149   OFFICE SERVICE     ADMISSIONS                                        
+3-107A                   182   OFFICE             ADMISSIONS                                        
+3-107B                   175   OFFICE             ADMISSIONS                                        
+3-107C                    33   OFFICE             ADMISSIONS                                        
+3-107F                   122   OFFICE             ADMISSIONS                                        
+3-108                    423   SECY/RECEPTION     ADMISSIONS                                        
+3-108A                   135   OFFICE             ADMISSIONS                                        
+3-108AA                  135   OFFICE             ADMISSIONS                                        
+3-108B                   116   OFFICE SERVICE     ADMISSIONS                                        
+3-108C                    90   OFFICE SERVICE     ADMISSIONS                                        
+3-108D                    10   OFFICE SERVICE     ADMISSIONS                                        
+3-110                    250   OFFICE             ADMISSIONS                                        
+3-111                     81   OFFICE SERVICE     ADMISSIONS                                        
+3-111A                    30   OFFICE             ADMISSIONS                                        
+3-111B                   177   OFFICE             ADMISSIONS                                        
+3-111C                    38   OFFICE             ADMISSIONS                                        
+3-112                     91   OFFICE             ADMISSIONS                                        
+3-112A                   276   OFFICE             ADMISSIONS                                        
+3-112B                     3   OFFICE SERVICE     ADMISSIONS                                        
+3-112C                    29   PVT CIRCULATION    ADMISSIONS                                        
+3-113E                    15   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-127                    134   OFFICE SERVICE     DEAN-GRAD STU                                     
+3-129                    192   OFFICE SERVICE     ADMISSIONS                                        
+3-129A                   123   OFFICE SERVICE     ADMISSIONS                                        
+3-129J                    35   JANITOR CLOSET     DP OF FACILITIES                                  
+3-130                     35   JANITOR STORAGE    DP OF FACILITIES                                  
+3-131                    221   MALE LAVATORY      DP OF FACILITIES                                  
+3-131J                    12   JANITOR CLOSET     DP OF FACILITIES                                  
+3-132                    342   OFFICE             DEAN-GRAD STU                                     
+3-132A                    26   UTILITY/MECH RM    DP OF FACILITIES                                  
+3-132E                     9   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-133                    952   LECTURE HALL       REGISTRAR                                         
+3-133A                    82   CLASSROOM SVC      REGISTRAR                                         
+3-134                    123   SECY/RECEPTION     DEAN-GRAD STU                                     
+3-134A                   153   OFFICE             DEAN-GRAD STU                                     
+3-136                     70   OFFICE SERVICE     DEAN-GRAD STU                                     
+3-136A                   180   OFFICE             DEAN-GRAD STU                                     
+3-137                    323   OFFICE SERVICE     MECHANICAL ENG                                    
+3-137A                   173   OFFICE             MECHANICAL ENG                                    
+3-137B                   176   OFFICE SERVICE     MECHANICAL ENG                                    
+3-137C                   199   OFFICE             MECHANICAL ENG                                    
+3-137D                   208   OFFICE             MECHANICAL ENG                                    
+3-137F                   191   OFFICE             MECHANICAL ENG                                    
+3-137M                   347   OFFICE             MECHANICAL ENG                                    
+3-138                    319   SECY/RECEPTION     DEAN-GRAD STU                                     
+3-140                    264   OFFICE             DEAN-GRAD STU                                     
+3-141E                     8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-142                    276   OFFICE             MECHANICAL ENG                                    
+3-143                    455   LAB SUPPORT SHOP   MECHANICAL ENG                                    
+3-144                    276   SECY/RECEPTION     MECHANICAL ENG                                    
+3-145                    450   RESEARCH LAB       MECHANICAL ENG                                    
+3-146                    322   OFFICE             MECHANICAL ENG                                    
+3-147                  1,449   RESEARCH LAB       MECHANICAL ENG                                    
+3-147A                    31   LABORATORY SVC     MECHANICAL ENG                                    
+3-147AM                  437   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-147B                    11   LABORATORY SVC     MECHANICAL ENG                                    
+3-147C                   254   RESEARCH LAB       MECHANICAL ENG                                    
+3-147M                   901   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-148                    215   OFFICE SERVICE     MECHANICAL ENG                                    
+3-152                    233   OFFICE SERVICE     MECHANICAL ENG                                    
+3-154                    340   OFFICE             MECHANICAL ENG                                    
+3-154A                   138   OFFICE SERVICE     MECHANICAL ENG                                    
+3-155                    918   RESEARCH LAB       MECHANICAL ENG                                    
+3-156                    112   OFFICE             MECHANICAL ENG                                    
+3-158                    208   OFFICE             MECHANICAL ENG                                    
+3-159                    439   RESEARCH LAB       MECHANICAL ENG                                    
+3-160                    210   OFFICE             MECHANICAL ENG                                    
+3-162                    215   OFFICE             MECHANICAL ENG                                    
+3-163                    310   LAB SUPPORT SHOP   MECHANICAL ENG                                    
+3-164                    275   SECY/RECEPTION     MECHANICAL ENG                                    
+3-165                    869   LAB SUPPORT SHOP   MECHANICAL ENG                                    
+3-165AM                   10   LABORATORY SVC     MECHANICAL ENG                                    
+3-165M                   534   RESEARCH LAB       MECHANICAL ENG                                    
+3-166                    282   OFFICE             MECHANICAL ENG                                    
+3-166A                    43   OFFICE SERVICE     MECHANICAL ENG                                    
+3-167E                     8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-169                    568   UTILITY/MECH RM    DP OF FACILITIES                                  
+3-171                     71   OFFICE SERVICE     MECHANICAL ENG                                    
+3-173                    237   SECY/RECEPTION     MECHANICAL ENG                                    
+3-173A                    25   OFFICE SERVICE     MECHANICAL ENG                                    
+3-173B                     5   OFFICE SERVICE     MECHANICAL ENG                                    
+3-173C                     3   OFFICE SERVICE     MECHANICAL ENG                                    
+3-174                    392   SECY/RECEPTION     MECHANICAL ENG                                    
+3-174B                     8   OFFICE SERVICE     MECHANICAL ENG                                    
+3-174C                   184   OFFICE             MECHANICAL ENG                                    
+3-174CA                    9   OFFICE SERVICE     MECHANICAL ENG                                    
+3-182                    355   OFFICE             MECHANICAL ENG                                    
+                    --------                                                                        
+                      28,696                                                                        
+                                                                                                    
+3-200CA                2,235   CORRIDOR           DP OF FACILITIES                                  
+3-200CB                2,211   CORRIDOR           DP OF FACILITIES                                  
+3-200CC                  564   CORRIDOR           DP OF FACILITIES                                  
+3-200E1                   87   ELEVATOR           DP OF FACILITIES                                  
+3-200E2                   56   ELEVATOR           DP OF FACILITIES                                  
+3-200LA                   56   LOBBY              DP OF FACILITIES                                  
+3-200SA                  390   STAIRWAY           DP OF FACILITIES                                  
+3-200SB                  261   STAIRWAY           DP OF FACILITIES                                  
+3-200SC                  176   STAIRWAY           DP OF FACILITIES                                  
+3-200Z                   681   SHAFT SPACE        DP OF FACILITIES                                  
+3-201                    292   MALE LAVATORY      DP OF FACILITIES                                  
+3-201J                    37   JANITOR CLOSET     DP OF FACILITIES                                  
+3-202                    747   OFFICE             OFF OF PRESIDENT       PRESIDENT                  
+3-203                    336   OFFICE             OFF OF PRESIDENT       K. KOLENBRANDER            
+3-207                     94   PVT CIRCULATION    OFF OF PRESIDENT                                  
+3-207A                   293   SECY/RECEPTION     OFF OF PRESIDENT                                  
+3-207B                   198   OFFICE             OFF OF PRESIDENT                                  
+3-207C                   314   SECY/RECEPTION     OFF OF PRESIDENT                                  
+3-207D                     8   OFFICE SERVICE     OFF OF PRESIDENT                                  
+3-207F                     8   OFFICE SERVICE     OFF OF PRESIDENT                                  
+3-207Z                     9   SHAFT SPACE        DP OF FACILITIES                                  
+3-208                    650   SECY/RECEPTION     OFF OF PRESIDENT                                  
+3-208A                   160   OFFICE             OFF OF PRESIDENT                                  
+3-208AA                    7   OFFICE SERVICE     OFF OF PRESIDENT                                  
+3-208B                     4   OFFICE SERVICE     OFF OF PRESIDENT                                  
+3-208C                     4   OFFICE SERVICE     OFF OF PRESIDENT                                  
+3-208D                   156   SECY/RECEPTION     OFF OF PROVOST                                    
+3-208T                    11   TELECOM CLOSET     DP OF FACILITIES                                  
+3-210E                     8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-211                    350   CONFERENCE ROOM    OFF OF PRESIDENT                                  
+3-212                    399   OFFICE             OFF OF PROVOST                                    
+3-212A                    11   PVT LAVATORY       OFF OF PROVOST                                    
+3-212B                    12   OFFICE SERVICE     OFF OF PROVOST                                    
+3-213                     68   PVT CIRCULATION    OFF OF PRESIDENT                                  
+3-213A                   124   OFFICE SERVICE     OFF OF PRESIDENT                                  
+3-213B                    12   OFFICE SERVICE     OFF OF PRESIDENT                                  
+3-213E                     8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-215                     64   PVT LAVATORY       DP OF FACIL ADM                                   
+3-215A                    16   JANITOR STORAGE    DP OF FACILITIES                                  
+3-217                     49   OFFICE SERVICE     OFF OF PRESIDENT                                  
+3-217A                   128   OFFICE SERVICE     OFF OF PROVOST                                    
+3-219                     51   OFFICE SERVICE     OFF OF PRESIDENT                                  
+3-219A                   134   OFFICE SERVICE     CHAIRMAN OF CORP                                  
+3-221                    251   SECY/RECEPTION     EXEC VICE PRES                                    
+3-221A                   345   OFFICE             EXEC VICE PRES                                    
+3-221B                    10   OFFICE SERVICE     EXEC VICE PRES                                    
+3-227                    473   OFFICE SERVICE     OFF OF PRESIDENT                                  
+3-229J                    27   JANITOR CLOSET     DP OF FACILITIES                                  
+3-231                    166   SECY/RECEPTION     OFF OF PROVOST                                    
+3-231A                   299   OFFICE             OFF OF PROVOST                                    
+3-231B                    52   OFFICE SERVICE     OFF OF PROVOST                                    
+3-231C                     6   OFFICE SERVICE     OFF OF PROVOST                                    
+3-232T                     3   TELECOM CLOSET     DP OF FACILITIES                                  
+3-233E                    28   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-234                    272   SECY/RECEPTION     OFF OF PROVOST                                    
+3-234A                   362   OFFICE             OFF OF PROVOST                                    
+3-234AA                   29   UTILITY/MECH RM    DP OF FACILITIES                                  
+3-234B                   159   OFFICE             OFF OF PROVOST                                    
+3-234C                    95   OFFICE SERVICE     OFF OF PROVOST                                    
+3-237                    500   LABORATORY SVC     MECHANICAL ENG                                    
+3-237A                    92   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-237B                    92   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-237C                    66   LABORATORY SVC     MECHANICAL ENG                                    
+3-237D                   180   RESEARCH LAB       MECHANICAL ENG                                    
+3-237F                    77   LABORATORY SVC     MECHANICAL ENG                                    
+3-237G                    83   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-237H                    84   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-237K                   768   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-237W                   414   CONFERENCE ROOM    MECHANICAL ENG                                    
+3-237X                   163   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-237Y                    42   LABORATORY SVC     MECHANICAL ENG                                    
+3-240                    272   SECY/RECEPTION     OFF OF PROVOST                                    
+3-240A                   292   OFFICE             OFF OF PROVOST                                    
+3-240B                   265   OFFICE             OFF OF PROVOST                                    
+3-241E                    22   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-244                    265   OFFICE             MECHANICAL ENG                                    
+3-245                    196   LABORATORY SVC     MECHANICAL ENG                                    
+3-245A                   200   LABORATORY SVC     MECHANICAL ENG                                    
+3-245B                   595   RESEARCH LAB       MECHANICAL ENG                                    
+3-246                    129   SECY/RECEPTION     MECHANICAL ENG                                    
+3-246A                   145   OFFICE             MECHANICAL ENG                                    
+3-246B                    14   OFFICE SERVICE     MECHANICAL ENG                                    
+3-248                    231   OFFICE             MECHANICAL ENG                                    
+3-249                    426   LABORATORY SVC     MECHANICAL ENG                                    
+3-249A                    85   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-249B                    86   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-249C                    82   LABORATORY SVC     MECHANICAL ENG                                    
+3-249D                   175   RESEARCH LAB       MECHANICAL ENG                                    
+3-249DA                   10   LAB SUPPORT SHOP   MECHANICAL ENG                                    
+3-249F                    75   LABORATORY SVC     MECHANICAL ENG                                    
+3-249G                    90   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-249H                    88   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-249K                   603   RESEARCH LAB       MECHANICAL ENG                                    
+3-250                    237   OFFICE             MECHANICAL ENG                                    
+3-252                    241   SECY/RECEPTION     MECHANICAL ENG                                    
+3-254                    308   OFFICE             MECHANICAL ENG                                    
+3-256                    264   OFFICE             MECHANICAL ENG                                    
+3-257                     98   LABORATORY SVC     MECHANICAL ENG                                    
+3-257A                    33   LABORATORY SVC     MECHANICAL ENG                                    
+3-257B                   647   RESEARCH LAB       MECHANICAL ENG                                    
+3-257K                   390   RESEARCH LAB       MECHANICAL ENG                                    
+3-258                    123   SECY/RECEPTION     MECHANICAL ENG                                    
+3-258A                   146   OFFICE             MECHANICAL ENG                                    
+3-259T                    91   TELECOM CLOSET     DP OF FACILITIES                                  
+3-260                    286   OFFICE             MECHANICAL ENG                                    
+3-262                    289   OFFICE             MECHANICAL ENG                                    
+3-263                    386   LAB SUPPORT SHOP   MECHANICAL ENG         OCEAN                      
+3-264                    289   SECY/RECEPTION     MECHANICAL ENG                                    
+3-266                    280   OFFICE             MECHANICAL ENG                                    
+3-267E                    11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-269                    784   RESEARCH LAB       MECHANICAL ENG         OCEAN                      
+3-269A                   173   RESEARCH LAB       MECHANICAL ENG         OCEAN                      
+3-269AA                   25   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-270                  1,634   LECTURE HALL       REGISTRAR                                         
+3-270A                     5   CLASSROOM SVC      REGISTRAR                                         
+3-271E                    67   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-282                    152   SECY/RECEPTION     SCH OF ENGINEER                                   
+3-282A                   155   OFFICE             SCH OF ENGINEER                                   
+3-282B                     9   OFFICE SERVICE     SCH OF ENGINEER                                   
+                    --------                                                                        
+                      28,090                                                                        
+                                                                                                    
+3-300CA                1,958   CORRIDOR           DP OF FACILITIES                                  
+3-300CB                2,260   CORRIDOR           DP OF FACILITIES                                  
+3-300CC                  557   CORRIDOR           DP OF FACILITIES                                  
+3-300E1                   86   ELEVATOR           DP OF FACILITIES                                  
+3-300E2                   56   ELEVATOR           DP OF FACILITIES                                  
+3-300LA                   73   LOBBY              DP OF FACILITIES                                  
+3-300SA                  392   STAIRWAY           DP OF FACILITIES                                  
+3-300SB                  262   STAIRWAY           DP OF FACILITIES                                  
+3-300Z                   536   SHAFT SPACE        DP OF FACILITIES                                  
+3-301                    279   FEMALE LAVATORY    DP OF FACILITIES                                  
+3-301J                    37   JANITOR CLOSET     DP OF FACILITIES                                  
+3-302                    343   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+3-302A                   149   PVT LAVATORY       CAMP ACTIV COMPL                                  
+3-304                    114   OFFICE SERVICE     CAMP ACTIV COMPL       STU ACTIVITIES             
+3-304Z                    67   SHAFT SPACE        DP OF FACILITIES                                  
+3-305                    419   OFFICE SERVICE     ARCHITECTURE                                      
+3-305A                   158   OFFICE             ARCHITECTURE                                      
+3-305B                   169   SECY/RECEPTION     ARCHITECTURE                                      
+3-305C                   157   OFFICE             ARCHITECTURE                                      
+3-305D                   159   OFFICE             ARCHITECTURE                                      
+3-305F                   165   OFFICE             ARCHITECTURE                                      
+3-305G                   157   OFFICE             ARCHITECTURE                                      
+3-305H                   167   OFFICE             ARCHITECTURE                                      
+3-305K                   117   OFFICE SERVICE     ARCHITECTURE                                      
+3-306                     89   OFFICE SERVICE     CAMP ACTIV COMPL       STU ACTIVITIES             
+3-306A                     4   OFFICE SERVICE     CAMP ACTIV COMPL       STU ACTIVITIES             
+3-310                    800   STUDY ROOM         CAMP ACTIV COMPL       STU ACTIVITIES             
+3-310A                   212   OFFICE SERVICE     CAMP ACTIV COMPL       STU ACTIVITIES             
+3-312                    483   OFFICE SERVICE     CAMP ACTIV COMPL       STU ACTIVITIES             
+3-313                    426   RESEARCH LAB       MECHANICAL ENG                                    
+3-315                    546   RESEARCH LAB       MECHANICAL ENG                                    
+3-315E                    10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-319                    462   RESEARCH LAB       MECHANICAL ENG         OCEAN                      
+3-319A                    51   LABORATORY SVC     MECHANICAL ENG         OCEAN                      
+3-327T                   165   TELECOM CLOSET     DP OF FACILITIES                                  
+3-329                    268   OFFICE             ARCHITECTURE                                      
+3-331                    157   MALE LAVATORY      DP OF FACILITIES                                  
+3-331J                    19   JANITOR CLOSET     DP OF FACILITIES                                  
+3-331Z                    29   SHAFT SPACE        DP OF FACILITIES                                  
+3-331Z1                   51   SHAFT SPACE        DP OF FACILITIES                                  
+3-332                    343   OFFICE             MECHANICAL ENG                                    
+3-332A                    29   UTILITY/MECH RM    DP OF FACILITIES                                  
+3-332E                     9   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-333                    835   CLASSROOM          REGISTRAR                                         
+3-334                    272   OFFICE             MECHANICAL ENG                                    
+3-335                     43   UTILITY/MECH RM    DP OF FACILITIES                                  
+3-336                    277   OFFICE             MECHANICAL ENG                                    
+3-337                     82   SECY/RECEPTION     MECHANICAL ENG                                    
+3-338                    281   OFFICE             MECHANICAL ENG                                    
+3-339                    526   LABORATORY SVC     MECHANICAL ENG                                    
+3-339A                   118   CONFERENCE ROOM    MECHANICAL ENG                                    
+3-339B                   114   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-339C                   114   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-339D                    70   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-339E                     9   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-339F                   182   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-339G                   186   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-339H                   190   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-339K                   192   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-339L                   192   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-339N                   192   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-339P                   190   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-339Q                   180   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-340                    266   OFFICE             MECHANICAL ENG                                    
+3-341E                    17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-342                    280   OFFICE             MECHANICAL ENG                                    
+3-343                     84   SECY/RECEPTION     MECHANICAL ENG                                    
+3-344                    269   OFFICE             MECHANICAL ENG                                    
+3-346                    290   OFFICE             MECHANICAL ENG                                    
+3-348                    215   OFFICE             MECHANICAL ENG                                    
+3-349                     84   SECY/RECEPTION     MECHANICAL ENG                                    
+3-350                    416   CONFERENCE ROOM    MECHANICAL ENG                                    
+3-350A                    18   OFFICE SERVICE     MECHANICAL ENG                                    
+3-350B                     7   OFFICE SERVICE     MECHANICAL ENG                                    
+3-351                    540   LABORATORY SVC     MECHANICAL ENG                                    
+3-351A                    94   LABORATORY SVC     MECHANICAL ENG                                    
+3-351B                    68   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-351C                   182   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-351D                    68   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-351F                   182   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-351G                    39   LABORATORY SVC     MECHANICAL ENG                                    
+3-351H                    57   LABORATORY SVC     MECHANICAL ENG                                    
+3-351K                   188   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-351L                   192   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-351N                   192   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-351P                   192   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-351Q                   190   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-351R                   183   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-354                    273   OFFICE             MECHANICAL ENG                                    
+3-355                     89   SECY/RECEPTION     MECHANICAL ENG                                    
+3-356                    271   OFFICE             MECHANICAL ENG                                    
+3-357T                    93   TELECOM CLOSET     DP OF FACILITIES                                  
+3-358                    275   OFFICE             MECHANICAL ENG                                    
+3-359                     88   SECY/RECEPTION     MECHANICAL ENG                                    
+3-360                    277   OFFICE             MECHANICAL ENG                                    
+3-361                    125   LABORATORY SVC     MECHANICAL ENG                                    
+3-361A                   110   CONFERENCE ROOM    MECHANICAL ENG                                    
+3-361B                   595   RESEARCH LAB       MECHANICAL ENG                                    
+3-361C                   183   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-362                    275   OFFICE             MECHANICAL ENG                                    
+3-363                    205   RESEARCH LAB       MECHANICAL ENG                                    
+3-364                    275   OFFICE             MECHANICAL ENG                                    
+3-365                     17   UTILITY/MECH RM    DP OF FACILITIES                                  
+3-366                    277   OFFICE             MECHANICAL ENG                                    
+3-367                    241   RESEARCH LAB       MECHANICAL ENG                                    
+3-367A                    12   LABORATORY SVC     MECHANICAL ENG                                    
+3-369                     48   LABORATORY SVC     MECHANICAL ENG                                    
+3-370                  1,592   LECTURE HALL       REGISTRAR                                         
+3-370A                     5   CLASSROOM SVC      REGISTRAR                                         
+3-382                    221   OFFICE SERVICE     MECHANICAL ENG                                    
+3-382A                   197   OFFICE             MECHANICAL ENG                                    
+3-383E                    70   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                      27,364                                                                        
+                                                                                                    
+3-400CA                1,938   CORRIDOR           DP OF FACILITIES                                  
+3-400CB                1,134   CORRIDOR           DP OF FACILITIES                                  
+3-400CC                2,029   CORRIDOR           DP OF FACILITIES                                  
+3-400CM                   69   CORRIDOR           DP OF FACILITIES                                  
+3-400E1                   83   ELEVATOR           DP OF FACILITIES                                  
+3-400E2                   46   ELEVATOR           DP OF FACILITIES                                  
+3-400LA                   50   LOBBY              DP OF FACILITIES                                  
+3-400SA                  320   STAIRWAY           DP OF FACILITIES                                  
+3-400SB                  222   STAIRWAY           DP OF FACILITIES                                  
+3-400SCM                 167   STAIRWAY           DP OF FACILITIES                                  
+3-400SD                   52   STAIRWAY           DP OF FACILITIES                                  
+3-400SDM                 138   STAIRWAY           DP OF FACILITIES                                  
+3-400SE                   51   STAIRWAY           DP OF FACILITIES                                  
+3-400Z                   273   SHAFT SPACE        DP OF FACILITIES                                  
+3-401E                    26   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-402                    599   STUDIO             ARCHITECTURE                                      
+3-402A                   559   STUDIO             ARCHITECTURE                                      
+3-402Z                    53   SHAFT SPACE        DP OF FACILITIES                                  
+3-410                    718   TEACHING LAB       ARCHITECTURE                                      
+3-412                    421   TEACHING LAB       ARCHITECTURE                                      
+3-412E                    16   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-413E                     8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-415                  3,555   STUDIO             ARCHITECTURE                                      
+3-427                    287   FEMALE LAVATORY    DP OF FACILITIES                                  
+3-429                    122   OFFICE SERVICE     PUBLIC REL SVCS        NEWS OFF                   
+3-429A                    58   OFFICE SERVICE     PUBLIC REL SVCS        NEWS OFF                   
+3-429J                    25   JANITOR CLOSET     DP OF FACILITIES                                  
+3-431                    272   MALE LAVATORY      DP OF FACILITIES                                  
+3-431AZ                   27   SHAFT SPACE        DP OF FACILITIES                                  
+3-431J                    22   JANITOR CLOSET     DP OF FACILITIES                                  
+3-431Z                    41   SHAFT SPACE        DP OF FACILITIES                                  
+3-432                    317   UTILITY/MECH RM    DP OF FACILITIES                                  
+3-432T                     7   TELECOM CLOSET     DP OF FACILITIES                                  
+3-432Z                    45   SHAFT SPACE        DP OF FACILITIES                                  
+3-433                    308   OFFICE             MECHANICAL ENG                                    
+3-434                    465   CONFERENCE ROOM    MECHANICAL ENG                                    
+3-435                    275   SECY/RECEPTION     MECHANICAL ENG                                    
+3-435A                   152   OFFICE             MECHANICAL ENG                                    
+3-435B                   153   OFFICE             MECHANICAL ENG                                    
+3-435C                    20   OFFICE SERVICE     MECHANICAL ENG                                    
+3-436                    448   OFFICE             MECHANICAL ENG                                    
+3-438                    455   RESEARCH LAB       MECHANICAL ENG                                    
+3-439                    321   OFFICE             MECHANICAL ENG                                    
+3-440                    443   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+3-441                    294   OFFICE             MECHANICAL ENG                                    
+3-442                    895   CLASSROOM          REGISTRAR                                         
+3-442E                    16   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-443                    303   OFFICE SERVICE     MECHANICAL ENG                                    
+3-445                    299   OFFICE             MECHANICAL ENG                                    
+3-446                    842   RESEARCH LAB       MECHANICAL ENG                                    
+3-449                    276   SECY/RECEPTION     MECHANICAL ENG                                    
+3-449A                   158   OFFICE             MECHANICAL ENG                                    
+3-449AA                   13   OFFICE SERVICE     MECHANICAL ENG                                    
+3-449B                   205   OFFICE             MECHANICAL ENG                                    
+3-449C                   205   OFFICE             MECHANICAL ENG                                    
+3-449D                   205   OFFICE             MECHANICAL ENG                                    
+3-449F                    62   OFFICE SERVICE     MECHANICAL ENG                                    
+3-449G                   107   OFFICE             MECHANICAL ENG                                    
+3-452                    518   OFFICE             MECHANICAL ENG                                    
+3-452A                   180   OFFICE SERVICE     MECHANICAL ENG                                    
+3-454                    111   OFFICE SERVICE     MECHANICAL ENG                                    
+3-454E                     8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-455                    276   SECY/RECEPTION     MECHANICAL ENG                                    
+3-455A                   204   OFFICE             MECHANICAL ENG                                    
+3-455B                   202   OFFICE             MECHANICAL ENG                                    
+3-455C                   205   OFFICE             MECHANICAL ENG                                    
+3-455D                   203   OFFICE             MECHANICAL ENG                                    
+3-455F                    44   OFFICE SERVICE     MECHANICAL ENG                                    
+3-455G                    76   OFFICE SERVICE     MECHANICAL ENG                                    
+3-458                    493   OFFICE             MECHANICAL ENG                                    
+3-458A                   212   OFFICE SERVICE     MECHANICAL ENG                                    
+3-461                    278   SECY/RECEPTION     MECHANICAL ENG                                    
+3-461A                   205   OFFICE             MECHANICAL ENG                                    
+3-461B                   202   OFFICE             MECHANICAL ENG                                    
+3-461C                   202   OFFICE             MECHANICAL ENG                                    
+3-461D                    48   OFFICE SERVICE     MECHANICAL ENG                                    
+3-461F                    83   OFFICE             MECHANICAL ENG                                    
+3-462                    432   OFFICE SERVICE     MECHANICAL ENG                                    
+3-462A                    29   OFFICE             MECHANICAL ENG                                    
+3-462B                    29   OFFICE             MECHANICAL ENG                                    
+3-462C                    29   OFFICE             MECHANICAL ENG                                    
+3-462D                    29   OFFICE             MECHANICAL ENG                                    
+3-462F                    29   OFFICE             MECHANICAL ENG                                    
+3-462G                    26   OFFICE             MECHANICAL ENG                                    
+3-462H                    24   OFFICE             MECHANICAL ENG                                    
+3-462K                    29   OFFICE             MECHANICAL ENG                                    
+3-462L                    29   OFFICE             MECHANICAL ENG                                    
+3-462N                    29   OFFICE             MECHANICAL ENG                                    
+3-462P                    29   OFFICE             MECHANICAL ENG                                    
+3-462Q                    25   OFFICE             MECHANICAL ENG                                    
+3-462R                    31   OFFICE             MECHANICAL ENG                                    
+3-462S                    31   OFFICE             MECHANICAL ENG                                    
+3-462U                    31   OFFICE             MECHANICAL ENG                                    
+3-463                     30   OFFICE SERVICE     MECHANICAL ENG                                    
+3-463E                    26   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-466                    389   OFFICE             MECHANICAL ENG                                    
+3-466E                    22   ELECTRIC CLOSET    DP OF FACILITIES                                  
+3-466Z                    32   SHAFT SPACE        DP OF FACILITIES                                  
+3-468                    303   OFFICE             MECHANICAL ENG                                    
+3-468M                    79   OFFICE SERVICE     MECHANICAL ENG                                    
+3-469                    190   SECY/RECEPTION     MECHANICAL ENG                                    
+3-469A                   223   OFFICE             MECHANICAL ENG                                    
+3-469B                   145   OFFICE             MECHANICAL ENG                                    
+3-469C                     4   OFFICE SERVICE     MECHANICAL ENG                                    
+3-470                    725   OFFICE             MECHANICAL ENG                                    
+3-470A                   103   OFFICE             MECHANICAL ENG                                    
+3-470B                    45   OFFICE SERVICE     MECHANICAL ENG                                    
+3-471                    339   OFFICE             MECHANICAL ENG                                    
+3-472M                   359   OFFICE             MECHANICAL ENG                                    
+3-473AM                  181   OFFICE             MECHANICAL ENG                                    
+3-473M                   336   OFFICE             MECHANICAL ENG                                    
+                    --------                                                                        
+                      28,808                                                                        
+                                                                                                    
+3-500SA                   98   STAIRWAY           DP OF FACILITIES                                  
+3-500SD                   30   STAIRWAY           DP OF FACILITIES                                  
+3-529                    122   UTILITY/MECH RM    DP OF FACILITIES                                  
+3-569                     46   UTILITY/MECH RM    DP OF FACILITIES   

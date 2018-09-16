@@ -1,0 +1,298 @@
+E53-000CA                197   CORRIDOR           DP OF FACILITIES       GND SERV TEAM RM           
+E53-000CB                125   CORRIDOR           DP OF FACILITIES                                  
+E53-000CC                436   CORRIDOR           DP OF FACILITIES                                  
+E53-000CD                240   CORRIDOR           DP OF FACILITIES                                  
+E53-000CE                153   CORRIDOR           DP OF FACILITIES                                  
+E53-000E1                109   ELEVATOR           DP OF FACILITIES                                  
+E53-000E2                 35   ELEVATOR           DP OF FACILITIES                                  
+E53-000LA                709   LOBBY              DP OF FACILITIES                                  
+E53-000SA                128   STAIRWAY           DP OF FACILITIES                                  
+E53-000SAM               141   STAIRWAY           DP OF FACILITIES                                  
+E53-000SB                124   STAIRWAY           DP OF FACILITIES                                  
+E53-000SD                122   STAIRWAY           DP OF FACILITIES                                  
+E53-000SE                133   STAIRWAY           DP OF FACILITIES                                  
+E53-000Z                 247   SHAFT SPACE        DP OF FACILITIES                                  
+E53-006                  194   JANITOR STORAGE    DP OF FACILITIES                                  
+E53-010                9,421   VEHICLE STORAGE    DP OF FACIL ADM                                   
+E53-010A                 621   VEHICLE STORAGE    DP OF FACIL ADM                                   
+E53-014T                 166   TELECOM CLOSET     DP OF FACILITIES                                  
+E53-015                  170   UTILITY/MECH RM    DP OF FACILITIES                                  
+E53-016                  189   UTILITY/MECH RM    DP OF FACILITIES                                  
+E53-020E                 526   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E53-022                  124   UTILITY/MECH RM    DP OF FACILITIES                                  
+E53-028                  137   OFFICE SERVICE     LIBRARIES                                         
+E53-028A                  46   UTILITY/MECH RM    DP OF FACILITIES                                  
+E53-028B                 137   OFFICE SERVICE     LIBRARIES                                         
+E53-038                1,709   STACK/STUDY        LIBRARIES                                         
+E53-039                   68   UTILITY/MECH RM    DP OF FACILITIES                                  
+E53-039J                  39   JANITOR CLOSET     DP OF FACILITIES                                  
+E53-048                1,498   STACK/STUDY        LIBRARIES                                         
+E53-048A                 182   STACK/STUDY        LIBRARIES                                         
+E53-048B                  41   UTILITY/MECH RM    DP OF FACILITIES                                  
+E53-060                  201   UTILITY/MECH RM    DP OF FACILITIES                                  
+E53-068                5,977   UTILITY/MECH RM    DP OF FACILITIES                                  
+E53-092E                  20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E53-095C                  19   OFFICE SERVICE     LIBRARIES                                         
+E53-098M                 634   OFFICE SERVICE     LIBRARIES                                         
+                    --------                                                                        
+                      25,018                                                                        
+                                                                                                    
+E53-100E1                115   ELEVATOR           DP OF FACILITIES                                  
+E53-100E2                 38   ELEVATOR           DP OF FACILITIES                                  
+E53-100LA                533   LOBBY              DP OF FACILITIES                                  
+E53-100LB                587   LOBBY              DP OF FACILITIES                                  
+E53-100SA                134   STAIRWAY           DP OF FACILITIES                                  
+E53-100SB                128   STAIRWAY           DP OF FACILITIES                                  
+E53-100SC                143   STAIRWAY           DP OF FACILITIES                                  
+E53-100SE                155   STAIRWAY           DP OF FACILITIES                                  
+E53-100Z                 198   SHAFT SPACE        DP OF FACILITIES                                  
+E53-120                1,111   STUDY ROOM         LIBRARIES                                         
+E53-120A                  63   PUBLIC LAVATORY    DP OF FACILITIES                                  
+E53-128                  207   FEMALE LAVATORY    DP OF FACILITIES                                  
+E53-137                1,023   LIBRARY PROCESS    LIBRARIES                                         
+E53-137A                  14   LIBRARY PROCESS    LIBRARIES                                         
+E53-138                  100   OFFICE             LIBRARIES                                         
+E53-160                5,262   STUDY ROOM         LIBRARIES                                         
+E53-160A                 137   STUDY ROOM         LIBRARIES                                         
+E53-160B                 209   STUDY ROOM         LIBRARIES                                         
+E53-160C                 166   STUDY ROOM         LIBRARIES                                         
+E53-168                  505   OFFICE SERVICE     LIBRARIES                                         
+E53-168A                 127   OFFICE             LIBRARIES                                         
+E53-168B                 128   OFFICE             LIBRARIES                                         
+E53-168C                 128   OFFICE             LIBRARIES                                         
+E53-168D                 127   OFFICE             LIBRARIES                                         
+E53-168F                 127   OFFICE             LIBRARIES                                         
+E53-168G                 127   OFFICE             LIBRARIES                                         
+E53-168H                 203   OFFICE             LIBRARIES                                         
+E53-168K                 171   OFFICE             LIBRARIES                                         
+E53-168L                  21   OFFICE SERVICE     LIBRARIES                                         
+E53-168N                 128   OFFICE             LIBRARIES                                         
+E53-168P                  82   OFFICE SERVICE     LIBRARIES                                         
+E53-168Q                  33   OFFICE SERVICE     LIBRARIES                                         
+E53-168R                  93   LIBRARY PROCESS    LIBRARIES                                         
+E53-168S                  91   OFFICE             LIBRARIES                                         
+E53-186                  134   PRINT/DUP SHOP     LIBRARIES                                         
+E53-191E                  20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E53-192                  151   MALE LAVATORY      DP OF FACILITIES                                  
+E53-195                  372   OFFICE SERVICE     LIBRARIES                                         
+E53-195J                  20   JANITOR CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      13,110                                                                        
+                                                                                                    
+E53-200CA                594   CORRIDOR           DP OF FACILITIES                                  
+E53-200E1                116   ELEVATOR           DP OF FACILITIES                                  
+E53-200E2                 40   ELEVATOR           DP OF FACILITIES                                  
+E53-200SA                132   STAIRWAY           DP OF FACILITIES                                  
+E53-200SB                125   STAIRWAY           DP OF FACILITIES                                  
+E53-200SC                531   STAIRWAY           DP OF FACILITIES                                  
+E53-200Z                 193   SHAFT SPACE        DP OF FACILITIES                                  
+E53-201                  399   STUDY ROOM         LIBRARIES                                         
+E53-204                   16   OFFICE SERVICE     LIBRARIES                                         
+E53-208                  345   STUDY ROOM         LIBRARIES                                         
+E53-212                  636   CONFERENCE ROOM    LIBRARIES                                         
+E53-218                  342   STUDY ROOM         LIBRARIES                                         
+E53-220                   16   OFFICE SERVICE     LIBRARIES                                         
+E53-223                  377   STUDY ROOM         LIBRARIES                                         
+E53-228                  279   FEMALE LAVATORY    DP OF FACILITIES                                  
+E53-231                  168   STUDY ROOM         LIBRARIES                                         
+E53-232                   90   OFFICE SERVICE     LIBRARIES                                         
+E53-237                  146   STUDY ROOM         LIBRARIES                                         
+E53-238                  149   STUDY ROOM         LIBRARIES                                         
+E53-260               10,143   STACK/STUDY        LIBRARIES                                         
+E53-291E                  20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E53-292                  158   MALE LAVATORY      DP OF FACILITIES                                  
+E53-294                  280   STUDY ROOM         LIBRARIES                                         
+E53-295J                  20   JANITOR CLOSET     DP OF FACILITIES                                  
+E53-296                  128   STUDY ROOM         LIBRARIES                                         
+E53-298                  128   STUDY ROOM         LIBRARIES                                         
+                    --------                                                                        
+                      15,573                                                                        
+                                                                                                    
+E53-300CA                242   CORRIDOR           DP OF FACILITIES                                  
+E53-300CB                509   CORRIDOR           DP OF FACILITIES                                  
+E53-300CC                644   CORRIDOR           DP OF FACILITIES                                  
+E53-300CD                414   CORRIDOR           DP OF FACILITIES                                  
+E53-300CE                741   CORRIDOR           DP OF FACILITIES                                  
+E53-300CF                185   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+E53-300E1                114   ELEVATOR           DP OF FACILITIES                                  
+E53-300LA                473   LOBBY              DP OF FACILITIES                                  
+E53-300SA                134   STAIRWAY           DP OF FACILITIES                                  
+E53-300SB                125   STAIRWAY           DP OF FACILITIES                                  
+E53-300SC                114   STAIRWAY           DP OF FACILITIES                                  
+E53-300Z                 187   SHAFT SPACE        DP OF FACILITIES                                  
+E53-301                  370   CONFERENCE ROOM    PROVOST RESERVE                                   
+E53-307                  167   OFFICE             PROVOST RESERVE                                   
+E53-308                   78   OFFICE             PROVOST RESERVE                                   
+E53-309                  167   OFFICE             PROVOST RESERVE                                   
+E53-310                  186   ALTER/CONVERSION   PROVOST RESERVE                                   
+E53-310A                  34   OFFICE SERVICE     PROVOST RESERVE                                   
+E53-311                  167   OFFICE             PROVOST RESERVE                                   
+E53-313                  165   OFFICE             PROVOST RESERVE                                   
+E53-314                   75   OFFICE             PROVOST RESERVE                                   
+E53-315                  168   OFFICE             PROVOST RESERVE                                   
+E53-316                  225   OFFICE SERVICE     PROVOST RESERVE                                   
+E53-317                  168   OFFICE             PROVOST RESERVE                                   
+E53-318                   77   OFFICE             PROVOST RESERVE                                   
+E53-320                  235   SECY/RECEPTION     PROVOST RESERVE                                   
+E53-321                  215   OFFICE             PROVOST RESERVE                                   
+E53-322                   84   OFFICE             PROVOST RESERVE                                   
+E53-323                  171   OFFICE             PROVOST RESERVE                                   
+E53-324                   77   OFFICE             PROVOST RESERVE                                   
+E53-325                  165   OFFICE             PROVOST RESERVE                                   
+E53-328                  275   MALE LAVATORY      DP OF FACILITIES                                  
+E53-329                  170   OFFICE             PROVOST RESERVE                                   
+E53-330                  183   SECY/RECEPTION     PROVOST RESERVE                                   
+E53-332T                  36   TELECOM CLOSET     DP OF FACILITIES                                  
+E53-333                  166   OFFICE             PROVOST RESERVE                                   
+E53-334                   77   OFFICE             PROVOST RESERVE                                   
+E53-335                  894   PVT CIRCULATION    ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335A                   9   OFFICE SERVICE     ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335AA                 50   OFFICE SERVICE     ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335AB                 93   OFFICE SERVICE     ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335AC                 51   OFFICE SERVICE     ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335B                 155   OFFICE             ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335C                 149   OFFICE             ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335D                 149   OFFICE             ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335F                 148   OFFICE             ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335G                 156   OFFICE             ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335H                  99   OFFICE             ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335K                 261   CONFERENCE ROOM    ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335L                 223   SECY/RECEPTION     ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335N                 108   OFFICE             ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335P                 150   OFFICE             ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335Q                 154   OFFICE             ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335R                 145   OFFICE             ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335S                 152   OFFICE             ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335U                 158   OFFICE             ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335V                 173   OFFICE             ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335W                  48   OFFICE SERVICE     ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335X                  73   OFFICE             ANTHROPOLOGY           ANTHROPOLOGY               
+E53-335Y                  98   CONFERENCE ROOM    ANTHROPOLOGY           ANTHROPOLOGY               
+E53-338                  368   OFFICE             POLITICAL SCI                                     
+E53-354                  575   CLASSROOM          ANTHROPOLOGY           ANTHROPOLOGY               
+E53-364                   40   MAIL ROOM          DP OF FACIL ADM                                   
+E53-365                  205   OFFICE             POLITICAL SCI                                     
+E53-366                  141   OFFICE             POLITICAL SCI                                     
+E53-367                  151   OFFICE             POLITICAL SCI                                     
+E53-368                  486   OFFICE SERVICE     POLITICAL SCI                                     
+E53-369                  213   OFFICE             POLITICAL SCI                                     
+E53-370                  257   OFFICE             POLITICAL SCI                                     
+E53-371                  109   OFFICE             POLITICAL SCI                                     
+E53-373                  165   OFFICE             POLITICAL SCI                                     
+E53-375                  168   OFFICE             SCH OF HUM & S S                                  
+E53-376                   81   OFFICE             SCH OF HUM & S S                                  
+E53-379                  168   OFFICE             SCH OF HUM & S S                                  
+E53-380                  212   OFFICE SERVICE     SCH OF HUM & S S                                  
+E53-383                  169   OFFICE             SCH OF HUM & S S                                  
+E53-384                   77   OFFICE             SCH OF HUM & S S                                  
+E53-386                  785   OFFICE             POLITICAL SCI                                     
+E53-387                  169   OFFICE             SCH OF HUM & S S                                  
+E53-388                   80   OFFICE             SCH OF HUM & S S                                  
+E53-389                  171   OFFICE             SCH OF HUM & S S                                  
+E53-390                  170   OFFICE SERVICE     SCH OF HUM & S S                                  
+E53-390A                  49   OFFICE SERVICE     SCH OF HUM & S S                                  
+E53-391E                  19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E53-392                  159   FEMALE LAVATORY    DP OF FACILITIES                                  
+E53-393                  223   OFFICE             SCH OF HUM & S S                                  
+E53-394                   80   OFFICE             SCH OF HUM & S S                                  
+E53-395J                  19   JANITOR CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      16,987                                                                        
+                                                                                                    
+E53-400CA                491   CORRIDOR           DP OF FACILITIES                                  
+E53-400CB                514   CORRIDOR           DP OF FACILITIES                                  
+E53-400CC                662   CORRIDOR           DP OF FACILITIES                                  
+E53-400CD                589   CORRIDOR           DP OF FACILITIES                                  
+E53-400CE                472   CORRIDOR           DP OF FACILITIES                                  
+E53-400E1                115   ELEVATOR           DP OF FACILITIES                                  
+E53-400LA                465   LOBBY              DP OF FACILITIES                                  
+E53-400SA                136   STAIRWAY           DP OF FACILITIES                                  
+E53-400SB                129   STAIRWAY           DP OF FACILITIES                                  
+E53-400SC                140   STAIRWAY           DP OF FACILITIES                                  
+E53-400Z                 192   SHAFT SPACE        DP OF FACILITIES                                  
+E53-401                  173   OFFICE             POLITICAL SCI                                     
+E53-402                  169   OFFICE             POLITICAL SCI                                     
+E53-405                  225   OFFICE SERVICE     POLITICAL SCI                                     
+E53-405A                  61   SECY/RECEPTION     POLITICAL SCI                                     
+E53-406                   79   OFFICE             POLITICAL SCI                                     
+E53-407                  169   OFFICE             POLITICAL SCI                                     
+E53-408                   77   OFFICE             POLITICAL SCI                                     
+E53-409                  171   OFFICE             POLITICAL SCI                                     
+E53-410                  217   OFFICE SERVICE     POLITICAL SCI                                     
+E53-411                  170   OFFICE             POLITICAL SCI                                     
+E53-413                  168   OFFICE             POLITICAL SCI                                     
+E53-414                   71   OFFICE             POLITICAL SCI                                     
+E53-415                  171   OFFICE             POLITICAL SCI                                     
+E53-416                  221   OFFICE             POLITICAL SCI                                     
+E53-417                  169   OFFICE             POLITICAL SCI                                     
+E53-418                   74   OFFICE             POLITICAL SCI                                     
+E53-420                  289   OFFICE SERVICE     POLITICAL SCI                                     
+E53-421                  169   OFFICE             POLITICAL SCI                                     
+E53-422                   81   OFFICE             POLITICAL SCI                                     
+E53-423                  164   OFFICE             POLITICAL SCI                                     
+E53-425                  166   OFFICE             POLITICAL SCI                                     
+E53-428                  271   FEMALE LAVATORY    DP OF FACILITIES                                  
+E53-429                  163   OFFICE             POLITICAL SCI                                     
+E53-430                  157   OFFICE SERVICE     POLITICAL SCI                                     
+E53-430A                 103   SECY/RECEPTION     POLITICAL SCI                                     
+E53-432T                  36   TELECOM CLOSET     DP OF FACILITIES                                  
+E53-433                  166   OFFICE             POLITICAL SCI                                     
+E53-434                   79   OFFICE             POLITICAL SCI                                     
+E53-435                  163   OFFICE             POLITICAL SCI                                     
+E53-436                   76   OFFICE             POLITICAL SCI                                     
+E53-438                  349   CONFERENCE ROOM    POLITICAL SCI                                     
+E53-439                  162   OFFICE             POLITICAL SCI                                     
+E53-440                  211   OFFICE SERVICE     POLITICAL SCI                                     
+E53-442                  182   OFFICE SERVICE     POLITICAL SCI                                     
+E53-445                  141   OFFICE SERVICE     POLITICAL SCI                                     
+E53-446                   70   OFFICE             POLITICAL SCI                                     
+E53-447                  211   OFFICE             POLITICAL SCI                                     
+E53-448                   77   OFFICE             POLITICAL SCI                                     
+E53-449                  127   OFFICE             POLITICAL SCI                                     
+E53-450                  307   OFFICE SERVICE     POLITICAL SCI                                     
+E53-451                  207   OFFICE             POLITICAL SCI                                     
+E53-453                  147   OFFICE             POLITICAL SCI                                     
+E53-455                  145   OFFICE             POLITICAL SCI                                     
+E53-456                   73   OFFICE             POLITICAL SCI                                     
+E53-456A                  60   OFFICE             POLITICAL SCI                                     
+E53-456AA                 11   OFFICE SERVICE     POLITICAL SCI                                     
+E53-457                  147   OFFICE             POLITICAL SCI                                     
+E53-458                  139   OFFICE             POLITICAL SCI                                     
+E53-458A                  11   OFFICE             POLITICAL SCI                                     
+E53-459                  148   OFFICE             POLITICAL SCI                                     
+E53-460                  451   OFFICE SERVICE     POLITICAL SCI                                     
+E53-460A                  10   OFFICE SERVICE     POLITICAL SCI                                     
+E53-460B                  10   OFFICE SERVICE     POLITICAL SCI                                     
+E53-460BA                137   OFFICE             POLITICAL SCI                                     
+E53-460C                 106   SECY/RECEPTION     POLITICAL SCI                                     
+E53-461                  148   OFFICE             POLITICAL SCI                                     
+E53-463                  150   OFFICE             POLITICAL SCI                                     
+E53-465                  199   OFFICE             POLITICAL SCI                                     
+E53-465A                 128   OFFICE             POLITICAL SCI                                     
+E53-467                  185   OFFICE             POLITICAL SCI                                     
+E53-468                  175   OFFICE SERVICE     POLITICAL SCI                                     
+E53-469                  267   CONFERENCE ROOM    POLITICAL SCI                                     
+E53-470                  424   OFFICE SERVICE     POLITICAL SCI                                     
+E53-470A                  54   SECY/RECEPTION     POLITICAL SCI                                     
+E53-470B                 136   SECY/RECEPTION     POLITICAL SCI                                     
+E53-471                   99   OFFICE             POLITICAL SCI                                     
+E53-473                  264   OFFICE             POLITICAL SCI                                     
+E53-477                   82   OFFICE SERVICE     POLITICAL SCI                                     
+E53-478AT                 68   TELECOM CLOSET     DP OF FACILITIES                                  
+E53-478T                  58   TELECOM CLOSET     DP OF FACILITIES                                  
+E53-479                  104   OFFICE             POLITICAL SCI                                     
+E53-480                   76   OFFICE SERVICE     POLITICAL SCI                                     
+E53-480A                  46   OFFICE SERVICE     POLITICAL SCI                                     
+E53-482                  560   CONFERENCE ROOM    POLITICAL SCI                                     
+E53-483                  106   OFFICE             POLITICAL SCI                                     
+E53-484                  173   OFFICE             POLITICAL SCI                                     
+E53-485                  305   CONFERENCE ROOM    POLITICAL SCI                                     
+E53-487                  170   OFFICE             POLITICAL SCI                                     
+E53-488                   81   OFFICE             POLITICAL SCI                                     
+E53-489                  170   OFFICE             POLITICAL SCI                                     
+E53-490                  166   OFFICE SERVICE     POLITICAL SCI                                     
+E53-490A                  97   SECY/RECEPTION     POLITICAL SCI                                     
+E53-491E                  19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E53-492                  151   MALE LAVATORY      DP OF FACILITIES                                  
+E53-493                  168   OFFICE             POLITICAL SCI                                     
+E53-495J                  20   JANITOR CLOSET     DP OF FACILITIES 

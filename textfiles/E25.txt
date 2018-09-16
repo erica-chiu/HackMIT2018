@@ -1,0 +1,573 @@
+E25-000CA              1,481   CORRIDOR           DP OF FACILITIES                                  
+E25-000CB                449   CORRIDOR           DP OF FACILITIES                                  
+E25-000CC                204   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+E25-000CD                536   CORRIDOR           DP OF FACILITIES                                  
+E25-000E1                 56   ELEVATOR           DP OF FACILITIES                                  
+E25-000E2                 56   ELEVATOR           DP OF FACILITIES                                  
+E25-000E3                 94   ELEVATOR           DP OF FACILITIES                                  
+E25-000LA              1,635   LOBBY              DP OF FACILITIES                                  
+E25-000LB                111   LOBBY              DP OF FACILITIES                                  
+E25-000SA                118   STAIRWAY           DP OF FACILITIES                                  
+E25-000SC                133   STAIRWAY           DP OF FACILITIES                                  
+E25-000Z                 476   SHAFT SPACE        DP OF FACILITIES                                  
+E25-001                  586   UTILITY/MECH RM    DP OF FACILITIES                                  
+E25-001A                 175   UTILITY/MECH RM    DP OF FACILITIES                                  
+E25-001B                 110   UTILITY/MECH RM    DP OF FACILITIES                                  
+E25-002                  139   OFFICE SERVICE     DP OF FACIL ADM                                   
+E25-002A                  12   OFFICE SERVICE     DP OF FACIL ADM                                   
+E25-002AE                  4   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-002E                  73   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-005E                 175   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-006                2,498   UTILITY/MECH RM    DP OF FACILITIES                                  
+E25-006A                 170   STORAGE FACILITY   DP OF FACIL ADM                                   
+E25-007                  103   UTILITY/MECH RM    DP OF FACILITIES                                  
+E25-011                   85   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-012                  193   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-013                  261   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+E25-014                  297   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+E25-015                  242   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+E25-016                  256   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-017                  226   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-018                  248   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+E25-019                  527   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-020                  152   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-020A                  42   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-020B                  41   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-020C                  42   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-021                  142   OFFICE             DIV OF COMP MED                                   
+E25-022                   17   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-022J                  12   JANITOR CLOSET     DP OF FACILITIES                                  
+E25-023                  708   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-023A                 197   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-024                  240   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-027                   58   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-028                   81   PVT LAVATORY       DIV OF COMP MED                                   
+E25-029                  432   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-029A                 136   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-029B                 977   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-030                  145   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-030A                 159   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-030B                 159   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-030C                 343   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-032                  233   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-033                  262   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-034                  153   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+E25-035                  318   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-036                  262   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-037                  148   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+E25-037J                  12   JANITOR CLOSET     DP OF FACILITIES                                  
+E25-038                  317   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-039                  102   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-039A                 154   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-040                  140   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+E25-041                  320   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-042                  260   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-044                  168   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-044A                  46   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-044B                  46   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-044C                  44   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-044D                  45   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-044F                  46   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-045                  751   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-045A                  72   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-045B                 508   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-045C                  58   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-046                   44   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-046A                 271   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-046AA                 18   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-046AB                 41   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-046AC                 42   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-046AD                 42   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-046AF                 46   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-046AG                 46   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-046AH                 41   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-047                  169   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-047A                  46   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-047B                  46   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-047C                  46   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-047D                  45   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-047F                  46   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E25-048                  108   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-049                  230   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-050                  225   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-051                   89   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-052J                  41   JANITOR CLOSET     DP OF FACILITIES                                  
+E25-053                  187   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-055                  169   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-057                  179   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-058J                  44   JANITOR CLOSET     DP OF FACILITIES                                  
+E25-058T                  19   TELECOM CLOSET     DP OF FACILITIES                                  
+E25-059E                 135   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-060J                 108   JANITOR CLOSET     DP OF FACILITIES                                  
+E25-060T                  98   TELECOM CLOSET     DP OF FACILITIES                                  
+E25-061                  582   UTILITY/MECH RM    DP OF FACILITIES                                  
+E25-062                  105   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-062Z                  29   SHAFT SPACE        DP OF FACILITIES                                  
+E25-063                  129   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-064                   52   UTILITY/MECH RM    DP OF FACILITIES                                  
+E25-066                1,179   UTILITY/MECH RM    DP OF FACILITIES                                  
+E25-067                   15   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-069                   19   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-070                  347   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-070A                 149   OFFICE             DIV OF COMP MED                                   
+E25-070B                 148   OFFICE             DIV OF COMP MED                                   
+E25-071                  172   ANIMAL SERVICE     DIV OF COMP MED                                   
+E25-072                  170   ANIMAL SERVICE     DIV OF COMP MED                                   
+                    --------                                                                        
+                      25,997                                                                        
+                                                                                                    
+E25-100CA              2,128   CORRIDOR           DP OF FACILITIES                                  
+E25-100CB                456   CORRIDOR           DP OF FACILITIES                                  
+E25-100CC                375   CORRIDOR           DP OF FACILITIES                                  
+E25-100CD                301   CORRIDOR           DP OF FACILITIES                                  
+E25-100E1                 58   ELEVATOR           DP OF FACILITIES                                  
+E25-100E2                 65   ELEVATOR           DP OF FACILITIES                                  
+E25-100E3                 96   ELEVATOR           DP OF FACILITIES                                  
+E25-100LA              3,254   LOBBY              DP OF FACILITIES                                  
+E25-100LB                184   LOBBY              DP OF FACILITIES                                  
+E25-100LC                465   LOBBY              DP OF FACILITIES                                  
+E25-100SA                455   STAIRWAY           DP OF FACILITIES                                  
+E25-100SB                165   STAIRWAY           DP OF FACILITIES                                  
+E25-100SC                128   STAIRWAY           DP OF FACILITIES                                  
+E25-100Z                 547   SHAFT SPACE        DP OF FACILITIES                                  
+E25-101                  568   CONFERENCE ROOM    INST MED E & SCI                                  
+E25-101A                  20   CLASSROOM SVC      INST MED E & SCI                                  
+E25-101B                  18   OFFICE SERVICE     VP-RSCH                                           
+E25-101E                   4   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-101T                  91   TELECOM CLOSET     DP OF FACILITIES                                  
+E25-111                1,958   LECTURE HALL       REGISTRAR                                         
+E25-111B                 103   CLASSROOM SVC      VP-RSCH                                           
+E25-111BD                 49   CLASSROOM SVC      VP-RSCH                                           
+E25-111C                  88   CLASSROOM SVC      INST MED E & SCI                                  
+E25-111D                   7   CLASSROOM SVC      VP-RSCH                                           
+E25-112                  122   OFFICE SERVICE     INST MED E & SCI                                  
+E25-113                   60   UTILITY/MECH RM    DP OF FACILITIES                                  
+E25-117                1,363   CLASSROOM          REGISTRAR                                         
+E25-117A                   9   CLASSROOM SVC      VP-RSCH                                           
+E25-117B                 183   CLASSROOM SVC      REGISTRAR                                         
+E25-119                  405   CLASSROOM          INST MED E & SCI                                  
+E25-119A                  15   CLASSROOM SVC      INST MED E & SCI                                  
+E25-119B                  14   CLASSROOM SVC      INST MED E & SCI                                  
+E25-121                  342   CLASSROOM          INST MED E & SCI                                  
+E25-121A                   7   CLASSROOM SVC      INST MED E & SCI                                  
+E25-123                  200   MALE LAVATORY      DP OF FACILITIES                                  
+E25-125                  179   FEMALE LAVATORY    DP OF FACILITIES                                  
+E25-131                3,072   OFFICE             VP-RSCH                                           
+E25-131A                  57   SECY/RECEPTION     VP-RSCH                                           
+E25-131AA                 77   OFFICE             VP-RSCH                                           
+E25-131B                 106   OFFICE             VP-RSCH                                           
+E25-131C                 278   OFFICE             VP-RSCH                                           
+E25-131D                 373   OFFICE SERVICE     VP-RSCH                                           
+E25-133E                   6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-135                  193   OFFICE SERVICE     PROVOST RESERVE                                   
+E25-137                  184   OFFICE SERVICE     PROVOST RESERVE                                   
+E25-137A                 195   OFFICE SERVICE     PROVOST RESERVE                                   
+E25-143                  284   PVT CIRCULATION    VP-RSCH                                           
+E25-143A                 154   OFFICE             VP-RSCH                                           
+E25-143B                 163   OFFICE             VP-RSCH                                           
+E25-143C                 219   OFFICE SERVICE     VP-RSCH                                           
+E25-143D                 118   OFFICE SERVICE     VP-RSCH                                           
+E25-143F                 111   OFFICE             VP-RSCH                                           
+E25-143G                 119   OFFICE             VP-RSCH                                           
+E25-143H                 124   OFFICE             VP-RSCH                                           
+E25-143K                 374   OFFICE SERVICE     VP-RSCH                ATHENA                     
+E25-143L                 504   OFFICE SERVICE     VP-RSCH                                           
+E25-147                  295   PVT CIRCULATION    VP-RSCH                                           
+E25-147A                 131   OFFICE             VP-RSCH                                           
+E25-147B                 123   OFFICE             VP-RSCH                                           
+E25-147C                 114   OFFICE             VP-RSCH                                           
+E25-147D                 126   OFFICE SERVICE     VP-RSCH                                           
+E25-147F                 224   OFFICE             VP-RSCH                                           
+E25-147G                 153   OFFICE             VP-RSCH                                           
+E25-147H                 160   OFFICE             VP-RSCH                                           
+E25-151E                  11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-157T                  19   TELECOM CLOSET     DP OF FACILITIES                                  
+E25-160                   69   LABORATORY SVC     DIV OF COMP MED                                   
+E25-161                1,649   UTILITY/MECH RM    DP OF FACILITIES                                  
+E25-162                   57   STORAGE FACILITY   DP OF FACIL ADM                                   
+E25-166                  137   JANITOR STORAGE    DP OF FACILITIES                                  
+E25-168J                  56   JANITOR CLOSET     DP OF FACILITIES                                  
+E25-169                  271   STORAGE FACILITY   DP OF FACIL ADM                                   
+E25-169A                 243   STORAGE FACILITY   DP OF FACIL ADM                                   
+E25-170                   28   UTILITY/MECH RM    DP OF FACILITIES                                  
+E25-171                  166   STORAGE FACILITY   DP OF FACIL ADM                                   
+E25-173                  177   OFFICE             DP OF FACIL ADM        TEAM ROOM #2               
+E25-175                  218   MAIL ROOM          DP OF FACIL ADM                                   
+                    --------                                                                        
+                      25,616                                                                        
+                                                                                                    
+E25-200CA              1,504   CORRIDOR           DP OF FACILITIES                                  
+E25-200CB                177   CORRIDOR           DP OF FACILITIES                                  
+E25-200CC                298   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+E25-200CD                304   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+E25-200E1                 56   ELEVATOR           DP OF FACILITIES                                  
+E25-200E2                 50   ELEVATOR           DP OF FACILITIES                                  
+E25-200E3                 91   ELEVATOR           DP OF FACILITIES                                  
+E25-200LA                686   LOBBY              DP OF FACILITIES                                  
+E25-200SA                192   STAIRWAY           DP OF FACILITIES                                  
+E25-200SB                136   STAIRWAY           DP OF FACILITIES                                  
+E25-200Z                 402   SHAFT SPACE        DP OF FACILITIES                                  
+E25-201                  309   OFFICE             INST MED E & SCI                                  
+E25-201A                  44   OFFICE SERVICE     INST MED E & SCI                                  
+E25-201B                 127   OFFICE             INST MED E & SCI                                  
+E25-201C                 109   OFFICE             INST MED E & SCI                                  
+E25-201D                 142   OFFICE             INST MED E & SCI                                  
+E25-201F                  15   SECY/RECEPTION     INST MED E & SCI                                  
+E25-202                  584   CONFERENCE ROOM    VP-RSCH                                           
+E25-202A                  34   OFFICE SERVICE     VP-RSCH                                           
+E25-204                  186   OFFICE SERVICE     INST MED E & SCI                                  
+E25-206                  157   OFFICE SERVICE     INST MED E & SCI                                  
+E25-207A                   7   UTILITY/MECH RM    DP OF FACILITIES                                  
+E25-207E                   3   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-207T                  16   TELECOM CLOSET     DP OF FACILITIES                                  
+E25-208                  131   OFFICE SERVICE     INST MED E & SCI                                  
+E25-208A                 182   OFFICE             INST MED E & SCI                                  
+E25-209                  120   MALE LAVATORY      DP OF FACILITIES                                  
+E25-210                   49   OFFICE SERVICE     INST MED E & SCI                                  
+E25-210A                 188   OFFICE             INST MED E & SCI                                  
+E25-211                  133   FEMALE LAVATORY    DP OF FACILITIES                                  
+E25-211E                   9   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-213                  215   OFFICE SERVICE     INST MED E & SCI                                  
+E25-213A                 136   OFFICE             INST MED E & SCI                                  
+E25-213B                 131   OFFICE             INST MED E & SCI                                  
+E25-214                  200   RSCH LAB-OFFICE    PROVOST RESERVE                                   
+E25-214A                 118   RESEARCH LAB       PROVOST RESERVE                                   
+E25-214B                 162   RESEARCH LAB       PROVOST RESERVE                                   
+E25-217                  495   RESEARCH LAB       INST MED E & SCI                                  
+E25-218                   23   LABORATORY SVC     MATS SCI & ENG                                    
+E25-218A                 482   RESEARCH LAB       MATS SCI & ENG                                    
+E25-221                  234   RSCH LAB-OFFICE    INST MED E & SCI                                  
+E25-225                  565   RESEARCH LAB       INST MED E & SCI                                  
+E25-225A                  73   LABORATORY SVC     INST MED E & SCI                                  
+E25-225B                  94   RESEARCH LAB       INST MED E & SCI                                  
+E25-228                   97   LABORATORY SVC     MATS SCI & ENG                                    
+E25-228A                 916   RESEARCH LAB       MATS SCI & ENG                                    
+E25-229                  281   OFFICE SERVICE     PROVOST RESERVE                                   
+E25-230                  373   RESEARCH LAB       EARTH ATMO&PL SC                                  
+E25-230E                   2   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-231                  193   LABORATORY SVC     EARTH ATMO&PL SC                                  
+E25-233                  206   LABORATORY SVC     EARTH ATMO&PL SC                                  
+E25-234                  139   LABORATORY SVC     EARTH ATMO&PL SC                                  
+E25-234A                 132   LABORATORY SVC     EARTH ATMO&PL SC                                  
+E25-235                  274   OFFICE SERVICE     PROVOST RESERVE                                   
+E25-235A                 217   OFFICE             PROVOST RESERVE                                   
+E25-235B                  83   OFFICE             PROVOST RESERVE                                   
+E25-235C                  81   RSCH LAB-OFFICE    PROVOST RESERVE                                   
+E25-235D                  80   RESEARCH LAB       EARTH ATMO&PL SC                                  
+E25-235F                  83   RESEARCH LAB       EARTH ATMO&PL SC                                  
+E25-235G                  85   LAB SUPPORT SHOP   EARTH ATMO&PL SC                                  
+E25-235H                 149   LABORATORY SVC     EARTH ATMO&PL SC                                  
+E25-235K                 135   LABORATORY SVC     EARTH ATMO&PL SC                                  
+E25-235L                 212   LABORATORY SVC     EARTH ATMO&PL SC                                  
+E25-235M                  12   LABORATORY SVC     EARTH ATMO&PL SC                                  
+E25-235N                  15   LABORATORY SVC     EARTH ATMO&PL SC                                  
+E25-235P                 184   RESEARCH LAB       EARTH ATMO&PL SC                                  
+E25-235Q                 110   RESEARCH LAB       PROVOST RESERVE                                   
+E25-236                  336   OFFICE             EARTH ATMO&PL SC                                  
+E25-236A                 166   OFFICE             EARTH ATMO&PL SC                                  
+E25-236B                   4   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+E25-236C                   7   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+E25-238                1,165   RESEARCH LAB       INST MED E & SCI                                  
+E25-238A                 157   RESEARCH LAB       INST MED E & SCI                                  
+E25-249                   88   LABORATORY SVC     EARTH ATMO&PL SC                                  
+E25-249A                 112   LABORATORY SVC     EARTH ATMO&PL SC                                  
+E25-249B                 272   LABORATORY SVC     EARTH ATMO&PL SC                                  
+E25-250                  197   RSCH LAB-OFFICE    INST MED E & SCI                                  
+E25-250A                 130   LABORATORY SVC     INST MED E & SCI                                  
+E25-250AA                145   RSCH LAB-OFFICE    INST MED E & SCI                                  
+E25-251E                   8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-251J                  20   JANITOR CLOSET     DP OF FACILITIES                                  
+E25-252T                  34   TELECOM CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      16,267                                                                        
+                                                                                                    
+E25-300CB              2,232   CORRIDOR           DP OF FACILITIES                                  
+E25-300CC                340   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+E25-300CD                317   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+E25-300E1                 51   ELEVATOR           DP OF FACILITIES                                  
+E25-300E2                 49   ELEVATOR           DP OF FACILITIES                                  
+E25-300E3                 91   ELEVATOR           DP OF FACILITIES                                  
+E25-300LA                477   LOBBY              DP OF FACILITIES                                  
+E25-300LB                198   LOBBY              DP OF FACILITIES                                  
+E25-300SA                219   STAIRWAY           DP OF FACILITIES                                  
+E25-300SB                184   STAIRWAY           DP OF FACILITIES                                  
+E25-300Z                 429   SHAFT SPACE        DP OF FACILITIES                                  
+E25-302                  299   OFFICE SERVICE     INST MED E & SCI                                  
+E25-302A                  48   OFFICE SERVICE     INST MED E & SCI                                  
+E25-302B                  97   OFFICE             INST MED E & SCI                                  
+E25-302C                 107   OFFICE             INST MED E & SCI                                  
+E25-302D                 141   OFFICE             INST MED E & SCI                                  
+E25-303T                  38   TELECOM CLOSET     DP OF FACILITIES                                  
+E25-305                   18   UTILITY/MECH RM    DP OF FACILITIES                                  
+E25-307                   12   UTILITY/MECH RM    DP OF FACILITIES                                  
+E25-308                  550   OFFICE SERVICE     INST MED E & SCI                                  
+E25-310                  732   OFFICE SERVICE     INST MED E & SCI                                  
+E25-311                  158   MALE LAVATORY      DP OF FACILITIES                                  
+E25-313                  139   FEMALE LAVATORY    DP OF FACILITIES                                  
+E25-313A                  45   UTILITY/MECH RM    DP OF FACILITIES                                  
+E25-313AE                  8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-315E                   7   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-317                  130   LABORATORY SVC     INST MED E & SCI                                  
+E25-317A                 165   RSCH LAB-OFFICE    INST MED E & SCI                                  
+E25-317B                 748   RESEARCH LAB       INST MED E & SCI                                  
+E25-318                  346   OFFICE             INST MED E & SCI                                  
+E25-318A                 184   OFFICE             INST MED E & SCI                                  
+E25-318B                 170   OFFICE             INST MED E & SCI                                  
+E25-319                   97   OFFICE             INST MED E & SCI                                  
+E25-321                   89   OFFICE             INST MED E & SCI                                  
+E25-324                  153   SECY/RECEPTION     INST MED E & SCI                                  
+E25-324A                 186   OFFICE             INST MED E & SCI                                  
+E25-328                  176   CONFERENCE ROOM    INST MED E & SCI                                  
+E25-329                  164   OFFICE             INST MED E & SCI                                  
+E25-330                  193   SECY/RECEPTION     INST MED E & SCI                                  
+E25-331                  751   RESEARCH LAB       INST MED E & SCI                                  
+E25-331A                 195   RESEARCH LAB       INST MED E & SCI                                  
+E25-332                  121   OFFICE             INST MED E & SCI                                  
+E25-333                  165   OFFICE             INST MED E & SCI                                  
+E25-334                  119   OFFICE             INST MED E & SCI                                  
+E25-335                  165   OFFICE             INST MED E & SCI                                  
+E25-336                  108   OFFICE             INST MED E & SCI                                  
+E25-337                  165   OFFICE             INST MED E & SCI                                  
+E25-338                  345   OFFICE             INST MED E & SCI                                  
+E25-339                1,009   RESEARCH LAB       INST MED E & SCI                                  
+E25-339A                  77   LABORATORY SVC     INST MED E & SCI                                  
+E25-339AA                163   LABORATORY SVC     INST MED E & SCI                                  
+E25-339AB                158   LABORATORY SVC     INST MED E & SCI                                  
+E25-341                  298   LABORATORY SVC     INST MED E & SCI                                  
+E25-344                  177   CONFERENCE ROOM    INST MED E & SCI                                  
+E25-348                  170   SECY/RECEPTION     INST MED E & SCI                                  
+E25-348A                 170   OFFICE SERVICE     INST MED E & SCI                                  
+E25-350                  170   OFFICE             INST MED E & SCI                                  
+E25-351                  109   RESEARCH LAB       INST MED E & SCI                                  
+E25-352                  170   OFFICE             INST MED E & SCI                                  
+E25-353                1,062   RESEARCH LAB       INST MED E & SCI                                  
+E25-354                  170   OFFICE             INST MED E & SCI                                  
+E25-355                   96   LABORATORY SVC     INST MED E & SCI                                  
+E25-356                  309   OFFICE             INST MED E & SCI                                  
+E25-357                  161   DARK ROOM          INST MED E & SCI                                  
+E25-357A                  79   LABORATORY SVC     INST MED E & SCI                                  
+E25-357AA                152   RESEARCH LAB       INST MED E & SCI                                  
+E25-358T                  44   TELECOM CLOSET     DP OF FACILITIES                                  
+E25-361E                  44   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-368J                  24   JANITOR CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      16,729                                                                        
+                                                                                                    
+E25-400CA              1,449   CORRIDOR           DP OF FACILITIES                                  
+E25-400CB                161   CORRIDOR           DP OF FACILITIES                                  
+E25-400CC                318   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+E25-400CD                300   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+E25-400E1                 56   ELEVATOR           DP OF FACILITIES                                  
+E25-400E2                 50   ELEVATOR           DP OF FACILITIES                                  
+E25-400E3                 93   ELEVATOR           DP OF FACILITIES                                  
+E25-400LA                594   LOBBY              DP OF FACILITIES                                  
+E25-400SA                205   STAIRWAY           DP OF FACILITIES                                  
+E25-400SB                169   STAIRWAY           DP OF FACILITIES                                  
+E25-400Z                 331   SHAFT SPACE        DP OF FACILITIES                                  
+E25-401                  821   CONFERENCE ROOM    VP-RSCH                                           
+E25-401A                  77   OFFICE SERVICE     VP-RSCH                                           
+E25-401B                  18   OFFICE SERVICE     VP-RSCH                                           
+E25-401C                  16   OFFICE SERVICE     VP-RSCH                                           
+E25-406                  207   SECY/RECEPTION     INST MED E & SCI                                  
+E25-406A                 263   OFFICE             INST MED E & SCI                                  
+E25-406B                 244   OFFICE             INST MED E & SCI                                  
+E25-406C                 368   OFFICE SERVICE     INST MED E & SCI                                  
+E25-406D                  49   OFFICE SERVICE     INST MED E & SCI                                  
+E25-407A                   7   UTILITY/MECH RM    DP OF FACILITIES                                  
+E25-407E                   4   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-407T                  18   TELECOM CLOSET     DP OF FACILITIES                                  
+E25-409                  122   MALE LAVATORY      DP OF FACILITIES                                  
+E25-411                  127   FEMALE LAVATORY    DP OF FACILITIES                                  
+E25-411E                   7   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-413                  298   RESEARCH LAB       INST MED E & SCI                                  
+E25-413A                  47   LABORATORY SVC     INST MED E & SCI                                  
+E25-413B                 164   RESEARCH LAB       INST MED E & SCI                                  
+E25-417                  450   RESEARCH LAB       INST MED E & SCI                                  
+E25-417A                  30   LABORATORY SVC     INST MED E & SCI                                  
+E25-421                  153   LABORATORY SVC     INST MED E & SCI                                  
+E25-421A                 156   RSCH LAB-OFFICE    INST MED E & SCI                                  
+E25-421B                 172   RSCH LAB-OFFICE    INST MED E & SCI                                  
+E25-425                  498   RESEARCH LAB       INST MED E & SCI                                  
+E25-429                  499   RESEARCH LAB       INST MED E & SCI                                  
+E25-430                2,444   RESEARCH LAB       INST MED E & SCI                                  
+E25-430A                 286   RESEARCH LAB       INST MED E & SCI                                  
+E25-430B                 133   RESEARCH LAB       INST MED E & SCI                                  
+E25-430E                   1   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-433                   97   LABORATORY SVC     INST MED E & SCI                                  
+E25-437                   96   LABORATORY SVC     INST MED E & SCI                                  
+E25-438                  120   OFFICE SERVICE     INST MED E & SCI                                  
+E25-438A                 115   OFFICE             INST MED E & SCI                                  
+E25-438AA                238   OFFICE             INST MED E & SCI                                  
+E25-438B                 281   CONFERENCE ROOM    INST MED E & SCI                                  
+E25-442                  761   RESEARCH LAB       INST MED E & SCI                                  
+E25-446                  339   OFFICE             VP-RSCH                                           
+E25-446A                 290   LABORATORY SVC     VP-RSCH                                           
+E25-446B                 343   LABORATORY SVC     VP-RSCH                                           
+E25-449                1,590   RESEARCH LAB       INST MED E & SCI                                  
+E25-449A                 115   LABORATORY SVC     INST MED E & SCI                                  
+E25-449B                 132   LABORATORY SVC     INST MED E & SCI                                  
+E25-449C                 126   RESEARCH LAB       INST MED E & SCI                                  
+E25-449D                 120   LABORATORY SVC     INST MED E & SCI                                  
+E25-449F                 238   RSCH LAB-OFFICE    INST MED E & SCI                                  
+E25-451E                   6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-452T                  21   TELECOM CLOSET     DP OF FACILITIES                                  
+E25-453J                  25   JANITOR CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      16,459                                                                        
+                                                                                                    
+E25-500CA              1,713   CORRIDOR           DP OF FACILITIES                                  
+E25-500CB                156   CORRIDOR           DP OF FACILITIES                                  
+E25-500CC                304   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+E25-500E1                 57   ELEVATOR           DP OF FACILITIES                                  
+E25-500E2                 51   ELEVATOR           DP OF FACILITIES                                  
+E25-500E3                 92   ELEVATOR           DP OF FACILITIES                                  
+E25-500LA                195   LOBBY              DP OF FACILITIES                                  
+E25-500SA                193   STAIRWAY           DP OF FACILITIES                                  
+E25-500SB                161   STAIRWAY           DP OF FACILITIES                                  
+E25-500SD                132   STAIRWAY           DP OF FACILITIES                                  
+E25-500Z                 344   SHAFT SPACE        DP OF FACILITIES                                  
+E25-505                  165   OFFICE SERVICE     INST MED E & SCI                                  
+E25-505A                 151   OFFICE             INST MED E & SCI                                  
+E25-505AA                 19   OFFICE SERVICE     INST MED E & SCI                                  
+E25-505B                 143   OFFICE             INST MED E & SCI                                  
+E25-505C                 238   OFFICE             INST MED E & SCI                                  
+E25-505D                 285   OFFICE             INST MED E & SCI                                  
+E25-505DA                144   OFFICE             INST MED E & SCI                                  
+E25-505DB                 28   OFFICE SERVICE     INST MED E & SCI                                  
+E25-505DC                156   OFFICE             INST MED E & SCI                                  
+E25-505F                  63   SECY/RECEPTION     INST MED E & SCI                                  
+E25-507A                   7   UTILITY/MECH RM    DP OF FACILITIES                                  
+E25-507E                   3   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-507T                  17   TELECOM CLOSET     DP OF FACILITIES                                  
+E25-509                  120   MALE LAVATORY      DP OF FACILITIES                                  
+E25-510                  212   OFFICE SERVICE     INST MED E & SCI                                  
+E25-510A                 166   OFFICE             INST MED E & SCI                                  
+E25-510B                 144   OFFICE             INST MED E & SCI                                  
+E25-510BA                 45   OFFICE             INST MED E & SCI                                  
+E25-510BB                 52   OFFICE             INST MED E & SCI                                  
+E25-510C                 179   OFFICE             INST MED E & SCI                                  
+E25-510D                 110   OFFICE SERVICE     INST MED E & SCI                                  
+E25-510F                  81   OFFICE             INST MED E & SCI                                  
+E25-511                   86   FEMALE LAVATORY    DP OF FACILITIES                                  
+E25-511E                   9   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-518                  203   OFFICE SERVICE     INST MED E & SCI                                  
+E25-518A                 133   OFFICE             INST MED E & SCI                                  
+E25-518B                 203   OFFICE             INST MED E & SCI                                  
+E25-518BA                114   SECY/RECEPTION     INST MED E & SCI                                  
+E25-518C                 183   OFFICE             INST MED E & SCI                                  
+E25-518D                 130   OFFICE             INST MED E & SCI                                  
+E25-519                  608   OFFICE SERVICE     INST MED E & SCI                                  
+E25-519A                  73   OFFICE SERVICE     INST MED E & SCI                                  
+E25-519B                 168   OFFICE             INST MED E & SCI                                  
+E25-519C                 115   OFFICE             INST MED E & SCI                                  
+E25-519D                 123   OFFICE             INST MED E & SCI                                  
+E25-521                   28   OFFICE SERVICE     INST MED E & SCI                                  
+E25-521A                 399   CONFERENCE ROOM    INST MED E & SCI                                  
+E25-524                  521   RESEARCH LAB       INST MED E & SCI                                  
+E25-525                  217   SECY/RECEPTION     VP-RSCH                                           
+E25-525A                 139   OFFICE             VP-RSCH                                           
+E25-525B                 135   CONFERENCE ROOM    VP-RSCH                                           
+E25-526                  114   OFFICE SERVICE     INST MED E & SCI                                  
+E25-526A                  41   SECY/RECEPTION     INST MED E & SCI                                  
+E25-526B                 180   OFFICE SERVICE     INST MED E & SCI                                  
+E25-526C                 167   OFFICE             INST MED E & SCI                                  
+E25-529                  492   RESEARCH LAB       INST MED E & SCI                                  
+E25-530                  484   RSCH LAB-OFFICE    INST MED E & SCI                                  
+E25-533                  505   RESEARCH LAB       INST MED E & SCI                                  
+E25-537                  496   LABORATORY SVC     INST MED E & SCI                                  
+E25-538                  753   RESEARCH LAB       INST MED E & SCI                                  
+E25-540                   58   RESEARCH LAB       INST MED E & SCI                                  
+E25-540A                 192   RESEARCH LAB       INST MED E & SCI                                  
+E25-541                   93   LABORATORY SVC     INST MED E & SCI                                  
+E25-544                  105   RESEARCH LAB       INST MED E & SCI                                  
+E25-545                  192   OFFICE SERVICE     INST MED E & SCI                                  
+E25-545A                 199   OFFICE             INST MED E & SCI                                  
+E25-545B                 180   OFFICE             INST MED E & SCI                                  
+E25-545C                 197   OFFICE             INST MED E & SCI                                  
+E25-545D                   4   OFFICE SERVICE     INST MED E & SCI                                  
+E25-545F                   3   OFFICE SERVICE     INST MED E & SCI                                  
+E25-546                  377   LABORATORY SVC     INST MED E & SCI                                  
+E25-547                   90   LABORATORY SVC     INST MED E & SCI                                  
+E25-548                  503   RESEARCH LAB       INST MED E & SCI                                  
+E25-549                  106   LABORATORY SVC     INST MED E & SCI                                  
+E25-550                  496   RESEARCH LAB       INST MED E & SCI                                  
+E25-551                   99   SECY/RECEPTION     INST MED E & SCI                                  
+E25-551A                 285   OFFICE             INST MED E & SCI                                  
+E25-551E                   8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-553J                  24   JANITOR CLOSET     DP OF FACILITIES                                  
+E25-554T                  23   TELECOM CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      15,978                                                                        
+                                                                                                    
+E25-600CA              2,102   CORRIDOR           DP OF FACILITIES                                  
+E25-600CB                288   CORRIDOR           DP OF FACILITIES                                  
+E25-600E1                 61   ELEVATOR           DP OF FACILITIES                                  
+E25-600E2                 51   ELEVATOR           DP OF FACILITIES                                  
+E25-600E3                 91   ELEVATOR           DP OF FACILITIES                                  
+E25-600LA                112   LOBBY              DP OF FACILITIES                                  
+E25-600SB                162   STAIRWAY           DP OF FACILITIES                                  
+E25-600SD                109   STAIRWAY           DP OF FACILITIES                                  
+E25-600Z                 397   SHAFT SPACE        DP OF FACILITIES                                  
+E25-601                   95   OFFICE             EARTH ATMO&PL SC                                  
+E25-601A                 136   OFFICE             EARTH ATMO&PL SC                                  
+E25-602                   69   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+E25-603                  177   OFFICE             EARTH ATMO&PL SC                                  
+E25-604                   87   OFFICE             EARTH ATMO&PL SC                                  
+E25-604E                   9   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-605                  604   CONFERENCE ROOM    EARTH ATMO&PL SC                                  
+E25-605T                  16   TELECOM CLOSET     DP OF FACILITIES                                  
+E25-606                   46   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+E25-607A                   7   UTILITY/MECH RM    DP OF FACILITIES                                  
+E25-607E                   4   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-608                  150   OFFICE             EARTH ATMO&PL SC                                  
+E25-609                  120   MALE LAVATORY      DP OF FACILITIES                                  
+E25-610                  141   OFFICE             EARTH ATMO&PL SC                                  
+E25-611                  102   FEMALE LAVATORY    DP OF FACILITIES                                  
+E25-611E                  10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-612                  133   OFFICE             EARTH ATMO&PL SC                                  
+E25-614                  549   RESEARCH LAB       EARTH ATMO&PL SC                                  
+E25-615                  117   OFFICE             EARTH ATMO&PL SC                                  
+E25-616                1,035   RESEARCH LAB       EARTH ATMO&PL SC                                  
+E25-616A                  48   LABORATORY SVC     EARTH ATMO&PL SC                                  
+E25-616AA                172   RESEARCH LAB       EARTH ATMO&PL SC                                  
+E25-616B                 165   RESEARCH LAB       EARTH ATMO&PL SC                                  
+E25-618                2,075   RESEARCH LAB       EARTH ATMO&PL SC                                  
+E25-618A                 236   LABORATORY SVC     EARTH ATMO&PL SC                                  
+E25-618B                 191   RESEARCH LAB       EARTH ATMO&PL SC                                  
+E25-619                  229   OFFICE             EARTH ATMO&PL SC                                  
+E25-620E                  30   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-621                  112   OFFICE             EARTH ATMO&PL SC                                  
+E25-623                  113   OFFICE             EARTH ATMO&PL SC                                  
+E25-625                  229   OFFICE             EARTH ATMO&PL SC                                  
+E25-629                  112   OFFICE             EARTH ATMO&PL SC                                  
+E25-630                  620   RESEARCH LAB       EARTH ATMO&PL SC                                  
+E25-630A                  53   LABORATORY SVC     EARTH ATMO&PL SC                                  
+E25-630B                 298   RESEARCH LAB       EARTH ATMO&PL SC                                  
+E25-630C                  31   LABORATORY SVC     EARTH ATMO&PL SC                                  
+E25-630E                  19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-631                  113   OFFICE             EARTH ATMO&PL SC                                  
+E25-632                   48   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+E25-632E                   5   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-633                  229   OFFICE             EARTH ATMO&PL SC                                  
+E25-634                  144   LABORATORY SVC     EARTH ATMO&PL SC                                  
+E25-637                  112   OFFICE             EARTH ATMO&PL SC                                  
+E25-638                   83   LABORATORY SVC     EARTH ATMO&PL SC                                  
+E25-639                  113   OFFICE             EARTH ATMO&PL SC                                  
+E25-640                   31   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+E25-640AE                  6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-640E                   6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-641                  229   OFFICE             EARTH ATMO&PL SC                                  
+E25-642                   84   LABORATORY SVC     EARTH ATMO&PL SC                                  
+E25-645                  112   OFFICE             EARTH ATMO&PL SC                                  
+E25-647                  113   OFFICE             EARTH ATMO&PL SC                                  
+E25-649                  229   OFFICE             EARTH ATMO&PL SC                                  
+E25-650                   41   RESEARCH LAB       EARTH ATMO&PL SC                                  
+E25-650A                 106   RESEARCH LAB       EARTH ATMO&PL SC                                  
+E25-650B               1,180   RESEARCH LAB       EARTH ATMO&PL SC                                  
+E25-650C               1,607   RESEARCH LAB       EARTH ATMO&PL SC                                  
+E25-650F                 173   RESEARCH LAB       EARTH ATMO&PL SC                                  
+E25-651E                   9   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E25-653                  110   OFFICE             EARTH ATMO&PL SC                                  
+E25-653J                  30   JANITOR CLOSET     DP OF FACILITIES                                  
+E25-654                  108   LABORATORY SVC     EARTH ATMO&PL SC                                  
+E25-654T                  43   TELECOM CLOSET     DP OF FACILITIES   

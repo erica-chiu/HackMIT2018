@@ -1,0 +1,159 @@
+W59-000CA                232   CORRIDOR           DP OF FACILITIES                                  
+W59-000CB                351   CORRIDOR           DP OF FACILITIES                                  
+W59-000CC                326   CORRIDOR           DP OF FACILITIES                                  
+W59-000CD                617   CORRIDOR           DP OF FACILITIES                                  
+W59-000E1                 61   ELEVATOR           DP OF FACILITIES                                  
+W59-000LA                168   LOBBY              DP OF FACILITIES                                  
+W59-000SA                 89   STAIRWAY           DP OF FACILITIES                                  
+W59-000SB                419   STAIRWAY           DP OF FACILITIES                                  
+W59-000Z                  50   SHAFT SPACE        DP OF FACILITIES                                  
+W59-004                  464   UTILITY/MECH RM    DP OF FACILITIES                                  
+W59-004T                  73   TELECOM CLOSET     DP OF FACILITIES                                  
+W59-026                1,057   OFFICE SERVICE     ROTC-MILITARY SC                                  
+W59-026A                  87   OFFICE             ROTC-MILITARY SC                                  
+W59-027                  128   OFFICE SERVICE     ROTC-MILITARY SC                                  
+W59-039                  392   OFFICE             PROVOST RESERVE        GROUNDS TEAM 4             
+W59-044                  235   OFFICE SERVICE     PROVOST RESERVE                                   
+W59-046                  284   OFFICE             PROVOST RESERVE                                   
+W59-051                1,044   CLASSROOM          DEAN-UNDERGRD ED       ROTC                       
+W59-051A                  23   CLASSROOM SVC      DEAN-UNDERGRD ED       ROTC                       
+W59-051B                  51   UTILITY/MECH RM    DP OF FACILITIES                                  
+W59-052                   56   UTILITY/MECH RM    DP OF FACILITIES                                  
+W59-054                  745   OFFICE SERVICE     ROTC-AEROSPACE                                    
+W59-073                  890   CLASSROOM          DEAN-UNDERGRD ED       ROTC                       
+W59-076                  268   OFFICE SERVICE     DEAN-UNDERGRD ED       ROTC                       
+W59-076A                 144   OFFICE SERVICE     DEAN-UNDERGRD ED       ROTC                       
+W59-076B                 137   OFFICE             DEAN-UNDERGRD ED                                  
+W59-080                  484   UTILITY/MECH RM    DP OF FACILITIES                                  
+W59-082                  400   STORAGE FACILITY   DP OF FACIL ADM                                   
+W59-084J                  50   JANITOR CLOSET     DP OF FACILITIES                                  
+W59-086                  221   MALE LAVATORY      DP OF FACILITIES                                  
+W59-088                  199   FEMALE LAVATORY    DP OF FACILITIES                                  
+W59-090                  434   RECREATION FACIL   DEAN-UNDERGRD ED       ROTC                       
+W59-096                  994   OFFICE SERVICE     ROTC-NAVAL SC                                     
+W59-096A                   7   UTILITY/MECH RM    DP OF FACILITIES                                  
+W59-096B                 170   OFFICE SERVICE     ROTC-NAVAL SC                                     
+W59-096C                  71   OFFICE             ROTC-NAVAL SC                                     
+                    --------                                                                        
+                      11,419                                                                        
+                                                                                                    
+W59-100CA                723   CORRIDOR           DP OF FACILITIES                                  
+W59-100CB                212   CORRIDOR           DP OF FACILITIES                                  
+W59-100E1                 59   ELEVATOR           DP OF FACILITIES                                  
+W59-100LA                333   LOBBY              DP OF FACILITIES                                  
+W59-100SA                236   STAIRWAY           DP OF FACILITIES                                  
+W59-100SB                100   STAIRWAY           DP OF FACILITIES                                  
+W59-100Z                  68   SHAFT SPACE        DP OF FACILITIES                                  
+W59-108                  219   OFFICE             ROTC-NAVAL SC                                     
+W59-110                  499   OFFICE SERVICE     ROTC-NAVAL SC                                     
+W59-110A                  11   OFFICE SERVICE     ROTC-NAVAL SC                                     
+W59-110B                 145   OFFICE SERVICE     ROTC-NAVAL SC                                     
+W59-110C                  51   OFFICE SERVICE     ROTC-NAVAL SC                                     
+W59-110D                  93   SECY/RECEPTION     ROTC-NAVAL SC                                     
+W59-110F                  60   OFFICE             ROTC-NAVAL SC                                     
+W59-110FA                 64   OFFICE             ROTC-NAVAL SC                                     
+W59-110G                 116   OFFICE             ROTC-NAVAL SC                                     
+W59-114                  506   PVT CIRCULATION    ROTC-AEROSPACE                                    
+W59-114A                  13   OFFICE SERVICE     ROTC-AEROSPACE                                    
+W59-114AA                113   OFFICE SERVICE     ROTC-AEROSPACE                                    
+W59-114AB                197   SECY/RECEPTION     ROTC-AEROSPACE                                    
+W59-114AC                129   OFFICE             ROTC-AEROSPACE                                    
+W59-114AD                131   OFFICE             ROTC-AEROSPACE                                    
+W59-114B                  14   OFFICE SERVICE     ROTC-AEROSPACE                                    
+W59-114C                 171   OFFICE SERVICE     ROTC-AEROSPACE                                    
+W59-114CA                 84   OFFICE SERVICE     ROTC-AEROSPACE                                    
+W59-116                  222   OFFICE             ROTC-AEROSPACE                                    
+W59-120                  158   OFFICE             ROTC-AEROSPACE                                    
+W59-122                  165   OFFICE             ROTC-AEROSPACE                                    
+W59-124                  204   OFFICE SERVICE     ROTC-AEROSPACE                                    
+W59-126                  187   OFFICE             ROTC-AEROSPACE                                    
+W59-127                  192   OFFICE SERVICE     ROTC-AEROSPACE                                    
+W59-131                  844   OFFICE SERVICE     ROTC-AEROSPACE                                    
+W59-131A                  36   OFFICE SERVICE     ROTC-AEROSPACE                                    
+W59-135J                 120   JANITOR CLOSET     DP OF FACILITIES                                  
+W59-135T                  57   TELECOM CLOSET     DP OF FACILITIES                                  
+W59-142                  146   OFFICE             ROTC-NAVAL SC                                     
+W59-142A                 185   OFFICE             ROTC-NAVAL SC                                     
+W59-144                  213   OFFICE             ROTC-NAVAL SC                                     
+W59-147                  562   CLASSROOM          DEAN-UNDERGRD ED       ROTC                       
+W59-149                  546   CLASSROOM          DEAN-UNDERGRD ED       ROTC                       
+W59-149A                  13   CLASSROOM SVC      DEAN-UNDERGRD ED       ROTC                       
+W59-154                  189   OFFICE             ROTC-MILITARY SC                                  
+W59-156                  360   PVT CIRCULATION    ROTC-MILITARY SC                                  
+W59-156A                  53   OFFICE             ROTC-MILITARY SC                                  
+W59-156AA                 53   OFFICE             ROTC-MILITARY SC                                  
+W59-156AB                 53   OFFICE             ROTC-MILITARY SC                                  
+W59-156B                  20   OFFICE SERVICE     ROTC-MILITARY SC                                  
+W59-159                  832   OFFICE SERVICE     ROTC-MILITARY SC                                  
+W59-161                   81   OFFICE SERVICE     ROTC-MILITARY SC                                  
+W59-163                  151   OFFICE             ROTC-MILITARY SC                                  
+W59-164                  310   OFFICE SERVICE     DEAN-UNDERGRD ED       ROTC                       
+W59-166                  105   FEMALE LAVATORY    DP OF FACILITIES                                  
+W59-168                  105   MALE LAVATORY      DP OF FACILITIES                                  
+W59-170                  168   OFFICE SERVICE     DEAN-UNDERGRD ED       ROTC                       
+W59-170J                   8   JANITOR CLOSET     DP OF FACILITIES                                  
+W59-172                  632   OFFICE SERVICE     ROTC-NAVAL SC                                     
+W59-172A                  97   OFFICE             ROTC-NAVAL SC                                     
+W59-175                  508   PVT CIRCULATION    ROTC-NAVAL SC                                     
+W59-176                  150   OFFICE             ROTC-NAVAL SC                                     
+W59-178                  126   OFFICE             ROTC-NAVAL SC                                     
+W59-180                  171   OFFICE             ROTC-NAVAL SC                                     
+W59-192                  822   OFFICE SERVICE     ROTC-MILITARY SC                                  
+W59-192A                 159   OFFICE             ROTC-MILITARY SC                                  
+W59-192B                  48   OFFICE SERVICE     ROTC-MILITARY SC                                  
+W59-192D                  63   SECY/RECEPTION     ROTC-MILITARY SC                                  
+W59-194                  175   OFFICE             ROTC-MILITARY SC                                  
+W59-196                  163   OFFICE             ROTC-MILITARY SC                                  
+W59-198                  237   OFFICE             ROTC-MILITARY SC                                  
+                    --------                                                                        
+                      14,028                                                                        
+                                                                                                    
+W59-200E1                 77   ELEVATOR           DP OF FACILITIES                                  
+W59-200LA                300   LOBBY              DP OF FACILITIES                                  
+W59-200SA                138   STAIRWAY           DP OF FACILITIES                                  
+W59-200Z                  28   SHAFT SPACE        DP OF FACILITIES                                  
+W59-201                  224   OFFICE             DEAN-STU LIFE          HOUSING ADMN               
+W59-203                  133   OFFICE             DEAN-STU LIFE          HOUSING ADMN               
+W59-204                  507   OFFICE SERVICE     DEAN-STU LIFE                                     
+W59-204A                  50   SECY/RECEPTION     DEAN-STU LIFE          HOUSING AMN                
+W59-204B                  51   OFFICE             DEAN-STU LIFE          HOUSING ADMN               
+W59-204C                  71   OFFICE             DEAN-STU LIFE          HOUSING ADMN               
+W59-204D                  71   OFFICE             DEAN-STU LIFE          HOUSING ADMN               
+W59-204F                  53   OFFICE             DEAN-STU LIFE          HOUSING ADMN               
+W59-204G                  52   OFFICE             DEAN-STU LIFE          HOUSING ADMN               
+W59-205                   94   OFFICE             DEAN-STU LIFE          HOUSING ADMN               
+W59-207                   98   OFFICE             DEAN-STU LIFE          HOUSING ADMN               
+W59-209                  101   OFFICE             DEAN-STU LIFE          HOUSING ADMN               
+W59-210                  105   OFFICE             DEAN-STU LIFE          HOUSING ADMN               
+W59-211                  101   OFFICE             DEAN-STU LIFE          HOUSING ADMN               
+W59-212                  104   OFFICE             CAMPUS DINING          DINING ADMN                
+W59-213                  140   OFFICE             DEAN-STU LIFE          HOUSING ADMN               
+W59-215                   96   OFFICE             DEAN-STU LIFE          HOUSING ADMN               
+W59-217                  101   OFFICE             DEAN-STU LIFE          HOUSING ADMN               
+W59-219                  104   OFFICE             CAMPUS DINING          DINING ADMN                
+W59-220                  452   OFFICE SERVICE     DEAN-STU LIFE          HOUSING ADMN               
+W59-220A                  88   SECY/RECEPTION     DEAN-STU LIFE          HOUSING ADMN               
+W59-220C                  63   OFFICE SERVICE     DEAN-STU LIFE          HOUSING ADMN               
+W59-220D                  58   OFFICE SERVICE     DEAN-STU LIFE          HOUSING ADMN               
+W59-220F                  86   OFFICE             DEAN-STU LIFE          HOUSING ADMN               
+W59-220G                  96   OFFICE             CAMPUS DINING          DINING ADMN                
+W59-220H                   6   OFFICE SERVICE     DEAN-STU LIFE          HOUSING ADMN               
+W59-220K                 238   PVT CIRCULATION    DEAN-STU LIFE          HOUSING ADMN               
+W59-221                  203   OFFICE SERVICE     DEAN-STU LIFE          HOUSING ADMN               
+W59-222                   90   OFFICE             DEAN-STU LIFE          HOUSING ADMN               
+W59-223                   62   OFFICE SERVICE     DEAN-STU LIFE          HOUSING ADMN               
+W59-224                  135   OFFICE             DEAN-STU LIFE          HOUSING ADMN               
+W59-225                  174   MALE LAVATORY      DP OF FACILITIES                                  
+W59-225J                  20   JANITOR CLOSET     DP OF FACILITIES                                  
+W59-226                  263   OFFICE SERVICE     DEAN-STU LIFE          HOUSING ADMN               
+W59-226A                 167   CONFERENCE ROOM    DEAN-STU LIFE          HOUSING ADMN               
+W59-226B                  53   OFFICE             DEAN-STU LIFE          HOUSING ADMN               
+W59-226C                  67   OFFICE             DEAN-STU LIFE          HOUSING ADMN               
+W59-227                  184   FEMALE LAVATORY    DP OF FACILITIES                                  
+W59-229A                  85   OFFICE             ATHLETICS                                         
+W59-229B                  85   OFFICE             ATHLETICS                                         
+W59-229C                 421   OFFICE SERVICE     ATHLETICS                                         
+W59-229Z                  15   SHAFT SPACE        DP OF FACILITIES                                  
+W59-231                  118   OFFICE             ATHLETICS                                         
+W59-233                  103   OFFICE             ATHLETICS                                         
+W59-237                  266   CONFERENCE ROOM    DEAN-STU LIFE          HOUSING ADMN 

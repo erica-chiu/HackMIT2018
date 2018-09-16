@@ -1,0 +1,330 @@
+N52-000CA              1,824   CORRIDOR           DP OF FACILITIES                                  
+N52-000CB                494   CORRIDOR           DP OF FACILITIES                                  
+N52-000CD                690   CORRIDOR           DP OF FACILITIES                                  
+N52-000E1                 90   ELEVATOR           DP OF FACILITIES                                  
+N52-000E2                 68   ELEVATOR           DP OF FACILITIES                                  
+N52-000SA                 82   STAIRWAY           DP OF FACILITIES                                  
+N52-000SC                128   STAIRWAY           DP OF FACILITIES                                  
+N52-000SD                 16   STAIRWAY           DP OF FACILITIES                                  
+N52-000SE                126   STAIRWAY           DP OF FACILITIES                                  
+N52-000Z                 762   SHAFT SPACE        DP OF FACILITIES                                  
+N52-008                  521   UTILITY/MECH RM    DP OF FACILITIES                                  
+N52-012                1,393   UTILITY/MECH RM    DP OF FACILITIES                                  
+N52-017                  570   UTILITY/MECH RM    DP OF FACILITIES                                  
+N52-018                  410   UTILITY/MECH RM    DP OF FACILITIES                                  
+N52-023                  189   UTILITY/MECH RM    DP OF FACILITIES                                  
+N52-025                   61   UTILITY/MECH RM    DP OF FACILITIES                                  
+N52-025A                  93   UTILITY/MECH RM    DP OF FACILITIES                                  
+N52-027                   93   UTILITY/MECH RM    DP OF FACILITIES                                  
+N52-029                  497   EXHIBITION SVC     MIT MUSEUM                                        
+N52-033                   97   EXHIBITION SVC     MIT MUSEUM                                        
+N52-038                  767   EXHIBITION SVC     MIT MUSEUM                                        
+N52-041                  309   EXHIBITION SVC     MIT MUSEUM                                        
+N52-047                1,087   EXHIBITION SVC     MIT MUSEUM             MIT MUSEUM                 
+N52-048                  275   EXHIBITION SVC     MIT MUSEUM             FURN EXCHANGE              
+N52-051                   29   UTILITY/MECH RM    DP OF FACILITIES                                  
+N52-055                  609   OFFICE SERVICE     PROVOST RESERVE                                   
+N52-057                  578   EXHIBITION SVC     ENV HLTH & SAFE                                   
+N52-059                  436   EXHIBITION SVC     ENV HLTH & SAFE                                   
+N52-064                  498   EXHIBITION SVC     MIT MUSEUM                                        
+N52-070                  101   UTILITY/MECH RM    DP OF FACILITIES                                  
+N52-072                2,797   OFFICE SERVICE     MIT MUSEUM                                        
+N52-089                  542   EXHIBITION SVC     MIT MUSEUM             GRAPHIC ARTS               
+N52-090                  670   EXHIBITION SVC     MIT MUSEUM                                        
+N52-090A                 133   UTILITY/MECH RM    DP OF FACILITIES                                  
+N52-098                  650   EXHIBITION SVC     MIT MUSEUM                                        
+N52-099                   81   UTILITY/MECH RM    DP OF FACILITIES                                  
+N52-099A                 489   EXHIBITION SVC     MIT MUSEUM             GRAPHIC ARTS               
+                    --------                                                                        
+                      18,255                                                                        
+                                                                                                    
+N52-100CA              1,635   CORRIDOR           DP OF FACILITIES                                  
+N52-100CB                255   CORRIDOR           DP OF FACILITIES                                  
+N52-100CC                809   CORRIDOR           DP OF FACILITIES                                  
+N52-100CD                115   CORRIDOR           DP OF FACILITIES                                  
+N52-100CE                315   CORRIDOR           DP OF FACILITIES                                  
+N52-100E1                 93   ELEVATOR           DP OF FACILITIES                                  
+N52-100E2                 90   ELEVATOR           DP OF FACILITIES                                  
+N52-100LA                139   LOBBY              DP OF FACILITIES                                  
+N52-100SA                150   STAIRWAY           DP OF FACILITIES                                  
+N52-100SB                 64   STAIRWAY           DP OF FACILITIES                                  
+N52-100SC                127   STAIRWAY           DP OF FACILITIES                                  
+N52-100SD                218   STAIRWAY           DP OF FACILITIES                                  
+N52-100SE                114   STAIRWAY           DP OF FACILITIES                                  
+N52-100SF                 16   STAIRWAY           DP OF FACILITIES                                  
+N52-100Z                  37   SHAFT SPACE        DP OF FACILITIES                                  
+N52-115                  931   RECREATION FACIL   STU ACTIVITIES                                    
+N52-115A                 150   OFFICE             STU ACTIVITIES                                    
+N52-118                1,252   RECREATION FACIL   STU ACTIVITIES                                    
+N52-120                  264   RECEIVING ROOM     DP OF FACIL ADM                                   
+N52-120A                 240   RECEIVING ROOM     DP OF FACIL ADM                                   
+N52-123                   69   MALE LAVATORY      DP OF FACILITIES                                  
+N52-123T                  93   TELECOM CLOSET     DP OF FACILITIES                                  
+N52-125                   65   PUBLIC LAVATORY    DP OF FACILITIES                                  
+N52-125J                  14   JANITOR CLOSET     DP OF FACILITIES                                  
+N52-126                   50   FEMALE LAVATORY    DP OF FACILITIES                                  
+N52-127                  302   OFFICE             PROVOST RESERVE        CAVS                       
+N52-130                1,028   OFFICE SERVICE     OFF OF PROVOST         EOP                        
+N52-131                  147   OFFICE SERVICE     PROVOST RESERVE                                   
+N52-133                  111   OFFICE SERVICE     OFF OF PROVOST         EOP                        
+N52-135                   63   SECY/RECEPTION     OFF OF PROVOST                                    
+N52-135A                  82   OFFICE SERVICE     OFF OF PROVOST                                    
+N52-142                  193   CONFERENCE ROOM    OFF OF PROVOST                                    
+N52-143                  161   OFFICE             OFF OF PROVOST                                    
+N52-144                  476   OFFICE             OFF OF PROVOST                                    
+N52-145                  160   OFFICE             OFF OF PROVOST                                    
+N52-146                  246   OFFICE             OFF OF PROVOST                                    
+N52-148                  175   OFFICE             OFF OF PROVOST                                    
+N52-149                  924   OFFICE SERVICE     OFF OF PROVOST                                    
+N52-149A                 346   OFFICE SERVICE     OFF OF PROVOST                                    
+N52-150                  177   OFFICE             OFF OF PROVOST                                    
+N52-152                  474   CLASSROOM SVC      OFF OF PROVOST                                    
+N52-153                  397   CLASSROOM          OFF OF PROVOST                                    
+N52-155                  469   CLASSROOM          OFF OF PROVOST                                    
+N52-156                  414   CLASSROOM          OFF OF PROVOST                                    
+N52-170                  320   OFFICE SERVICE     PROVOST RESERVE        EOP                        
+N52-171                   31   OFFICE SERVICE     DP OF FACIL ADM        ZONE D                     
+N52-171A                  43   PVT LAVATORY       DP OF FACIL ADM        ZONE D                     
+N52-171B                  75   PVT LAVATORY       DP OF FACIL ADM        ZONE D                     
+N52-171C                 150   OFFICE SERVICE     DP OF FACIL ADM        ZONE D                     
+N52-171D                   5   STORAGE FACILITY   DP OF FACIL ADM                                   
+N52-172                   84   OFFICE SERVICE     DP OF FACIL ADM                                   
+N52-173                  538   MAINTENANCE SHOP   DP OF FACIL ADM        ZONE D                     
+N52-175                  309   OFFICE             DP OF FACIL ADM        ZONE D                     
+N52-175A                 144   OFFICE SERVICE     DP OF FACIL ADM        ZONE D                     
+N52-175B                  62   OFFICE SERVICE     DP OF FACIL ADM        ZONE D                     
+N52-178                  308   STORAGE FACILITY   DP OF FACIL ADM                                   
+N52-179                   41   OFFICE SERVICE     DP OF FACIL ADM        ZONE D                     
+N52-185                  150   RECEIVING ROOM     DP OF FACIL ADM                                   
+N52-186                  304   RECREATION FACIL   STU ACTIVITIES                                    
+N52-187                  103   RECREATION FACIL   STU ACTIVITIES                                    
+N52-194                  341   RECREATION FACIL   STU ACTIVITIES                                    
+N52-196                   75   MAIL ROOM          DP OF FACIL ADM                                   
+N52-197                   28   UTILITY/MECH RM    DP OF FACILITIES                                  
+N52-198                  354   OFFICE SERVICE     PROVOST RESERVE        EOP                        
+N52-199                1,025   MUSIC PRACTICE     MUSIC & THEATER ART                               
+N52-199A                  22   LABORATORY SVC     MUSIC & THEATER ART                               
+N52-199B                  40   LABORATORY SVC     MUSIC & THEATER ART                               
+N52-199C                  15   LABORATORY SVC     MUSIC & THEATER ART                               
+N52-199D                  15   LABORATORY SVC     MUSIC & THEATER ART                               
+N52-199E                  11   LABORATORY SVC     MUSIC & THEATER ART                               
+N52-199F                  28   LABORATORY SVC     MUSIC & THEATER ART                               
+                    --------                                                                        
+                      18,268                                                                        
+                                                                                                    
+N52-200CA                959   CORRIDOR           DP OF FACILITIES                                  
+N52-200E1                 93   ELEVATOR           DP OF FACILITIES                                  
+N52-200E2                 89   ELEVATOR           DP OF FACILITIES                                  
+N52-200SA                155   STAIRWAY           DP OF FACILITIES                                  
+N52-200SB                 62   STAIRWAY           DP OF FACILITIES                                  
+N52-200SC                126   STAIRWAY           DP OF FACILITIES                                  
+N52-200SD                183   STAIRWAY           DP OF FACILITIES                                  
+N52-200SE                130   STAIRWAY           DP OF FACILITIES                                  
+N52-200SF                170   STAIRWAY           DP OF FACILITIES                                  
+N52-200Z                 368   SHAFT SPACE        DP OF FACILITIES                                  
+N52-213                  408   EXHIBITION SVC     MIT MUSEUM                                        
+N52-213A                  18   OFFICE SERVICE     MIT MUSEUM                                        
+N52-214                  174   EXHIBITION SVC     MIT MUSEUM                                        
+N52-214A                 105   EXHIBITION SVC     MIT MUSEUM                                        
+N52-214AA                  4   EXHIBITION SVC     MIT MUSEUM                                        
+N52-215                  925   EXHIBITION SVC     MIT MUSEUM                                        
+N52-216                  178   EXHIBITION SVC     MIT MUSEUM                                        
+N52-217                  420   EXHIBITION SVC     MIT MUSEUM                                        
+N52-217A                 100   OFFICE             MIT MUSEUM                                        
+N52-218                  307   EXHIBITION FACIL   MIT MUSEUM                                        
+N52-218A                 468   EXHIBITION SVC     MIT MUSEUM                                        
+N52-218B                 195   OFFICE             MIT MUSEUM                                        
+N52-218BA                141   EXHIBITION SVC     MIT MUSEUM                                        
+N52-221                   60   OFFICE SERVICE     MIT MUSEUM                                        
+N52-225                   37   UTILITY/MECH RM    DP OF FACILITIES                                  
+N52-227                  102   SECY/RECEPTION     MIT MUSEUM                                        
+N52-227A                  36   UTILITY/MECH RM    DP OF FACILITIES                                  
+N52-235E                  14   ELECTRIC CLOSET    DP OF FACILITIES                                  
+N52-237E                  13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+N52-239                4,531   EXHIBITION FACIL   MIT MUSEUM                                        
+N52-239A                 166   EXHIBITION SVC     MIT MUSEUM                                        
+N52-239B                 135   UTILITY/MECH RM    DP OF FACILITIES                                  
+N52-264                  369   EXHIBITION FACIL   MIT MUSEUM                                        
+N52-264A               1,205   EXHIBITION FACIL   MIT MUSEUM                                        
+N52-264Z                 159   SHAFT SPACE        DP OF FACILITIES                                  
+N52-272                1,573   EXHIBITION FACIL   MIT MUSEUM                                        
+N52-272A                 137   EXHIBITION SVC     MIT MUSEUM                                        
+N52-272B                 119   EXHIBITION SVC     MIT MUSEUM                                        
+N52-272C                 270   EXHIBITION SVC     MIT MUSEUM                                        
+N52-283                  431   EXHIBITION FACIL   MIT MUSEUM                                        
+N52-284                  235   EXHIBITION SVC     MIT MUSEUM                                        
+N52-285                  351   EXHIBITION FACIL   MIT MUSEUM                                        
+N52-285Z                  73   SHAFT SPACE        DP OF FACILITIES                                  
+N52-286                  318   EXHIBITION FACIL   MIT MUSEUM                                        
+N52-297                1,137   EXHIBITION FACIL   MIT MUSEUM                                        
+N52-299                1,542   EXHIBITION FACIL   MIT MUSEUM                                        
+N52-299A                  73   EXHIBITION SVC     MIT MUSEUM                                        
+                    --------                                                                        
+                      18,862                                                                        
+                                                                                                    
+N52-300CB                298   CORRIDOR           DP OF FACILITIES                                  
+N52-300CC              1,577   CORRIDOR           DP OF FACILITIES                                  
+N52-300E1                 93   ELEVATOR           DP OF FACILITIES                                  
+N52-300E2                 90   ELEVATOR           DP OF FACILITIES                                  
+N52-300LA                138   LOBBY              DP OF FACILITIES                                  
+N52-300SA                155   STAIRWAY           DP OF FACILITIES                                  
+N52-300SB                 62   STAIRWAY           DP OF FACILITIES                                  
+N52-300SC                127   STAIRWAY           DP OF FACILITIES                                  
+N52-300SD                184   STAIRWAY           DP OF FACILITIES                                  
+N52-300SE                130   STAIRWAY           DP OF FACILITIES                                  
+N52-300Z                  12   SHAFT SPACE        DP OF FACILITIES                                  
+N52-314                  297   STUDIO             PROVOST RESERVE                                   
+N52-318                1,357   LAB SUPPORT SHOP   PROVOST RESERVE                                   
+N52-318A                 196   STUDIO             PROVOST RESERVE                                   
+N52-318B                 187   STUDIO             PROVOST RESERVE                                   
+N52-318C                 193   STUDIO             PROVOST RESERVE                                   
+N52-318D                 188   STUDIO             PROVOST RESERVE                                   
+N52-318F                 197   STUDIO             PROVOST RESERVE                                   
+N52-318G                 173   STUDIO             PROVOST RESERVE                                   
+N52-318H                 230   STUDIO             PROVOST RESERVE                                   
+N52-318K                 199   STUDIO             PROVOST RESERVE                                   
+N52-318L                 203   STUDIO             PROVOST RESERVE                                   
+N52-319E                  17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+N52-321E                  51   ELECTRIC CLOSET    DP OF FACILITIES                                  
+N52-323                   68   MALE LAVATORY      DP OF FACILITIES                                  
+N52-323T                  53   TELECOM CLOSET     DP OF FACILITIES                                  
+N52-325                   68   PUBLIC LAVATORY    DP OF FACILITIES                                  
+N52-325J                  34   JANITOR CLOSET     DP OF FACILITIES                                  
+N52-331                  103   FEMALE LAVATORY    DP OF FACILITIES                                  
+N52-333J                  96   JANITOR CLOSET     DP OF FACILITIES                                  
+N52-335                  137   OFFICE             OFF OF PROVOST         SUTD                       
+N52-337                  921   CLASSROOM          OFF OF PROVOST         SUTD                       
+N52-342                  800   LABORATORY SVC     OFF OF PROVOST         SUTD                       
+N52-342A                 756   LAB SUPPORT SHOP   OFF OF PROVOST         SUTD                       
+N52-342B                 713   LAB SUPPORT SHOP   OFF OF PROVOST         SUTD                       
+N52-342C                 770   STUDIO             OFF OF PROVOST         SUTD                       
+N52-357                  459   TEACHING LAB       OFF OF PROVOST         SUTD                       
+N52-363                  879   LABORATORY SVC     OFF OF PROVOST         SUTD                       
+N52-364                  158   LABORATORY SVC     OFF OF PROVOST         SUTD                       
+N52-373                  776   OFFICE SERVICE     OFF OF PROVOST         SUTD                       
+N52-373A                 150   OFFICE             OFF OF PROVOST         SUTD                       
+N52-373B                 131   OFFICE             OFF OF PROVOST         SUTD                       
+N52-373C                 210   OFFICE SERVICE     OFF OF PROVOST         SUTD                       
+N52-373D                 108   OFFICE             OFF OF PROVOST         SUTD                       
+N52-373F                 156   OFFICE             OFF OF PROVOST         SUTD                       
+N52-373G                 126   OFFICE             OFF OF PROVOST         SUTD                       
+N52-373H                 126   OFFICE             OFF OF PROVOST         SUTD                       
+N52-373K                 126   OFFICE             OFF OF PROVOST         SUTD                       
+N52-373L                 127   OFFICE             OFF OF PROVOST         SUTD                       
+N52-373N                 132   OFFICE             OFF OF PROVOST         SUTD                       
+N52-373P                  92   OFFICE SERVICE     OFF OF PROVOST         SUTD                       
+N52-373Q                 644   STUDIO             OFF OF PROVOST         SUTD                       
+N52-373R                 146   OFFICE SERVICE     OFF OF PROVOST         SUTD                       
+N52-387                  128   OFFICE SERVICE     OFF OF PROVOST         SUTD                       
+N52-387A                 122   OFFICE             OFF OF PROVOST         SUTD                       
+N52-388                  328   RESEARCH LAB       OFF OF PROVOST         SUTD                       
+N52-389                   31   OFFICE SERVICE     OFF OF PROVOST         SUTD                       
+N52-390                  659   OFFICE SERVICE     OFF OF PROVOST         SUTD                       
+N52-391                  451   CONFERENCE ROOM    OFF OF PROVOST         SUTD                       
+N52-391A                  29   OFFICE SERVICE     OFF OF PROVOST         SUTD                       
+N52-393                   18   OFFICE SERVICE     OFF OF PROVOST         SUTD                       
+N52-394                  897   RESEARCH LAB       OFF OF PROVOST         SUTD                       
+N52-395                  219   OFFICE             OFF OF PROVOST         SUTD                       
+N52-397E                  22   ELECTRIC CLOSET    DP OF FACILITIES       SUTD                       
+N52-399                  348   CONFERENCE ROOM    OFF OF PROVOST         SUTD                       
+                    --------                                                                        
+                      18,671                                                                        
+                                                                                                    
+N52-400CA                325   CORRIDOR           DP OF FACILITIES                                  
+N52-400CB                279   CORRIDOR           DP OF FACILITIES                                  
+N52-400E1                 93   ELEVATOR           DP OF FACILITIES                                  
+N52-400E2                 89   ELEVATOR           DP OF FACILITIES                                  
+N52-400SA                229   STAIRWAY           DP OF FACILITIES                                  
+N52-400SB                 76   STAIRWAY           DP OF FACILITIES                                  
+N52-400SC                126   STAIRWAY           DP OF FACILITIES                                  
+N52-400SD                183   STAIRWAY           DP OF FACILITIES                                  
+N52-400SE                169   STAIRWAY           DP OF FACILITIES                                  
+N52-400Z                  17   SHAFT SPACE        DP OF FACILITIES                                  
+N52-401                  129   OFFICE             EXEC VICE PRES         MUSEUM LOAN NET            
+N52-402                  232   OFFICE             EXEC VICE PRES         MUSEUM LOAN NET            
+N52-403                  246   OFFICE             EXEC VICE PRES                                    
+N52-405                  186   OFFICE             EXEC VICE PRES                                    
+N52-407                  136   OFFICE SERVICE     EXEC VICE PRES                                    
+N52-409                  192   OFFICE SERVICE     EXEC VICE PRES                                    
+N52-409A                  61   SECY/RECEPTION     EXEC VICE PRES                                    
+N52-411                  258   OFFICE SERVICE     EXEC VICE PRES                                    
+N52-411A                  51   SECY/RECEPTION     EXEC VICE PRES                                    
+N52-413                  220   OFFICE             EXEC VICE PRES                                    
+N52-419                  644   OFFICE SERVICE     EXEC VICE PRES                                    
+N52-419A                 345   OFFICE             EXEC VICE PRES                                    
+N52-419B                 636   OFFICE             EXEC VICE PRES                                    
+N52-419K                  21   OFFICE SERVICE     EXEC VICE PRES                                    
+N52-421E                  34   ELECTRIC CLOSET    DP OF FACILITIES                                  
+N52-423                   22   UTILITY/MECH RM    DP OF FACILITIES                                  
+N52-423T                  42   TELECOM CLOSET     DP OF FACILITIES                                  
+N52-424                  188   FEMALE LAVATORY    DP OF FACILITIES                                  
+N52-427                  151   MALE LAVATORY      DP OF FACILITIES                                  
+N52-433                  117   OFFICE SERVICE     ENV HLTH & SAFE                                   
+N52-435                  210   OFFICE             ENV HLTH & SAFE                                   
+N52-437                   73   OFFICE SERVICE     ENV HLTH & SAFE                                   
+N52-439                   80   UTILITY/MECH RM    DP OF FACILITIES                                  
+N52-440                  149   RSCH LAB-OFFICE    ENV HLTH & SAFE                                   
+N52-440A                 231   RESEARCH LAB       ENV HLTH & SAFE                                   
+N52-441                  108   LABORATORY SVC     ENV HLTH & SAFE                                   
+N52-441A                  74   LABORATORY SVC     ENV HLTH & SAFE                                   
+N52-442                   77   LABORATORY SVC     ENV HLTH & SAFE                                   
+N52-443                1,782   RESEARCH LAB       ENV HLTH & SAFE                                   
+N52-444                   42   RESEARCH LAB       ENV HLTH & SAFE                                   
+N52-446                  184   LABORATORY SVC     ENV HLTH & SAFE                                   
+N52-446A                  97   RESEARCH LAB       ENV HLTH & SAFE                                   
+N52-448                  112   RESEARCH LAB       ENV HLTH & SAFE                                   
+N52-450                  553   RESEARCH LAB       ENV HLTH & SAFE                                   
+N52-451                  382   OFFICE SERVICE     ENV HLTH & SAFE                                   
+N52-451A                  16   OFFICE             ENV HLTH & SAFE                                   
+N52-451B                  16   OFFICE             ENV HLTH & SAFE                                   
+N52-451C                  16   OFFICE             ENV HLTH & SAFE                                   
+N52-451D                  16   OFFICE             ENV HLTH & SAFE                                   
+N52-451F                  16   OFFICE             ENV HLTH & SAFE                                   
+N52-451G                  16   OFFICE             ENV HLTH & SAFE                                   
+N52-451H                  16   OFFICE             ENV HLTH & SAFE                                   
+N52-451K                  16   OFFICE             ENV HLTH & SAFE                                   
+N52-453                  220   CONFERENCE ROOM    ENV HLTH & SAFE                                   
+N52-456                  143   OFFICE             ENV HLTH & SAFE                                   
+N52-457                  114   OFFICE             ENV HLTH & SAFE                                   
+N52-458                3,038   OFFICE SERVICE     ENV HLTH & SAFE                                   
+N52-458L                  61   OFFICE             ENV HLTH & SAFE                                   
+N52-458N                  60   OFFICE             ENV HLTH & SAFE                                   
+N52-458P                  61   OFFICE             ENV HLTH & SAFE                                   
+N52-459                  120   OFFICE             ENV HLTH & SAFE                                   
+N52-460                  149   OFFICE             ENV HLTH & SAFE                                   
+N52-461                  118   OFFICE             ENV HLTH & SAFE                                   
+N52-462                  147   OFFICE             ENV HLTH & SAFE                                   
+N52-463                  120   OFFICE             ENV HLTH & SAFE                                   
+N52-464                   53   OFFICE             ENV HLTH & SAFE                                   
+N52-465                   41   OFFICE SERVICE     ENV HLTH & SAFE                                   
+N52-467                  155   OFFICE             ENV HLTH & SAFE                                   
+N52-468                  115   OFFICE             ENV HLTH & SAFE                                   
+N52-469                  159   OFFICE             ENV HLTH & SAFE                                   
+N52-470                   96   OFFICE             ENV HLTH & SAFE                                   
+N52-471                  159   OFFICE             ENV HLTH & SAFE                                   
+N52-472                   95   OFFICE             ENV HLTH & SAFE                                   
+N52-473                  113   OFFICE             ENV HLTH & SAFE                                   
+N52-474                  156   OFFICE             ENV HLTH & SAFE                                   
+N52-475                  111   OFFICE             ENV HLTH & SAFE                                   
+N52-476                  165   OFFICE             ENV HLTH & SAFE                                   
+N52-477                  165   OFFICE             ENV HLTH & SAFE                                   
+N52-478                  160   OFFICE             ENV HLTH & SAFE                                   
+N52-479                  160   OFFICE             ENV HLTH & SAFE                                   
+N52-481                  156   OFFICE             ENV HLTH & SAFE                                   
+N52-481A                  36   OFFICE             ENV HLTH & SAFE                                   
+N52-482A                  36   OFFICE             ENV HLTH & SAFE                                   
+N52-482T                  92   TELECOM CLOSET     DP OF FACILITIES                                  
+N52-483                  163   OFFICE             ENV HLTH & SAFE                                   
+N52-484                  146   OFFICE             ENV HLTH & SAFE                                   
+N52-485                  158   OFFICE             ENV HLTH & SAFE                                   
+N52-490                  171   OFFICE             ENV HLTH & SAFE                                   
+N52-490E                  21   ELECTRIC CLOSET    DP OF FACILITIES                                  
+N52-494                  190   OFFICE             ENV HLTH & SAFE                                   
+N52-495                  628   CONFERENCE ROOM    ENV HLTH & SAFE                                   
+N52-495A                  20   OFFICE SERVICE     ENV HLTH & SAFE                                   
+N52-495B                   9   OFFICE SERVICE     ENV HLTH & SAFE                                   
+N52-496                  120   SECY/RECEPTION     ENV HLTH & SAFE                                   
+N52-496A                  81   OFFICE SERVICE     ENV HLTH & SAFE                                   
+N52-496J                  17   JANITOR CLOSET     DP OF FACILITIES                                  
+N52-498                  212   OFFICE SERVICE     ENV HLTH & SAFE                                   
+N52-499                  196   UTILITY/MECH RM    DP OF FACILITIES 

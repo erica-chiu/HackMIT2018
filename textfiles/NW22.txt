@@ -1,0 +1,162 @@
+NW22-000E1               101   ELEVATOR           DP OF FACILITIES                                  
+NW22-000SB               109   STAIRWAY           DP OF FACILITIES                                  
+NW22-000SC               145   STAIRWAY           DP OF FACILITIES                                  
+NW22-000SD                47   STAIRWAY           DP OF FACILITIES                                  
+NW22-000SE               137   STAIRWAY           DP OF FACILITIES                                  
+NW22-000Z                  6   SHAFT SPACE        DP OF FACILITIES                                  
+NW22-001                 407   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW22-005                 415   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW22-009                 415   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW22-010               3,044   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW22-010A                176   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW22-013                 415   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW22-017                 415   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW22-021                 537   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW22-027                 158   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW22-033                 758   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW22-037                 357   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW22-041                 306   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW22-045                  78   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW22-047J                 76   JANITOR CLOSET     DP OF FACILITIES                                  
+NW22-053                 164   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW22-057                 693   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW22-057A                195   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW22-069                 820   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW22-069A                330   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW22-069B                171   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW22-073E                 40   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NW22-075E                407   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NW22-090               3,862   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW22-091                 330   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW22-092                 119   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW22-093                 111   LABORATORY SVC     PLASMA SCI FSN CTR                                
+                    --------                                                                        
+                      15,341                                                                        
+                                                                                                    
+NW22-100               1,241   PVT CIRCULATION    PLASMA SCI FSN CTR                                
+NW22-100CA               525   CORRIDOR           DP OF FACILITIES                                  
+NW22-100E1               101   ELEVATOR           DP OF FACILITIES                                  
+NW22-100LA               366   LOBBY              DP OF FACILITIES                                  
+NW22-100SA                40   STAIRWAY           DP OF FACILITIES                                  
+NW22-100SB               109   STAIRWAY           DP OF FACILITIES                                  
+NW22-100SC               145   STAIRWAY           DP OF FACILITIES                                  
+NW22-100SE               137   STAIRWAY           DP OF FACILITIES                                  
+NW22-100Z                  7   SHAFT SPACE        DP OF FACILITIES                                  
+NW22-101J                 72   JANITOR CLOSET     DP OF FACILITIES                                  
+NW22-103E                 89   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NW22-103EA                66   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW22-107                 136   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW22-109                 122   OFFICE             PLASMA SCI FSN CTR                                
+NW22-111                 134   OFFICE             PLASMA SCI FSN CTR                                
+NW22-113                 138   OFFICE             PLASMA SCI FSN CTR                                
+NW22-115                 115   OFFICE             PLASMA SCI FSN CTR                                
+NW22-117                 281   OFFICE             PLASMA SCI FSN CTR                                
+NW22-120                  87   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW22-121                 135   OFFICE             PLASMA SCI FSN CTR                                
+NW22-122                 125   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW22-123                 142   OFFICE             PLASMA SCI FSN CTR                                
+NW22-124                 166   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW22-125                 194   OFFICE             PLASMA SCI FSN CTR                                
+NW22-127                 121   OFFICE             PLASMA SCI FSN CTR                                
+NW22-129                 234   OFFICE             PLASMA SCI FSN CTR                                
+NW22-132                  20   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW22-132A                 12   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW22-133                 191   CONFERENCE ROOM    PLASMA SCI FSN CTR                                
+NW22-134                 125   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW22-135                 119   OFFICE             PLASMA SCI FSN CTR                                
+NW22-136                  87   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW22-137                 113   OFFICE             PLASMA SCI FSN CTR                                
+NW22-139                 222   OFFICE             PLASMA SCI FSN CTR                                
+NW22-142                 447   LAB SUPPORT SHOP   PLASMA SCI FSN CTR                                
+NW22-143                 111   OFFICE             PLASMA SCI FSN CTR                                
+NW22-144                 169   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW22-145                  99   OFFICE             PLASMA SCI FSN CTR                                
+NW22-147                 123   OFFICE             PLASMA SCI FSN CTR                                
+NW22-149                 136   FEMALE LAVATORY    DP OF FACILITIES                                  
+NW22-150                 563   CONFERENCE ROOM    PLASMA SCI FSN CTR                                
+NW22-151                 120   MALE LAVATORY      DP OF FACILITIES                                  
+NW22-157                 409   RECEIVING ROOM     PLASMA SCI FSN CTR                                
+NW22-161               2,861   RESEARCH LAB       K I FOR AST&SP R       LIGO                       
+NW22-161A                506   LABORATORY SVC     K I FOR AST&SP R       LIGO                       
+NW22-182                  85   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW22-185                 471   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW22-197                 254   RSCH LAB-OFFICE    PLASMA SCI FSN CTR                                
+NW22-197A                 87   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW22-198               2,562   RESEARCH LAB       PLASMA SCI FSN CTR                                
+                    --------                                                                        
+                      14,919                                                                        
+                                                                                                    
+NW22-200               1,413   PVT CIRCULATION    PLASMA SCI FSN CTR                                
+NW22-200CA               384   CORRIDOR           DP OF FACILITIES                                  
+NW22-200E1               101   ELEVATOR           DP OF FACILITIES                                  
+NW22-200SA               150   STAIRWAY           DP OF FACILITIES                                  
+NW22-200SB               109   STAIRWAY           DP OF FACILITIES                                  
+NW22-200SC               145   STAIRWAY           DP OF FACILITIES                                  
+NW22-200SD               133   STAIRWAY           DP OF FACILITIES                                  
+NW22-200Z                118   SHAFT SPACE        DP OF FACILITIES                                  
+NW22-203E                 90   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NW22-203T                 88   TELECOM CLOSET     DP OF FACILITIES                                  
+NW22-204                  79   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW22-206                 444   OFFICE SERVICE     K I FOR AST&SP R       LIGO                       
+NW22-207                 256   OFFICE SERVICE     K I FOR AST&SP R       LIGO                       
+NW22-209                 145   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-211                 136   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-212                 697   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-213                 280   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-217                 130   OFFICE             PLASMA SCI FSN CTR     DOFADM                     
+NW22-219                 148   OFFICE             PLASMA SCI FSN CTR     DOFADM                     
+NW22-220A                 21   OFFICE SERVICE     PLASMA SCI FSN CTR     DOFADM                     
+NW22-220B                 58   OFFICE             PLASMA SCI FSN CTR     DOFADM                     
+NW22-220C                 58   OFFICE             PLASMA SCI FSN CTR     DOFADM                     
+NW22-220D                120   OFFICE SERVICE     PLASMA SCI FSN CTR     DOFADM                     
+NW22-221                 139   OFFICE             PLASMA SCI FSN CTR     DOFADM                     
+NW22-222A                 40   OFFICE             PLASMA SCI FSN CTR     DOFADM                     
+NW22-222B                 40   OFFICE             PLASMA SCI FSN CTR     DOFADM                     
+NW22-222C                 40   OFFICE             PLASMA SCI FSN CTR     DOFADM                     
+NW22-222D                 40   OFFICE             PLASMA SCI FSN CTR     DOFADM                     
+NW22-223                 137   OFFICE             PLASMA SCI FSN CTR     DOFADM                     
+NW22-225                 195   OFFICE             PLASMA SCI FSN CTR     DOFADM                     
+NW22-227                 123   OFFICE             PLASMA SCI FSN CTR     DOFADM                     
+NW22-229                 234   CONFERENCE ROOM    PLASMA SCI FSN CTR     DOFADM                     
+NW22-230                  14   OFFICE SERVICE     PLASMA SCI FSN CTR     DOFADM                     
+NW22-231                  85   OFFICE             PLASMA SCI FSN CTR     DOFADM                     
+NW22-233                 126   OFFICE             PLASMA SCI FSN CTR     DOFADM                     
+NW22-235                 107   OFFICE             PLASMA SCI FSN CTR     DOFADM                     
+NW22-237                 118   OFFICE             PLASMA SCI FSN CTR     DOFADM                     
+NW22-243                 222   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-245                 225   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-247                 120   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-249                 130   FEMALE LAVATORY    DP OF FACILITIES                                  
+NW22-251                 109   MALE LAVATORY      DP OF FACILITIES                                  
+NW22-255                 177   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-257                 141   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-258               2,276   OFFICE SERVICE     K I FOR AST&SP R       LIGO                       
+NW22-259                 142   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-260                 129   PVT LAVATORY       K I FOR AST&SP R       LIGO                       
+NW22-261                 114   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-262                 129   PVT LAVATORY       K I FOR AST&SP R       LIGO                       
+NW22-263                 235   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-264                 148   OFFICE SERVICE     K I FOR AST&SP R       LIGO                       
+NW22-266                 194   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-267                 188   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-268                 358   OFFICE SERVICE     K I FOR AST&SP R       LIGO                       
+NW22-269                 177   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-270                 105   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-271                 173   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-272                  99   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-273                 145   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-274                 102   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-275                 129   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-276                 135   CONFERENCE ROOM    K I FOR AST&SP R       LIGO                       
+NW22-277                 160   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-278                 135   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-279                 215   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-281                 193   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-283                 217   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-285                 149   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-287                 112   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-289                 112   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-291                 111   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-293                 107   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-295                 126   OFFICE             K I FOR AST&SP R       LIGO                       
+NW22-297                  50   OFFICE SERVICE     K I FOR AST&SP R       LIGO 

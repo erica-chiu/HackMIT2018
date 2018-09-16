@@ -1,0 +1,397 @@
+2-000CA                  962   CORRIDOR           DP OF FACILITIES                                  
+2-000CB                  189   CORRIDOR           DP OF FACILITIES                                  
+2-000CC                1,276   CORRIDOR           DP OF FACILITIES                                  
+2-000CD                1,038   CORRIDOR           DP OF FACILITIES                                  
+2-000E1                   78   ELEVATOR           DP OF FACILITIES                                  
+2-000LA                1,126   LOBBY              DP OF FACILITIES                                  
+2-000SA                  150   STAIRWAY           DP OF FACILITIES                                  
+2-000SB                  306   STAIRWAY           DP OF FACILITIES                                  
+2-000SC                  141   STAIRWAY           DP OF FACILITIES                                  
+2-000Z                   899   SHAFT SPACE        DP OF FACILITIES                                  
+2-001                    223   LAB SUPPORT SHOP   CHEMISTRY                                         
+2-008                  1,564   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-009                  1,429   RESEARCH LAB       CHEMISTRY                                         
+2-009A                    66   LABORATORY SVC     CHEMISTRY                                         
+2-010J                   111   JANITOR CLOSET     DP OF FACILITIES                                  
+2-012                    332   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-013                    408   OFFICE SERVICE     DP OF FACIL ADM                                   
+2-013E                    13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+2-014                     99   OFFICE SERVICE     CHEMISTRY                                         
+2-014A                    38   OFFICE             CHEMISTRY                                         
+2-014AA                   38   OFFICE             CHEMISTRY                                         
+2-014B                    53   OFFICE             CHEMISTRY                                         
+2-014BA                   58   OFFICE             CHEMISTRY                                         
+2-014C                    32   OFFICE             CHEMISTRY                                         
+2-014CA                   35   OFFICE             CHEMISTRY                                         
+2-014D                    18   OFFICE             CHEMISTRY                                         
+2-014F                    21   OFFICE             CHEMISTRY                                         
+2-014G                    55   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-016                     96   LABORATORY SVC     CHEMISTRY                                         
+2-017E                   731   ELECTRIC CLOSET    DP OF FACILITIES                                  
+2-019                     88   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-021                    161   LABORATORY SVC     CHEMISTRY                                         
+2-023T                    15   TELECOM CLOSET     DP OF FACILITIES                                  
+2-025                    411   RESEARCH LAB       CHEMISTRY                                         
+2-026                     87   MAIL ROOM          DP OF FACIL ADM                                   
+2-027                     28   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-028                    115   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-030                     33   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-031                  1,180   RESEARCH LAB       MATHEMATICS                                       
+2-033                     71   MALE LAVATORY      DP OF FACILITIES                                  
+2-034                    645   OFFICE SERVICE     MATHEMATICS                                       
+2-034A                   129   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-035J                    90   JANITOR CLOSET     DP OF FACILITIES                                  
+2-036                    299   OFFICE SERVICE     MATHEMATICS                                       
+2-036A                    31   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-037                     71   FEMALE LAVATORY    DP OF FACILITIES                                  
+2-038                    111   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-041                    600   RESEARCH LAB       CHEMISTRY                                         
+2-043                    473   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-043E                     3   ELECTRIC CLOSET    DP OF FACILITIES                                  
+2-044                  1,646   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-044A                    79   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-045                    106   LABORATORY SVC     CHEMISTRY                                         
+2-045E                     9   ELECTRIC CLOSET    DP OF FACILITIES                                  
+2-048                    709   RESEARCH LAB       CHEMISTRY                                         
+2-048A                   107   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-048B                   115   LABORATORY SVC     CHEMISTRY                                         
+2-051                  1,113   RESEARCH LAB       CHEMISTRY                                         
+2-051A                   139   RSCH LAB-OFFICE    CHEMISTRY                                         
+2-052                     13   LABORATORY SVC     CHEMISTRY                                         
+2-052T                    21   TELECOM CLOSET     DP OF FACILITIES                                  
+2-063                    764   RESEARCH LAB       CHEMISTRY                                         
+2-065                     50   LABORATORY SVC     CHEMISTRY                                         
+2-066                    132   RESEARCH LAB       CHEMISTRY                                         
+2-067                    601   RESEARCH LAB       CHEMISTRY                                         
+2-070                    209   LABORATORY SVC     DP OF FACIL ADM                                   
+2-070A                    15   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-071E                     8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+2-072                    324   LABORATORY SVC     CHEMISTRY                                         
+2-072T                    11   TELECOM CLOSET     DP OF FACILITIES                                  
+2-073                    597   RESEARCH LAB       CHEMISTRY                                         
+2-075                     49   LABORATORY SVC     CHEMISTRY                                         
+2-076                    168   LABORATORY SVC     CHEMISTRY                                         
+2-078                    562   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-082E                    12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+2-083                    914   RESEARCH LAB       CHEMISTRY                                         
+2-083A                   167   RESEARCH LAB       CHEMISTRY                                         
+2-087                    426   LABORATORY SVC     CHEMISTRY                                         
+2-090                    235   OFFICE SERVICE     MATHEMATICS                                       
+2-090A                   318   OFFICE             MATHEMATICS                                       
+2-090B                   143   OFFICE             MATHEMATICS                                       
+2-090BA                  222   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-090C                   192   OFFICE             MATHEMATICS                                       
+2-090D                   134   OFFICE             MATHEMATICS                                       
+2-090DA                  134   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-090F                   253   OFFICE             MATHEMATICS                                       
+                    --------                                                                        
+                      26,918                                                                        
+                                                                                                    
+2-100CA                  807   CORRIDOR           DP OF FACILITIES                                  
+2-100CB                  204   CORRIDOR           DP OF FACILITIES                                  
+2-100CC                1,575   CORRIDOR           DP OF FACILITIES                                  
+2-100CD                1,677   CORRIDOR           DP OF FACILITIES                                  
+2-100E1                   78   ELEVATOR           DP OF FACILITIES                                  
+2-100LA                1,104   LOBBY              DP OF FACILITIES                                  
+2-100LB                  204   LOBBY              DP OF FACILITIES                                  
+2-100SA                  259   STAIRWAY           DP OF FACILITIES                                  
+2-100SB                  297   STAIRWAY           DP OF FACILITIES                                  
+2-100SC                  274   STAIRWAY           DP OF FACILITIES                                  
+2-100Z                   492   SHAFT SPACE        DP OF FACILITIES                                  
+2-102A                     0   ALTER/CONVERSION   REGISTRAR                                         
+2-103                    520   CLASSROOM          REGISTRAR                                         
+2-103A                    21   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-103B                    21   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-105                    823   LECTURE HALL       REGISTRAR                                         
+2-105A                    11   CLASSROOM SVC      REGISTRAR                                         
+2-105C                    14   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-105E                    12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+2-105F                    14   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-106                    708   OFFICE             MATHEMATICS                                       
+2-106A                   129   OFFICE             MATHEMATICS                                       
+2-106B                   176   OFFICE             MATHEMATICS                                       
+2-106C                    68   OFFICE SERVICE     MATHEMATICS                                       
+2-106D                   133   OFFICE             MATHEMATICS                                       
+2-109E                    20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+2-110                    741   OFFICE             MATHEMATICS                                       
+2-110A                    97   OFFICE SERVICE     MATHEMATICS                                       
+2-110B                   150   OFFICE             MATHEMATICS                                       
+2-111A                    17   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-111E                    12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+2-115                  1,229   RESEARCH LAB       CHEMISTRY                                         
+2-115A                    22   LABORATORY SVC     CHEMISTRY                                         
+2-115B                    42   LABORATORY SVC     CHEMISTRY                                         
+2-121                    180   OFFICE SERVICE     SCH OF SCIENCE                                    
+2-123                    488   CONFERENCE ROOM    SCH OF SCIENCE                                    
+2-123E                     6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+2-130                    285   OFFICE SERVICE     MATHEMATICS                                       
+2-131                    758   CLASSROOM          REGISTRAR                                         
+2-131A                     5   CLASSROOM SVC      REGISTRAR                                         
+2-132                    616   CLASSROOM          REGISTRAR                                         
+2-132A                     3   CLASSROOM SVC      REGISTRAR                                         
+2-135                    610   CLASSROOM          REGISTRAR                                         
+2-135A                     2   CLASSROOM SVC      REGISTRAR                                         
+2-135E                     4   ELECTRIC CLOSET    DP OF FACILITIES                                  
+2-136                    569   CLASSROOM          REGISTRAR                                         
+2-136A                     2   CLASSROOM SVC      REGISTRAR                                         
+2-139                    628   CLASSROOM          REGISTRAR                                         
+2-139A                     3   CLASSROOM SVC      REGISTRAR                                         
+2-142                    568   CLASSROOM          REGISTRAR                                         
+2-142A                     2   CLASSROOM SVC      REGISTRAR                                         
+2-143                    608   CLASSROOM          REGISTRAR                                         
+2-143A                     3   CLASSROOM SVC      REGISTRAR                                         
+2-145E                     5   ELECTRIC CLOSET    DP OF FACILITIES                                  
+2-146                    600   CLASSROOM          REGISTRAR                                         
+2-146A                     3   CLASSROOM SVC      REGISTRAR                                         
+2-146E                     5   ELECTRIC CLOSET    DP OF FACILITIES                                  
+2-147                    610   CLASSROOM          REGISTRAR                                         
+2-147A                     2   CLASSROOM SVC      REGISTRAR                                         
+2-150                    383   FEMALE LAVATORY    DP OF FACILITIES                                  
+2-151                    478   CLASSROOM          REGISTRAR                                         
+2-151A                     5   CLASSROOM SVC      REGISTRAR                                         
+2-152                    324   MALE LAVATORY      DP OF FACILITIES                                  
+2-155                    242   OFFICE             MATHEMATICS                                       
+2-155A                   186   OFFICE             MATHEMATICS                                       
+2-164                     15   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-165                    117   OFFICE             MATHEMATICS                                       
+2-167                    117   OFFICE             MATHEMATICS                                       
+2-168J                    35   JANITOR CLOSET     DP OF FACILITIES                                  
+2-169                    117   OFFICE             MATHEMATICS                                       
+2-170                    242   OFFICE             MATHEMATICS                                       
+2-171                    117   OFFICE             MATHEMATICS                                       
+2-172                    235   OFFICE             MATHEMATICS                                       
+2-173                    118   OFFICE             MATHEMATICS                                       
+2-174                    243   OFFICE             MATHEMATICS                                       
+2-175                    116   OFFICE SERVICE     MATHEMATICS                                       
+2-176                    246   OFFICE             MATHEMATICS                                       
+2-177                    117   OFFICE             MATHEMATICS                                       
+2-178                    235   OFFICE             MATHEMATICS                                       
+2-178E                    10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+2-179                    119   OFFICE             MATHEMATICS                                       
+2-180                    229   OFFICE             MATHEMATICS                                       
+2-181                    119   OFFICE             MATHEMATICS                                       
+2-190                  1,628   LECTURE HALL       REGISTRAR                                         
+2-190A                    78   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-190B                    20   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-190C                    20   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-190D                     6   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-190E                     7   ELECTRIC CLOSET    DP OF FACILITIES                                  
+2-190F                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-190G                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      24,478                                                                        
+                                                                                                    
+2-200CA                1,070   CORRIDOR           DP OF FACILITIES                                  
+2-200CB                  190   CORRIDOR           DP OF FACILITIES                                  
+2-200CC                1,740   CORRIDOR           DP OF FACILITIES                                  
+2-200CD                1,298   CORRIDOR           DP OF FACILITIES                                  
+2-200E1                   78   ELEVATOR           DP OF FACILITIES                                  
+2-200LA                  695   LOBBY              DP OF FACILITIES                                  
+2-200SA                  275   STAIRWAY           DP OF FACILITIES                                  
+2-200SB                  290   STAIRWAY           DP OF FACILITIES                                  
+2-200SC                  289   STAIRWAY           DP OF FACILITIES                                  
+2-200Z                   609   SHAFT SPACE        DP OF FACILITIES                                  
+2-203                     16   LABORATORY SVC     CHEMISTRY                                         
+2-205                     13   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-211                     16   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-213                     60   LABORATORY SVC     CHEMISTRY                                         
+2-215                     45   LABORATORY SVC     CHEMISTRY                                         
+2-216                  2,829   RESEARCH LAB       CHEMISTRY                                         
+2-216A                 1,154   LABORATORY SVC     CHEMISTRY                                         
+2-216B                   281   LABORATORY SVC     CHEMISTRY                                         
+2-216C                   314   LABORATORY SVC     CHEMISTRY                                         
+2-216D                    76   LABORATORY SVC     CHEMISTRY                                         
+2-217                    227   PRINT/DUP SHOP     COPY TECH CENTER                                  
+2-220T                   137   TELECOM CLOSET     DP OF FACILITIES                                  
+2-221                    328   OFFICE             CHEMISTRY                                         
+2-231                    192   OFFICE SERVICE     MATHEMATICS                                       
+2-231A                   400   OFFICE             MATHEMATICS                                       
+2-231B                   126   OFFICE             MATHEMATICS                                       
+2-231C                   120   OFFICE             MATHEMATICS                                       
+2-231D                   377   OFFICE             MATHEMATICS                                       
+2-232                    140   OFFICE SERVICE     MATHEMATICS                                       
+2-232A                    92   OFFICE             MATHEMATICS                                       
+2-232B                   158   OFFICE             MATHEMATICS                                       
+2-232C                   199   OFFICE             MATHEMATICS                                       
+2-233                    103   OFFICE SERVICE     MATHEMATICS                                       
+2-235J                    49   JANITOR CLOSET     DP OF FACILITIES                                  
+2-238                    211   OFFICE SERVICE     MATHEMATICS                                       
+2-238A                   249   OFFICE             MATHEMATICS                                       
+2-238B                   159   OFFICE             MATHEMATICS                                       
+2-238C                   159   OFFICE             MATHEMATICS                                       
+2-238D                    86   OFFICE             MATHEMATICS                                       
+2-239                    156   OFFICE SERVICE     MATHEMATICS                                       
+2-239A                   295   OFFICE             MATHEMATICS                                       
+2-239B                   143   OFFICE             MATHEMATICS                                       
+2-241                    278   OFFICE             MATHEMATICS                                       
+2-242                    237   OFFICE SERVICE     MATHEMATICS                                       
+2-243                    303   OFFICE             MATHEMATICS                                       
+2-245                    283   OFFICE             MATHEMATICS                                       
+2-246                    156   OFFICE SERVICE     MATHEMATICS                                       
+2-246A                   215   OFFICE             MATHEMATICS                                       
+2-246B                   143   OFFICE             MATHEMATICS                                       
+2-246C                   245   OFFICE             MATHEMATICS                                       
+2-247                    297   OFFICE             MATHEMATICS                                       
+2-248                     42   OFFICE SERVICE     MATHEMATICS                                       
+2-249                    297   OFFICE             MATHEMATICS                                       
+2-250                    113   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-250E                    13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+2-251                    297   OFFICE             MATHEMATICS                                       
+2-252                    134   OFFICE SERVICE     MATHEMATICS                                       
+2-252A                   125   SECY/RECEPTION     MATHEMATICS                                       
+2-252B                   219   OFFICE             MATHEMATICS                                       
+2-253A                   243   OFFICE SERVICE     MATHEMATICS                                       
+2-253T                   241   TELECOM CLOSET     DP OF FACILITIES                                  
+2-254                    267   FEMALE LAVATORY    DP OF FACILITIES                                  
+2-255                    433   OFFICE SERVICE     MATHEMATICS                                       
+2-256                    206   MALE LAVATORY      DP OF FACILITIES                                  
+2-265                    116   OFFICE             MATHEMATICS                                       
+2-267                    118   OFFICE             MATHEMATICS                                       
+2-268                     24   JANITOR CLOSET     DP OF FACILITIES                                  
+2-269                    118   OFFICE             MATHEMATICS                                       
+2-270                    243   OFFICE             MATHEMATICS                                       
+2-271                    118   OFFICE             MATHEMATICS                                       
+2-272                    236   OFFICE             MATHEMATICS                                       
+2-273                    118   OFFICE             MATHEMATICS                                       
+2-274                    244   OFFICE             MATHEMATICS                                       
+2-275                    118   OFFICE             MATHEMATICS                                       
+2-276                    241   OFFICE             MATHEMATICS                                       
+2-277                    117   OFFICE             MATHEMATICS                                       
+2-278                    241   OFFICE             MATHEMATICS                                       
+2-279                    116   OFFICE             MATHEMATICS                                       
+2-280                    245   OFFICE             MATHEMATICS                                       
+2-282                    244   OFFICE             MATHEMATICS                                       
+2-283                    165   OFFICE SERVICE     MATHEMATICS                                       
+2-290                  1,596   OFFICE SERVICE     MATHEMATICS                                       
+                    --------                                                                        
+                      24,644                                                                        
+                                                                                                    
+2-300CA                1,066   CORRIDOR           DP OF FACILITIES                                  
+2-300CB                  207   CORRIDOR           DP OF FACILITIES                                  
+2-300CC                1,554   CORRIDOR           DP OF FACILITIES                                  
+2-300CD                1,254   CORRIDOR           DP OF FACILITIES                                  
+2-300E1                   78   ELEVATOR           DP OF FACILITIES                                  
+2-300LA                  668   LOBBY              DP OF FACILITIES                                  
+2-300SA                  261   STAIRWAY           DP OF FACILITIES                                  
+2-300SB                  289   STAIRWAY           DP OF FACILITIES                                  
+2-300SC                  266   STAIRWAY           DP OF FACILITIES                                  
+2-300Z                   615   SHAFT SPACE        DP OF FACILITIES                                  
+2-305                     13   LABORATORY SVC     CHEMISTRY                                         
+2-316                  2,568   RESEARCH LAB       CHEMISTRY                                         
+2-316A                 1,189   RSCH LAB-OFFICE    CHEMISTRY                                         
+2-316B                   846   RESEARCH LAB       CHEMISTRY                                         
+2-316C                    82   LABORATORY SVC     CHEMISTRY                                         
+2-316D                   177   LABORATORY SVC     CHEMISTRY                                         
+2-318                    385   OFFICE SERVICE     CHEMISTRY                                         
+2-318A                    16   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-320                     44   LABORATORY SVC     CHEMISTRY                                         
+2-321                    350   CONFERENCE ROOM    CHEMISTRY                                         
+2-322                     45   LABORATORY SVC     CHEMISTRY                                         
+2-325                    183   RESEARCH LAB       CHEMISTRY                                         
+2-325A                   186   RSCH LAB-OFFICE    CHEMISTRY                                         
+2-325B                   284   RESEARCH LAB       CHEMISTRY                                         
+2-330                     82   OFFICE SERVICE     MATHEMATICS                                       
+2-332                    150   OFFICE SERVICE     MATHEMATICS                                       
+2-332A                   369   OFFICE             MATHEMATICS                                       
+2-333                    180   OFFICE SERVICE     MATHEMATICS                                       
+2-333A                   290   OFFICE             MATHEMATICS                                       
+2-333B                   315   OFFICE             MATHEMATICS                                       
+2-333C                   307   OFFICE             MATHEMATICS                                       
+2-334                    300   OFFICE             MATHEMATICS                                       
+2-336                    308   OFFICE             MATHEMATICS                                       
+2-337                    308   OFFICE             MATHEMATICS                                       
+2-340                    209   OFFICE SERVICE     MATHEMATICS                                       
+2-340A                   182   OFFICE             MATHEMATICS                                       
+2-340B                   179   OFFICE             MATHEMATICS                                       
+2-340C                   180   OFFICE             MATHEMATICS                                       
+2-341                    144   OFFICE SERVICE     MATHEMATICS                                       
+2-341A                   304   OFFICE             MATHEMATICS                                       
+2-341B                   190   OFFICE             MATHEMATICS                                       
+2-341C                   312   OFFICE             MATHEMATICS                                       
+2-342                    186   OFFICE             MATHEMATICS                                       
+2-344                    311   OFFICE             MATHEMATICS                                       
+2-345                    314   OFFICE             MATHEMATICS                                       
+2-346                    304   OFFICE             MATHEMATICS                                       
+2-347                    307   OFFICE             MATHEMATICS                                       
+2-348                     75   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-349                    314   OFFICE             MATHEMATICS                                       
+2-350                    102   OFFICE SERVICE     MATHEMATICS                                       
+2-350A                   110   SECY/RECEPTION     MATHEMATICS                                       
+2-350B                   239   OFFICE             MATHEMATICS                                       
+2-351J                    36   JANITOR CLOSET     DP OF FACILITIES                                  
+2-353                    207   OFFICE SERVICE     DP OF FACIL ADM                                   
+2-355                    245   OFFICE             MATHEMATICS                                       
+2-361                    437   OFFICE SERVICE     MATHEMATICS                                       
+2-364                    193   FEMALE LAVATORY    DP OF FACILITIES                                  
+2-365                    247   OFFICE             MATHEMATICS                                       
+2-366                    171   MALE LAVATORY      DP OF FACILITIES                                  
+2-367                    226   OFFICE             MATHEMATICS                                       
+2-368                    111   OFFICE             MATHEMATICS                                       
+2-369                    254   OFFICE             MATHEMATICS                                       
+2-370                    129   OFFICE             MATHEMATICS                                       
+2-371                    238   OFFICE             MATHEMATICS                                       
+2-372                    126   SECY/RECEPTION     MATHEMATICS                                       
+2-373                    239   OFFICE             MATHEMATICS                                       
+2-374                    132   OFFICE             MATHEMATICS                                       
+2-375                    243   OFFICE             MATHEMATICS                                       
+2-376                    123   OFFICE             MATHEMATICS                                       
+2-377                    241   OFFICE             MATHEMATICS                                       
+2-378                    121   OFFICE             MATHEMATICS                                       
+2-379                    249   OFFICE             MATHEMATICS                                       
+2-380                    123   OFFICE             MATHEMATICS                                       
+2-381                    141   OFFICE             MATHEMATICS                                       
+2-383                    195   OFFICE             MATHEMATICS                                       
+2-385T                   193   TELECOM CLOSET     DP OF FACILITIES                                  
+2-390                    432   OFFICE SERVICE     MATHEMATICS                                       
+2-390A                   291   OFFICE             MATHEMATICS                                       
+2-390B                   152   OFFICE             MATHEMATICS                                       
+2-390C                   150   OFFICE             MATHEMATICS                                       
+2-390D                   289   OFFICE             MATHEMATICS                                       
+2-390E                    17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+2-390F                   152   OFFICE             MATHEMATICS                                       
+                    --------                                                                        
+                      25,298                                                                        
+                                                                                                    
+2-400A                    12   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-400CA                1,223   CORRIDOR           DP OF FACILITIES                                  
+2-400CB                  912   CORRIDOR           DP OF FACILITIES                                  
+2-400E1                   78   ELEVATOR           DP OF FACILITIES                                  
+2-400SA                  217   STAIRWAY           DP OF FACILITIES                                  
+2-400SB                  271   STAIRWAY           DP OF FACILITIES                                  
+2-400SC                  154   STAIRWAY           DP OF FACILITIES                                  
+2-400Z                   312   SHAFT SPACE        DP OF FACILITIES                                  
+2-417                    922   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-421J                    30   JANITOR CLOSET     DP OF FACILITIES                                  
+2-423E                   176   ELECTRIC CLOSET    DP OF FACILITIES                                  
+2-425E                   176   ELECTRIC CLOSET    DP OF FACILITIES                                  
+2-429                    286   CONFERENCE ROOM    MATHEMATICS                                       
+2-430                    103   OFFICE SERVICE     MATHEMATICS                                       
+2-430A                    91   SECY/RECEPTION     MATHEMATICS                                       
+2-431                  2,579   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-432                    186   OFFICE             MATHEMATICS                                       
+2-434                    210   OFFICE             MATHEMATICS                                       
+2-436                    210   OFFICE             MATHEMATICS                                       
+2-438                    210   OFFICE             MATHEMATICS                                       
+2-440                    224   OFFICE             MATHEMATICS                                       
+2-442                    211   OFFICE             MATHEMATICS                                       
+2-444                    211   OFFICE             MATHEMATICS                                       
+2-446                    210   OFFICE             MATHEMATICS                                       
+2-449                    703   OFFICE SERVICE     MATHEMATICS                                       
+2-450                    789   OFFICE SERVICE     MATHEMATICS                                       
+2-461                    274   OFFICE SERVICE     MATHEMATICS                                       
+2-464                    164   FEMALE LAVATORY    DP OF FACILITIES                                  
+2-466                    144   MALE LAVATORY      DP OF FACILITIES                                  
+2-468                    220   OFFICE             MATHEMATICS                                       
+2-470                    218   OFFICE             MATHEMATICS                                       
+2-472                    218   OFFICE             MATHEMATICS                                       
+2-474                    218   OFFICE             MATHEMATICS                                       
+2-476                    218   OFFICE             MATHEMATICS                                       
+2-478                    218   OFFICE             MATHEMATICS                                       
+2-480                    217   OFFICE             MATHEMATICS                                       
+2-490                    387   OFFICE SERVICE     MATHEMATICS                                       
+2-490A                    10   UTILITY/MECH RM    DP OF FACILITIES                                  
+2-490B                 1,253   OFFICE             MATHEMATICS                                       
+2-490E                     6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+2-490M                   843   OFFICE             MATHEMATICS                                       
+2-490SA                   38   PVT CIRCULATION    MATHEMATICS                                       
+2-490SAM                  23   PVT CIRCULATION    MATHEMATICS          

@@ -1,0 +1,199 @@
+NE18-500Z                  8   SHAFT SPACE        DP OF FACILITIES                                  
+NE18-501               3,257   PVT CIRCULATION    TECH LICENSE OFF                                  
+NE18-501A                167   OFFICE SERVICE     TECH LICENSE OFF                                  
+NE18-501AA                87   SECY/RECEPTION     TECH LICENSE OFF                                  
+NE18-501AB                10   OFFICE SERVICE     TECH LICENSE OFF                                  
+NE18-501BA                45   OFFICE             TECH LICENSE OFF                                  
+NE18-501BB                49   OFFICE             TECH LICENSE OFF                                  
+NE18-501BC                49   OFFICE             TECH LICENSE OFF                                  
+NE18-501BD                52   OFFICE             TECH LICENSE OFF                                  
+NE18-501BF                35   OFFICE SERVICE     TECH LICENSE OFF                                  
+NE18-501BG                52   OFFICE             TECH LICENSE OFF                                  
+NE18-501BH                49   OFFICE             TECH LICENSE OFF                                  
+NE18-501BK                49   OFFICE             TECH LICENSE OFF                                  
+NE18-501C                218   CONFERENCE ROOM    TECH LICENSE OFF                                  
+NE18-501D                310   CONFERENCE ROOM    TECH LICENSE OFF                                  
+NE18-501F                132   OFFICE             TECH LICENSE OFF                                  
+NE18-501G                133   OFFICE             TECH LICENSE OFF                                  
+NE18-501H                146   OFFICE             TECH LICENSE OFF                                  
+NE18-502                  73   OFFICE SERVICE     TECH LICENSE OFF                                  
+NE18-503                  95   OFFICE SERVICE     TECH LICENSE OFF                                  
+NE18-504                 103   OFFICE             TECH LICENSE OFF                                  
+NE18-505                  98   OFFICE             TECH LICENSE OFF                                  
+NE18-507                 101   OFFICE             TECH LICENSE OFF                                  
+NE18-510                  78   OFFICE SERVICE     TECH LICENSE OFF                                  
+NE18-511                 203   OFFICE             TECH LICENSE OFF                                  
+NE18-512                  62   OFFICE             TECH LICENSE OFF                                  
+NE18-515                 205   CONFERENCE ROOM    TECH LICENSE OFF                                  
+NE18-517                  98   OFFICE             TECH LICENSE OFF                                  
+NE18-518                  49   OFFICE SERVICE     TECH LICENSE OFF                                  
+NE18-519                 152   OFFICE             TECH LICENSE OFF                                  
+NE18-521                 153   OFFICE             TECH LICENSE OFF                                  
+NE18-527                 368   OFFICE             TECH LICENSE OFF                                  
+NE18-528                 208   OFFICE SERVICE     TECH LICENSE OFF                                  
+NE18-528A                205   OFFICE SERVICE     TECH LICENSE OFF                                  
+NE18-528B                 50   OFFICE             TECH LICENSE OFF                                  
+NE18-528C                 62   OFFICE             TECH LICENSE OFF                                  
+NE18-528D                 78   OFFICE             TECH LICENSE OFF                                  
+NE18-529                 101   OFFICE             TECH LICENSE OFF                                  
+NE18-531                 158   OFFICE             TECH LICENSE OFF                                  
+NE18-533                 154   OFFICE             TECH LICENSE OFF                                  
+NE18-536                 583   CONFERENCE ROOM    TECH LICENSE OFF                                  
+NE18-537                 156   OFFICE             TECH LICENSE OFF                                  
+NE18-538                 103   OFFICE SERVICE     TECH LICENSE OFF                                  
+NE18-540                 221   OFFICE SERVICE     TECH LICENSE OFF                                  
+NE18-541                 154   OFFICE             TECH LICENSE OFF                                  
+NE18-542                 205   CONFERENCE ROOM    TECH LICENSE OFF                                  
+NE18-543                 152   OFFICE             TECH LICENSE OFF                                  
+NE18-544                 313   OFFICE             TECH LICENSE OFF                                  
+NE18-545                 158   OFFICE             TECH LICENSE OFF                                  
+NE18-549                 374   OFFICE             TECH LICENSE OFF                                  
+NE18-554A                 51   OFFICE             TECH LICENSE OFF                                  
+NE18-554B                 53   OFFICE             TECH LICENSE OFF                                  
+NE18-554C                 48   OFFICE             TECH LICENSE OFF                                  
+NE18-554D                 51   OFFICE             TECH LICENSE OFF                                  
+NE18-554F                 77   SECY/RECEPTION     TECH LICENSE OFF                                  
+NE18-554FA                31   OFFICE SERVICE     TECH LICENSE OFF                                  
+NE18-555                 229   OFFICE             TECH LICENSE OFF                                  
+NE18-557                 134   OFFICE             TECH LICENSE OFF                                  
+NE18-559                 189   OFFICE             TECH LICENSE OFF                                  
+NE18-560A                 57   SECY/RECEPTION     TECH LICENSE OFF                                  
+NE18-560B                 51   OFFICE             TECH LICENSE OFF                                  
+NE18-560C                 50   OFFICE             TECH LICENSE OFF                                  
+NE18-560D                 51   OFFICE             TECH LICENSE OFF                                  
+NE18-560F                 51   OFFICE             TECH LICENSE OFF                                  
+NE18-560G                 50   OFFICE             TECH LICENSE OFF                                  
+NE18-560H                 51   OFFICE             TECH LICENSE OFF                                  
+NE18-562                 103   OFFICE             TECH LICENSE OFF                                  
+NE18-563                 189   OFFICE             TECH LICENSE OFF                                  
+NE18-568                 173   OFFICE             TECH LICENSE OFF                                  
+NE18-568A                101   OFFICE SERVICE     TECH LICENSE OFF                                  
+                    --------                                                                        
+                      11,916                                                                        
+                                                                                                    
+NE18-900Z                252   SHAFT SPACE        DP OF FACILITIES                                  
+NE18-901               5,422   PVT CIRCULATION    SPONSORED PGMS                                    
+NE18-902                 176   OFFICE             EXEC VICE PRES                                    
+NE18-904                 120   OFFICE             EXEC VICE PRES                                    
+NE18-906                 120   OFFICE             EXEC VICE PRES                                    
+NE18-908                 136   OFFICE             EXEC VICE PRES                                    
+NE18-909A                 61   OFFICE             EXEC VICE PRES                                    
+NE18-909B                 61   OFFICE             EXEC VICE PRES                                    
+NE18-909C                 63   OFFICE             EXEC VICE PRES                                    
+NE18-909D                 63   OFFICE             EXEC VICE PRES                                    
+NE18-909F                 61   OFFICE             EXEC VICE PRES                                    
+NE18-909G                 61   OFFICE             EXEC VICE PRES                                    
+NE18-910                 135   OFFICE             EXEC VICE PRES                                    
+NE18-911                  15   OFFICE SERVICE     SPONSORED PGMS                                    
+NE18-912                 213   OFFICE SERVICE     SPONSORED PGMS                                    
+NE18-913                 944   CONFERENCE ROOM    SPONSORED PGMS                                    
+NE18-913A                 13   OFFICE SERVICE     SPONSORED PGMS                                    
+NE18-914                  12   OFFICE SERVICE     SPONSORED PGMS                                    
+NE18-915                 446   CONFERENCE ROOM    SPONSORED PGMS                                    
+NE18-916                  36   OFFICE SERVICE     SPONSORED PGMS                                    
+NE18-917                 205   SECY/RECEPTION     SPONSORED PGMS                                    
+NE18-918A                 68   OFFICE             SPONSORED PGMS                                    
+NE18-918B                 63   OFFICE             SPONSORED PGMS                                    
+NE18-918C                 63   OFFICE             SPONSORED PGMS                                    
+NE18-918D                 65   OFFICE SERVICE     SPONSORED PGMS                                    
+NE18-918F                 66   OFFICE             SPONSORED PGMS                                    
+NE18-918G                 63   OFFICE             SPONSORED PGMS                                    
+NE18-919                 123   OFFICE             SPONSORED PGMS                                    
+NE18-921                 122   OFFICE             SPONSORED PGMS                                    
+NE18-923                 122   OFFICE             SPONSORED PGMS                                    
+NE18-925                 122   OFFICE             SPONSORED PGMS                                    
+NE18-927                 122   OFFICE             SPONSORED PGMS                                    
+NE18-929                 122   OFFICE             SPONSORED PGMS                                    
+NE18-931                 122   OFFICE             SPONSORED PGMS                                    
+NE18-933                 136   OFFICE             SPONSORED PGMS                                    
+NE18-935                 140   OFFICE             SPONSORED PGMS                                    
+NE18-937                 223   OFFICE             SPONSORED PGMS                                    
+NE18-937A                  3   OFFICE SERVICE     SPONSORED PGMS                                    
+NE18-939                 138   OFFICE SERVICE     SPONSORED PGMS                                    
+NE18-939A                 20   OFFICE SERVICE     SPONSORED PGMS                                    
+NE18-941A                 61   OFFICE             SPONSORED PGMS                                    
+NE18-941B                 61   OFFICE             SPONSORED PGMS                                    
+NE18-943A                 61   OFFICE             SPONSORED PGMS                                    
+NE18-943B                 61   OFFICE             SPONSORED PGMS                                    
+NE18-943C                 61   OFFICE             SPONSORED PGMS                                    
+NE18-943D                 63   OFFICE             SPONSORED PGMS                                    
+NE18-951                 320   CONFERENCE ROOM    SPONSORED PGMS                                    
+NE18-952                 301   OFFICE SERVICE     SPONSORED PGMS                                    
+NE18-953A                 64   OFFICE             SPONSORED PGMS                                    
+NE18-953B                 74   OFFICE             SPONSORED PGMS                                    
+NE18-953C                 62   OFFICE             SPONSORED PGMS                                    
+NE18-953D                 62   OFFICE             SPONSORED PGMS                                    
+NE18-953F                 63   OFFICE             SPONSORED PGMS                                    
+NE18-953G                 55   OFFICE             SPONSORED PGMS                                    
+NE18-954                  88   OFFICE SERVICE     SPONSORED PGMS                                    
+NE18-955A                 62   OFFICE             SPONSORED PGMS                                    
+NE18-955B                 62   OFFICE             SPONSORED PGMS                                    
+NE18-955C                 67   OFFICE SERVICE     SPONSORED PGMS                                    
+NE18-960                  94   OFFICE SERVICE     SPONSORED PGMS                                    
+NE18-961                 109   OFFICE             SPONSORED PGMS                                    
+NE18-962                 121   OFFICE             SPONSORED PGMS                                    
+NE18-963                 118   OFFICE             SPONSORED PGMS                                    
+NE18-964                 121   OFFICE             SPONSORED PGMS                                    
+NE18-965                 132   OFFICE SERVICE     SPONSORED PGMS                                    
+NE18-966                 121   OFFICE             SPONSORED PGMS                                    
+NE18-968                 121   OFFICE             SPONSORED PGMS                                    
+NE18-969                 193   CONFERENCE ROOM    SPONSORED PGMS                                    
+NE18-970T                121   TELECOM CLOSET     DP OF FACILITIES                                  
+NE18-971A                 32   OFFICE SERVICE     SPONSORED PGMS                                    
+NE18-971B                 32   OFFICE             SPONSORED PGMS                                    
+NE18-971C                 72   OFFICE             SPONSORED PGMS                                    
+NE18-971D                 61   OFFICE             SPONSORED PGMS                                    
+NE18-971F                 61   OFFICE             SPONSORED PGMS                                    
+NE18-972                  11   OFFICE SERVICE     SPONSORED PGMS                                    
+NE18-973                  41   OFFICE SERVICE     SPONSORED PGMS                                    
+NE18-974                 120   OFFICE             SPONSORED PGMS                                    
+NE18-975A                 61   OFFICE             SPONSORED PGMS                                    
+NE18-975B                 56   OFFICE             SPONSORED PGMS                                    
+NE18-975C                 69   OFFICE             SPONSORED PGMS                                    
+NE18-975D                 64   OFFICE             SPONSORED PGMS                                    
+NE18-975F                 61   OFFICE             SPONSORED PGMS                                    
+NE18-975G                 61   OFFICE             SPONSORED PGMS                                    
+NE18-976                 120   OFFICE             SPONSORED PGMS                                    
+NE18-977A                 61   OFFICE             SPONSORED PGMS                                    
+NE18-977B                 61   OFFICE             SPONSORED PGMS                                    
+NE18-977C                 64   OFFICE             SPONSORED PGMS                                    
+NE18-977D                 63   OFFICE             SPONSORED PGMS                                    
+NE18-977F                 61   OFFICE             SPONSORED PGMS                                    
+NE18-977G                 61   OFFICE             SPONSORED PGMS                                    
+NE18-978                 120   OFFICE             SPONSORED PGMS                                    
+NE18-979                 209   CONFERENCE ROOM    SPONSORED PGMS                                    
+NE18-979A                 54   OFFICE             SPONSORED PGMS                                    
+NE18-979B                 60   OFFICE             SPONSORED PGMS                                    
+NE18-980                 133   OFFICE SERVICE     SPONSORED PGMS                                    
+NE18-981A                 61   OFFICE             SPONSORED PGMS                                    
+NE18-981B                 61   OFFICE             SPONSORED PGMS                                    
+NE18-981C                 63   OFFICE             SPONSORED PGMS                                    
+NE18-981D                 34   OFFICE SERVICE     SPONSORED PGMS                                    
+NE18-981F                 31   OFFICE SERVICE     SPONSORED PGMS                                    
+NE18-981G                 63   OFFICE             SPONSORED PGMS                                    
+NE18-981H                 61   OFFICE             SPONSORED PGMS                                    
+NE18-981K                 61   OFFICE             SPONSORED PGMS                                    
+NE18-981L                 63   OFFICE             SPONSORED PGMS                                    
+NE18-981N                 61   OFFICE             SPONSORED PGMS                                    
+NE18-981P                 61   OFFICE             SPONSORED PGMS                                    
+NE18-984                 120   OFFICE             SPONSORED PGMS                                    
+NE18-985A                 61   OFFICE             SPONSORED PGMS                                    
+NE18-985B                 61   OFFICE             SPONSORED PGMS                                    
+NE18-985C                 63   OFFICE             SPONSORED PGMS                                    
+NE18-985D                 61   OFFICE             SPONSORED PGMS                                    
+NE18-985F                 61   OFFICE             SPONSORED PGMS                                    
+NE18-985G                 63   OFFICE             SPONSORED PGMS                                    
+NE18-985H                 63   OFFICE             SPONSORED PGMS                                    
+NE18-985K                 61   OFFICE             SPONSORED PGMS                                    
+NE18-985L                 61   OFFICE             SPONSORED PGMS                                    
+NE18-985N                 62   OFFICE             SPONSORED PGMS                                    
+NE18-985P                 61   OFFICE             SPONSORED PGMS                                    
+NE18-985Q                 62   OFFICE             SPONSORED PGMS                                    
+NE18-986                 120   OFFICE             SPONSORED PGMS                                    
+NE18-987A                 62   OFFICE             SPONSORED PGMS                                    
+NE18-987B                 61   OFFICE             SPONSORED PGMS                                    
+NE18-987C                 62   OFFICE             SPONSORED PGMS                                    
+NE18-987D                 61   OFFICE             SPONSORED PGMS                                    
+NE18-987F                 61   OFFICE             SPONSORED PGMS                                    
+NE18-987G                 63   OFFICE             SPONSORED PGMS                                    
+NE18-988                  93   OFFICE SERVICE     SPONSORED PGMS  

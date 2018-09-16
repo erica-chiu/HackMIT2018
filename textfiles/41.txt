@@ -1,0 +1,115 @@
+41-000E1                  57   ELEVATOR           DP OF FACILITIES                                  
+41-000SA                 208   STAIRWAY           DP OF FACILITIES                                  
+41-000SB                  64   STAIRWAY           DP OF FACILITIES                                  
+41-000Z                   16   SHAFT SPACE        DP OF FACILITIES                                  
+41-001                   534   RESEARCH LAB       PROVOST RESERVE                                   
+41-001A                  279   LAB SUPPORT SHOP   PROVOST RESERVE                                   
+41-001B                  109   LABORATORY SVC     PROVOST RESERVE                                   
+41-001C                  130   RESEARCH LAB       PROVOST RESERVE                                   
+41-002                   126   JANITOR STORAGE    DP OF FACILITIES                                  
+41-003                   248   MALE LAVATORY      DP OF FACILITIES                                  
+41-004                   871   LAB SUPPORT SHOP   MECHANICAL ENG                                    
+41-004A                   14   LABORATORY SVC     MECHANICAL ENG                                    
+41-004AA                 140   UTILITY/MECH RM    DP OF FACILITIES                                  
+41-004B                  103   UTILITY/MECH RM    DP OF FACILITIES                                  
+41-009                 1,914   LABORATORY SVC     MECHANICAL ENG                                    
+41-009A                   24   UTILITY/MECH RM    DP OF FACILITIES                                  
+41-009E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+41-014                    60   UTILITY/MECH RM    DP OF FACILITIES                                  
+41-015                   450   LAB SUPPORT SHOP   MECHANICAL ENG                                    
+41-018                   286   LABORATORY SVC     MECHANICAL ENG                                    
+41-019                   702   LABORATORY SVC     MECHANICAL ENG                                    
+41-019B                  140   UTILITY/MECH RM    DP OF FACILITIES                                  
+41-020                    96   LABORATORY SVC     MECHANICAL ENG                                    
+41-021                   272   LABORATORY SVC     MECHANICAL ENG                                    
+41-023                   271   RESEARCH LAB       MECHANICAL ENG                                    
+41-025                   212   RESEARCH LAB       MECHANICAL ENG                                    
+41-027                   276   RSCH LAB-OFFICE    PROVOST RESERVE                                   
+                    --------                                                                        
+                       7,615                                                                        
+                                                                                                    
+41-100CA                 199   CORRIDOR           DP OF FACILITIES                                  
+41-100E1                  57   ELEVATOR           DP OF FACILITIES                                  
+41-100E2                 162   ELEVATOR           DP OF FACILITIES                                  
+41-100SA                 292   STAIRWAY           DP OF FACILITIES                                  
+41-100SB                 189   STAIRWAY           DP OF FACILITIES                                  
+41-101J                   24   JANITOR CLOSET     DP OF FACILITIES                                  
+41-105                   242   RESEARCH LAB       PROVOST RESERVE                                   
+41-105A                  201   RESEARCH LAB       PROVOST RESERVE                                   
+41-105B                  335   RSCH LAB-OFFICE    PROVOST RESERVE                                   
+41-105C                1,444   RESEARCH LAB       PROVOST RESERVE                                   
+41-109                 1,091   RESEARCH LAB       PROVOST RESERVE                                   
+41-109A                   12   LABORATORY SVC     PROVOST RESERVE                                   
+41-109B                  263   LABORATORY SVC     PROVOST RESERVE                                   
+41-109C                  239   LABORATORY SVC     PROVOST RESERVE                                   
+41-116                 1,294   RESEARCH LAB       PROVOST RESERVE                                   
+41-117                   650   RESEARCH LAB       PROVOST RESERVE                                   
+41-117A                  105   RESEARCH LAB       PROVOST RESERVE                                   
+41-117B                  112   LABORATORY SVC     PROVOST RESERVE                                   
+41-117C                  173   LABORATORY SVC     PROVOST RESERVE                                   
+41-123                   526   RESEARCH LAB       PROVOST RESERVE                                   
+41-172Z                   17   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                       7,628                                                                        
+                                                                                                    
+41-200CA                 230   CORRIDOR           DP OF FACILITIES                                  
+41-200CB                 228   CORRIDOR           DP OF FACILITIES                                  
+41-200CC                 390   CORRIDOR           DP OF FACILITIES                                  
+41-200E1                  61   ELEVATOR           DP OF FACILITIES                                  
+41-200SA                 266   STAIRWAY           DP OF FACILITIES                                  
+41-200SB                 152   STAIRWAY           DP OF FACILITIES                                  
+41-200Z                    9   SHAFT SPACE        DP OF FACILITIES                                  
+41-201J                   29   JANITOR CLOSET     DP OF FACILITIES                                  
+41-202                   290   SECY/RECEPTION     PROVOST RESERVE                                   
+41-203                   172   OFFICE SERVICE     PROVOST RESERVE                                   
+41-203A                  246   OFFICE             PROVOST RESERVE                                   
+41-203B                  228   CONFERENCE ROOM    PROVOST RESERVE                                   
+41-203C                  271   OFFICE             PROVOST RESERVE                                   
+41-203D                  262   OFFICE             PROVOST RESERVE                                   
+41-203F                   72   OFFICE             PROVOST RESERVE                                   
+41-203H                   83   OFFICE             PROVOST RESERVE                                   
+41-203K                   75   OFFICE             PROVOST RESERVE                                   
+41-203L                   85   OFFICE             PROVOST RESERVE                                   
+41-204                   273   OFFICE             PROVOST RESERVE                                   
+41-205                   340   OFFICE SERVICE     PROVOST RESERVE                                   
+41-205A                  125   OFFICE             PROVOST RESERVE                                   
+41-205AA                  36   OFFICE SERVICE     PROVOST RESERVE                                   
+41-205B                  127   OFFICE             PROVOST RESERVE                                   
+41-205C                  128   OFFICE             PROVOST RESERVE                                   
+41-205CA                 129   PVT CIRCULATION    PROVOST RESERVE                                   
+41-205D                  127   OFFICE             PROVOST RESERVE                                   
+41-205F                  272   OFFICE             PROVOST RESERVE                                   
+41-205G                   52   OFFICE SERVICE     PROVOST RESERVE                                   
+41-205H                   65   SECY/RECEPTION     PROVOST RESERVE                                   
+41-205HA                  83   OFFICE             PROVOST RESERVE                                   
+41-205K                   98   OFFICE SERVICE     PROVOST RESERVE                                   
+41-205L                   54   OFFICE             PROVOST RESERVE                                   
+41-205N                   95   OFFICE             PROVOST RESERVE                                   
+41-206                   275   OFFICE             PROVOST RESERVE                                   
+41-208                   271   OFFICE             PROVOST RESERVE                                   
+41-209                   211   MALE LAVATORY      DP OF FACILITIES                                  
+41-209E                   10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+41-209T                   13   TELECOM CLOSET     DP OF FACILITIES                                  
+41-211                   363   OFFICE SERVICE     PROVOST RESERVE                                   
+41-211A                  203   OFFICE             PROVOST RESERVE                                   
+41-211B                  282   OFFICE             PROVOST RESERVE                                   
+41-211C                  129   OFFICE             PROVOST RESERVE                                   
+41-211D                  108   OFFICE             PROVOST RESERVE                                   
+41-214T                   94   TELECOM CLOSET     DP OF FACILITIES                                  
+41-216                   123   FEMALE LAVATORY    DP OF FACILITIES                                  
+41-218                   329   OFFICE             PROVOST RESERVE                                   
+                    --------                                                                        
+                       7,564                                                                        
+                                                                                                    
+41-300E1                  59   ELEVATOR           DP OF FACILITIES                                  
+41-300SA                 217   STAIRWAY           DP OF FACILITIES                                  
+41-300SB                 116   STAIRWAY           DP OF FACILITIES                                  
+41-300Z                    3   SHAFT SPACE        DP OF FACILITIES                                  
+41-317                   209   OFFICE SERVICE     PROVOST RESERVE                                   
+41-317A                   20   OFFICE SERVICE     PROVOST RESERVE                                   
+41-317B                  100   OFFICE SERVICE     PROVOST RESERVE                                   
+41-317C                  168   OFFICE             PROVOST RESERVE                                   
+41-317D                   97   OFFICE             PROVOST RESERVE                                   
+41-317F                  251   OFFICE             PROVOST RESERVE                                   
+41-317G                  220   OFFICE             PROVOST RESERVE                                   
+41-318                   139   STORAGE FACILITY   DP OF FACIL ADM     

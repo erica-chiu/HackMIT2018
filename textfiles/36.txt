@@ -1,0 +1,624 @@
+36-000CAM                384   CORRIDOR           DP OF FACILITIES                                  
+36-000CB                 579   CORRIDOR           DP OF FACILITIES                                  
+36-000CC               1,032   CORRIDOR           DP OF FACILITIES                                  
+36-000CD                 104   CORRIDOR           DP OF FACILITIES                                  
+36-000CDM                952   CORRIDOR           DP OF FACILITIES                                  
+36-000E3                 128   ELEVATOR           DP OF FACILITIES                                  
+36-000E3M                 93   ELEVATOR           DP OF FACILITIES                                  
+36-000SA                 236   STAIRWAY           DP OF FACILITIES                                  
+36-000SAM                204   STAIRWAY           DP OF FACILITIES                                  
+36-000SC                 155   STAIRWAY           DP OF FACILITIES                                  
+36-000SCM                 52   STAIRWAY           DP OF FACILITIES                                  
+36-000Z                  563   SHAFT SPACE        DP OF FACILITIES                                  
+36-002                   277   JANITOR STORAGE    DP OF FACILITIES                                  
+36-002A                  108   JANITOR STORAGE    DP OF FACILITIES                                  
+36-002TM                 127   TELECOM CLOSET     DP OF FACILITIES                                  
+36-004EM                 115   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-004J                   19   JANITOR CLOSET     DP OF FACILITIES                                  
+36-004Z                  167   SHAFT SPACE        DP OF FACILITIES                                  
+36-008                   409   UTILITY/MECH RM    DP OF FACILITIES                                  
+36-010                   147   MALE LAVATORY      DP OF FACILITIES                                  
+36-012                 1,081   LABORATORY SVC     RES LAB OF ELEC                                   
+36-028                   219   LABORATORY SVC     RES LAB OF ELEC                                   
+36-028A                  138   LABORATORY SVC     RES LAB OF ELEC                                   
+36-028B                   80   LABORATORY SVC     RES LAB OF ELEC                                   
+36-028C                   86   LABORATORY SVC     RES LAB OF ELEC                                   
+36-028D                   58   LABORATORY SVC     RES LAB OF ELEC                                   
+36-029E                2,071   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-041                   228   UTILITY/MECH RM    DP OF FACILITIES                                  
+36-044                   345   LABORATORY SVC     RES LAB OF ELEC                                   
+36-044M                  267   LABORATORY SVC     RES LAB OF ELEC                                   
+36-045A                2,987   UTILITY/MECH RM    DP OF FACILITIES                                  
+36-045B                1,549   UTILITY/MECH RM    DP OF FACILITIES                                  
+36-045EM                 690   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-045M                1,458   UTILITY/MECH RM    DP OF FACILITIES                                  
+36-052                   675   LABORATORY SVC     RES LAB OF ELEC                                   
+36-055E                   16   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-060                   156   JANITOR STORAGE    DP OF FACILITIES                                  
+36-062                    72   OFFICE SERVICE     PROVOST RESERVE                                   
+36-082                   299   JANITOR LOCKER     DP OF FACILITIES                                  
+36-082M                  263   JANITOR STORAGE    DP OF FACILITIES                                  
+                    --------                                                                        
+                      18,587                                                                        
+                                                                                                    
+36-100CA               1,026   CORRIDOR           DP OF FACILITIES                                  
+36-100CB                 296   CORRIDOR           DP OF FACILITIES                                  
+36-100CC                 252   CORRIDOR           DP OF FACILITIES                                  
+36-100E1                  68   ELEVATOR           DP OF FACILITIES                                  
+36-100E2                  73   ELEVATOR           DP OF FACILITIES                                  
+36-100E3                  98   ELEVATOR           DP OF FACILITIES                                  
+36-100LA               1,046   LOBBY              DP OF FACILITIES                                  
+36-100LB                  90   LOBBY              DP OF FACILITIES                                  
+36-100SA                 176   STAIRWAY           DP OF FACILITIES                                  
+36-100SB                  55   STAIRWAY           DP OF FACILITIES                                  
+36-100SC                  93   STAIRWAY           DP OF FACILITIES                                  
+36-100Z                  889   SHAFT SPACE        DP OF FACILITIES                                  
+36-104J                   24   JANITOR CLOSET     DP OF FACILITIES                                  
+36-108                   199   FEMALE LAVATORY    DP OF FACILITIES                                  
+36-110                   231   MALE LAVATORY      DP OF FACILITIES                                  
+36-112                 1,035   CLASSROOM          REGISTRAR              HQG                        
+36-112E                   27   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-113                   745   CLASSROOM SVC      ELEC ENG&COMP SC       EECS                       
+36-115                   134   CLASSROOM SVC      ELEC ENG&COMP SC       EECS                       
+36-117                   132   CLASSROOM SVC      ELEC ENG&COMP SC       EECS                       
+36-119                   124   CLASSROOM SVC      ELEC ENG&COMP SC       EECS                       
+36-120E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-120Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+36-121                   117   CLASSROOM SVC      ELEC ENG&COMP SC       EECS                       
+36-126Z                   25   SHAFT SPACE        DP OF FACILITIES                                  
+36-136                   168   CLASSROOM SVC      REGISTRAR                                         
+36-136A                   12   UTILITY/MECH RM    DP OF FACILITIES                                  
+36-136B                   10   CLASSROOM SVC      REGISTRAR                                         
+36-136Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+36-144                   547   CLASSROOM          REGISTRAR                                         
+36-144A                   13   UTILITY/MECH RM    DP OF FACILITIES                                  
+36-144Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+36-152E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-152Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+36-153                   698   CLASSROOM          REGISTRAR                                         
+36-155                   675   CLASSROOM          REGISTRAR                                         
+36-156                   793   CLASSROOM          REGISTRAR                                         
+36-160Z                   27   SHAFT SPACE        DP OF FACILITIES                                  
+36-161                   344   LABORATORY SVC     RES LAB OF ELEC                                   
+36-161A                   19   LABORATORY SVC     RES LAB OF ELEC                                   
+36-161B                   35   LABORATORY SVC     RES LAB OF ELEC                                   
+36-162                   161   OFFICE             RES LAB OF ELEC                                   
+36-164                   333   LABORATORY SVC     RES LAB OF ELEC                                   
+36-164A                   33   LABORATORY SVC     RES LAB OF ELEC                                   
+36-164B                   18   LABORATORY SVC     RES LAB OF ELEC                                   
+36-166A                   17   LABORATORY SVC     RES LAB OF ELEC                                   
+36-166B                   16   LABORATORY SVC     RES LAB OF ELEC                                   
+36-168Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+36-176E                   13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-176Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+36-184                   658   RESEARCH LAB       RES LAB OF ELEC                                   
+36-184E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-184Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+36-187                   622   RESEARCH LAB       RES LAB OF ELEC                                   
+36-189                   546   LABORATORY SVC     RES LAB OF ELEC        OPT                        
+36-192T                   30   TELECOM CLOSET     DP OF FACILITIES                                  
+36-192Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+36-193                   117   MAIL ROOM          DP OF FACIL ADM        HQG                        
+36-198                    70   LABORATORY SVC     RES LAB OF ELEC        HQG                        
+36-198A                  135   LABORATORY SVC     RES LAB OF ELEC        HQG                        
+                    --------                                                                        
+                      13,220                                                                        
+                                                                                                    
+36-200CA               1,065   CORRIDOR           DP OF FACILITIES                                  
+36-200CB                 279   CORRIDOR           DP OF FACILITIES                                  
+36-200E1                  61   ELEVATOR           DP OF FACILITIES                                  
+36-200E2                  76   ELEVATOR           DP OF FACILITIES                                  
+36-200E3                  89   ELEVATOR           DP OF FACILITIES                                  
+36-200LA               1,035   LOBBY              DP OF FACILITIES                                  
+36-200LB                 174   LOBBY              DP OF FACILITIES                                  
+36-200SA                 170   STAIRWAY           DP OF FACILITIES                                  
+36-200SB                 152   STAIRWAY           DP OF FACILITIES                                  
+36-200Z                  511   SHAFT SPACE        DP OF FACILITIES                                  
+36-204J                   18   JANITOR CLOSET     DP OF FACILITIES                                  
+36-208                   210   FEMALE LAVATORY    DP OF FACILITIES                                  
+36-210                   236   MALE LAVATORY      DP OF FACILITIES                                  
+36-212                   296   RESEARCH LAB       RES LAB OF ELEC                                   
+36-212A                   33   LABORATORY SVC     RES LAB OF ELEC                                   
+36-212B                  572   RESEARCH LAB       RES LAB OF ELEC                                   
+36-212E                   23   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-213                   825   OFFICE SERVICE     RES LAB OF ELEC        PLA                        
+36-213A                   68   OFFICE SERVICE     RES LAB OF ELEC        PLA                        
+36-215                   133   OFFICE             RES LAB OF ELEC        PLA                        
+36-217                   137   OFFICE             RES LAB OF ELEC        PLA                        
+36-219                   192   OFFICE             RES LAB OF ELEC        PLA                        
+36-220E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-220Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+36-225                   261   OFFICE             RES LAB OF ELEC        PLA                        
+36-227                   132   OFFICE             RES LAB OF ELEC        PLA                        
+36-228                   325   RESEARCH LAB       RES LAB OF ELEC                                   
+36-228Z                   26   SHAFT SPACE        DP OF FACILITIES                                  
+36-229                   130   OFFICE             RES LAB OF ELEC        PLA                        
+36-231                   128   OFFICE             RES LAB OF ELEC        PLA                        
+36-233                   133   OFFICE             RES LAB OF ELEC        PLA                        
+36-236                   640   RESEARCH LAB       RES LAB OF ELEC        PLA                        
+36-236Z                   23   SHAFT SPACE        DP OF FACILITIES                                  
+36-241                   275   OFFICE             RES LAB OF ELEC        PLA                        
+36-244                    11   UTILITY/MECH RM    DP OF FACILITIES                                  
+36-244Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+36-245                   138   OFFICE             RES LAB OF ELEC        PLA                        
+36-252E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-252Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+36-254                    10   LABORATORY SVC     RES LAB OF ELEC        PLA                        
+36-258                   457   RESEARCH LAB       RES LAB OF ELEC        PLA                        
+36-258A                  261   RESEARCH LAB       RES LAB OF ELEC        PLA                        
+36-260Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+36-261                   346   RESEARCH LAB       RES LAB OF ELEC        PLA                        
+36-261A                  341   RESEARCH LAB       RES LAB OF ELEC        PLA                        
+36-268                   242   RESEARCH LAB       RES LAB OF ELEC        PLA                        
+36-268Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+36-272                   706   RESEARCH LAB       RES LAB OF ELEC        PLA                        
+36-276                   488   LAB SUPPORT SHOP   RES LAB OF ELEC        PLA                        
+36-276E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-276Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+36-277                    73   SECY/RECEPTION     RES LAB OF ELEC        PLA                        
+36-279                   128   OFFICE             RES LAB OF ELEC        PLA                        
+36-281                   278   CONFERENCE ROOM    RES LAB OF ELEC        PLA                        
+36-283                   129   OFFICE             RES LAB OF ELEC        PLA                        
+36-284E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-284Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+36-285                   135   OFFICE             RES LAB OF ELEC        PLA                        
+36-287                   260   OFFICE             RES LAB OF ELEC        PLA                        
+36-292T                   27   TELECOM CLOSET     DP OF FACILITIES                                  
+36-292Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+36-293                   187   OFFICE             RES LAB OF ELEC        PLA                        
+36-295                   140   OFFICE             RES LAB OF ELEC        PLA                        
+36-297                   138   OFFICE             RES LAB OF ELEC        PLA                        
+                    --------                                                                        
+                      13,088                                                                        
+                                                                                                    
+36-300CA               1,021   CORRIDOR           DP OF FACILITIES                                  
+36-300CB                 290   CORRIDOR           DP OF FACILITIES                                  
+36-300E1                  61   ELEVATOR           DP OF FACILITIES                                  
+36-300E2                  75   ELEVATOR           DP OF FACILITIES                                  
+36-300E3                  81   ELEVATOR           DP OF FACILITIES                                  
+36-300LA               1,037   LOBBY              DP OF FACILITIES                                  
+36-300LB                 215   LOBBY              DP OF FACILITIES                                  
+36-300SA                 170   STAIRWAY           DP OF FACILITIES                                  
+36-300SB                 152   STAIRWAY           DP OF FACILITIES                                  
+36-300Z                  542   SHAFT SPACE        DP OF FACILITIES                                  
+36-304J                   18   JANITOR CLOSET     DP OF FACILITIES                                  
+36-305                   230   OFFICE             RES LAB OF ELEC        OPT                        
+36-308                   220   FEMALE LAVATORY    DP OF FACILITIES                                  
+36-310                   236   MALE LAVATORY      DP OF FACILITIES                                  
+36-312                   398   RESEARCH LAB       RES LAB OF ELEC        OPT                        
+36-312E                   23   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-313                   284   OFFICE SERVICE     RES LAB OF ELEC        OPT                        
+36-313A                   73   SECY/RECEPTION     RES LAB OF ELEC                                   
+36-315                   141   OFFICE             RES LAB OF ELEC        OPT                        
+36-319                   184   OFFICE             RES LAB OF ELEC        OPT                        
+36-320E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-320Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+36-323                   125   OFFICE             RES LAB OF ELEC        OPT                        
+36-324                   395   RESEARCH LAB       RES LAB OF ELEC        OPT                        
+36-325                   121   OFFICE             RES LAB OF ELEC        OPT                        
+36-328Z                   26   SHAFT SPACE        DP OF FACILITIES                                  
+36-330                   121   RESEARCH LAB       RES LAB OF ELEC        OPT                        
+36-335                   279   CONFERENCE ROOM    RES LAB OF ELEC        OPT                        
+36-336                   126   LAB SUPPORT SHOP   RES LAB OF ELEC        OPT                        
+36-336Z                   23   SHAFT SPACE        DP OF FACILITIES                                  
+36-337                   230   OFFICE             RES LAB OF ELEC        OPT                        
+36-338                   136   LABORATORY SVC     RES LAB OF ELEC        OPT                        
+36-342                   392   RESEARCH LAB       RES LAB OF ELEC        OPT                        
+36-344                   266   RESEARCH LAB       RES LAB OF ELEC        OPT                        
+36-344A                   11   UTILITY/MECH RM    DP OF FACILITIES                                  
+36-344Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+36-345                   398   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-345A                   63   SECY/RECEPTION     RES LAB OF ELEC        OPT                        
+36-347                   138   OFFICE             RES LAB OF ELEC        OPT                        
+36-351                   247   OFFICE             RES LAB OF ELEC        OPT                        
+36-352E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-352Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+36-355                   123   OFFICE             RES LAB OF ELEC        OPT                        
+36-357                   119   OFFICE             RES LAB OF ELEC        OPT                        
+36-360Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+36-361                   249   OFFICE             RES LAB OF ELEC        OPT                        
+36-362                   262   RESEARCH LAB       RES LAB OF ELEC        COM                        
+36-363                   135   OFFICE             RES LAB OF ELEC        OPT                        
+36-364                   535   RESEARCH LAB       RES LAB OF ELEC        OPT                        
+36-367                   138   OFFICE SERVICE     RES LAB OF ELEC        OPT                        
+36-368                   137   LABORATORY SVC     RES LAB OF ELEC        OPT                        
+36-368Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+36-369                   233   OFFICE             RES LAB OF ELEC        ELE                        
+36-372                   534   CLASSROOM          REGISTRAR                                         
+36-374                    54   OFFICE SERVICE     ELEC ENG&COMP SC       OPT                        
+36-374A                   41   UTILITY/MECH RM    DP OF FACILITIES                                  
+36-376                   557   RESEARCH LAB       RES LAB OF ELEC        OPT                        
+36-376E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-376Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+36-377                   343   OFFICE SERVICE     RES LAB OF ELEC        ELE                        
+36-379                   140   OFFICE             RES LAB OF ELEC        ELE                        
+36-384E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-384Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+36-387                   118   OFFICE             RES LAB OF ELEC        ELE                        
+36-389                   114   OFFICE             RES LAB OF ELEC        ELE                        
+36-392T                   28   TELECOM CLOSET     DP OF FACILITIES                                  
+36-392Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+36-393                   197   OFFICE             RES LAB OF ELEC        ELE                        
+36-395                   133   OFFICE             RES LAB OF ELEC        ELE                        
+36-397                   143   OFFICE             RES LAB OF ELEC        ELE                        
+                    --------                                                                        
+                      13,043                                                                        
+                                                                                                    
+36-400CC               1,030   CORRIDOR           DP OF FACILITIES                                  
+36-400CD                 318   CORRIDOR           DP OF FACILITIES                                  
+36-400CE                 191   CORRIDOR           DP OF FACILITIES                                  
+36-400E1                  61   ELEVATOR           DP OF FACILITIES                                  
+36-400E2                  75   ELEVATOR           DP OF FACILITIES                                  
+36-400E3                  81   ELEVATOR           DP OF FACILITIES                                  
+36-400LA               1,037   LOBBY              DP OF FACILITIES                                  
+36-400SA                 170   STAIRWAY           DP OF FACILITIES                                  
+36-400SB                 152   STAIRWAY           DP OF FACILITIES                                  
+36-400Z                  498   SHAFT SPACE        DP OF FACILITIES                                  
+36-404J                   18   JANITOR CLOSET     DP OF FACILITIES                                  
+36-408                   220   FEMALE LAVATORY    DP OF FACILITIES                                  
+36-410                   236   MALE LAVATORY      DP OF FACILITIES                                  
+36-412                   156   PVT CIRCULATION    RES LAB OF ELEC                                   
+36-412A                   41   OFFICE SERVICE     RES LAB OF ELEC        HQD                        
+36-412E                   23   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-413                   621   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-413A                   84   SECY/RECEPTION     RES LAB OF ELEC                                   
+36-414                    97   OFFICE             RES LAB OF ELEC                                   
+36-415                   125   OFFICE             RES LAB OF ELEC        HQA                        
+36-416                    96   OFFICE             RES LAB OF ELEC                                   
+36-417                   151   OFFICE             RES LAB OF ELEC        HQA                        
+36-418                   128   OFFICE             RES LAB OF ELEC        HQA                        
+36-419                   324   OFFICE             RES LAB OF ELEC        HQA                        
+36-420E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-420Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+36-425                   248   OFFICE             RES LAB OF ELEC        HQA                        
+36-428                   924   CONFERENCE ROOM    RES LAB OF ELEC        HQA                        
+36-428A                   68   OFFICE SERVICE     RES LAB OF ELEC        HQA                        
+36-428Z                   26   SHAFT SPACE        DP OF FACILITIES                                  
+36-429                   131   OFFICE             RES LAB OF ELEC        HQF                        
+36-433                   264   OFFICE             RES LAB OF ELEC        HQF                        
+36-436Z                   23   SHAFT SPACE        DP OF FACILITIES                                  
+36-437                   120   OFFICE             RES LAB OF ELEC        HQF                        
+36-441                   104   OFFICE             RES LAB OF ELEC        HQC                        
+36-443                   134   OFFICE             RES LAB OF ELEC                                   
+36-444                    11   UTILITY/MECH RM    DP OF FACILITIES                                  
+36-444Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+36-445                   138   OFFICE             RES LAB OF ELEC        HQF                        
+36-446                   204   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-449                   169   OFFICE             RES LAB OF ELEC                                   
+36-451                    60   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-452E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-452Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+36-453                   117   OFFICE             RES LAB OF ELEC        HQF                        
+36-460                   135   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-460Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+36-461                   139   OFFICE             RES LAB OF ELEC        HQD                        
+36-462                   703   CONFERENCE ROOM    RES LAB OF ELEC        HQA                        
+36-462A                   18   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-463E                    4   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-465                   272   OFFICE             RES LAB OF ELEC        OPT                        
+36-468                   195   LAB SUPPORT SHOP   RES LAB OF ELEC        OPT                        
+36-468Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+36-469                   120   OFFICE             RES LAB OF ELEC        COM                        
+36-472                   150   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-472A                  176   OFFICE             RES LAB OF ELEC                                   
+36-472B                  147   OFFICE             RES LAB OF ELEC                                   
+36-472C                  218   OFFICE             RES LAB OF ELEC                                   
+36-473                   259   OFFICE             RES LAB OF ELEC        COM                        
+36-476                   543   RESEARCH LAB       RES LAB OF ELEC        COM                        
+36-476E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-476Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+36-477                   375   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-477A                   86   SECY/RECEPTION     RES LAB OF ELEC        COM                        
+36-479                   111   OFFICE             RES LAB OF ELEC        COM                        
+36-484E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-484Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+36-491                   291   OFFICE             RES LAB OF ELEC        COM                        
+36-492T                   28   TELECOM CLOSET     DP OF FACILITIES                                  
+36-492Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+36-493                   127   OFFICE             RES LAB OF ELEC        COM                        
+36-497                   127   OFFICE             RES LAB OF ELEC        COM                        
+                    --------                                                                        
+                      13,063                                                                        
+                                                                                                    
+36-500CC               1,062   CORRIDOR           DP OF FACILITIES                                  
+36-500CD                 257   CORRIDOR           DP OF FACILITIES                                  
+36-500CE                 191   CORRIDOR           DP OF FACILITIES                                  
+36-500E1                  61   ELEVATOR           DP OF FACILITIES                                  
+36-500E2                  75   ELEVATOR           DP OF FACILITIES                                  
+36-500E3                  81   ELEVATOR           DP OF FACILITIES                                  
+36-500LA               1,037   LOBBY              DP OF FACILITIES                                  
+36-500SA                 170   STAIRWAY           DP OF FACILITIES                                  
+36-500SB                 152   STAIRWAY           DP OF FACILITIES                                  
+36-500Z                  498   SHAFT SPACE        DP OF FACILITIES                                  
+36-504J                   18   JANITOR CLOSET     DP OF FACILITIES                                  
+36-508                   220   FEMALE LAVATORY    DP OF FACILITIES                                  
+36-510                   236   MALE LAVATORY      DP OF FACILITIES                                  
+36-511                   412   OFFICE SERVICE     RES LAB OF ELEC        SPE                        
+36-512                   333   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-512A                  135   OFFICE             RES LAB OF ELEC                                   
+36-512B                  143   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-512C                  236   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-512D                  154   OFFICE             RES LAB OF ELEC                                   
+36-512E                   23   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-512F                  290   OFFICE             RES LAB OF ELEC                                   
+36-512G                  155   OFFICE             RES LAB OF ELEC                                   
+36-512H                  153   OFFICE             RES LAB OF ELEC                                   
+36-512K                  201   OFFICE             RES LAB OF ELEC                                   
+36-512L                   51   OFFICE             RES LAB OF ELEC                                   
+36-512N                   50   OFFICE             RES LAB OF ELEC                                   
+36-512P                   51   OFFICE             RES LAB OF ELEC                                   
+36-512Q                   50   OFFICE             RES LAB OF ELEC                                   
+36-513                   134   OFFICE             RES LAB OF ELEC        SPE                        
+36-515                   227   OFFICE SERVICE     RES LAB OF ELEC        SPE                        
+36-517                   200   OFFICE             RES LAB OF ELEC        SPE                        
+36-520E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-520Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+36-521                   132   SECY/RECEPTION     RES LAB OF ELEC        SPE                        
+36-523                   127   OFFICE             RES LAB OF ELEC        SPE                        
+36-525                   137   OFFICE             RES LAB OF ELEC        SPE                        
+36-528Z                   26   SHAFT SPACE        DP OF FACILITIES                                  
+36-529                   144   OFFICE SERVICE     RES LAB OF ELEC        SPE                        
+36-531                   128   OFFICE             RES LAB OF ELEC        SPE                        
+36-536Z                   23   SHAFT SPACE        DP OF FACILITIES                                  
+36-537                   266   CONFERENCE ROOM    RES LAB OF ELEC        SPE                        
+36-541                   329   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-541A                   72   OFFICE             RES LAB OF ELEC                                   
+36-544A                   11   UTILITY/MECH RM    DP OF FACILITIES                                  
+36-544Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+36-545                   267   OFFICE             RES LAB OF ELEC        SPE                        
+36-547                   128   OFFICE             RES LAB OF ELEC        SPE                        
+36-549                   134   OFFICE             RES LAB OF ELEC        SPE                        
+36-552                   398   RESEARCH LAB       RES LAB OF ELEC                                   
+36-552A                   96   RESEARCH LAB       RES LAB OF ELEC        SPE                        
+36-552E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-552Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+36-553                   133   OFFICE             RES LAB OF ELEC        SPE                        
+36-559                    32   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-560Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+36-561                   128   OFFICE             RES LAB OF ELEC                                   
+36-564                    73   LABORATORY SVC     RES LAB OF ELEC        SPE                        
+36-568                   698   RESEARCH LAB       RES LAB OF ELEC                                   
+36-568Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+36-569                   124   OFFICE             RES LAB OF ELEC        SPE                        
+36-570                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+36-575                   257   OFFICE SERVICE     RES LAB OF ELEC        SPE                        
+36-576                   734   RESEARCH LAB       RES LAB OF ELEC                                   
+36-576E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-576Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+36-579                   147   OFFICE             RES LAB OF ELEC        SPE                        
+36-581                   133   OFFICE             RES LAB OF ELEC        SPE                        
+36-581A                   80   OFFICE SERVICE     RES LAB OF ELEC        SPE                        
+36-584E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-584Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+36-585                   132   OFFICE             RES LAB OF ELEC        SPE                        
+36-587                   132   OFFICE             RES LAB OF ELEC        SPE                        
+36-591                   195   OFFICE             RES LAB OF ELEC        SPE                        
+36-592T                   28   TELECOM CLOSET     DP OF FACILITIES                                  
+36-592Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+36-595                   126   OFFICE             RES LAB OF ELEC        SPE                        
+36-597                   226   OFFICE             RES LAB OF ELEC        SPE                        
+                    --------                                                                        
+                      13,035                                                                        
+                                                                                                    
+36-600CA                 610   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+36-600CC               1,086   CORRIDOR           DP OF FACILITIES                                  
+36-600E1                  61   ELEVATOR           DP OF FACILITIES                                  
+36-600E2                  75   ELEVATOR           DP OF FACILITIES                                  
+36-600E3                  81   ELEVATOR           DP OF FACILITIES                                  
+36-600LA               1,035   LOBBY              DP OF FACILITIES                                  
+36-600SA                 170   STAIRWAY           DP OF FACILITIES                                  
+36-600SB                 152   STAIRWAY           DP OF FACILITIES                                  
+36-600Z                  498   SHAFT SPACE        DP OF FACILITIES                                  
+36-604J                   18   JANITOR CLOSET     DP OF FACILITIES                                  
+36-608                   214   FEMALE LAVATORY    DP OF FACILITIES                                  
+36-610                   236   MALE LAVATORY      DP OF FACILITIES                                  
+36-612                   124   PVT CIRCULATION    RES LAB OF ELEC                                   
+36-612E                   23   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-614                    79   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-615                   443   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-615A                  137   OFFICE             RES LAB OF ELEC                                   
+36-615B                  110   OFFICE             RES LAB OF ELEC                                   
+36-615C                  172   OFFICE             RES LAB OF ELEC                                   
+36-615D                  257   OFFICE             RES LAB OF ELEC                                   
+36-615F                  166   OFFICE             RES LAB OF ELEC                                   
+36-615G                  110   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-615H                  157   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-615K                  154   OFFICE             RES LAB OF ELEC                                   
+36-615L                   66   SECY/RECEPTION     RES LAB OF ELEC                                   
+36-616                   437   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-618                   672   LABORATORY SVC     RES LAB OF ELEC                                   
+36-618B                   82   LABORATORY SVC     RES LAB OF ELEC                                   
+36-620E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-620Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+36-628Z                   26   SHAFT SPACE        DP OF FACILITIES                                  
+36-636Z                   23   SHAFT SPACE        DP OF FACILITIES                                  
+36-640                   423   OFFICE SERVICE     RES LAB OF ELEC        DSP                        
+36-643                   141   OFFICE SERVICE     RES LAB OF ELEC        ATS                        
+36-644                    11   UTILITY/MECH RM    DP OF FACILITIES                                  
+36-644Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+36-647                   211   OFFICE SERVICE     RES LAB OF ELEC        ATS                        
+36-647A                   70   SECY/RECEPTION     RES LAB OF ELEC                                   
+36-652E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-652Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+36-653                   346   OFFICE             RES LAB OF ELEC        ATS                        
+36-659                   124   OFFICE             RES LAB OF ELEC        ATS                        
+36-660                   427   OFFICE SERVICE     RES LAB OF ELEC        DSP                        
+36-660A                  198   OFFICE             RES LAB OF ELEC                                   
+36-660B                  126   OFFICE             RES LAB OF ELEC                                   
+36-660C                  322   OFFICE             RES LAB OF ELEC                                   
+36-660D                  146   OFFICE             RES LAB OF ELEC                                   
+36-660F                   56   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-660Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+36-663                   216   OFFICE             RES LAB OF ELEC        ATS                        
+36-665                   135   OFFICE SERVICE     RES LAB OF ELEC        ATS                        
+36-667                   223   OFFICE             RES LAB OF ELEC        IND                        
+36-668Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+36-673                   133   OFFICE             RES LAB OF ELEC        IND                        
+36-676E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-676Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+36-677                   310   OFFICE SERVICE     RES LAB OF ELEC        IND                        
+36-677A                   49   SECY/RECEPTION     RES LAB OF ELEC                                   
+36-677B                  126   OFFICE SERVICE     RES LAB OF ELEC        IND                        
+36-680                   297   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-680A                  155   OFFICE             RES LAB OF ELEC                                   
+36-680B                  126   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-680C                  232   OFFICE             RES LAB OF ELEC                                   
+36-680D                   97   OFFICE             RES LAB OF ELEC                                   
+36-680DA                  67   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-680F                  100   OFFICE             RES LAB OF ELEC                                   
+36-680G                   90   OFFICE SERVICE     RES LAB OF ELEC                                   
+36-683                   126   OFFICE             RES LAB OF ELEC        IND                        
+36-684E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-684Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+36-687                   125   OFFICE             RES LAB OF ELEC        IND                        
+36-689                   128   OFFICE             RES LAB OF ELEC        IND                        
+36-692T                   28   TELECOM CLOSET     DP OF FACILITIES                                  
+36-692Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+36-695                   188   OFFICE             RES LAB OF ELEC        ATS                        
+36-697                   132   OFFICE             RES LAB OF ELEC        IND                        
+36-699                   128   OFFICE             RES LAB OF ELEC        IND                        
+                    --------                                                                        
+                      13,449                                                                        
+                                                                                                    
+36-700CC               1,054   CORRIDOR           DP OF FACILITIES                                  
+36-700E1                  61   ELEVATOR           DP OF FACILITIES                                  
+36-700E2                  75   ELEVATOR           DP OF FACILITIES                                  
+36-700E3                  81   ELEVATOR           DP OF FACILITIES                                  
+36-700LA               1,037   LOBBY              DP OF FACILITIES                                  
+36-700SA                 170   STAIRWAY           DP OF FACILITIES                                  
+36-700SB                 152   STAIRWAY           DP OF FACILITIES                                  
+36-700Z                  511   SHAFT SPACE        DP OF FACILITIES                                  
+36-704J                   18   JANITOR CLOSET     DP OF FACILITIES                                  
+36-705                   272   OFFICE             RES LAB OF ELEC        SEN                        
+36-708                   220   FEMALE LAVATORY    DP OF FACILITIES                                  
+36-709                   245   OFFICE             RES LAB OF ELEC        SEN                        
+36-710                   236   MALE LAVATORY      DP OF FACILITIES                                  
+36-712                   176   LABORATORY SVC     RES LAB OF ELEC        SEN                        
+36-712E                   23   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-713                   279   OFFICE             RES LAB OF ELEC        SEN                        
+36-720E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-720Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+36-722                   133   LABORATORY SVC     RES LAB OF ELEC                                   
+36-724                   472   RESEARCH LAB       RES LAB OF ELEC        SEN                        
+36-724A                   46   LABORATORY SVC     RES LAB OF ELEC                                   
+36-724B                  118   RESEARCH LAB       RES LAB OF ELEC        SEN                        
+36-724C                   59   RESEARCH LAB       RES LAB OF ELEC                                   
+36-724D                  100   RESEARCH LAB       RES LAB OF ELEC                                   
+36-724F                  100   RESEARCH LAB       RES LAB OF ELEC                                   
+36-726                   133   RSCH LAB-OFFICE    RES LAB OF ELEC                                   
+36-728                   173   RSCH LAB-OFFICE    RES LAB OF ELEC        SEN                        
+36-728Z                   26   SHAFT SPACE        DP OF FACILITIES                                  
+36-730                   177   RSCH LAB-OFFICE    RES LAB OF ELEC        SEN                        
+36-732                   151   RSCH LAB-OFFICE    RES LAB OF ELEC        SEN                        
+36-734                   119   RSCH LAB-OFFICE    RES LAB OF ELEC        SEN                        
+36-736                   123   RSCH LAB-OFFICE    RES LAB OF ELEC        SEN                        
+36-736Z                   23   SHAFT SPACE        DP OF FACILITIES                                  
+36-737                   334   CONFERENCE ROOM    RES LAB OF ELEC        SEN                        
+36-744A                   11   UTILITY/MECH RM    DP OF FACILITIES                                  
+36-744Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+36-745E                    3   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-747                   129   OFFICE             RES LAB OF ELEC        SEN                        
+36-749                   128   OFFICE             RES LAB OF ELEC        SEN                        
+36-751                   125   OFFICE             RES LAB OF ELEC        SEN                        
+36-752E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-752Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+36-755                   125   OFFICE             RES LAB OF ELEC        SEN                        
+36-757                   167   OFFICE             RES LAB OF ELEC        SEN                        
+36-758                   157   RSCH LAB-OFFICE    RES LAB OF ELEC        SEN                        
+36-759                   169   OFFICE             RES LAB OF ELEC        SEN                        
+36-760Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+36-761                   128   OFFICE             RES LAB OF ELEC        SEN                        
+36-763                   129   OFFICE             RES LAB OF ELEC        SEN                        
+36-766                   254   RSCH LAB-OFFICE    RES LAB OF ELEC        SEN                        
+36-767                   141   SECY/RECEPTION     RES LAB OF ELEC        SEN                        
+36-767B                  641   OFFICE SERVICE     RES LAB OF ELEC        SEN                        
+36-768Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+36-769                   676   RESEARCH LAB       RES LAB OF ELEC        SEN                        
+36-776                   862   LABORATORY SVC     RES LAB OF ELEC        SEN                        
+36-776A                  206   RSCH LAB-OFFICE    RES LAB OF ELEC        SEN                        
+36-776B                   78   LABORATORY SVC     RES LAB OF ELEC                                   
+36-776C                   68   SECY/RECEPTION     RES LAB OF ELEC                                   
+36-776D                   21   LABORATORY SVC     RES LAB OF ELEC                                   
+36-776E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-776Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+36-781                   405   LABORATORY SVC     RES LAB OF ELEC        SEN                        
+36-784E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-784Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+36-789                   157   RSCH LAB-OFFICE    RES LAB OF ELEC        SEN                        
+36-791                   209   RSCH LAB-OFFICE    RES LAB OF ELEC        SEN                        
+36-792                   135   RSCH LAB-OFFICE    RES LAB OF ELEC        SEN                        
+36-792T                   28   TELECOM CLOSET     DP OF FACILITIES                                  
+36-792Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+36-794                   139   RSCH LAB-OFFICE    RES LAB OF ELEC        SEN                        
+36-796                   245   RSCH LAB-OFFICE    RES LAB OF ELEC        SEN                        
+36-797                   130   RESEARCH LAB       RES LAB OF ELEC        SEN                        
+36-799                   131   RESEARCH LAB       RES LAB OF ELEC        SEN                        
+                    --------                                                                        
+                      12,854                                                                        
+                                                                                                    
+36-800CC                 320   CORRIDOR           DP OF FACILITIES                                  
+36-800CD                 960   CORRIDOR           DP OF FACILITIES                                  
+36-800CE                 848   CORRIDOR           DP OF FACILITIES                                  
+36-800CF                 228   CORRIDOR           DP OF FACILITIES                                  
+36-800E1                  68   ELEVATOR           DP OF FACILITIES                                  
+36-800E2                  84   ELEVATOR           DP OF FACILITIES                                  
+36-800E3                 103   ELEVATOR           DP OF FACILITIES                                  
+36-800LA               1,051   LOBBY              DP OF FACILITIES                                  
+36-800SA                 210   STAIRWAY           DP OF FACILITIES                                  
+36-800SB                 143   STAIRWAY           DP OF FACILITIES                                  
+36-800Z                  543   SHAFT SPACE        DP OF FACILITIES                                  
+36-804J                   19   JANITOR CLOSET     DP OF FACILITIES                                  
+36-805                   141   RESEARCH LAB       RES LAB OF ELEC        AUD                        
+36-807                   134   SECY/RECEPTION     RES LAB OF ELEC        AUD                        
+36-808                   236   FEMALE LAVATORY    DP OF FACILITIES                                  
+36-810                   239   MALE LAVATORY      DP OF FACILITIES                                  
+36-812                   162   OFFICE SERVICE     RES LAB OF ELEC        AUD                        
+36-812E                   27   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-817                   237   OFFICE             RES LAB OF ELEC        AUD                        
+36-820E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-820Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+36-824                   266   OFFICE             RES LAB OF ELEC        AUD                        
+36-825                   126   SECY/RECEPTION     RES LAB OF ELEC        AUD                        
+36-828Z                   23   SHAFT SPACE        DP OF FACILITIES                                  
+36-831                   507   RESEARCH LAB       RES LAB OF ELEC                                   
+36-831A                  345   RESEARCH LAB       RES LAB OF ELEC        AUD                        
+36-834                   273   OFFICE             RES LAB OF ELEC        AUD                        
+36-836Z                   25   SHAFT SPACE        DP OF FACILITIES                                  
+36-838                   337   RESEARCH LAB       RES LAB OF ELEC        AUD                        
+36-838A                   93   LABORATORY SVC     RES LAB OF ELEC        AUD                        
+36-841                   252   OFFICE             RES LAB OF ELEC        AUD                        
+36-844                    12   UTILITY/MECH RM    DP OF FACILITIES                                  
+36-844Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+36-847                   587   RESEARCH LAB       RES LAB OF ELEC        AUD                        
+36-848                   128   OFFICE             RES LAB OF ELEC        CIR                        
+36-849                   254   OFFICE             RES LAB OF ELEC        AUD                        
+36-852E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-852Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+36-854                   580   RESEARCH LAB       RES LAB OF ELEC                                   
+36-854A                  124   RESEARCH LAB       RES LAB OF ELEC                                   
+36-854B                  124   RESEARCH LAB       RES LAB OF ELEC        CIR                        
+36-860Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+36-863                   268   RESEARCH LAB       RES LAB OF ELEC        CIR                        
+36-864                   273   OFFICE             RES LAB OF ELEC        CIR                        
+36-865                   123   OFFICE             RES LAB OF ELEC        AUD                        
+36-868Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+36-869                   302   RESEARCH LAB       RES LAB OF ELEC        CIR                        
+36-872                   134   SECY/RECEPTION     RES LAB OF ELEC        CIR                        
+36-873                   121   OFFICE             RES LAB OF ELEC        CIR                        
+36-874                    87   LABORATORY SVC     RES LAB OF ELEC                                   
+36-876                    73   OFFICE             RES LAB OF ELEC                                   
+36-876E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-876Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+36-879                   280   RESEARCH LAB       RES LAB OF ELEC        AUD                        
+36-880                   182   OFFICE             RES LAB OF ELEC        CIR                        
+36-881                   126   OFFICE             RES LAB OF ELEC        CIR                        
+36-884E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+36-884Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+36-886                   323   OFFICE             RES LAB OF ELEC        CIR                        
+36-888                   158   RESEARCH LAB       RES LAB OF ELEC                                   
+36-888A                  158   RESEARCH LAB       RES LAB OF ELEC        CIR                        
+36-889                   240   OFFICE             RES LAB OF ELEC        CIR                        
+36-892T                   29   TELECOM CLOSET     DP OF FACILITIES                                  
+36-892Z                   14   SHAFT SPACE        DP OF FACILITIES                                  
+36-893                   126   RESEARCH LAB       RES LAB OF ELEC        CIR                        
+36-897                   131   RESEARCH LAB       RES LAB OF ELEC        CIR 

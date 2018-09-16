@@ -1,0 +1,270 @@
+39-000E2                  92   ELEVATOR           DP OF FACILITIES                                  
+39-000SB                 101   STAIRWAY           DP OF FACILITIES                                  
+39-030                   696   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-030A                  627   UTILITY/MECH RM    DP OF FACILITIES                                  
+39-030B                   77   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-030C                  116   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-030D                  299   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-034                   297   UTILITY/MECH RM    DP OF FACILITIES                                  
+39-040E                  963   ELECTRIC CLOSET    DP OF FACILITIES                                  
+39-042E                   26   ELECTRIC CLOSET    DP OF FACILITIES                                  
+39-043                    54   UTILITY/MECH RM    DP OF FACILITIES                                  
+39-044                   182   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-044A                   27   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-046                   302   LABORATORY SVC     MICROSYSTEMS LAB                                  
+                    --------                                                                        
+                       3,859                                                                        
+                                                                                                    
+39-100CA                 546   CORRIDOR           DP OF FACILITIES                                  
+39-100CB                  38   CORRIDOR           DP OF FACILITIES                                  
+39-100E1                  76   ELEVATOR           DP OF FACILITIES                                  
+39-100E2                  94   ELEVATOR           DP OF FACILITIES                                  
+39-100LA                 319   LOBBY              DP OF FACILITIES                                  
+39-100LB                 327   LOBBY              DP OF FACILITIES                                  
+39-100SA                  88   STAIRWAY           DP OF FACILITIES                                  
+39-100SB                  63   STAIRWAY           DP OF FACILITIES                                  
+39-100Z                  133   SHAFT SPACE        DP OF FACILITIES                                  
+39-138                    51   UTILITY/MECH RM    DP OF FACILITIES                                  
+39-138E                   39   ELECTRIC CLOSET    DP OF FACILITIES                                  
+39-140                    88   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-142                   111   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-144                   123   UTILITY/MECH RM    DP OF FACILITIES                                  
+39-178                   182   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-178A                   47   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-180                   108   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-182                   117   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-184J                   32   JANITOR CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                       2,582                                                                        
+                                                                                                    
+39-200CA                 272   CORRIDOR           DP OF FACILITIES                                  
+39-200CB                 966   CORRIDOR           DP OF FACILITIES                                  
+39-200CC                 293   CORRIDOR           DP OF FACILITIES                                  
+39-200E1                  68   ELEVATOR           DP OF FACILITIES                                  
+39-200E2                  87   ELEVATOR           DP OF FACILITIES                                  
+39-200SA                  88   STAIRWAY           DP OF FACILITIES                                  
+39-200Z                  910   SHAFT SPACE        DP OF FACILITIES                                  
+39-201                    98   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-201A                  688   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-201B                   19   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-204A                  641   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-207                    96   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-211                   187   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-213                   103   OFFICE             MICROSYSTEMS LAB                                  
+39-215                   110   OFFICE             MICROSYSTEMS LAB                                  
+39-217                   102   OFFICE             MICROSYSTEMS LAB                                  
+39-219                   162   OFFICE             MICROSYSTEMS LAB                                  
+39-221                   155   SECY/RECEPTION     MICROSYSTEMS LAB                                  
+39-222                    50   FEMALE LAVATORY    DP OF FACILITIES                                  
+39-223J                   10   JANITOR CLOSET     DP OF FACILITIES                                  
+39-224                    68   OFFICE SERVICE     MICROSYSTEMS LAB                                  
+39-225                   110   OFFICE             MICROSYSTEMS LAB                                  
+39-226                    80   MALE LAVATORY      DP OF FACILITIES                                  
+39-227                   155   OFFICE             MICROSYSTEMS LAB                                  
+39-228                   360   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-228A                   20   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-228Z                   50   SHAFT SPACE        DP OF FACILITIES                                  
+39-229                   128   OFFICE             MICROSYSTEMS LAB                                  
+39-233                   337   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-235                   151   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-238                   213   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-240E                   43   ELECTRIC CLOSET    DP OF FACILITIES                                  
+39-240T                   21   TELECOM CLOSET     DP OF FACILITIES                                  
+39-240Z                    6   SHAFT SPACE        DP OF FACILITIES                                  
+39-251                   118   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-253                   341   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-255                   147   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-257                   236   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-259                   125   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-261                   241   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-263                   140   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-267                   707   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-267A                  278   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-277                   867   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-285                   140   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-287                   233   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-289                   113   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-291                   227   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-293                   134   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-295                   238   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-297                   140   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-297Z                   17   SHAFT SPACE        DP OF FACILITIES                                  
+39-298                    90   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-299                   147   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-299A                  111   RESEARCH LAB       MICROSYSTEMS LAB                                  
+                    --------                                                                        
+                      11,635                                                                        
+                                                                                                    
+39-300CA                 167   CORRIDOR           DP OF FACILITIES                                  
+39-300CB               1,235   CORRIDOR           DP OF FACILITIES                                  
+39-300CC                 164   CORRIDOR           DP OF FACILITIES                                  
+39-300E1                  64   ELEVATOR           DP OF FACILITIES                                  
+39-300E2                  88   ELEVATOR           DP OF FACILITIES                                  
+39-300SA                  88   STAIRWAY           DP OF FACILITIES                                  
+39-300Z                  955   SHAFT SPACE        DP OF FACILITIES                                  
+39-301                 5,897   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-301A                   55   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-311                   107   OFFICE             MICROSYSTEMS LAB                                  
+39-311Z                   60   SHAFT SPACE        DP OF FACILITIES                                  
+39-312                   313   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-313                    99   OFFICE             MICROSYSTEMS LAB                                  
+39-314                   393   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-315                   108   OFFICE             MICROSYSTEMS LAB                                  
+39-317                   102   OFFICE             MICROSYSTEMS LAB                                  
+39-321                   104   SECY/RECEPTION     MICROSYSTEMS LAB                                  
+39-321A                  105   OFFICE             MICROSYSTEMS LAB                                  
+39-321B                  103   OFFICE             MICROSYSTEMS LAB                                  
+39-322                    76   FEMALE LAVATORY    DP OF FACILITIES                                  
+39-324J                    7   JANITOR CLOSET     DP OF FACILITIES                                  
+39-325                    99   OFFICE             MICROSYSTEMS LAB                                  
+39-326                    52   MALE LAVATORY      DP OF FACILITIES                                  
+39-328                   535   OFFICE             MICROSYSTEMS LAB                                  
+39-328A                   83   OFFICE SERVICE     MICROSYSTEMS LAB                                  
+39-329                   293   CONFERENCE ROOM    MICROSYSTEMS LAB                                  
+39-340E                   53   ELECTRIC CLOSET    DP OF FACILITIES                                  
+39-340T                   29   TELECOM CLOSET     DP OF FACILITIES                                  
+39-340Z                   95   SHAFT SPACE        DP OF FACILITIES                                  
+39-341Z                   56   SHAFT SPACE        DP OF FACILITIES                                  
+39-342Z                   92   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      11,677                                                                        
+                                                                                                    
+39-400CA                 148   CORRIDOR           DP OF FACILITIES                                  
+39-400CB                 800   CORRIDOR           DP OF FACILITIES                                  
+39-400CC                 297   CORRIDOR           DP OF FACILITIES                                  
+39-400E1                  56   ELEVATOR           DP OF FACILITIES                                  
+39-400E2                  93   ELEVATOR           DP OF FACILITIES                                  
+39-400SA                  88   STAIRWAY           DP OF FACILITIES                                  
+39-400Z                1,284   SHAFT SPACE        DP OF FACILITIES                                  
+39-401                    88   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-403                   160   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-403A                   53   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-403B                  723   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-412                   366   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-412A                  118   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-412B                   23   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-415                   170   OFFICE             MICROSYSTEMS LAB                                  
+39-415A                  169   OFFICE             MICROSYSTEMS LAB                                  
+39-415B                  166   OFFICE             MICROSYSTEMS LAB                                  
+39-421                   165   OFFICE             MICROSYSTEMS LAB                                  
+39-422                    41   MALE LAVATORY      DP OF FACILITIES                                  
+39-422Z                   49   SHAFT SPACE        DP OF FACILITIES                                  
+39-424J                    7   JANITOR CLOSET     DP OF FACILITIES                                  
+39-426                    73   FEMALE LAVATORY    DP OF FACILITIES                                  
+39-427                   166   SECY/RECEPTION     MICROSYSTEMS LAB                                  
+39-427A                  168   OFFICE             MICROSYSTEMS LAB                                  
+39-427B                  186   OFFICE             MICROSYSTEMS LAB                                  
+39-428                    86   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-428A                  229   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-430                    78   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-430A                  242   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-430B                    9   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-438                   220   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-439                    16   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-440E                   49   ELECTRIC CLOSET    DP OF FACILITIES                                  
+39-440T                   11   TELECOM CLOSET     DP OF FACILITIES                                  
+39-477                   652   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-477A                   54   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-477B                   45   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-479                   281   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-481                   751   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-481A                   65   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-485                   425   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-487                   987   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-491                   362   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-492                   170   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-493                   200   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-494                   337   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-498                   483   RESEARCH LAB       MICROSYSTEMS LAB                                  
+                    --------                                                                        
+                      11,407                                                                        
+                                                                                                    
+39-500CA                 151   CORRIDOR           DP OF FACILITIES                                  
+39-500CB               2,217   CORRIDOR           DP OF FACILITIES                                  
+39-500CC                 293   CORRIDOR           DP OF FACILITIES                                  
+39-500E1                  60   ELEVATOR           DP OF FACILITIES                                  
+39-500E2                  90   ELEVATOR           DP OF FACILITIES                                  
+39-500SA                  88   STAIRWAY           DP OF FACILITIES                                  
+39-500Z                1,189   SHAFT SPACE        DP OF FACILITIES                                  
+39-511                   119   OFFICE             MICROSYSTEMS LAB                                  
+39-512                   367   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-513                   111   OFFICE             MICROSYSTEMS LAB                                  
+39-514                   353   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-515                   115   OFFICE             MICROSYSTEMS LAB                                  
+39-517                   110   SECY/RECEPTION     MICROSYSTEMS LAB                                  
+39-521                   237   OFFICE             MICROSYSTEMS LAB                                  
+39-522                    74   MALE LAVATORY      DP OF FACILITIES                                  
+39-522Z                   51   SHAFT SPACE        DP OF FACILITIES                                  
+39-524J                    6   JANITOR CLOSET     DP OF FACILITIES                                  
+39-526                    40   FEMALE LAVATORY    DP OF FACILITIES                                  
+39-527                   174   SECY/RECEPTION     MICROSYSTEMS LAB                                  
+39-527A                  174   OFFICE             MICROSYSTEMS LAB                                  
+39-527B                  180   OFFICE             MICROSYSTEMS LAB                                  
+39-528                   295   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-530                   129   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-530A                   12   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-530B                  274   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-538                    33   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-538A                  576   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-538B                   31   LABORATORY SVC     MICROSYSTEMS LAB                                  
+39-540E                   53   ELECTRIC CLOSET    DP OF FACILITIES                                  
+39-540T                   22   TELECOM CLOSET     DP OF FACILITIES                                  
+39-547                   392   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-553                   149   SECY/RECEPTION     MICROSYSTEMS LAB                                  
+39-553A                  155   OFFICE             MICROSYSTEMS LAB                                  
+39-553B                  170   OFFICE             MICROSYSTEMS LAB                                  
+39-556                   390   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-558                   525   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-559                   101   OFFICE             MICROSYSTEMS LAB                                  
+39-561                   100   OFFICE             MICROSYSTEMS LAB                                  
+39-562                   500   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-566                   384   RESEARCH LAB       MICROSYSTEMS LAB                                  
+39-567                   154   SECY/RECEPTION     MICROSYSTEMS LAB                                  
+39-567A                  167   OFFICE             MICROSYSTEMS LAB                                  
+39-567B                  153   OFFICE             MICROSYSTEMS LAB                                  
+39-570                   382   RESEARCH LAB       MICROSYSTEMS LAB                                  
+                    --------                                                                        
+                      11,345                                                                        
+                                                                                                    
+39-600CA                 159   CORRIDOR           DP OF FACILITIES                                  
+39-600CB                 222   CORRIDOR           DP OF FACILITIES                                  
+39-600CC               1,025   CORRIDOR           DP OF FACILITIES                                  
+39-600CD                 210   CORRIDOR           DP OF FACILITIES                                  
+39-600CE                 289   CORRIDOR           DP OF FACILITIES                                  
+39-600CF               1,110   CORRIDOR           DP OF FACILITIES                                  
+39-600E1                  63   ELEVATOR           DP OF FACILITIES                                  
+39-600E2                  92   ELEVATOR           DP OF FACILITIES                                  
+39-600SA                  88   STAIRWAY           DP OF FACILITIES                                  
+39-600Z                1,013   SHAFT SPACE        DP OF FACILITIES                                  
+39-611                   105   OFFICE             MICROSYSTEMS LAB                                  
+39-613                   112   OFFICE             MICROSYSTEMS LAB                                  
+39-615                   108   OFFICE             MICROSYSTEMS LAB                                  
+39-617                   109   OFFICE             MICROSYSTEMS LAB                                  
+39-619                   113   OFFICE             MICROSYSTEMS LAB                                  
+39-621                   108   OFFICE             MICROSYSTEMS LAB                                  
+39-622                    38   FEMALE LAVATORY    DP OF FACILITIES                                  
+39-623                   109   OFFICE             MICROSYSTEMS LAB                                  
+39-624J                    7   JANITOR CLOSET     DP OF FACILITIES                                  
+39-625                   109   OFFICE             MICROSYSTEMS LAB                                  
+39-626                    81   MALE LAVATORY      DP OF FACILITIES                                  
+39-627                   114   OFFICE             MICROSYSTEMS LAB                                  
+39-629                   176   OFFICE             MICROSYSTEMS LAB                                  
+39-651                   177   OFFICE             MICROSYSTEMS LAB                                  
+39-653                   107   OFFICE             MICROSYSTEMS LAB                                  
+39-655                   106   OFFICE             MICROSYSTEMS LAB                                  
+39-657                   103   OFFICE             MICROSYSTEMS LAB                                  
+39-659                   106   OFFICE             MICROSYSTEMS LAB                                  
+39-661                   103   OFFICE             MICROSYSTEMS LAB                                  
+39-663                   105   OFFICE             MICROSYSTEMS LAB                                  
+39-665                   103   OFFICE             MICROSYSTEMS LAB                                  
+39-667                   106   OFFICE             MICROSYSTEMS LAB                                  
+39-669                   164   OFFICE             MICROSYSTEMS LAB                                  
+39-680                 2,635   UTILITY/MECH RM    DP OF FACILITIES                                  
+39-680A                2,186   LABORATORY SVC     MICROSYSTEMS LAB                                  
+                    --------                                                                        
+                      11,562                                                                        
+                                                                                                    
+39-700SA                  78   STAIRWAY           DP OF FACILITIES                                  
+39-700Z                  301   SHAFT SPACE        DP OF FACILITIES                                  
+39-780                 5,494   UTILITY/MECH RM    DP OF FACILITIES                                  
+39-780A                  161   UTILITY/MECH RM    DP OF FACILITIES            

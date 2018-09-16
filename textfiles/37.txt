@@ -1,0 +1,434 @@
+37-000CA                 345   CORRIDOR           DP OF FACILITIES                                  
+37-000CB                 330   CORRIDOR           DP OF FACILITIES                                  
+37-000CC                 451   CORRIDOR           DP OF FACILITIES                                  
+37-000CD                 325   CORRIDOR           DP OF FACILITIES                                  
+37-000E1                  68   ELEVATOR           DP OF FACILITIES                                  
+37-000E2                  68   ELEVATOR           DP OF FACILITIES                                  
+37-000SA                  38   STAIRWAY           DP OF FACILITIES                                  
+37-000SB                  84   STAIRWAY           DP OF FACILITIES                                  
+37-012                   247   LABORATORY SVC     AERO & ASTRO                                      
+37-015                 2,579   UTILITY/MECH RM    DP OF FACILITIES                                  
+37-016                 1,453   RESEARCH LAB       AERO & ASTRO                                      
+37-034                   165   LABORATORY SVC     AERO & ASTRO                                      
+37-036                   152   RSCH LAB-OFFICE    AERO & ASTRO                                      
+37-044                   123   LABORATORY SVC     AERO & ASTRO                                      
+37-055                    39   LABORATORY SVC     AERO & ASTRO                                      
+37-061                   346   UTILITY/MECH RM    DP OF FACILITIES                                  
+37-068                   253   UTILITY/MECH RM    DP OF FACILITIES                                  
+37-072                   806   RESEARCH LAB       PROVOST RESERVE                                   
+37-072M                  242   LABORATORY SVC     PROVOST RESERVE                                   
+37-075T                   99   TELECOM CLOSET     DP OF FACILITIES                                  
+37-084                   161   LABORATORY SVC     AERO & ASTRO                                      
+37-084A                  433   RESEARCH LAB       PROVOST RESERVE                                   
+37-084B                  367   RESEARCH LAB       AERO & ASTRO                                      
+37-084BM                 331   LABORATORY SVC     AERO & ASTRO                                      
+37-084C                  231   RESEARCH LAB       AERO & ASTRO                                      
+37-087                   412   UTILITY/MECH RM    DP OF FACILITIES                                  
+37-087A                  201   JANITOR STORAGE    DP OF FACILITIES                                  
+37-087B                  104   JANITOR STORAGE    DP OF FACILITIES                                  
+37-087C                   80   JANITOR STORAGE    DP OF FACILITIES                                  
+37-098                    67   OFFICE             DP OF FACIL ADM                                   
+37-098A                   67   OFFICE             DP OF FACIL ADM                                   
+                    --------                                                                        
+                      10,667                                                                        
+                                                                                                    
+37-100CA                 698   CORRIDOR           DP OF FACILITIES                                  
+37-100E1                  55   ELEVATOR           DP OF FACILITIES                                  
+37-100E2                  55   ELEVATOR           DP OF FACILITIES                                  
+37-100LA               1,762   LOBBY              DP OF FACILITIES                                  
+37-100SA                  89   STAIRWAY           DP OF FACILITIES                                  
+37-100SB                  86   STAIRWAY           DP OF FACILITIES                                  
+37-100SC                 122   STAIRWAY           DP OF FACILITIES                                  
+37-100Z                  576   SHAFT SPACE        DP OF FACILITIES                                  
+37-107                   126   OFFICE             AERO & ASTRO                                      
+37-116E                1,429   ELECTRIC CLOSET    DP OF FACILITIES                                  
+37-116Z                   62   SHAFT SPACE        DP OF FACILITIES                                  
+37-118E                  162   ELECTRIC CLOSET    DP OF FACILITIES                                  
+37-118Z                   59   SHAFT SPACE        DP OF FACILITIES                                  
+37-127                   410   RESEARCH LAB       AERO & ASTRO                                      
+37-127A                  316   RESEARCH LAB       AERO & ASTRO                                      
+37-134                    74   RSCH LAB-OFFICE    AERO & ASTRO                                      
+37-135                    29   LABORATORY SVC     K I FOR AST&SP R                                  
+37-135A                  257   RESEARCH LAB       K I FOR AST&SP R                                  
+37-138                   113   RSCH LAB-OFFICE    AERO & ASTRO                                      
+37-140                    84   RSCH LAB-OFFICE    AERO & ASTRO                                      
+37-142                   226   RSCH LAB-OFFICE    AERO & ASTRO                                      
+37-144                   117   RSCH LAB-OFFICE    AERO & ASTRO                                      
+37-144A                  126   LABORATORY SVC     AERO & ASTRO                                      
+37-144Z                   58   SHAFT SPACE        DP OF FACILITIES                                  
+37-146                   745   RESEARCH LAB       AERO & ASTRO                                      
+37-147                   140   OFFICE             AERO & ASTRO                                      
+37-151                   142   OFFICE             AERO & ASTRO                                      
+37-155                   142   OFFICE             AERO & ASTRO                                      
+37-168                    60   UTILITY/MECH RM    DP OF FACILITIES                                  
+37-172E                   37   ELECTRIC CLOSET    DP OF FACILITIES                                  
+37-172J                   24   JANITOR CLOSET     DP OF FACILITIES                                  
+37-172Z                   61   SHAFT SPACE        DP OF FACILITIES                                  
+37-184                   129   MALE LAVATORY      DP OF FACILITIES                                  
+37-184Z                   55   SHAFT SPACE        DP OF FACILITIES                                  
+37-186                   634   RESEARCH LAB       K I FOR AST&SP R                                  
+37-186A                   63   RESEARCH LAB       K I FOR AST&SP R                                  
+37-187                   682   CLASSROOM          K I FOR AST&SP R                                  
+37-187A                   36   CLASSROOM SVC      K I FOR AST&SP R                                  
+                    --------                                                                        
+                      10,040                                                                        
+                                                                                                    
+37-200CA                  93   CORRIDOR           DP OF FACILITIES                                  
+37-200CB                 930   CORRIDOR           DP OF FACILITIES                                  
+37-200CC                 314   CORRIDOR           DP OF FACILITIES                                  
+37-200CD                 143   CORRIDOR           DP OF FACILITIES                                  
+37-200CE                 165   CORRIDOR           DP OF FACILITIES                                  
+37-200CF                  96   CORRIDOR           DP OF FACILITIES                                  
+37-200CG                 184   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+37-200E1                  54   ELEVATOR           DP OF FACILITIES                                  
+37-200E2                  53   ELEVATOR           DP OF FACILITIES                                  
+37-200LA                 261   LOBBY              DP OF FACILITIES                                  
+37-200SA                  84   STAIRWAY           DP OF FACILITIES                                  
+37-200SB                  89   STAIRWAY           DP OF FACILITIES                                  
+37-200SC                 162   STAIRWAY           DP OF FACILITIES                                  
+37-200Z                1,605   SHAFT SPACE        DP OF FACILITIES                                  
+37-206E                    8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+37-207                   343   OFFICE             AERO & ASTRO                                      
+37-208E                    9   ELECTRIC CLOSET    DP OF FACILITIES                                  
+37-211                   113   OFFICE             AERO & ASTRO                                      
+37-212                 1,243   CLASSROOM          REGISTRAR                                         
+37-215                   104   CONFERENCE ROOM    AERO & ASTRO                                      
+37-218                   243   FEMALE LAVATORY    DP OF FACILITIES                                  
+37-218Z                   57   SHAFT SPACE        DP OF FACILITIES                                  
+37-219                   253   OFFICE SERVICE     AERO & ASTRO                                      
+37-221                   105   OFFICE             AERO & ASTRO                                      
+37-224J                   28   JANITOR CLOSET     DP OF FACILITIES                                  
+37-224Z                   67   SHAFT SPACE        DP OF FACILITIES                                  
+37-227                   106   OFFICE             AERO & ASTRO                                      
+37-231                   344   OFFICE             K I FOR AST&SP R                                  
+37-232                   171   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-232A                  114   OFFICE             K I FOR AST&SP R                                  
+37-232B                  242   OFFICE             K I FOR AST&SP R                                  
+37-232C                  186   OFFICE             K I FOR AST&SP R                                  
+37-238                    95   MALE LAVATORY      DP OF FACILITIES                                  
+37-241                   352   SECY/RECEPTION     K I FOR AST&SP R                                  
+37-244                   139   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-244Z                   61   SHAFT SPACE        DP OF FACILITIES                                  
+37-252                   992   OFFICE SERVICE     K I FOR AST&SP R       MARLAR LOUNGE              
+37-252B                   13   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-252C                   15   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-255                   349   OFFICE             K I FOR AST&SP R                                  
+37-261                   214   OFFICE             K I FOR AST&SP R                                  
+37-264                   132   MAIL ROOM          DP OF FACIL ADM                                   
+37-264T                   17   TELECOM CLOSET     DP OF FACILITIES                                  
+37-264Z                   71   SHAFT SPACE        DP OF FACILITIES                                  
+37-271                   103   OFFICE             K I FOR AST&SP R                                  
+37-272                   741   CONFERENCE ROOM    K I FOR AST&SP R                                  
+37-274                   139   OFFICE             K I FOR AST&SP R                                  
+37-275                   102   OFFICE             K I FOR AST&SP R                                  
+37-276                    95   OFFICE             K I FOR AST&SP R                                  
+37-278                   302   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-278E                   19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+37-280                    98   OFFICE             K I FOR AST&SP R                                  
+37-281                   181   OFFICE             K I FOR AST&SP R                                  
+37-284                   127   OFFICE             K I FOR AST&SP R                                  
+37-284Z                   69   SHAFT SPACE        DP OF FACILITIES                                  
+37-287                   163   SECY/RECEPTION     K I FOR AST&SP R                                  
+37-291                   281   OFFICE             K I FOR AST&SP R                                  
+37-291A                   69   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-292                   140   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-294                   438   CLASSROOM          EARTH ATMO&PL SC                                  
+37-294A                  292   CLASSROOM SVC      EARTH ATMO&PL SC                                  
+                    --------                                                                        
+                      13,777                                                                        
+                                                                                                    
+37-300CA                 331   CORRIDOR           DP OF FACILITIES                                  
+37-300CB               1,229   CORRIDOR           DP OF FACILITIES                                  
+37-300CE                 174   CORRIDOR           DP OF FACILITIES                                  
+37-300CG                 184   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+37-300E1                  59   ELEVATOR           DP OF FACILITIES                                  
+37-300E2                  59   ELEVATOR           DP OF FACILITIES                                  
+37-300SA                  91   STAIRWAY           DP OF FACILITIES                                  
+37-300SB                  87   STAIRWAY           DP OF FACILITIES                                  
+37-300Z                  424   SHAFT SPACE        DP OF FACILITIES                                  
+37-301                    99   OFFICE             AERO & ASTRO                                      
+37-307                   105   OFFICE             AERO & ASTRO                                      
+37-308                   114   FEMALE LAVATORY    DP OF FACILITIES                                  
+37-308E                   16   ELECTRIC CLOSET    DP OF FACILITIES                                  
+37-311                   111   OFFICE             AERO & ASTRO                                      
+37-312                 1,992   OFFICE             AERO & ASTRO                                      
+37-315                   100   OFFICE             AERO & ASTRO                                      
+37-320                   334   RESEARCH LAB       AERO & ASTRO                                      
+37-320Z                   76   SHAFT SPACE        DP OF FACILITIES                                  
+37-322                   305   CONFERENCE ROOM    AERO & ASTRO                                      
+37-324T                  137   TELECOM CLOSET     DP OF FACILITIES                                  
+37-327                   214   OFFICE             AERO & ASTRO                                      
+37-331                   105   OFFICE             AERO & ASTRO                                      
+37-332Z                   82   SHAFT SPACE        DP OF FACILITIES                                  
+37-335                   104   OFFICE             AERO & ASTRO                                      
+37-340                    96   OFFICE             AERO & ASTRO                                      
+37-341                   219   OFFICE             AERO & ASTRO                                      
+37-344                   135   LABORATORY SVC     AERO & ASTRO                                      
+37-344A                  216   OFFICE             AERO & ASTRO                                      
+37-344B                   38   OFFICE SERVICE     AERO & ASTRO                                      
+37-346                   106   OFFICE             AERO & ASTRO                                      
+37-348                   338   OFFICE SERVICE     AERO & ASTRO                                      
+37-348A                  186   OFFICE             AERO & ASTRO                                      
+37-350                   101   OFFICE             AERO & ASTRO                                      
+37-351                   103   OFFICE             AERO & ASTRO                                      
+37-352                    81   OFFICE             AERO & ASTRO                                      
+37-354                    93   OFFICE             AERO & ASTRO                                      
+37-355                   105   OFFICE             AERO & ASTRO                                      
+37-356                    78   OFFICE             AERO & ASTRO                                      
+37-358                    95   OFFICE             AERO & ASTRO                                      
+37-358Z                   74   SHAFT SPACE        DP OF FACILITIES                                  
+37-360                    83   OFFICE             AERO & ASTRO                                      
+37-361                   106   OFFICE             AERO & ASTRO                                      
+37-362                    49   OFFICE SERVICE     AERO & ASTRO                                      
+37-362A                  216   LAB SUPPORT SHOP   AERO & ASTRO                                      
+37-362B                  359   RESEARCH LAB       AERO & ASTRO                                      
+37-364T                   19   TELECOM CLOSET     DP OF FACILITIES                                  
+37-367                   106   OFFICE             AERO & ASTRO                                      
+37-371                   106   OFFICE             AERO & ASTRO                                      
+37-372                   263   LABORATORY SVC     AERO & ASTRO                                      
+37-372A                  590   RESEARCH LAB       AERO & ASTRO                                      
+37-372Z                   63   SHAFT SPACE        DP OF FACILITIES                                  
+37-375                   101   OFFICE             AERO & ASTRO                                      
+37-381                   110   OFFICE             AERO & ASTRO                                      
+37-384                   216   CONFERENCE ROOM    AERO & ASTRO                                      
+37-384J                   32   JANITOR CLOSET     DP OF FACILITIES                                  
+37-387                    99   OFFICE             AERO & ASTRO                                      
+37-391                   116   OFFICE             AERO & ASTRO                                      
+37-392                 1,093   RESEARCH LAB       AERO & ASTRO                                      
+37-392Z                   66   SHAFT SPACE        DP OF FACILITIES                                  
+37-395                   103   OFFICE SERVICE     AERO & ASTRO                                      
+37-398                    73   MALE LAVATORY      DP OF FACILITIES                                  
+37-398E                   15   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                      12,579                                                                        
+                                                                                                    
+37-400CA                 139   CORRIDOR           DP OF FACILITIES                                  
+37-400CB               1,199   CORRIDOR           DP OF FACILITIES                                  
+37-400CC                 192   CORRIDOR           DP OF FACILITIES                                  
+37-400CG                 184   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+37-400E1                  73   ELEVATOR           DP OF FACILITIES                                  
+37-400E2                  72   ELEVATOR           DP OF FACILITIES                                  
+37-400SA                  85   STAIRWAY           DP OF FACILITIES                                  
+37-400SB                  88   STAIRWAY           DP OF FACILITIES                                  
+37-400Z                  544   SHAFT SPACE        DP OF FACILITIES                                  
+37-401                   206   OFFICE             AERO & ASTRO                                      
+37-402                   196   CONFERENCE ROOM    K I FOR AST&SP R                                  
+37-402A                  256   RESEARCH LAB       K I FOR AST&SP R                                  
+37-406                   165   LABORATORY SVC     K I FOR AST&SP R                                  
+37-406A                  299   LABORATORY SVC     K I FOR AST&SP R                                  
+37-406B                   90   LAB SUPPORT SHOP   K I FOR AST&SP R                                  
+37-406C                   71   LABORATORY SVC     K I FOR AST&SP R                                  
+37-408                   114   FEMALE LAVATORY    DP OF FACILITIES                                  
+37-408E                   16   ELECTRIC CLOSET    DP OF FACILITIES                                  
+37-410                   100   RSCH LAB-OFFICE    K I FOR AST&SP R                                  
+37-411                   109   OFFICE             K I FOR AST&SP R                                  
+37-414                    93   RSCH LAB-OFFICE    K I FOR AST&SP R                                  
+37-415                   101   OFFICE             K I FOR AST&SP R                                  
+37-420                    97   RSCH LAB-OFFICE    K I FOR AST&SP R                                  
+37-421                   103   OFFICE             K I FOR AST&SP R                                  
+37-422                   155   LABORATORY SVC     K I FOR AST&SP R                                  
+37-422A                  226   LABORATORY SVC     K I FOR AST&SP R                                  
+37-422B                  120   LABORATORY SVC     K I FOR AST&SP R                                  
+37-422C                  119   LABORATORY SVC     K I FOR AST&SP R                                  
+37-422D                   19   UTILITY/MECH RM    DP OF FACILITIES                                  
+37-422F                   67   LABORATORY SVC     K I FOR AST&SP R                                  
+37-422Z                   67   SHAFT SPACE        DP OF FACILITIES                                  
+37-426                    96   RSCH LAB-OFFICE    K I FOR AST&SP R                                  
+37-427                   108   OFFICE             AERO & ASTRO                                      
+37-431                   104   OFFICE             AERO & ASTRO                                      
+37-435                   105   OFFICE             AERO & ASTRO                                      
+37-438                   462   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-438A                  126   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-438B                  352   CONFERENCE ROOM    K I FOR AST&SP R                                  
+37-438BA                  21   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-438C                   11   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-438F                  138   OFFICE             K I FOR AST&SP R                                  
+37-438G                   88   OFFICE             K I FOR AST&SP R                                  
+37-438H                   87   OFFICE             K I FOR AST&SP R                                  
+37-438K                   99   OFFICE             K I FOR AST&SP R                                  
+37-438L                   92   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-438N                   98   OFFICE             K I FOR AST&SP R                                  
+37-438P                  151   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-438Z                  105   SHAFT SPACE        DP OF FACILITIES                                  
+37-447                   216   OFFICE             AERO & ASTRO                                      
+37-451                   219   OFFICE             AERO & ASTRO                                      
+37-452                   221   LABORATORY SVC     AERO & ASTRO                                      
+37-458                   186   OFFICE             AERO & ASTRO                                      
+37-458Z                   71   SHAFT SPACE        DP OF FACILITIES                                  
+37-460                    62   OFFICE SERVICE     AERO & ASTRO                                      
+37-461                   109   OFFICE             AERO & ASTRO                                      
+37-462                   128   LABORATORY SVC     AERO & ASTRO                                      
+37-462A                  440   RESEARCH LAB       AERO & ASTRO                                      
+37-462C                  176   LABORATORY SVC     AERO & ASTRO                                      
+37-464                   106   LABORATORY SVC     AERO & ASTRO                                      
+37-464T                   17   TELECOM CLOSET     DP OF FACILITIES                                  
+37-467                   107   OFFICE             AERO & ASTRO                                      
+37-471                   102   OFFICE             AERO & ASTRO                                      
+37-475                   214   OFFICE             AERO & ASTRO                                      
+37-476Z                   64   SHAFT SPACE        DP OF FACILITIES                                  
+37-478                    45   LABORATORY SVC     K I FOR AST&SP R                                  
+37-478A                  209   RESEARCH LAB       K I FOR AST&SP R                                  
+37-482                   443   RESEARCH LAB       K I FOR AST&SP R                                  
+37-484                   180   RSCH LAB-OFFICE    K I FOR AST&SP R                                  
+37-484A                   96   LABORATORY SVC     K I FOR AST&SP R                                  
+37-484J                   28   JANITOR CLOSET     DP OF FACILITIES                                  
+37-484Z                   61   SHAFT SPACE        DP OF FACILITIES                                  
+37-486                   872   RESEARCH LAB       K I FOR AST&SP R                                  
+37-487                   223   OFFICE             K I FOR AST&SP R                                  
+37-490                   177   RESEARCH LAB       K I FOR AST&SP R                                  
+37-495                   111   OFFICE             K I FOR AST&SP R                                  
+37-498                    75   MALE LAVATORY      DP OF FACILITIES                                  
+37-498E                   15   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                      12,586                                                                        
+                                                                                                    
+37-500CA                 150   CORRIDOR           DP OF FACILITIES                                  
+37-500CB               1,262   CORRIDOR           DP OF FACILITIES                                  
+37-500CC                 169   CORRIDOR           DP OF FACILITIES                                  
+37-500E1                  72   ELEVATOR           DP OF FACILITIES                                  
+37-500E2                  72   ELEVATOR           DP OF FACILITIES                                  
+37-500SA                  83   STAIRWAY           DP OF FACILITIES                                  
+37-500SB                  87   STAIRWAY           DP OF FACILITIES                                  
+37-500Z                  316   SHAFT SPACE        DP OF FACILITIES                                  
+37-501                   223   OFFICE             K I FOR AST&SP R                                  
+37-508                   110   FEMALE LAVATORY    DP OF FACILITIES                                  
+37-508A                    8   LABORATORY SVC     K I FOR AST&SP R                                  
+37-508E                   15   ELECTRIC CLOSET    DP OF FACILITIES                                  
+37-511                   114   OFFICE             K I FOR AST&SP R                                  
+37-512                   981   RESEARCH LAB       K I FOR AST&SP R                                  
+37-515                   102   OFFICE             K I FOR AST&SP R                                  
+37-518                   212   LABORATORY SVC     K I FOR AST&SP R                                  
+37-518B                   45   LABORATORY SVC     K I FOR AST&SP R                                  
+37-518C                   54   LABORATORY SVC     K I FOR AST&SP R                                  
+37-518Z                   65   SHAFT SPACE        DP OF FACILITIES                                  
+37-521                   109   OFFICE             K I FOR AST&SP R                                  
+37-522                    85   RESEARCH LAB       K I FOR AST&SP R                                  
+37-524                   234   OFFICE             K I FOR AST&SP R                                  
+37-527                   106   OFFICE             K I FOR AST&SP R                                  
+37-532                   980   RESEARCH LAB       K I FOR AST&SP R                                  
+37-532A                  191   LABORATORY SVC     K I FOR AST&SP R                                  
+37-535                   222   OFFICE             K I FOR AST&SP R                                  
+37-536                    70   LABORATORY SVC     K I FOR AST&SP R                                  
+37-536Z                   73   SHAFT SPACE        DP OF FACILITIES                                  
+37-538                   112   OFFICE             K I FOR AST&SP R                                  
+37-540                   490   LAB SUPPORT SHOP   K I FOR AST&SP R                                  
+37-541                   108   OFFICE             K I FOR AST&SP R                                  
+37-544                   215   RESEARCH LAB       K I FOR AST&SP R                                  
+37-547                   112   OFFICE             K I FOR AST&SP R                                  
+37-548                    97   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-551                   107   OFFICE             K I FOR AST&SP R                                  
+37-555                   109   OFFICE             K I FOR AST&SP R                                  
+37-556Z                   66   SHAFT SPACE        DP OF FACILITIES                                  
+37-558                   391   RESEARCH LAB       K I FOR AST&SP R                                  
+37-561                   112   OFFICE             K I FOR AST&SP R                                  
+37-562                   747   RESEARCH LAB       K I FOR AST&SP R                                  
+37-562A                  142   LABORATORY SVC     K I FOR AST&SP R                                  
+37-564                   114   LABORATORY SVC     K I FOR AST&SP R                                  
+37-564T                   20   TELECOM CLOSET     DP OF FACILITIES                                  
+37-567                   108   OFFICE             K I FOR AST&SP R                                  
+37-571                   107   OFFICE             K I FOR AST&SP R                                  
+37-575                   107   OFFICE             K I FOR AST&SP R                                  
+37-576                   204   CONFERENCE ROOM    K I FOR AST&SP R                                  
+37-576A                   44   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-576Z                   67   SHAFT SPACE        DP OF FACILITIES                                  
+37-581                   114   OFFICE             K I FOR AST&SP R                                  
+37-582                   439   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-582A                  102   OFFICE             K I FOR AST&SP R                                  
+37-582B                  107   OFFICE             K I FOR AST&SP R                                  
+37-582BA                 101   OFFICE             K I FOR AST&SP R                                  
+37-582BB                 128   OFFICE             K I FOR AST&SP R                                  
+37-582C                  200   OFFICE             K I FOR AST&SP R                                  
+37-582D                  174   OFFICE             K I FOR AST&SP R                                  
+37-582F                  150   OFFICE             K I FOR AST&SP R                                  
+37-582G                  227   OFFICE             K I FOR AST&SP R       MAPS                       
+37-582H                  139   OFFICE             K I FOR AST&SP R                                  
+37-582K                  183   OFFICE             K I FOR AST&SP R                                  
+37-582Z                   62   SHAFT SPACE        DP OF FACILITIES                                  
+37-584J                   30   JANITOR CLOSET     DP OF FACILITIES                                  
+37-587                   228   OFFICE             K I FOR AST&SP R                                  
+37-595                   103   OFFICE             K I FOR AST&SP R                                  
+37-598                    74   MALE LAVATORY      DP OF FACILITIES                                  
+37-598E                   16   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                      12,362                                                                        
+                                                                                                    
+37-600CA                 152   CORRIDOR           DP OF FACILITIES                                  
+37-600CB               1,314   CORRIDOR           DP OF FACILITIES                                  
+37-600CC                 144   CORRIDOR           DP OF FACILITIES                                  
+37-600E1                  72   ELEVATOR           DP OF FACILITIES                                  
+37-600E2                  72   ELEVATOR           DP OF FACILITIES                                  
+37-600SA                  87   STAIRWAY           DP OF FACILITIES                                  
+37-600SB                  87   STAIRWAY           DP OF FACILITIES                                  
+37-600SD                  73   STAIRWAY           DP OF FACILITIES                                  
+37-600Z                  363   SHAFT SPACE        DP OF FACILITIES                                  
+37-602                   503   OFFICE             K I FOR AST&SP R                                  
+37-602A                  192   OFFICE             K I FOR AST&SP R                                  
+37-602B                  200   OFFICE             K I FOR AST&SP R                                  
+37-607                   216   OFFICE             K I FOR AST&SP R                                  
+37-608                   112   FEMALE LAVATORY    DP OF FACILITIES                                  
+37-608E                   18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+37-611                   217   OFFICE             K I FOR AST&SP R                                  
+37-618                    26   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-618Z                   74   SHAFT SPACE        DP OF FACILITIES                                  
+37-621                   106   OFFICE             K I FOR AST&SP R                                  
+37-624                   331   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-624A                   52   OFFICE             K I FOR AST&SP R                                  
+37-624B                   52   OFFICE             K I FOR AST&SP R                                  
+37-624C                   52   OFFICE             K I FOR AST&SP R                                  
+37-624E                   22   ELECTRIC CLOSET    DP OF FACILITIES                                  
+37-626                   725   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-626A                  208   OFFICE             K I FOR AST&SP R                                  
+37-626B                  201   OFFICE             K I FOR AST&SP R                                  
+37-626C                  205   OFFICE             K I FOR AST&SP R                                  
+37-626D                  254   CONFERENCE ROOM    K I FOR AST&SP R                                  
+37-626F                   50   OFFICE             K I FOR AST&SP R                                  
+37-626G                   53   OFFICE             K I FOR AST&SP R                                  
+37-626H                   45   OFFICE             K I FOR AST&SP R                                  
+37-627                   217   OFFICE             K I FOR AST&SP R                                  
+37-635                   103   OFFICE             K I FOR AST&SP R                                  
+37-636Z                   69   SHAFT SPACE        DP OF FACILITIES                                  
+37-638                   522   OFFICE             K I FOR AST&SP R                                  
+37-638A                   37   OFFICE             K I FOR AST&SP R                                  
+37-638B                   37   OFFICE             K I FOR AST&SP R                                  
+37-638C                   40   OFFICE             K I FOR AST&SP R                                  
+37-641                   108   OFFICE             K I FOR AST&SP R                                  
+37-647                   104   OFFICE             K I FOR AST&SP R                                  
+37-651                   109   OFFICE             K I FOR AST&SP R                                  
+37-655                   104   OFFICE             K I FOR AST&SP R                                  
+37-656                   229   CONFERENCE ROOM    K I FOR AST&SP R                                  
+37-656A                   74   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-656B                   96   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-656Z                   68   SHAFT SPACE        DP OF FACILITIES                                  
+37-664                 1,127   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-664A                  106   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-664B                  217   OFFICE             K I FOR AST&SP R                                  
+37-664C                  205   OFFICE             K I FOR AST&SP R                                  
+37-664D                  201   OFFICE             K I FOR AST&SP R                                  
+37-664F                  128   OFFICE             K I FOR AST&SP R                                  
+37-664G                  239   OFFICE             K I FOR AST&SP R                                  
+37-664H                  245   OFFICE             K I FOR AST&SP R                                  
+37-664K                   91   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-664L                  104   OFFICE             K I FOR AST&SP R                                  
+37-664T                   18   TELECOM CLOSET     DP OF FACILITIES                                  
+37-667                   109   OFFICE             K I FOR AST&SP R                                  
+37-673                   214   OFFICE             K I FOR AST&SP R                                  
+37-675                   105   OFFICE             K I FOR AST&SP R                                  
+37-676                   210   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-676A                  145   OFFICE             K I FOR AST&SP R                                  
+37-676Z                   63   SHAFT SPACE        DP OF FACILITIES                                  
+37-684                    46   OFFICE SERVICE     K I FOR AST&SP R                                  
+37-684J                   31   JANITOR CLOSET     DP OF FACILITIES                                  
+37-684Z                   63   SHAFT SPACE        DP OF FACILITIES                                  
+37-685                   107   OFFICE             K I FOR AST&SP R                                  
+37-687                   101   OFFICE             K I FOR AST&SP R                                  
+37-695                   215   OFFICE             K I FOR AST&SP R                                  
+37-698                    79   MALE LAVATORY      DP OF FACILITIES                                  
+37-698E                   17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                      12,376                                                                        
+                                                                                                    
+37-700SD                  61   STAIRWAY           DP OF FACILITIES                                  
+37-700Z                  386   SHAFT SPACE        DP OF FACILITIES                                  
+37-732                 1,071   UTILITY/MECH RM    DP OF FACILITIES                                  
+37-746                    34   UTILITY/MECH RM    DP OF FACILITIES                                  
+37-752                 1,927   UTILITY/MECH RM    DP OF FACILITIES 

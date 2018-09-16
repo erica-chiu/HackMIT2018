@@ -1,0 +1,550 @@
+18-0000CA                326   CORRIDOR           DP OF FACILITIES                                  
+18-0000CB              1,230   CORRIDOR           DP OF FACILITIES                                  
+18-0000CC                320   CORRIDOR           DP OF FACILITIES                                  
+18-0000E1                 54   ELEVATOR           DP OF FACILITIES                                  
+18-0000E2                 54   ELEVATOR           DP OF FACILITIES                                  
+18-0000SA                156   STAIRWAY           DP OF FACILITIES                                  
+18-0000SB                132   STAIRWAY           DP OF FACILITIES                                  
+18-0000SC                110   STAIRWAY           DP OF FACILITIES                                  
+18-0001                  125   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-0003                  242   LABORATORY SVC     CHEMISTRY                                         
+18-0004E                 312   ELECTRIC CLOSET    DP OF FACILITIES                                  
+18-0006                  705   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-0009                  121   LABORATORY SVC     CHEMISTRY                                         
+18-0011                   62   LABORATORY SVC     CHEMISTRY                                         
+18-0012                   56   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-0013                  117   LABORATORY SVC     CHEMISTRY                                         
+18-0018T                 135   TELECOM CLOSET     DP OF FACILITIES                                  
+18-0020AE                 17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+18-0020E               1,109   ELECTRIC CLOSET    DP OF FACILITIES                                  
+18-0030                6,829   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-0040                  137   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-0065                  144   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-0076                   44   LABORATORY SVC     CHEMISTRY                                         
+18-0078                  103   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-0080                  108   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-0082                  100   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-0084                  100   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-0086                  122   LABORATORY SVC     CHEMISTRY                                         
+18-0088                   46   LABORATORY SVC     CHEMISTRY                                         
+18-0090                3,068   RESEARCH LAB       CHEMISTRY                                         
+18-0090A                 192   LABORATORY SVC     CHEMISTRY                                         
+18-0090B                  20   LABORATORY SVC     CHEMISTRY                                         
+                    --------                                                                        
+                      16,397                                                                        
+                                                                                                    
+18-000CA               1,564   CORRIDOR           DP OF FACILITIES                                  
+18-000CB                 422   CORRIDOR           DP OF FACILITIES                                  
+18-000CC                  76   CORRIDOR           DP OF FACILITIES                                  
+18-000CD                 842   CORRIDOR           DP OF FACILITIES                                  
+18-000CF                 394   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+18-000CG                 681   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+18-000CH               1,362   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+18-000E1                  54   ELEVATOR           DP OF FACILITIES                                  
+18-000E2                  54   ELEVATOR           DP OF FACILITIES                                  
+18-000SA                 127   STAIRWAY           DP OF FACILITIES                                  
+18-000SB                 133   STAIRWAY           DP OF FACILITIES                                  
+18-000SC                 104   STAIRWAY           DP OF FACILITIES                                  
+18-000Z                1,652   SHAFT SPACE        DP OF FACILITIES                                  
+18-002                    92   OFFICE             CHEMISTRY                                         
+18-004                    31   LABORATORY SVC     CHEMISTRY                                         
+18-005T                  116   TELECOM CLOSET     DP OF FACILITIES                                  
+18-006                   671   RESEARCH LAB       CHEMISTRY                                         
+18-006A                  158   RESEARCH LAB       CHEMISTRY                                         
+18-006B                   69   LABORATORY SVC     CHEMISTRY                                         
+18-009                    62   LABORATORY SVC     CHEMISTRY                                         
+18-009J                  149   JANITOR CLOSET     DP OF FACILITIES                                  
+18-009JA                  60   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-011                     3   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-012                     7   LABORATORY SVC     CHEMISTRY                                         
+18-013                   160   LABORATORY SVC     CHEMISTRY                                         
+18-014                    59   LABORATORY SVC     CHEMISTRY                                         
+18-014A                   84   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-014B                   94   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-014D                    7   LABORATORY SVC     CHEMISTRY                                         
+18-014E                   33   ELECTRIC CLOSET    DP OF FACILITIES                                  
+18-020                   130   LABORATORY SVC     CHEMISTRY                                         
+18-021                   104   RESEARCH LAB       CHEMISTRY                                         
+18-021A                  147   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-027                   618   RESEARCH LAB       CHEMISTRY                                         
+18-027A                  157   RESEARCH LAB       CHEMISTRY                                         
+18-027B                  152   RESEARCH LAB       CHEMISTRY                                         
+18-027BZ                   7   SHAFT SPACE        DP OF FACILITIES                                  
+18-028                   803   RESEARCH LAB       CHEMISTRY                                         
+18-028A                  138   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-028AZ                  11   SHAFT SPACE        DP OF FACILITIES                                  
+18-028B                  148   RESEARCH LAB       CHEMISTRY                                         
+18-028C                  137   RESEARCH LAB       CHEMISTRY                                         
+18-028CZ                  27   SHAFT SPACE        DP OF FACILITIES                                  
+18-031                    73   LABORATORY SVC     CHEMISTRY                                         
+18-031A                   91   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-031B                   95   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-032                    15   LABORATORY SVC     CHEMISTRY                                         
+18-034                   214   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-036                     7   LABORATORY SVC     CHEMISTRY                                         
+18-040                    88   RESEARCH LAB       CHEMISTRY                                         
+18-041                   104   RESEARCH LAB       CHEMISTRY                                         
+18-041A                  147   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-042                    31   LABORATORY SVC     CHEMISTRY                                         
+18-044                     7   LABORATORY SVC     CHEMISTRY                                         
+18-047                   864   RESEARCH LAB       CHEMISTRY                                         
+18-047A                  111   RESEARCH LAB       CHEMISTRY                                         
+18-047B                  112   RESEARCH LAB       CHEMISTRY                                         
+18-047C                  103   RESEARCH LAB       CHEMISTRY                                         
+18-048                   167   LABORATORY SVC     CHEMISTRY                                         
+18-048A                  115   RESEARCH LAB       CHEMISTRY                                         
+18-048B                  111   RESEARCH LAB       CHEMISTRY                                         
+18-050                   321   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-052                   140   LABORATORY SVC     CHEMISTRY                                         
+18-053                    66   LABORATORY SVC     CHEMISTRY                                         
+18-053A                  126   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-053B                  109   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-054                   143   LABORATORY SVC     CHEMISTRY                                         
+18-060                   110   RESEARCH LAB       CHEMISTRY                                         
+18-060A                   27   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-061                   110   RESEARCH LAB       CHEMISTRY                                         
+18-061A                  147   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-062                     4   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-062E                   33   ELECTRIC CLOSET    DP OF FACILITIES                                  
+18-067                   806   RESEARCH LAB       CHEMISTRY                                         
+18-067A                  161   RESEARCH LAB       CHEMISTRY                                         
+18-067B                   54   LABORATORY SVC     CHEMISTRY                                         
+18-067C                   63   LABORATORY SVC     CHEMISTRY                                         
+18-073                    48   LABORATORY SVC     CHEMISTRY                                         
+18-073A                  115   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-073B                   90   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-079                   206   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-080                    95   PUBLIC LAVATORY    DP OF FACILITIES                                  
+18-081                    95   PUBLIC LAVATORY    DP OF FACILITIES                                  
+18-083                   266   LABORATORY SVC     CHEMISTRY                                         
+18-084                    68   LABORATORY SVC     CHEMISTRY                                         
+18-084A                  177   OFFICE             CHEMISTRY                                         
+18-085                    54   LABORATORY SVC     CHEMISTRY                                         
+18-085A                  101   LABORATORY SVC     CHEMISTRY                                         
+18-085AA                 477   RESEARCH LAB       CHEMISTRY                                         
+18-085AB                 564   RESEARCH LAB       CHEMISTRY                                         
+18-086E                   51   ELECTRIC CLOSET    DP OF FACILITIES                                  
+18-087                   290   LABORATORY SVC     CHEMISTRY                                         
+18-088E                   17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+18-091                   172   LABORATORY SVC     CHEMISTRY                                         
+                    --------                                                                        
+                      19,658                                                                        
+                                                                                                    
+18-100CA               1,332   CORRIDOR           DP OF FACILITIES                                  
+18-100E1                  54   ELEVATOR           DP OF FACILITIES                                  
+18-100E2                  54   ELEVATOR           DP OF FACILITIES                                  
+18-100LA               1,289   LOBBY              DP OF FACILITIES                                  
+18-100LD                  64   LOBBY              DP OF FACILITIES                                  
+18-100SA                 117   STAIRWAY           DP OF FACILITIES                                  
+18-100SB                 133   STAIRWAY           DP OF FACILITIES                                  
+18-100Z                  114   SHAFT SPACE        DP OF FACILITIES                                  
+18-101                     6   LABORATORY SVC     CHEMISTRY                                         
+18-102                    69   FEMALE LAVATORY    DP OF FACILITIES                                  
+18-103                     2   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-105                   675   RESEARCH LAB       CHEMISTRY                                         
+18-105A                   60   RESEARCH LAB       CHEMISTRY                                         
+18-105B                  102   RESEARCH LAB       CHEMISTRY                                         
+18-105Z                   72   SHAFT SPACE        DP OF FACILITIES                                  
+18-106                   775   RESEARCH LAB       CHEMISTRY                                         
+18-106A                   88   RESEARCH LAB       CHEMISTRY                                         
+18-106B                   40   RESEARCH LAB       CHEMISTRY                                         
+18-112                   372   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-113                   225   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-114E                   32   ELECTRIC CLOSET    DP OF FACILITIES                                  
+18-121                    71   LABORATORY SVC     CHEMISTRY                                         
+18-121A                   75   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-121AA                  98   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-123                   721   RESEARCH LAB       CHEMISTRY                                         
+18-123A                  121   LABORATORY SVC     CHEMISTRY                                         
+18-123B                  168   RESEARCH LAB       CHEMISTRY                                         
+18-123C                  160   RESEARCH LAB       CHEMISTRY                                         
+18-123D                   88   RESEARCH LAB       CHEMISTRY                                         
+18-124A                    7   LABORATORY SVC     CHEMISTRY                                         
+18-124B                   16   LABORATORY SVC     CHEMISTRY                                         
+18-124C                    7   LABORATORY SVC     CHEMISTRY                                         
+18-125                   720   RESEARCH LAB       CHEMISTRY                                         
+18-125B                   64   RESEARCH LAB       CHEMISTRY                                         
+18-127                    16   LABORATORY SVC     CHEMISTRY                                         
+18-132                   238   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-133                   174   LABORATORY SVC     CHEMISTRY                                         
+18-134                   240   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-140                    92   RESEARCH LAB       CHEMISTRY                                         
+18-141A                    7   LABORATORY SVC     CHEMISTRY                                         
+18-141B                   16   LABORATORY SVC     CHEMISTRY                                         
+18-141C                    7   LABORATORY SVC     CHEMISTRY                                         
+18-143                   774   RESEARCH LAB       CHEMISTRY                                         
+18-143A                   75   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-143AA                  98   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-144                   774   RESEARCH LAB       CHEMISTRY                                         
+18-144A                  122   LABORATORY SVC     CHEMISTRY                                         
+18-144B                  167   RESEARCH LAB       CHEMISTRY                                         
+18-144C                  326   RESEARCH LAB       CHEMISTRY                                         
+18-144F                   63   RESEARCH LAB       CHEMISTRY                                         
+18-151                    36   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-152                   292   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-153                   174   LABORATORY SVC     CHEMISTRY                                         
+18-154                   294   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-161A                   75   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-161AA                  98   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-161T                   48   TELECOM CLOSET     DP OF FACILITIES                                  
+18-162E                   32   ELECTRIC CLOSET    DP OF FACILITIES                                  
+18-163                   721   RESEARCH LAB       CHEMISTRY                                         
+18-163A                   63   RESEARCH LAB       CHEMISTRY                                         
+18-163B                   73   RESEARCH LAB       CHEMISTRY                                         
+18-163C                  156   RESEARCH LAB       CHEMISTRY                                         
+18-164                    73   MALE LAVATORY      DP OF FACILITIES                                  
+18-164J                    8   JANITOR CLOSET     DP OF FACILITIES                                  
+18-171                     2   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-172                   352   RSCH LAB-OFFICE    CHEMISTRY                                         
+                    --------                                                                        
+                      13,673                                                                        
+                                                                                                    
+18-200CA               1,346   CORRIDOR           DP OF FACILITIES                                  
+18-200CB                 423   CORRIDOR           DP OF FACILITIES                                  
+18-200E1                  54   ELEVATOR           DP OF FACILITIES                                  
+18-200E2                  54   ELEVATOR           DP OF FACILITIES                                  
+18-200SA                 143   STAIRWAY           DP OF FACILITIES                                  
+18-200SB                 133   STAIRWAY           DP OF FACILITIES                                  
+18-200Z                   99   SHAFT SPACE        DP OF FACILITIES                                  
+18-203                     2   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-204                     6   LABORATORY SVC     CHEMISTRY                                         
+18-205                   671   RESEARCH LAB       CHEMISTRY                                         
+18-205A                   85   RESEARCH LAB       CHEMISTRY                                         
+18-205B                   63   RESEARCH LAB       CHEMISTRY                                         
+18-205Z                   52   SHAFT SPACE        DP OF FACILITIES                                  
+18-206                   913   RESEARCH LAB       CHEMISTRY                                         
+18-206A                   93   LABORATORY SVC     CHEMISTRY                                         
+18-212                   357   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-213                    90   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-213A                  127   LABORATORY SVC     CHEMISTRY                                         
+18-214E                   32   ELECTRIC CLOSET    DP OF FACILITIES                                  
+18-221                    72   LABORATORY SVC     CHEMISTRY                                         
+18-221A                   75   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-221AA                  98   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-223                   721   RESEARCH LAB       CHEMISTRY                                         
+18-224A                    7   LABORATORY SVC     CHEMISTRY                                         
+18-224B                   16   LABORATORY SVC     CHEMISTRY                                         
+18-224C                    7   LABORATORY SVC     CHEMISTRY                                         
+18-225                   721   RESEARCH LAB       CHEMISTRY                                         
+18-225A                  122   LABORATORY SVC     CHEMISTRY                                         
+18-225B                  168   RESEARCH LAB       CHEMISTRY                                         
+18-225C                  158   RESEARCH LAB       CHEMISTRY                                         
+18-225D                  158   RESEARCH LAB       CHEMISTRY                                         
+18-227                    16   LABORATORY SVC     CHEMISTRY                                         
+18-232                   238   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-233                   173   LABORATORY SVC     CHEMISTRY                                         
+18-234                   238   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-240                   167   RESEARCH LAB       CHEMISTRY                                         
+18-241A                    7   LABORATORY SVC     CHEMISTRY                                         
+18-241B                   16   LABORATORY SVC     CHEMISTRY                                         
+18-241C                    7   LABORATORY SVC     CHEMISTRY                                         
+18-243                   702   RESEARCH LAB       CHEMISTRY                                         
+18-243A                   75   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-243AA                  98   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-244                   778   RESEARCH LAB       CHEMISTRY                                         
+18-244A                  122   LABORATORY SVC     CHEMISTRY                                         
+18-244B                  168   RESEARCH LAB       CHEMISTRY                                         
+18-244C                  157   RESEARCH LAB       CHEMISTRY                                         
+18-244D                  160   RESEARCH LAB       CHEMISTRY                                         
+18-244F                   64   LABORATORY SVC     CHEMISTRY                                         
+18-251                    81   LABORATORY SVC     CHEMISTRY                                         
+18-252                   238   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-253                   173   LABORATORY SVC     CHEMISTRY                                         
+18-254                   294   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-261A                   75   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-261AA                  98   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-261T                   48   TELECOM CLOSET     DP OF FACILITIES                                  
+18-262E                   32   ELECTRIC CLOSET    DP OF FACILITIES                                  
+18-263                   724   RESEARCH LAB       CHEMISTRY                                         
+18-263A                   61   LABORATORY SVC     CHEMISTRY                                         
+18-263B                   75   RESEARCH LAB       CHEMISTRY                                         
+18-263C                   83   RESEARCH LAB       CHEMISTRY                                         
+18-263D                   74   RESEARCH LAB       CHEMISTRY                                         
+18-264                    76   MALE LAVATORY      DP OF FACILITIES                                  
+18-264A                    6   LABORATORY SVC     CHEMISTRY                                         
+18-264J                    8   JANITOR CLOSET     DP OF FACILITIES                                  
+18-271A                    2   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-272                   352   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-278                   363   CONFERENCE ROOM    CHEMISTRY                                         
+18-280                   499   OFFICE SERVICE     CHEMISTRY                                         
+18-280A                    8   OFFICE SERVICE     CHEMISTRY                                         
+18-281                   117   SECY/RECEPTION     CHEMISTRY                                         
+18-282                   112   FEMALE LAVATORY    DP OF FACILITIES                                  
+18-284                   151   LABORATORY SVC     CHEMISTRY                                         
+18-286                    62   OFFICE SERVICE     CHEMISTRY                                         
+18-288                    46   OFFICE SERVICE     CHEMISTRY                                         
+18-290                   320   OFFICE             CHEMISTRY                                         
+18-292                   284   OFFICE             CHEMISTRY                                         
+18-293                   104   OFFICE             CHEMISTRY                                         
+18-295                   107   OFFICE             CHEMISTRY                                         
+18-296                   277   OFFICE             CHEMISTRY                                         
+18-297                   290   OFFICE             CHEMISTRY                                         
+18-298                   321   OFFICE             CHEMISTRY                                         
+                    --------                                                                        
+                      15,811                                                                        
+                                                                                                    
+18-300CA               1,792   CORRIDOR           DP OF FACILITIES                                  
+18-300CF                 316   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+18-300E1                  54   ELEVATOR           DP OF FACILITIES                                  
+18-300E2                  54   ELEVATOR           DP OF FACILITIES                                  
+18-300SA                 147   STAIRWAY           DP OF FACILITIES                                  
+18-300SB                 133   STAIRWAY           DP OF FACILITIES                                  
+18-300Z                  117   SHAFT SPACE        DP OF FACILITIES                                  
+18-303A                    2   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-304                     6   LABORATORY SVC     CHEMISTRY                                         
+18-305                   767   RESEARCH LAB       CHEMISTRY                                         
+18-305Z                   53   SHAFT SPACE        DP OF FACILITIES                                  
+18-306                   877   RESEARCH LAB       CHEMISTRY                                         
+18-306A                   67   RESEARCH LAB       CHEMISTRY                                         
+18-306AA                  69   RESEARCH LAB       CHEMISTRY                                         
+18-306B                   40   RESEARCH LAB       CHEMISTRY                                         
+18-312                   372   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-313                   219   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-314E                   32   ELECTRIC CLOSET    DP OF FACILITIES                                  
+18-321                    72   LABORATORY SVC     CHEMISTRY                                         
+18-321A                   75   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-321AA                  98   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-323                   757   RESEARCH LAB       CHEMISTRY                                         
+18-324A                    7   LABORATORY SVC     CHEMISTRY                                         
+18-324B                   16   LABORATORY SVC     CHEMISTRY                                         
+18-324C                    7   LABORATORY SVC     CHEMISTRY                                         
+18-325                   721   RESEARCH LAB       CHEMISTRY                                         
+18-325A                  122   LABORATORY SVC     CHEMISTRY                                         
+18-325B                  184   RESEARCH LAB       CHEMISTRY                                         
+18-325C                  266   RESEARCH LAB       CHEMISTRY                                         
+18-332                   238   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-333                   173   LABORATORY SVC     CHEMISTRY                                         
+18-334                   244   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-340                   166   RESEARCH LAB       CHEMISTRY                                         
+18-341A                    7   LABORATORY SVC     CHEMISTRY                                         
+18-341B                   16   LABORATORY SVC     CHEMISTRY                                         
+18-341C                    7   LABORATORY SVC     CHEMISTRY                                         
+18-343                   721   RESEARCH LAB       CHEMISTRY                                         
+18-343A                   75   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-343AA                  98   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-344                   778   RESEARCH LAB       CHEMISTRY                                         
+18-344A                  122   LABORATORY SVC     CHEMISTRY                                         
+18-344B                  168   RESEARCH LAB       CHEMISTRY                                         
+18-344C                  157   RESEARCH LAB       CHEMISTRY                                         
+18-344D                  160   RESEARCH LAB       CHEMISTRY                                         
+18-344F                   64   RESEARCH LAB       CHEMISTRY                                         
+18-351                    71   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-352                   240   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-353                   173   LABORATORY SVC     CHEMISTRY                                         
+18-354                   294   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-361A                   75   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-361AA                  98   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-361T                   48   TELECOM CLOSET     DP OF FACILITIES                                  
+18-362E                   32   ELECTRIC CLOSET    DP OF FACILITIES                                  
+18-363                   725   RESEARCH LAB       CHEMISTRY                                         
+18-363A                   61   RESEARCH LAB       CHEMISTRY                                         
+18-363B                   48   RESEARCH LAB       CHEMISTRY                                         
+18-363C                   66   RESEARCH LAB       CHEMISTRY                                         
+18-363D                   87   RESEARCH LAB       CHEMISTRY                                         
+18-364                    82   MALE LAVATORY      DP OF FACILITIES                                  
+18-364A                    6   LABORATORY SVC     CHEMISTRY                                         
+18-364J                    8   JANITOR CLOSET     DP OF FACILITIES                                  
+18-371                     2   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-372                   319   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-378                   484   CONFERENCE ROOM    CHEMISTRY                                         
+18-380                   603   OFFICE SERVICE     CHEMISTRY                                         
+18-382                   112   FEMALE LAVATORY    DP OF FACILITIES                                  
+18-384                   115   LABORATORY SVC     CHEMISTRY                                         
+18-386                   135   OFFICE SERVICE     CHEMISTRY                                         
+18-388                   137   OFFICE             CHEMISTRY                                         
+18-390                   231   OFFICE             CHEMISTRY                                         
+18-392                   179   OFFICE             CHEMISTRY                                         
+18-394                   174   OFFICE             CHEMISTRY                                         
+18-395                   119   OFFICE             CHEMISTRY                                         
+18-396                   189   OFFICE             CHEMISTRY                                         
+18-396A                   68   OFFICE             CHEMISTRY                                         
+18-397                   136   OFFICE             CHEMISTRY                                         
+18-397A                   57   OFFICE SERVICE     CHEMISTRY                                         
+18-398                   327   OFFICE             CHEMISTRY                                         
+                    --------                                                                        
+                      16,132                                                                        
+                                                                                                    
+18-400CA               1,366   CORRIDOR           DP OF FACILITIES                                  
+18-400CB                 423   CORRIDOR           DP OF FACILITIES                                  
+18-400CF                 317   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+18-400E1                  54   ELEVATOR           DP OF FACILITIES                                  
+18-400E2                  54   ELEVATOR           DP OF FACILITIES                                  
+18-400SA                 147   STAIRWAY           DP OF FACILITIES                                  
+18-400SB                 133   STAIRWAY           DP OF FACILITIES                                  
+18-400Z                  148   SHAFT SPACE        DP OF FACILITIES                                  
+18-403                     2   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-404                     6   LABORATORY SVC     CHEMISTRY                                         
+18-405                 1,208   RESEARCH LAB       CHEMISTRY                                         
+18-405A                   89   RESEARCH LAB       CHEMISTRY                                         
+18-405B                  144   RESEARCH LAB       CHEMISTRY                                         
+18-405C                   46   LABORATORY SVC     CHEMISTRY                                         
+18-405Z                   53   SHAFT SPACE        DP OF FACILITIES                                  
+18-406                   316   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-408                    26   LABORATORY SVC     CHEMISTRY                                         
+18-408A                  163   RESEARCH LAB       CHEMISTRY                                         
+18-413                    88   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-413A                  127   LABORATORY SVC     CHEMISTRY                                         
+18-414E                   32   ELECTRIC CLOSET    DP OF FACILITIES                                  
+18-421                    68   LABORATORY SVC     CHEMISTRY                                         
+18-421A                   75   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-421AA                  98   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-423                   537   RESEARCH LAB       CHEMISTRY                                         
+18-423A                  172   RESEARCH LAB       CHEMISTRY                                         
+18-423B                   95   RESEARCH LAB       CHEMISTRY                                         
+18-424A                    7   LABORATORY SVC     CHEMISTRY                                         
+18-424B                   16   LABORATORY SVC     CHEMISTRY                                         
+18-425                   842   RESEARCH LAB       CHEMISTRY                                         
+18-425A                  131   RESEARCH LAB       CHEMISTRY                                         
+18-425B                  146   RESEARCH LAB       CHEMISTRY                                         
+18-425C                  190   RESEARCH LAB       CHEMISTRY                                         
+18-427                    16   LABORATORY SVC     CHEMISTRY                                         
+18-432                   302   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-433                   141   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-434                   275   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-440                   167   RESEARCH LAB       CHEMISTRY                                         
+18-441A                    7   LABORATORY SVC     CHEMISTRY                                         
+18-441B                   16   LABORATORY SVC     CHEMISTRY                                         
+18-441C                    7   LABORATORY SVC     CHEMISTRY                                         
+18-443                   694   RESEARCH LAB       CHEMISTRY                                         
+18-443A                   75   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-443AA                  98   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-444                   778   RESEARCH LAB       CHEMISTRY                                         
+18-444A                  122   LABORATORY SVC     CHEMISTRY                                         
+18-444B                  162   RESEARCH LAB       CHEMISTRY                                         
+18-444C                  160   RESEARCH LAB       CHEMISTRY                                         
+18-444D                  160   RESEARCH LAB       CHEMISTRY                                         
+18-444F                   64   RESEARCH LAB       CHEMISTRY                                         
+18-451                    75   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-452                   241   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-453                   173   LABORATORY SVC     CHEMISTRY                                         
+18-454                   292   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-461A                   75   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-461AA                  98   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-461T                   48   TELECOM CLOSET     DP OF FACILITIES                                  
+18-462E                   32   ELECTRIC CLOSET    DP OF FACILITIES                                  
+18-463                   725   RESEARCH LAB       CHEMISTRY                                         
+18-463A                   60   RESEARCH LAB       CHEMISTRY                                         
+18-463B                   81   RESEARCH LAB       CHEMISTRY                                         
+18-463C                  156   RESEARCH LAB       CHEMISTRY                                         
+18-464                    82   MALE LAVATORY      DP OF FACILITIES                                  
+18-464A                    6   LABORATORY SVC     CHEMISTRY                                         
+18-464J                    8   JANITOR CLOSET     DP OF FACILITIES                                  
+18-471A                    2   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-472                   358   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-478                   366   CONFERENCE ROOM    CHEMISTRY                                         
+18-480                   493   OFFICE SERVICE     CHEMISTRY                                         
+18-480A                    8   OFFICE SERVICE     CHEMISTRY                                         
+18-481                   117   SECY/RECEPTION     CHEMISTRY                                         
+18-482                   112   FEMALE LAVATORY    DP OF FACILITIES                                  
+18-484                   125   LABORATORY SVC     CHEMISTRY                                         
+18-488                   226   RESEARCH LAB       CHEMISTRY                                         
+18-488A                  168   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-490                   320   OFFICE             CHEMISTRY                                         
+18-492                   284   OFFICE             CHEMISTRY                                         
+18-493                   103   OFFICE             CHEMISTRY                                         
+18-495                   116   OFFICE             CHEMISTRY                                         
+18-496                   278   OFFICE             CHEMISTRY                                         
+18-498                   365   OFFICE             CHEMISTRY                                         
+                    --------                                                                        
+                      16,150                                                                        
+                                                                                                    
+18-500CA               1,378   CORRIDOR           DP OF FACILITIES                                  
+18-500CB                 423   CORRIDOR           DP OF FACILITIES                                  
+18-500CF                 303   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+18-500E1                  54   ELEVATOR           DP OF FACILITIES                                  
+18-500E2                  54   ELEVATOR           DP OF FACILITIES                                  
+18-500SA                 148   STAIRWAY           DP OF FACILITIES                                  
+18-500SB                 133   STAIRWAY           DP OF FACILITIES                                  
+18-500Z                  116   SHAFT SPACE        DP OF FACILITIES                                  
+18-503                     2   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-504                     6   LABORATORY SVC     CHEMISTRY                                         
+18-505                   116   LABORATORY SVC     CHEMISTRY                                         
+18-505Z                   51   SHAFT SPACE        DP OF FACILITIES                                  
+18-507                   209   LABORATORY SVC     CHEMISTRY                                         
+18-507A                   54   RESEARCH LAB       CHEMISTRY                                         
+18-508                   114   LABORATORY SVC     CHEMISTRY                                         
+18-508A                  321   RESEARCH LAB       CHEMISTRY                                         
+18-508AA                 195   RESEARCH LAB       CHEMISTRY                                         
+18-508B                  197   RESEARCH LAB       CHEMISTRY                                         
+18-508C                  131   RESEARCH LAB       CHEMISTRY                                         
+18-508D                   98   LABORATORY SVC     CHEMISTRY                                         
+18-511                   545   RESEARCH LAB       CHEMISTRY                                         
+18-512                   315   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-514E                   32   ELECTRIC CLOSET    DP OF FACILITIES                                  
+18-521                    67   LABORATORY SVC     CHEMISTRY                                         
+18-521A                   74   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-521AA                  98   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-523                   742   RESEARCH LAB       CHEMISTRY                                         
+18-523A                  161   RESEARCH LAB       CHEMISTRY                                         
+18-523B                  175   RESEARCH LAB       CHEMISTRY                                         
+18-524A                    7   LABORATORY SVC     CHEMISTRY                                         
+18-524B                   16   LABORATORY SVC     CHEMISTRY                                         
+18-524C                    7   LABORATORY SVC     CHEMISTRY                                         
+18-525                   581   RESEARCH LAB       CHEMISTRY                                         
+18-525A                  152   RESEARCH LAB       CHEMISTRY                                         
+18-525D                  147   RESEARCH LAB       CHEMISTRY                                         
+18-527                    52   LABORATORY SVC     CHEMISTRY                                         
+18-532                   362   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-533                   161   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-534                   139   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-535                   197   LABORATORY SVC     CHEMISTRY                                         
+18-538A                   91   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-538AA                  98   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-540                    54   RESEARCH LAB       CHEMISTRY                                         
+18-541A                    7   LABORATORY SVC     CHEMISTRY                                         
+18-541B                   16   LABORATORY SVC     CHEMISTRY                                         
+18-541C                    7   LABORATORY SVC     CHEMISTRY                                         
+18-543                   869   RESEARCH LAB       CHEMISTRY                                         
+18-543A                  112   RESEARCH LAB       CHEMISTRY                                         
+18-543AA                  32   LABORATORY SVC     CHEMISTRY                                         
+18-543B                  153   LABORATORY SVC     CHEMISTRY                                         
+18-543C                  156   RESEARCH LAB       CHEMISTRY                                         
+18-544                   837   RESEARCH LAB       CHEMISTRY                                         
+18-551                   120   LABORATORY SVC     CHEMISTRY                                         
+18-552                   146   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-553                    88   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-554                   327   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-560                    59   LABORATORY SVC     CHEMISTRY                                         
+18-561A                   74   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-561AA                  98   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-561T                   48   TELECOM CLOSET     DP OF FACILITIES                                  
+18-562E                   32   ELECTRIC CLOSET    DP OF FACILITIES                                  
+18-563                   725   RESEARCH LAB       CHEMISTRY                                         
+18-563A                   97   RESEARCH LAB       CHEMISTRY                                         
+18-563B                  124   RESEARCH LAB       CHEMISTRY                                         
+18-563D                   78   RESEARCH LAB       CHEMISTRY                                         
+18-564                    84   MALE LAVATORY      DP OF FACILITIES                                  
+18-564J                    8   JANITOR CLOSET     DP OF FACILITIES                                  
+18-571                     2   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-572                   356   RSCH LAB-OFFICE    CHEMISTRY                                         
+18-578                   366   CONFERENCE ROOM    CHEMISTRY                                         
+18-580                   497   OFFICE SERVICE     CHEMISTRY                                         
+18-580A                    8   OFFICE SERVICE     CHEMISTRY                                         
+18-581                   117   SECY/RECEPTION     CHEMISTRY                                         
+18-582                   112   FEMALE LAVATORY    DP OF FACILITIES                                  
+18-584                   151   OFFICE SERVICE     CHEMISTRY                                         
+18-588                   103   OFFICE SERVICE     CHEMISTRY                                         
+18-590                   320   OFFICE             CHEMISTRY                                         
+18-592                   284   OFFICE             CHEMISTRY                                         
+18-593                   115   OFFICE             CHEMISTRY                                         
+18-595                   118   OFFICE             CHEMISTRY                                         
+18-596                   277   OFFICE             CHEMISTRY                                         
+18-597                   290   OFFICE             CHEMISTRY                                         
+18-598                   321   OFFICE             CHEMISTRY                                         
+                    --------                                                                        
+                      16,104                                                                        
+                                                                                                    
+18-600SB                 177   STAIRWAY           DP OF FACILITIES                                  
+18-600Z                  167   SHAFT SPACE        DP OF FACILITIES                                  
+18-621                   581   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-641                   581   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-651                   166   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-661                   581   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-663                    77   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-664                    47   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-664A                   92   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-664B                  133   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-668                    38   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-669E                  171   ELECTRIC CLOSET    DP OF FACILITIES                                  
+18-669EA                  65   UTILITY/MECH RM    DP OF FACILITIES                                  
+18-670E                   70   ELECTRIC CLOSET    DP OF FACILITIES

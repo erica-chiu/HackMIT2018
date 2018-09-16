@@ -1,0 +1,148 @@
+E60-000CA                859   CORRIDOR           DP OF FACILITIES                                  
+E60-000CB                249   CORRIDOR           DP OF FACILITIES                                  
+E60-000E1                 78   ELEVATOR           DP OF FACILITIES                                  
+E60-000LA                124   LOBBY              DP OF FACILITIES                                  
+E60-000LB                 78   LOBBY              DP OF FACILITIES                                  
+E60-000SA                130   STAIRWAY           DP OF FACILITIES                                  
+E60-000SB                137   STAIRWAY           DP OF FACILITIES                                  
+E60-000Z                 218   SHAFT SPACE        DP OF FACILITIES                                  
+E60-008                  167   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E60-017                  607   UTILITY/MECH RM    DP OF FACILITIES                                  
+E60-018                  139   OFFICE             SCH OF MANAGEMNT                                  
+E60-019AE                 96   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E60-019AT                 50   TELECOM CLOSET     DP OF FACILITIES                                  
+E60-019C                  83   UTILITY/MECH RM    DP OF FACILITIES                                  
+E60-019E                 241   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E60-020                  193   OFFICE             SCH OF MANAGEMNT                                  
+E60-022                  176   OFFICE             SCH OF MANAGEMNT                                  
+E60-024                  163   OFFICE             SCH OF MANAGEMNT                                  
+E60-041                  138   MALE LAVATORY      DP OF FACILITIES                                  
+E60-042                  279   UTILITY/MECH RM    DP OF FACILITIES                                  
+E60-042A                  30   UTILITY/MECH RM    DP OF FACILITIES                                  
+E60-043                  154   FEMALE LAVATORY    DP OF FACILITIES                                  
+E60-044                   85   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E60-051                   34   UTILITY/MECH RM    DP OF FACILITIES                                  
+E60-060                  253   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E60-065J                  43   JANITOR CLOSET     DP OF FACILITIES                                  
+E60-067T                  69   TELECOM CLOSET     DP OF FACILITIES                                  
+E60-068                  188   OFFICE             SCH OF MANAGEMNT                                  
+E60-069                1,249   UTILITY/MECH RM    DP OF FACILITIES                                  
+E60-070                  187   OFFICE             SCH OF MANAGEMNT                                  
+E60-080                  140   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E60-082                  171   OFFICE             SCH OF MANAGEMNT                                  
+                    --------                                                                        
+                       6,811                                                                        
+                                                                                                    
+E60-100CA                750   CORRIDOR           DP OF FACILITIES                                  
+E60-100CB                563   CORRIDOR           DP OF FACILITIES                                  
+E60-100E1                 79   ELEVATOR           DP OF FACILITIES                                  
+E60-100LA                609   LOBBY              DP OF FACILITIES                                  
+E60-100SA                248   STAIRWAY           DP OF FACILITIES                                  
+E60-100SB                199   STAIRWAY           DP OF FACILITIES                                  
+E60-100Z                 117   SHAFT SPACE        DP OF FACILITIES                                  
+E60-102                  337   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E60-112                  894   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E60-112A                  23   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E60-112B                  16   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E60-112C                  37   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E60-117                  254   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E60-119                  113   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E60-119J                  12   JANITOR CLOSET     DP OF FACILITIES                                  
+E60-125                  165   MALE LAVATORY      DP OF FACILITIES                                  
+E60-135                  187   FEMALE LAVATORY    DP OF FACILITIES                                  
+E60-160                  140   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E60-162                  260   OFFICE             SCH OF MANAGEMNT                                  
+E60-165                   49   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E60-166                  129   OFFICE             SCH OF MANAGEMNT                                  
+E60-175E                  18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E60-176                  126   OFFICE             SCH OF MANAGEMNT                                  
+E60-177                    8   UTILITY/MECH RM    DP OF FACILITIES                                  
+E60-179                  119   OFFICE             SCH OF MANAGEMNT                                  
+E60-180                  114   OFFICE             SCH OF MANAGEMNT                                  
+E60-181                  230   OFFICE             SCH OF MANAGEMNT                                  
+E60-182                  139   OFFICE             SCH OF MANAGEMNT                                  
+E60-183A                  77   OFFICE             SCH OF MANAGEMNT                                  
+E60-183C                  77   OFFICE             SCH OF MANAGEMNT                                  
+E60-183F                  75   OFFICE             SCH OF MANAGEMNT                                  
+E60-183G                  51   OFFICE             SCH OF MANAGEMNT                                  
+E60-183H                  51   OFFICE             SCH OF MANAGEMNT                                  
+                    --------                                                                        
+                       6,263                                                                        
+                                                                                                    
+E60-200CA                424   CORRIDOR           DP OF FACILITIES                                  
+E60-200CB                509   CORRIDOR           DP OF FACILITIES                                  
+E60-200E1                 79   ELEVATOR           DP OF FACILITIES                                  
+E60-200LA                480   LOBBY              DP OF FACILITIES                                  
+E60-200SA                376   STAIRWAY           DP OF FACILITIES                                  
+E60-200SB                199   STAIRWAY           DP OF FACILITIES                                  
+E60-200Z                 112   SHAFT SPACE        DP OF FACILITIES                                  
+E60-205                  214   OFFICE             SCH OF MANAGEMNT                                  
+E60-207A                  75   OFFICE             SCH OF MANAGEMNT                                  
+E60-207B                  70   OFFICE             SCH OF MANAGEMNT                                  
+E60-208                  200   OFFICE             SCH OF MANAGEMNT                                  
+E60-209                   66   OFFICE             SCH OF MANAGEMNT                                  
+E60-210                  128   OFFICE             SCH OF MANAGEMNT                                  
+E60-212                  123   OFFICE             SCH OF MANAGEMNT                                  
+E60-214T                  58   TELECOM CLOSET     DP OF FACILITIES                                  
+E60-215                  237   OFFICE             SCH OF MANAGEMNT                                  
+E60-217                  108   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E60-220                   15   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E60-220A                   9   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E60-233                  140   FEMALE LAVATORY    DP OF FACILITIES                                  
+E60-235J                  13   JANITOR CLOSET     DP OF FACILITIES                                  
+E60-236                  651   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E60-237                  137   MALE LAVATORY      DP OF FACILITIES                                  
+E60-246                  179   OFFICE             SCH OF MANAGEMNT                                  
+E60-253                   69   OFFICE             SCH OF MANAGEMNT                                  
+E60-253A                  68   OFFICE             SCH OF MANAGEMNT                                  
+E60-255                   69   OFFICE             SCH OF MANAGEMNT                                  
+E60-256                  188   OFFICE             SCH OF MANAGEMNT                                  
+E60-257                   58   OFFICE             SCH OF MANAGEMNT                                  
+E60-266                  141   OFFICE             SCH OF MANAGEMNT                                  
+E60-267                   48   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E60-268                   93   OFFICE             SCH OF MANAGEMNT                                  
+E60-271                   56   OFFICE             SCH OF MANAGEMNT                                  
+E60-273                   79   OFFICE             SCH OF MANAGEMNT                                  
+E60-275E                  18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E60-277                    8   UTILITY/MECH RM    DP OF FACILITIES                                  
+E60-279                  121   OFFICE             SCH OF MANAGEMNT                                  
+E60-280                  140   OFFICE             SCH OF MANAGEMNT                                  
+E60-281                  228   OFFICE             SCH OF MANAGEMNT                                  
+E60-282                  219   OFFICE             SCH OF MANAGEMNT                                  
+E60-283                  179   OFFICE             SCH OF MANAGEMNT                                  
+                    --------                                                                        
+                       6,384                                                                        
+                                                                                                    
+E60-300CA                692   CORRIDOR           DP OF FACILITIES                                  
+E60-300CB                446   CORRIDOR           DP OF FACILITIES                                  
+E60-300E1                 78   ELEVATOR           DP OF FACILITIES                                  
+E60-300LA                285   LOBBY              DP OF FACILITIES                                  
+E60-300SA                235   STAIRWAY           DP OF FACILITIES                                  
+E60-300SB                209   STAIRWAY           DP OF FACILITIES                                  
+E60-300Z                  89   SHAFT SPACE        DP OF FACILITIES                                  
+E60-315                  472   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E60-316                  495   OFFICE             SCH OF MANAGEMNT                                  
+E60-317                  126   OFFICE             SCH OF MANAGEMNT                                  
+E60-319                  136   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E60-320                   91   OFFICE             SCH OF MANAGEMNT                                  
+E60-331E                  10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E60-332                  206   OFFICE             SCH OF MANAGEMNT                                  
+E60-333                  139   FEMALE LAVATORY    DP OF FACILITIES                                  
+E60-334                  256   OFFICE             SCH OF MANAGEMNT                                  
+E60-335J                  12   JANITOR CLOSET     DP OF FACILITIES                                  
+E60-337                  141   MALE LAVATORY      DP OF FACILITIES                                  
+E60-339                   17   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E60-346                  251   SECY/RECEPTION     SCH OF MANAGEMNT                                  
+E60-351                   87   OFFICE             SCH OF MANAGEMNT                                  
+E60-364                  258   OFFICE             SCH OF MANAGEMNT                                  
+E60-365                   91   OFFICE             SCH OF MANAGEMNT                                  
+E60-366                  259   OFFICE             SCH OF MANAGEMNT                                  
+E60-367E                  47   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E60-371                   82   OFFICE             SCH OF MANAGEMNT                                  
+E60-375E                  25   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E60-379                  134   OFFICE             SCH OF MANAGEMNT                                  
+E60-380                  251   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E60-381                  235   OFFICE             SCH OF MANAGEMNT                                  
+E60-382                  252   OFFICE             SCH OF MANAGEMNT                                  
+E60-383                   85   OFFICE             SCH OF MANAGEMNT                                  
+E60-383A                  60   OFFICE             SCH OF MANAGEMNT       

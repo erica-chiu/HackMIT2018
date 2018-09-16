@@ -1,0 +1,150 @@
+NW21-000SA                50   STAIRWAY           DP OF FACILITIES                                  
+NW21-000SB               109   STAIRWAY           DP OF FACILITIES                                  
+NW21-000SF               105   STAIRWAY           DP OF FACILITIES                                  
+NW21-000SH                14   STAIRWAY           DP OF FACILITIES                                  
+NW21-000SM                20   STAIRWAY           DP OF FACILITIES                                  
+NW21-001                  66   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW21-022               5,274   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-033              14,062   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW21-035               4,294   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW21-051                 823   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW21-053               5,414   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW21-083               8,830   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      39,061                                                                        
+                                                                                                    
+NW21-100CA               476   CORRIDOR           DP OF FACILITIES                                  
+NW21-100CB             2,807   CORRIDOR           DP OF FACILITIES                                  
+NW21-100CD             2,102   CORRIDOR           DP OF FACILITIES                                  
+NW21-100LA                88   LOBBY              DP OF FACILITIES                                  
+NW21-100LB               120   LOBBY              DP OF FACILITIES                                  
+NW21-100SA               152   STAIRWAY           DP OF FACILITIES                                  
+NW21-100SB                57   STAIRWAY           DP OF FACILITIES                                  
+NW21-100SC               153   STAIRWAY           DP OF FACILITIES                                  
+NW21-100SD               254   STAIRWAY           DP OF FACILITIES                                  
+NW21-100SE                82   STAIRWAY           DP OF FACILITIES                                  
+NW21-100SF                15   STAIRWAY           DP OF FACILITIES                                  
+NW21-100SG                24   STAIRWAY           DP OF FACILITIES                                  
+NW21-100SH                56   STAIRWAY           DP OF FACILITIES                                  
+NW21-100SK                36   STAIRWAY           DP OF FACILITIES                                  
+NW21-100SKM               25   STAIRWAY           DP OF FACILITIES                                  
+NW21-100SM                20   STAIRWAY           DP OF FACILITIES                                  
+NW21-100Z                 53   SHAFT SPACE        DP OF FACILITIES                                  
+NW21-103                 235   OFFICE             PLASMA SCI FSN CTR                                
+NW21-104                 219   SECY/RECEPTION     PLASMA SCI FSN CTR                                
+NW21-105                 214   OFFICE             PLASMA SCI FSN CTR                                
+NW21-106                 227   OFFICE             PLASMA SCI FSN CTR                                
+NW21-107                 152   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW21-107A                152   OFFICE             PLASMA SCI FSN CTR                                
+NW21-108                 124   OFFICE             PLASMA SCI FSN CTR                                
+NW21-109                 323   OFFICE             PLASMA SCI FSN CTR                                
+NW21-110                 130   OFFICE             PLASMA SCI FSN CTR                                
+NW21-111                 229   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW21-111A                295   OFFICE             PLASMA SCI FSN CTR                                
+NW21-111B                135   OFFICE             PLASMA SCI FSN CTR                                
+NW21-111C                128   OFFICE             PLASMA SCI FSN CTR                                
+NW21-111D                105   OFFICE             PLASMA SCI FSN CTR                                
+NW21-111F                113   OFFICE             PLASMA SCI FSN CTR                                
+NW21-111G                 98   OFFICE             PLASMA SCI FSN CTR                                
+NW21-113                 401   CONFERENCE ROOM    PLASMA SCI FSN CTR                                
+NW21-114                 527   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-115                 713   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW21-116                 545   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-117                 537   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-117A                156   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW21-117B                136   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW21-118                 905   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW21-118A                602   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-118B                330   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-118C                531   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-119                 794   LAB SUPPORT SHOP   PLASMA SCI FSN CTR                                
+NW21-119A                200   SHOP SERVICE       PLASMA SCI FSN CTR                                
+NW21-120                 946   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-121                 515   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW21-121A                314   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW21-121B                111   RSCH LAB-OFFICE    PLASMA SCI FSN CTR                                
+NW21-122                 619   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-124                 577   RECEIVING ROOM     DP OF FACIL ADM                                   
+NW21-125                 124   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW21-133               1,339   LAB SUPPORT SHOP   PLASMA SCI FSN CTR                                
+NW21-133A                363   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-133B                185   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-133C                459   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-135               3,578   LAB SUPPORT SHOP   PLASMA SCI FSN CTR                                
+NW21-135A                 92   SHOP SERVICE       PLASMA SCI FSN CTR                                
+NW21-151               1,319   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW21-152               1,465   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-154                 583   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-154A                894   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-155                 652   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW21-155E                397   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NW21-156               1,705   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-156A                289   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-156B                266   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-156C                306   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-156D                239   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-156F                 85   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW21-156G                614   LAB SUPPORT SHOP   PLASMA SCI FSN CTR                                
+NW21-156GA               261   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW21-156H                264   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW21-156K                260   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-167               1,333   LAB SUPPORT SHOP   PLASMA SCI FSN CTR                                
+NW21-173               1,110   LAB SUPPORT SHOP   PLASMA SCI FSN CTR                                
+NW21-175                 115   FEMALE LAVATORY    DP OF FACILITIES                                  
+NW21-175E                 64   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NW21-177                 228   MALE LAVATORY      DP OF FACILITIES                                  
+NW21-177T                 87   TELECOM CLOSET     DP OF FACILITIES                                  
+NW21-179                 174   JANITOR STORAGE    DP OF FACILITIES                                  
+NW21-181                 684   LAB SUPPORT SHOP   PLASMA SCI FSN CTR                                
+NW21-183                 707   LAB SUPPORT SHOP   PLASMA SCI FSN CTR                                
+NW21-186                   8   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW21-187               3,804   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-188                 314   OFFICE             PLASMA SCI FSN CTR                                
+NW21-189               1,338   LAB SUPPORT SHOP   PLASMA SCI FSN CTR                                
+NW21-189A                471   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW21-189E                 13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NW21-194               3,171   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-194A              8,901   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-199               2,510   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-199A                226   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW21-199AM               226   RESEARCH LAB       PLASMA SCI FSN CTR                                
+                    --------                                                                        
+                      60,079                                                                        
+                                                                                                    
+NW21-200SA               147   STAIRWAY           DP OF FACILITIES                                  
+NW21-200SC               113   STAIRWAY           DP OF FACILITIES                                  
+NW21-200SG                28   STAIRWAY           DP OF FACILITIES                                  
+NW21-200SMM               93   STAIRWAY           DP OF FACILITIES                                  
+NW21-200Z                  4   SHAFT SPACE        DP OF FACILITIES                                  
+NW21-203                 143   OFFICE             PLASMA SCI FSN CTR                                
+NW21-204                 349   OFFICE             PLASMA SCI FSN CTR                                
+NW21-204A                 18   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW21-205                 116   OFFICE             PLASMA SCI FSN CTR                                
+NW21-205A                 93   OFFICE             PLASMA SCI FSN CTR                                
+NW21-205AA                51   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW21-205B                186   OFFICE             PLASMA SCI FSN CTR                                
+NW21-205D              1,012   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW21-205F                116   OFFICE             PLASMA SCI FSN CTR                                
+NW21-205G                 94   OFFICE             PLASMA SCI FSN CTR                                
+NW21-206                 383   OFFICE             PLASMA SCI FSN CTR                                
+NW21-206A                204   OFFICE             PLASMA SCI FSN CTR                                
+NW21-206B                 17   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW21-206C                 14   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW21-207                 113   OFFICE             PLASMA SCI FSN CTR                                
+NW21-208                  55   VAULT              PLASMA SCI FSN CTR                                
+NW21-209                  58   OFFICE             PLASMA SCI FSN CTR                                
+NW21-210                  94   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW21-211                  94   MALE LAVATORY      DP OF FACILITIES                                  
+NW21-212                 176   FEMALE LAVATORY    DP OF FACILITIES                                  
+NW21-213                 127   OFFICE             PLASMA SCI FSN CTR                                
+NW21-214                 118   OFFICE             PLASMA SCI FSN CTR                                
+NW21-215                  93   OFFICE             PLASMA SCI FSN CTR                                
+NW21-216                  96   OFFICE             PLASMA SCI FSN CTR                                
+NW21-242BM               485   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW21-242EM               683   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NW21-242M                604   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW21-243AM             1,649   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW21-243M                 38   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW21-251               1,833   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW21-251A                612   LABORATORY SVC     PLASMA SCI FSN CTR 
+NW21-251AM               589   LABORATORY SVC     PLASMA SCI FSN CTR     

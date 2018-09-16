@@ -1,0 +1,786 @@
+E19-000CA              2,123   CORRIDOR           DP OF FACILITIES                                  
+E19-000CB                414   CORRIDOR           DP OF FACILITIES                                  
+E19-000CC                324   CORRIDOR           DP OF FACILITIES                                  
+E19-000E3                 77   ELEVATOR           DP OF FACILITIES                                  
+E19-000E4                 78   ELEVATOR           DP OF FACILITIES                                  
+E19-000E5                 91   ELEVATOR           DP OF FACILITIES                                  
+E19-000SA                132   STAIRWAY           DP OF FACILITIES                                  
+E19-000SB                189   STAIRWAY           DP OF FACILITIES                                  
+E19-000SC                 42   STAIRWAY           DP OF FACILITIES                                  
+E19-000Z                  26   SHAFT SPACE        DP OF FACILITIES                                  
+E19-002                  216   OFFICE             DP OF FACIL ADM                                   
+E19-004A                 209   UTILITY/MECH RM    DP OF FACILITIES                                  
+E19-004E                  83   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-006                  272   STORAGE FACILITY   DP OF FACIL ADM                                   
+E19-006A                 227   STORAGE FACILITY   DP OF FACIL ADM                                   
+E19-006AA                  7   UTILITY/MECH RM    DP OF FACILITIES                                  
+E19-009                  338   STORAGE FACILITY   DP OF FACIL ADM                                   
+E19-009A                 171   OFFICE             DP OF FACIL ADM                                   
+E19-009B                 179   MAINTENANCE SHOP   DP OF FACIL ADM                                   
+E19-009C                 213   UTILITY/MECH RM    DP OF FACILITIES                                  
+E19-009D                 250   UTILITY/MECH RM    DP OF FACILITIES                                  
+E19-011                1,620   UTILITY/MECH RM    DP OF FACILITIES                                  
+E19-014                   74   UTILITY/MECH RM    DP OF FACILITIES                                  
+E19-019T                  76   TELECOM CLOSET     DP OF FACILITIES                                  
+E19-020                2,390   UTILITY/MECH RM    DP OF FACILITIES                                  
+E19-020A                  80   UTILITY/MECH RM    DP OF FACILITIES                                  
+E19-021                   10   UTILITY/MECH RM    DP OF FACILITIES                                  
+E19-025                2,091   OFFICE SERVICE     DP OF FACIL ADM                                   
+E19-025A                  74   OFFICE SERVICE     DP OF FACIL ADM                                   
+E19-034                  221   OFFICE SERVICE     DP OF FACIL ADM                                   
+E19-034A                 167   OFFICE SERVICE     DP OF FACIL ADM                                   
+E19-035                  751   OFFICE SERVICE     DP OF FACIL ADM                                   
+E19-036                  161   OFFICE SERVICE     DP OF FACIL ADM                                   
+E19-037                  594   OFFICE SERVICE     DP OF FACIL ADM                                   
+E19-038                  611   MAINTENANCE SHOP   DP OF FACIL ADM                                   
+E19-039                  415   OFFICE             DP OF FACIL ADM                                   
+E19-039AT                 13   TELECOM CLOSET     DP OF FACILITIES                                  
+E19-040                  272   JANITOR STORAGE    DP OF FACILITIES                                  
+E19-041                  104   OFFICE SERVICE     DP OF FACIL ADM                                   
+E19-041A                 380   OFFICE             DP OF FACIL ADM                                   
+E19-042                  132   STORAGE FACILITY   DP OF FACIL ADM                                   
+E19-043                  299   UTILITY/MECH RM    DP OF FACILITIES                                  
+E19-043A                  90   STORAGE FACILITY   DP OF FACIL ADM                                   
+E19-043AE                 24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-043BE                 77   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-043E                 223   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-051                  361   STORAGE FACILITY   DP OF FACIL ADM                                   
+E19-054                  153   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      17,123                                                                        
+                                                                                                    
+E19-100CA              1,859   CORRIDOR           DP OF FACILITIES                                  
+E19-100E1                 69   ELEVATOR           DP OF FACILITIES                                  
+E19-100E2                 67   ELEVATOR           DP OF FACILITIES                                  
+E19-100E3                 65   ELEVATOR           DP OF FACILITIES                                  
+E19-100E4                 84   ELEVATOR           DP OF FACILITIES                                  
+E19-100E5                 74   ELEVATOR           DP OF FACILITIES                                  
+E19-100LA                293   LOBBY              DP OF FACILITIES                                  
+E19-100LB                129   LOBBY              DP OF FACILITIES                                  
+E19-100LC                822   LOBBY              DP OF FACILITIES                                  
+E19-100LD                270   LOBBY              DP OF FACILITIES                                  
+E19-100SA                123   STAIRWAY           DP OF FACILITIES                                  
+E19-100SB                154   STAIRWAY           DP OF FACILITIES                                  
+E19-100SC                123   STAIRWAY           DP OF FACILITIES                                  
+E19-100Z                 408   SHAFT SPACE        DP OF FACILITIES                                  
+E19-101                  205   OFFICE             DP OF FACIL ADM                                   
+E19-102                  467   OFFICE SERVICE     DP OF FACIL ADM                                   
+E19-105                  136   OFFICE             DP OF FACIL ADM                                   
+E19-105A                  84   OFFICE SERVICE     DP OF FACIL ADM                                   
+E19-106                  162   OFFICE SERVICE     DP OF FACIL ADM                                   
+E19-107                  255   OFFICE             DP OF FACIL ADM                                   
+E19-107E                  10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-108                  434   RECEIVING ROOM     DP OF FACIL ADM                                   
+E19-111                2,627   OFFICE SERVICE     DP OF FACIL ADM                                   
+E19-111A                 141   OFFICE SERVICE     DP OF FACIL ADM                                   
+E19-113                  223   OFFICE SERVICE     DP OF FACIL ADM                                   
+E19-116                  189   MAIL ROOM          DP OF FACIL ADM                                   
+E19-118                  203   MALE LAVATORY      DP OF FACILITIES                                  
+E19-118E                  15   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-118J                  21   JANITOR CLOSET     DP OF FACILITIES                                  
+E19-124                  596   NON-ATH LOCKR RM   DP OF FACIL ADM                                   
+E19-124A                  63   PVT LAVATORY       DP OF FACIL ADM                                   
+E19-126                  160   OFFICE             DP OF FACIL ADM                                   
+E19-127                  320   PVT CIRCULATION    DP OF FACIL ADM                                   
+E19-127A                 337   MAINTENANCE SHOP   DP OF FACIL ADM                                   
+E19-127B                 683   MAINTENANCE SHOP   DP OF FACIL ADM                                   
+E19-127BA                138   MAINTENANCE SHOP   DP OF FACIL ADM                                   
+E19-127BB                143   MAINTENANCE SHOP   DP OF FACIL ADM                                   
+E19-127BC                165   OFFICE             DP OF FACIL ADM                                   
+E19-127C                 303   CONFERENCE ROOM    DP OF FACIL ADM        ZONE A                     
+E19-127D                 226   OFFICE SERVICE     DP OF FACIL ADM                                   
+E19-127F                 512   MAINTENANCE SHOP   DP OF FACIL ADM                                   
+E19-131                  314   NON-ATH LOCKR RM   DP OF FACIL ADM                                   
+E19-133                  129   OFFICE SERVICE     DP OF FACIL ADM                                   
+E19-133A                 170   OFFICE SERVICE     DP OF FACIL ADM                                   
+E19-133AA                109   OFFICE             DP OF FACIL ADM                                   
+E19-133AB                 57   OFFICE             DP OF FACIL ADM                                   
+E19-133AC                 65   OFFICE             DP OF FACIL ADM                                   
+E19-133AD                 48   OFFICE             DP OF FACIL ADM                                   
+E19-133AF                109   OFFICE             DP OF FACIL ADM                                   
+E19-133B                 292   OFFICE SERVICE     DP OF FACIL ADM                                   
+E19-133BA                 69   PVT LAVATORY       DP OF FACIL ADM                                   
+E19-133BB                 49   OFFICE SERVICE     DP OF FACIL ADM                                   
+E19-133C                 193   OFFICE             DP OF FACIL ADM                                   
+E19-134                  127   PVT CIRCULATION    DP OF FACIL ADM                                   
+E19-134A                 158   OFFICE             DP OF FACIL ADM                                   
+E19-134B                 100   OFFICE             DP OF FACIL ADM                                   
+E19-134C                  89   OFFICE             DP OF FACIL ADM                                   
+E19-134D                 114   OFFICE             DP OF FACIL ADM                                   
+E19-134F                 101   OFFICE             DP OF FACIL ADM                                   
+E19-135                  113   OFFICE             DP OF FACIL ADM                                   
+E19-137                  287   NON-ATH LOCKR RM   DP OF FACIL ADM                                   
+E19-138                  207   OFFICE             DP OF FACIL ADM                                   
+E19-138A                  67   OFFICE SERVICE     DP OF FACIL ADM                                   
+E19-139                  701   MAINTENANCE SHOP   DP OF FACIL ADM                                   
+E19-139A                 350   SHOP SERVICE       DP OF FACIL ADM                                   
+E19-141                  123   OFFICE             DP OF FACIL ADM                                   
+E19-142E                  25   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-145                  167   OFFICE             DP OF FACIL ADM                                   
+E19-146                  202   OFFICE             DP OF FACIL ADM                                   
+E19-147                  170   OFFICE             DP OF FACIL ADM                                   
+E19-149                  193   OFFICE             DP OF FACIL ADM                                   
+E19-151                   98   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      18,357                                                                        
+                                                                                                    
+E19-200CA              1,268   CORRIDOR           DP OF FACILITIES                                  
+E19-200CG                267   CORRIDOR           DP OF FACILITIES                                  
+E19-200E1                 72   ELEVATOR           DP OF FACILITIES                                  
+E19-200E2                 75   ELEVATOR           DP OF FACILITIES                                  
+E19-200E3                 72   ELEVATOR           DP OF FACILITIES                                  
+E19-200E4                 85   ELEVATOR           DP OF FACILITIES                                  
+E19-200E5                 71   ELEVATOR           DP OF FACILITIES                                  
+E19-200LA                154   LOBBY              DP OF FACILITIES                                  
+E19-200LB                118   LOBBY              DP OF FACILITIES                                  
+E19-200SA                124   STAIRWAY           DP OF FACILITIES                                  
+E19-200SB                147   STAIRWAY           DP OF FACILITIES                                  
+E19-200Z                 326   SHAFT SPACE        DP OF FACILITIES                                  
+E19-201                3,956   PVT CIRCULATION    ECONOMICS              JPAL                       
+E19-201E                  28   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-202                1,365   CONFERENCE ROOM    CAREER SERVICES                                   
+E19-202A                  18   OFFICE SERVICE     CAREER SERVICES                                   
+E19-202B                  17   OFFICE SERVICE     CAREER SERVICES                                   
+E19-202C                  23   OFFICE SERVICE     CAREER SERVICES                                   
+E19-202D                  23   OFFICE SERVICE     CAREER SERVICES                                   
+E19-203                  256   OFFICE             ECONOMICS              JPAL                       
+E19-203A                  12   OFFICE SERVICE     ECONOMICS              JPAL                       
+E19-203B                 124   OFFICE SERVICE     ECONOMICS                                         
+E19-204                   95   CONFERENCE ROOM    ECONOMICS              JPAL                       
+E19-205                  200   OFFICE             ECONOMICS              JPAL                       
+E19-206                   81   OFFICE             ECONOMICS              JPAL                       
+E19-207A                  22   OFFICE             ECONOMICS              JPAL                       
+E19-207B                  27   OFFICE             ECONOMICS              JPAL                       
+E19-207C                  26   OFFICE             ECONOMICS              JPAL                       
+E19-207D                  19   OFFICE             ECONOMICS              JPAL                       
+E19-207F                  27   OFFICE             ECONOMICS              JPAL                       
+E19-207G                  28   OFFICE             ECONOMICS              JPAL                       
+E19-208                   81   OFFICE             ECONOMICS              JPAL                       
+E19-209                  116   CONFERENCE ROOM    ECONOMICS              JPAL                       
+E19-210                   81   OFFICE             ECONOMICS              JPAL                       
+E19-211                  169   OFFICE             ECONOMICS              JPAL                       
+E19-212                   81   OFFICE             ECONOMICS              JPAL                       
+E19-213                   27   OFFICE SERVICE     ECONOMICS              JPAL                       
+E19-213A                  22   OFFICE             ECONOMICS              JPAL                       
+E19-213B                  22   OFFICE             ECONOMICS              JPAL                       
+E19-213C                  22   OFFICE             ECONOMICS              JPAL                       
+E19-213D                  22   OFFICE             ECONOMICS              JPAL                       
+E19-213F                  22   OFFICE             ECONOMICS              JPAL                       
+E19-213G                  22   OFFICE             ECONOMICS              JPAL                       
+E19-214                  203   MALE LAVATORY      DP OF FACILITIES                                  
+E19-214Z                  67   SHAFT SPACE        DP OF FACILITIES                                  
+E19-215                  134   OFFICE             ECONOMICS              JPAL                       
+E19-216                  192   FEMALE LAVATORY    DP OF FACILITIES                                  
+E19-216J                  33   JANITOR CLOSET     DP OF FACILITIES                                  
+E19-218E                  21   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-219                  127   OFFICE             ECONOMICS              JPAL                       
+E19-220T                 185   TELECOM CLOSET     DP OF FACILITIES                                  
+E19-221                  126   OFFICE             ECONOMICS              JPAL                       
+E19-223                  126   OFFICE             ECONOMICS              JPAL                       
+E19-224                  555   OFFICE             ECONOMICS                                         
+E19-225                  126   OFFICE             ECONOMICS              JPAL                       
+E19-226                   81   OFFICE             ECONOMICS              JPAL                       
+E19-227A                  22   OFFICE             ECONOMICS              JPAL                       
+E19-227B                  27   OFFICE             ECONOMICS              JPAL                       
+E19-227C                  26   OFFICE             ECONOMICS              JPAL                       
+E19-227D                  20   OFFICE             ECONOMICS              JPAL                       
+E19-227F                  27   OFFICE             ECONOMICS              JPAL                       
+E19-227G                  28   OFFICE             ECONOMICS              JPAL                       
+E19-228                   81   OFFICE             ECONOMICS              JPAL                       
+E19-230                   81   OFFICE             ECONOMICS              JPAL                       
+E19-231A                  22   OFFICE             ECONOMICS              JPAL                       
+E19-231B                  28   OFFICE             ECONOMICS              JPAL                       
+E19-231C                  27   OFFICE             ECONOMICS              JPAL                       
+E19-231D                  20   OFFICE             ECONOMICS              JPAL                       
+E19-231F                  26   OFFICE             ECONOMICS              JPAL                       
+E19-231G                  27   OFFICE             ECONOMICS              JPAL                       
+E19-232                   81   OFFICE             ECONOMICS              JPAL                       
+E19-234                   81   OFFICE             ECONOMICS              JPAL                       
+E19-235A                  22   OFFICE             ECONOMICS              JPAL                       
+E19-235B                  27   OFFICE             ECONOMICS              JPAL                       
+E19-235C                  26   OFFICE             ECONOMICS              JPAL                       
+E19-235D                  20   OFFICE             ECONOMICS              JPAL                       
+E19-235F                  27   OFFICE             ECONOMICS              JPAL                       
+E19-235G                  28   OFFICE             ECONOMICS              JPAL                       
+E19-236                   81   OFFICE             ECONOMICS              JPAL                       
+E19-237                  112   OFFICE             ECONOMICS              JPAL                       
+E19-238                   81   OFFICE             ECONOMICS              JPAL                       
+E19-239A                  21   OFFICE             ECONOMICS              JPAL                       
+E19-239B                  21   OFFICE             ECONOMICS              JPAL                       
+E19-239C                  21   OFFICE             ECONOMICS              JPAL                       
+E19-239D                  21   OFFICE             ECONOMICS              JPAL                       
+E19-240                   81   OFFICE             ECONOMICS              JPAL                       
+E19-241                  132   OFFICE             ECONOMICS              JPAL                       
+E19-242                   81   OFFICE             ECONOMICS              JPAL                       
+E19-243                  127   OFFICE             ECONOMICS              JPAL                       
+E19-244                  100   SECY/RECEPTION     ECONOMICS              JPAL                       
+E19-245                  274   OFFICE SERVICE     ECONOMICS              JPAL                       
+E19-246                  452   OFFICE SERVICE     ECONOMICS              JPAL                       
+E19-247                  126   OFFICE             ECONOMICS              JPAL                       
+E19-248                   81   OFFICE             ECONOMICS              JPAL                       
+E19-249                  127   OFFICE             ECONOMICS              JPAL                       
+E19-252                   81   OFFICE             ECONOMICS              JPAL                       
+E19-253                  192   OFFICE             ECONOMICS              JPAL                       
+E19-254                   81   OFFICE             ECONOMICS              JPAL                       
+E19-255A                  22   OFFICE             ECONOMICS              JPAL                       
+E19-255B                  27   OFFICE             ECONOMICS              JPAL                       
+E19-255C                  26   OFFICE             ECONOMICS              JPAL                       
+E19-255D                  20   OFFICE             ECONOMICS              JPAL                       
+E19-255F                  27   OFFICE             ECONOMICS              JPAL                       
+E19-255G                  28   OFFICE             ECONOMICS              JPAL                       
+E19-256                   81   OFFICE             ECONOMICS              JPAL                       
+E19-257                  166   OFFICE             ECONOMICS              JPAL                       
+E19-258                  602   CONFERENCE ROOM    ECONOMICS              JPAL                       
+E19-259                   22   OFFICE SERVICE     ECONOMICS              JPAL                       
+E19-259A                  22   OFFICE             ECONOMICS              JPAL                       
+E19-259B                  28   OFFICE             ECONOMICS              JPAL                       
+E19-259C                  27   OFFICE             ECONOMICS              JPAL                       
+E19-259D                  20   OFFICE             ECONOMICS              JPAL                       
+E19-259F                  26   OFFICE             ECONOMICS              JPAL                       
+E19-259G                  27   OFFICE             ECONOMICS              JPAL                       
+E19-260                   82   OFFICE             ECONOMICS              JPAL                       
+E19-261                  157   OFFICE             ECONOMICS              JPAL                       
+E19-262                   81   CONFERENCE ROOM    ECONOMICS              JPAL                       
+E19-263                  263   OFFICE             ECONOMICS              JPAL                       
+E19-265                  111   OFFICE             ECONOMICS              JPAL                       
+E19-267                  202   OFFICE             ECONOMICS              JPAL                       
+E19-269                  175   OFFICE             ECONOMICS              JPAL                       
+E19-271                  198   OFFICE             ECONOMICS              JPAL                       
+E19-271A                   4   OFFICE SERVICE     ECONOMICS                                         
+E19-272E                  24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                      17,331                                                                        
+                                                                                                    
+E19-300CA              1,447   CORRIDOR           DP OF FACILITIES                                  
+E19-300CB                306   CORRIDOR           DP OF FACILITIES                                  
+E19-300E1                 71   ELEVATOR           DP OF FACILITIES                                  
+E19-300E2                 73   ELEVATOR           DP OF FACILITIES                                  
+E19-300E3                 72   ELEVATOR           DP OF FACILITIES                                  
+E19-300E4                 85   ELEVATOR           DP OF FACILITIES                                  
+E19-300E5                 72   ELEVATOR           DP OF FACILITIES                                  
+E19-300LA                146   LOBBY              DP OF FACILITIES                                  
+E19-300LB                120   LOBBY              DP OF FACILITIES                                  
+E19-300SA                123   STAIRWAY           DP OF FACILITIES                                  
+E19-300SB                148   STAIRWAY           DP OF FACILITIES                                  
+E19-300Z                 355   SHAFT SPACE        DP OF FACILITIES                                  
+E19-306                  873   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-306A                  18   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-306B                  90   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-307                  802   PVT CIRCULATION    ENERGY INITIATIV                                  
+E19-307A                  42   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-307B                 169   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-307C                 107   SECY/RECEPTION     ENERGY INITIATIV                                  
+E19-307D                 360   OFFICE             ENERGY INITIATIV                                  
+E19-307E                  30   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-307F                 270   OFFICE             ENERGY INITIATIV                                  
+E19-307G                  77   OFFICE             ENERGY INITIATIV                                  
+E19-307H                 233   OFFICE             ENERGY INITIATIV                                  
+E19-307K                 271   CONFERENCE ROOM    ENERGY INITIATIV                                  
+E19-307L                 107   OFFICE             ENERGY INITIATIV                                  
+E19-307N                 140   OFFICE             ENERGY INITIATIV                                  
+E19-308                   78   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-308A                 107   OFFICE             ENERGY INITIATIV                                  
+E19-308B                 105   OFFICE             ENERGY INITIATIV                                  
+E19-308C                  69   OFFICE             ENERGY INITIATIV                                  
+E19-314                  172   MALE LAVATORY      DP OF FACILITIES                                  
+E19-314J                  13   JANITOR CLOSET     DP OF FACILITIES                                  
+E19-316                  191   FEMALE LAVATORY    DP OF FACILITIES                                  
+E19-316J                  33   JANITOR CLOSET     DP OF FACILITIES                                  
+E19-318                   44   PUBLIC LAVATORY    DP OF FACILITIES                                  
+E19-318E                  16   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-319                1,026   CONFERENCE ROOM    ENERGY INITIATIV                                  
+E19-319A                  31   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-319B                   6   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-319C                  80   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-326                  275   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-326AA                 52   SECY/RECEPTION     ENERGY INITIATIV                                  
+E19-326AB                 52   OFFICE             ENERGY INITIATIV                                  
+E19-326AC                 52   OFFICE             ENERGY INITIATIV                                  
+E19-326AD                 52   SECY/RECEPTION     ENERGY INITIATIV                                  
+E19-326B                 121   OFFICE             ENERGY INITIATIV                                  
+E19-326C                 247   OFFICE             ENERGY INITIATIV                                  
+E19-326CA                 11   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-334                  300   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-334A                 169   OFFICE             ENERGY INITIATIV                                  
+E19-334B                 113   OFFICE             ENERGY INITIATIV                                  
+E19-334BA                 54   OFFICE             ENERGY INITIATIV                                  
+E19-334BB                 54   OFFICE             ENERGY INITIATIV                                  
+E19-334BC                 55   OFFICE             ENERGY INITIATIV                                  
+E19-334BD                 54   OFFICE             ENERGY INITIATIV                                  
+E19-334C                 134   OFFICE             ENERGY INITIATIV                                  
+E19-340E                  24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-341                  849   ALTER/CONVERSION   ENERGY INITIATIV                                  
+E19-341A                  77   OFFICE             ENERGY INITIATIV                                  
+E19-341B                  57   OFFICE             ENERGY INITIATIV                                  
+E19-341C                  60   OFFICE             ENERGY INITIATIV                                  
+E19-341D                  57   OFFICE             ENERGY INITIATIV                                  
+E19-341F                 206   OFFICE             ENERGY INITIATIV                                  
+E19-341G                 134   OFFICE             ENERGY INITIATIV                                  
+E19-341H                 150   OFFICE             ENERGY INITIATIV                                  
+E19-341K                 127   OFFICE             ENERGY INITIATIV                                  
+E19-341L                 161   OFFICE             ENERGY INITIATIV                                  
+E19-341N                 255   OFFICE             ENERGY INITIATIV                                  
+E19-341P                 138   OFFICE             ENERGY INITIATIV                                  
+E19-341Q                 138   OFFICE             ENERGY INITIATIV                                  
+E19-341R                 158   OFFICE             ENERGY INITIATIV                                  
+E19-341S                 210   OFFICE             ENERGY INITIATIV                                  
+E19-341U                   5   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-341V                 167   OFFICE             ENERGY INITIATIV                                  
+E19-341VA                 26   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-341W                   7   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-341X                  62   OFFICE             ENERGY INITIATIV                                  
+E19-341XA                 61   OFFICE             ENERGY INITIATIV                                  
+E19-341Y                  85   OFFICE             ENERGY INITIATIV                                  
+E19-341YA                 82   OFFICE             ENERGY INITIATIV                                  
+E19-370                  818   PVT CIRCULATION    ENERGY INITIATIV                                  
+E19-370A                 101   OFFICE             ENERGY INITIATIV                                  
+E19-370B                 101   OFFICE             ENERGY INITIATIV                                  
+E19-370C                 163   CONFERENCE ROOM    ENERGY INITIATIV                                  
+E19-370D                 105   OFFICE             ENERGY INITIATIV                                  
+E19-370F                 114   OFFICE             ENERGY INITIATIV                                  
+E19-370G                  94   OFFICE             ENERGY INITIATIV                                  
+E19-370H                 165   OFFICE             ENERGY INITIATIV                                  
+E19-370K                 183   OFFICE             ENERGY INITIATIV                                  
+E19-370L                 182   OFFICE             ENERGY INITIATIV                                  
+E19-370LL                 21   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-370N                 170   OFFICE             ENERGY INITIATIV                                  
+E19-370NN                 20   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-370P                 178   OFFICE             ENERGY INITIATIV                                  
+E19-370Q                 182   OFFICE             ENERGY INITIATIV                                  
+E19-370R                 441   OFFICE             ENERGY INITIATIV                                  
+E19-370S                 136   OFFICE             ENERGY INITIATIV                                  
+E19-370U                 136   OFFICE             ENERGY INITIATIV                                  
+E19-370V                  81   OFFICE             ENERGY INITIATIV                                  
+E19-370W                  75   OFFICE             ENERGY INITIATIV                                  
+E19-370X                  64   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-370Y                  17   OFFICE SERVICE     ENERGY INITIATIV                                  
+                    --------                                                                        
+                      17,214                                                                        
+                                                                                                    
+E19-400CA              1,244   CORRIDOR           DP OF FACILITIES                                  
+E19-400CB                294   CORRIDOR           DP OF FACILITIES                                  
+E19-400E1                 72   ELEVATOR           DP OF FACILITIES                                  
+E19-400E2                 74   ELEVATOR           DP OF FACILITIES                                  
+E19-400E3                 73   ELEVATOR           DP OF FACILITIES                                  
+E19-400E4                 85   ELEVATOR           DP OF FACILITIES                                  
+E19-400E5                 73   ELEVATOR           DP OF FACILITIES                                  
+E19-400LA                151   LOBBY              DP OF FACILITIES                                  
+E19-400LB                116   LOBBY              DP OF FACILITIES                                  
+E19-400SA                123   STAIRWAY           DP OF FACILITIES                                  
+E19-400SB                148   STAIRWAY           DP OF FACILITIES                                  
+E19-400Z                 317   SHAFT SPACE        DP OF FACILITIES                                  
+E19-401                1,964   UTILITY/MECH RM    DP OF FACILITIES                                  
+E19-407E                  29   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-411                  818   PVT CIRCULATION    ENERGY INITIATIV                                  
+E19-411A                 140   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-411B                 149   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-411C                   9   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-411D                 233   OFFICE             ENERGY INITIATIV                                  
+E19-411F                 126   OFFICE             ENERGY INITIATIV                                  
+E19-411G                 216   CONFERENCE ROOM    ENERGY INITIATIV                                  
+E19-411H                 107   OFFICE             ENERGY INITIATIV                                  
+E19-411K                 180   OFFICE             ENERGY INITIATIV                                  
+E19-411L                 131   OFFICE             ENERGY INITIATIV                                  
+E19-411N                 157   OFFICE             ENERGY INITIATIV                                  
+E19-411P                  96   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-411Q                  85   SECY/RECEPTION     ENERGY INITIATIV                                  
+E19-411R                  59   SECY/RECEPTION     ENERGY INITIATIV                                  
+E19-411S                  90   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-411SA                 87   OFFICE             ENERGY INITIATIV                                  
+E19-411U                 210   OFFICE             ENERGY INITIATIV                                  
+E19-414                  203   MALE LAVATORY      DP OF FACILITIES                                  
+E19-414J                  13   JANITOR CLOSET     DP OF FACILITIES                                  
+E19-414Z                  68   SHAFT SPACE        DP OF FACILITIES                                  
+E19-416                  191   FEMALE LAVATORY    DP OF FACILITIES                                  
+E19-416J                  33   JANITOR CLOSET     DP OF FACILITIES                                  
+E19-418                   44   PUBLIC LAVATORY    DP OF FACILITIES                                  
+E19-418E                  21   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-422T                 276   TELECOM CLOSET     DP OF FACILITIES                                  
+E19-424                  194   CONFERENCE ROOM    ENERGY INITIATIV                                  
+E19-429                  833   PVT CIRCULATION    ENERGY INITIATIV                                  
+E19-429A                 147   OFFICE             ENERGY INITIATIV                                  
+E19-429B                 150   OFFICE             ENERGY INITIATIV                                  
+E19-429C                 142   OFFICE             ENERGY INITIATIV                                  
+E19-429D                 137   OFFICE             ENERGY INITIATIV                                  
+E19-429F                 162   OFFICE             ENERGY INITIATIV                                  
+E19-429G                 162   OFFICE             ENERGY INITIATIV                                  
+E19-429H                 114   OFFICE             ENERGY INITIATIV                                  
+E19-429HA                114   OFFICE             ENERGY INITIATIV                                  
+E19-429K                 127   OFFICE             ENERGY INITIATIV                                  
+E19-429L                 253   OFFICE             ENERGY INITIATIV                                  
+E19-429N                 142   OFFICE             ENERGY INITIATIV                                  
+E19-429P                 114   OFFICE             ENERGY INITIATIV                                  
+E19-429Q                 112   OFFICE             ENERGY INITIATIV                                  
+E19-429R                  40   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-429S                 213   OFFICE             ENERGY INITIATIV                                  
+E19-429U                 207   OFFICE             ENERGY INITIATIV                                  
+E19-429V                 210   OFFICE             ENERGY INITIATIV                                  
+E19-432                  347   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-432B                 100   OFFICE             ENERGY INITIATIV                                  
+E19-432C                 119   OFFICE             ENERGY INITIATIV                                  
+E19-432D                  58   SECY/RECEPTION     ENERGY INITIATIV                                  
+E19-432F                 126   OFFICE             ENERGY INITIATIV                                  
+E19-432G                 126   OFFICE             ENERGY INITIATIV                                  
+E19-432H                 135   OFFICE             ENERGY INITIATIV                                  
+E19-432K                 132   OFFICE             ENERGY INITIATIV                                  
+E19-433                  176   OFFICE SERVICE     OFF OF PROVOST                                    
+E19-433A                 211   VAULT              OFF OF PROVOST                                    
+E19-433B                  69   OFFICE SERVICE     OFF OF PROVOST                                    
+E19-433C                 160   OFFICE SERVICE     OFF OF PROVOST                                    
+E19-433CA                 57   OFFICE             OFF OF PROVOST                                    
+E19-433D                 149   OFFICE             OFF OF PROVOST                                    
+E19-433F                 129   OFFICE             OFF OF PROVOST                                    
+E19-435                  196   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E19-435A                  78   SECY/RECEPTION     SCH OF MANAGEMNT                                  
+E19-435B                 127   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E19-435C                  38   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E19-435D                  83   OFFICE             SCH OF MANAGEMNT                                  
+E19-435F                 139   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E19-435G                  65   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E19-435H                 250   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E19-435K                 123   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E19-438                   91   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-438A                  65   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-439                  409   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-439A                 111   OFFICE             ENERGY INITIATIV                                  
+E19-439B                 104   OFFICE             ENERGY INITIATIV                                  
+E19-439C                 149   OFFICE             ENERGY INITIATIV                                  
+E19-439D                 191   OFFICE             ENERGY INITIATIV                                  
+E19-439E                   7   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-439F                 132   OFFICE             ENERGY INITIATIV                                  
+E19-439G                  28   PVT CIRCULATION    ENERGY INITIATIV                                  
+E19-439GA                109   OFFICE             ENERGY INITIATIV                                  
+E19-439GB                168   OFFICE             ENERGY INITIATIV                                  
+E19-439H                 427   CONFERENCE ROOM    ENERGY INITIATIV                                  
+E19-439K                 210   OFFICE             ENERGY INITIATIV                                  
+E19-439L                 208   OFFICE             ENERGY INITIATIV                                  
+E19-440E                  24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                      17,705                                                                        
+                                                                                                    
+E19-500CA                918   CORRIDOR           DP OF FACILITIES                                  
+E19-500E1                 69   ELEVATOR           DP OF FACILITIES                                  
+E19-500E2                 64   ELEVATOR           DP OF FACILITIES                                  
+E19-500E3                 64   ELEVATOR           DP OF FACILITIES                                  
+E19-500E4                 84   ELEVATOR           DP OF FACILITIES                                  
+E19-500E5                 82   ELEVATOR           DP OF FACILITIES                                  
+E19-500LA                665   LOBBY              DP OF FACILITIES                                  
+E19-500LB                 85   LOBBY              DP OF FACILITIES                                  
+E19-500LC                156   LOBBY              DP OF FACILITIES                                  
+E19-500SA                129   STAIRWAY           DP OF FACILITIES                                  
+E19-500SB                153   STAIRWAY           DP OF FACILITIES                                  
+E19-500Z                 186   SHAFT SPACE        DP OF FACILITIES                                  
+E19-502                  408   OFFICE SERVICE     CHEMICAL ENG                                      
+E19-502A                  48   SECY/RECEPTION     CHEMICAL ENG                                      
+E19-502AA                 89   OFFICE SERVICE     CHEMICAL ENG                                      
+E19-502B                 233   OFFICE             CHEMICAL ENG                                      
+E19-502C                 246   OFFICE             CHEMICAL ENG                                      
+E19-502D                 265   OFFICE             CHEMICAL ENG                                      
+E19-506                  153   CONFERENCE ROOM    CHEMICAL ENG                                      
+E19-507                  117   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+E19-507E                  23   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-509                  117   OFFICE SERVICE     CHEMICAL ENG                                      
+E19-510                   15   LABORATORY SVC     CHEMICAL ENG                                      
+E19-512                    8   LABORATORY SVC     CHEMICAL ENG                                      
+E19-514                  208   MALE LAVATORY      DP OF FACILITIES                                  
+E19-514J                  12   JANITOR CLOSET     DP OF FACILITIES                                  
+E19-515                  216   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+E19-515A                 110   LABORATORY SVC     CHEMICAL ENG                                      
+E19-516                  203   FEMALE LAVATORY    DP OF FACILITIES                                  
+E19-516J                  33   JANITOR CLOSET     DP OF FACILITIES                                  
+E19-517                  212   RESEARCH LAB       CHEMICAL ENG                                      
+E19-518E                  20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-520E                  55   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-521                  564   RESEARCH LAB       CHEMICAL ENG                                      
+E19-522                  456   RESEARCH LAB       CHEMICAL ENG                                      
+E19-524                  121   LABORATORY SVC     CHEMICAL ENG                                      
+E19-525                  103   DARK ROOM          CHEMICAL ENG                                      
+E19-527                  464   RESEARCH LAB       CHEMICAL ENG                                      
+E19-528                  395   OFFICE             CHEMICAL ENG                                      
+E19-531                  120   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+E19-532                  191   OFFICE             CHEMICAL ENG                                      
+E19-533                  214   LABORATORY SVC     CHEMICAL ENG                                      
+E19-534                  194   OFFICE             CHEMICAL ENG                                      
+E19-535                  464   RESEARCH LAB       CHEMICAL ENG                                      
+E19-536                  194   OFFICE             CHEMICAL ENG                                      
+E19-538                  205   OFFICE             CHEMICAL ENG                                      
+E19-539                  242   OFFICE             CHEMICAL ENG                                      
+E19-540E                  20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-541                  109   LABORATORY SVC     CHEMICAL ENG                                      
+E19-543                  234   LABORATORY SVC     CHEMICAL ENG                                      
+E19-544                  216   LABORATORY SVC     CHEMICAL ENG                                      
+E19-546                  250   RESEARCH LAB       CHEMICAL ENG                                      
+E19-551                  301   OFFICE             CHEMICAL ENG                                      
+E19-553                  128   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+E19-554                   61   SECY/RECEPTION     CHEMICAL ENG                                      
+E19-555                  128   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+E19-556                  113   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+E19-557                  188   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+E19-558                  113   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+E19-559                   48   OFFICE SERVICE     CHEMICAL ENG                                      
+E19-560                  361   LABORATORY SVC     CHEMICAL ENG                                      
+E19-562                  217   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+E19-563                1,243   RESEARCH LAB       CHEMICAL ENG                                      
+E19-563A                 106   RESEARCH LAB       CHEMICAL ENG                                      
+E19-563B                 231   RESEARCH LAB       CHEMICAL ENG                                      
+E19-563C                 168   RESEARCH LAB       CHEMICAL ENG                                      
+E19-563D                 124   RESEARCH LAB       CHEMICAL ENG                                      
+E19-564                  214   RESEARCH LAB       CHEMICAL ENG                                      
+E19-580                  121   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+E19-582                1,529   RESEARCH LAB       CHEMICAL ENG                                      
+E19-590                  109   RESEARCH LAB       CHEMICAL ENG                                      
+E19-595                  979   RESEARCH LAB       CHEMICAL ENG                                      
+E19-595A                  26   LABORATORY SVC     CHEMICAL ENG                                      
+                    --------                                                                        
+                      16,709                                                                        
+                                                                                                    
+E19-600CA              1,239   CORRIDOR           DP OF FACILITIES                                  
+E19-600CD                255   CORRIDOR           DP OF FACILITIES                                  
+E19-600E1                 69   ELEVATOR           DP OF FACILITIES                                  
+E19-600E2                 69   ELEVATOR           DP OF FACILITIES                                  
+E19-600E3                 73   ELEVATOR           DP OF FACILITIES                                  
+E19-600E4                 85   ELEVATOR           DP OF FACILITIES                                  
+E19-600E5                 73   ELEVATOR           DP OF FACILITIES                                  
+E19-600LA                135   LOBBY              DP OF FACILITIES                                  
+E19-600LB                111   LOBBY              DP OF FACILITIES                                  
+E19-600SA                123   STAIRWAY           DP OF FACILITIES                                  
+E19-600SB                148   STAIRWAY           DP OF FACILITIES                                  
+E19-600Z                 450   SHAFT SPACE        DP OF FACILITIES                                  
+E19-604                  453   OFFICE SERVICE     SOCIOTECH SYS RSCH C   CBI                        
+                                                  TR                                                
+                                                                                                    
+E19-604A                 119   OFFICE             SOCIOTECH SYS RSCH C   CBI                        
+                                                  TR                                                
+                                                                                                    
+E19-604AA                  9   OFFICE SERVICE     SOCIOTECH SYS RSCH C   CBI                        
+                                                  TR                                                
+                                                                                                    
+E19-604B                 119   OFFICE             SOCIOTECH SYS RSCH C   CBI                        
+                                                  TR                                                
+                                                                                                    
+E19-604C                  83   OFFICE SERVICE     SOCIOTECH SYS RSCH C   CBI                        
+                                                  TR                                                
+                                                                                                    
+E19-604D                  91   CONFERENCE ROOM    SOCIOTECH SYS RSCH C   CBI                        
+                                                  TR                                                
+                                                                                                    
+E19-604DA                 69   SECY/RECEPTION     SOCIOTECH SYS RSCH C   CBI                        
+                                                  TR                                                
+                                                                                                    
+E19-604F                 148   OFFICE             SOCIOTECH SYS RSCH C   CBI                        
+                                                  TR                                                
+                                                                                                    
+E19-604G                  35   OFFICE             SOCIOTECH SYS RSCH C   CBI                        
+                                                  TR                                                
+                                                                                                    
+E19-604H                  36   OFFICE             SOCIOTECH SYS RSCH C   CBI                        
+                                                  TR                                                
+                                                                                                    
+E19-604K                  35   OFFICE             SOCIOTECH SYS RSCH C   CBI                        
+                                                  TR                                                
+                                                                                                    
+E19-604L                  36   OFFICE             SOCIOTECH SYS RSCH C   CBI                        
+                                                  TR                                                
+                                                                                                    
+E19-604N                  30   OFFICE             SOCIOTECH SYS RSCH C   CBI                        
+                                                  TR                                                
+                                                                                                    
+E19-604P                  30   OFFICE             SOCIOTECH SYS RSCH C   CBI                        
+                                                  TR                                                
+                                                                                                    
+E19-604Q                  35   OFFICE             SOCIOTECH SYS RSCH C   CBI                        
+                                                  TR                                                
+                                                                                                    
+E19-604R                  35   OFFICE             SOCIOTECH SYS RSCH C   CBI                        
+                                                  TR                                                
+                                                                                                    
+E19-604U                  35   OFFICE             SOCIOTECH SYS RSCH C   CBI                        
+                                                  TR                                                
+                                                                                                    
+E19-604V                  35   OFFICE             SOCIOTECH SYS RSCH C   CBI                        
+                                                  TR                                                
+                                                                                                    
+E19-607                  559   CLASSROOM          PROVOST RESERVE                                   
+E19-607E                  30   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-611                  666   SECY/RECEPTION     TEACH & LRN LAB                                   
+E19-611A                 119   OFFICE SERVICE     TEACH & LRN LAB                                   
+E19-611B                 235   CONFERENCE ROOM    TEACH & LRN LAB                                   
+E19-611C                  84   OFFICE             TEACH & LRN LAB                                   
+E19-611D                  73   OFFICE             TEACH & LRN LAB                                   
+E19-611F                   6   OFFICE SERVICE     TEACH & LRN LAB                                   
+E19-611G                 128   OFFICE             TEACH & LRN LAB                                   
+E19-611H                  92   OFFICE             TEACH & LRN LAB                                   
+E19-611K                  91   OFFICE             TEACH & LRN LAB                                   
+E19-611L                  88   OFFICE             TEACH & LRN LAB                                   
+E19-611N                  90   OFFICE             TEACH & LRN LAB                                   
+E19-611P                 176   OFFICE             TEACH & LRN LAB                                   
+E19-614                  202   MALE LAVATORY      DP OF FACILITIES                                  
+E19-614Z                  68   SHAFT SPACE        DP OF FACILITIES                                  
+E19-616                  192   FEMALE LAVATORY    DP OF FACILITIES                                  
+E19-616J                  33   JANITOR CLOSET     DP OF FACILITIES                                  
+E19-618E                  22   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-620T                 204   TELECOM CLOSET     DP OF FACILITIES                                  
+E19-623                1,254   OFFICE SERVICE     SCH OF HUM & S S                                  
+E19-623A                  52   OFFICE             SCH OF HUM & S S                                  
+E19-623B                 618   CONFERENCE ROOM    SCH OF HUM & S S                                  
+E19-623C                 190   OFFICE SERVICE     SCH OF HUM & S S                                  
+E19-623D                 193   OFFICE             SCH OF HUM & S S                                  
+E19-623G                 144   OFFICE             SCH OF HUM & S S                                  
+E19-623H                 121   OFFICE             SCH OF HUM & S S                                  
+E19-623K                 109   OFFICE             SCH OF HUM & S S                                  
+E19-623L                 121   OFFICE             SCH OF HUM & S S                                  
+E19-623N                 201   OFFICE             SCH OF HUM & S S                                  
+E19-623P                  38   OFFICE             SCH OF HUM & S S                                  
+E19-623Q                  38   OFFICE             SCH OF HUM & S S                                  
+E19-628                  214   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-628A                 163   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-628B                 119   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-628C                  80   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-630                  380   OFFICE SERVICE     PROVOST RESERVE                                   
+E19-630A                  89   OFFICE SERVICE     PROVOST RESERVE                                   
+E19-630B                  82   OFFICE             PROVOST RESERVE                                   
+E19-630C                  98   OFFICE             PROVOST RESERVE                                   
+E19-630D                 117   OFFICE             PROVOST RESERVE                                   
+E19-630F                 105   OFFICE             PROVOST RESERVE                                   
+E19-630HA                 37   OFFICE             PROVOST RESERVE                                   
+E19-630HB                 37   OFFICE             PROVOST RESERVE                                   
+E19-630K                   9   OFFICE SERVICE     PROVOST RESERVE                                   
+E19-639                2,114   COMPUTER FACIL     INFO SVCS & TECH       5ESS SWITCH RM             
+E19-639A                 161   OFFICE             INFO SVCS & TECH                                  
+E19-640E                  24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-681                  507   COMPUTER FACIL     INFO SVCS & TECH                                  
+E19-682                  226   PVT CIRCULATION    INFO SVCS & TECH                                  
+E19-683                  117   OFFICE             INFO SVCS & TECH                                  
+E19-695                  646   PVT CIRCULATION    PROVOST RESERVE                                   
+E19-695A                 100   OFFICE             PROVOST RESERVE                                   
+E19-695B                  94   OFFICE             PROVOST RESERVE                                   
+E19-695C                  97   OFFICE             PROVOST RESERVE                                   
+E19-695D                  94   OFFICE             PROVOST RESERVE                                   
+E19-695F                 127   OFFICE             PROVOST RESERVE                                   
+E19-695G                 209   CONFERENCE ROOM    PROVOST RESERVE                                   
+E19-695H                  22   OFFICE             PROVOST RESERVE                                   
+E19-695K                  22   OFFICE             PROVOST RESERVE                                   
+E19-695L                  22   OFFICE             PROVOST RESERVE                                   
+E19-695N                  22   OFFICE             PROVOST RESERVE                                   
+E19-695P                  22   OFFICE             PROVOST RESERVE                                   
+E19-695Q                  22   OFFICE             PROVOST RESERVE                                   
+E19-695R                  22   OFFICE             PROVOST RESERVE                                   
+E19-695S                  22   OFFICE             PROVOST RESERVE                                   
+E19-695U                  22   OFFICE             PROVOST RESERVE                                   
+E19-695V                  22   OFFICE             PROVOST RESERVE                                   
+E19-695W                  22   OFFICE             PROVOST RESERVE                                   
+E19-695X                  22   OFFICE             PROVOST RESERVE                                   
+E19-695Y                  69   OFFICE             PROVOST RESERVE                                   
+E19-697                   18   UTILITY/MECH RM    DP OF FACILITIES                                  
+E19-697T                  70   TELECOM CLOSET     DP OF FACILITIES                                  
+E19-699                   93   PVT CIRCULATION    DP OF FACIL ADM                                   
+                    --------                                                                        
+                      17,060                                                                        
+                                                                                                    
+E19-700CA              1,246   CORRIDOR           DP OF FACILITIES                                  
+E19-700CB                303   CORRIDOR           DP OF FACILITIES                                  
+E19-700E1                 70   ELEVATOR           DP OF FACILITIES                                  
+E19-700E2                 74   ELEVATOR           DP OF FACILITIES                                  
+E19-700E3                 73   ELEVATOR           DP OF FACILITIES                                  
+E19-700E5                 73   ELEVATOR           DP OF FACILITIES                                  
+E19-700LA                152   LOBBY              DP OF FACILITIES                                  
+E19-700SA                123   STAIRWAY           DP OF FACILITIES                                  
+E19-700SB                148   STAIRWAY           DP OF FACILITIES                                  
+E19-700Z                 252   SHAFT SPACE        DP OF FACILITIES                                  
+E19-701                  296   PVT CIRCULATION    STU ACTIVITIES                                    
+E19-701A                 145   OFFICE             STU ACTIVITIES                                    
+E19-701B                 133   OFFICE             STU ACTIVITIES                                    
+E19-701C                  76   OFFICE             STU ACTIVITIES                                    
+E19-701D                  95   OFFICE             STU ACTIVITIES                                    
+E19-704                  184   OFFICE             INFO SVCS & TECH       SS1                        
+E19-707E                  29   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-708                1,361   UTILITY/MECH RM    DP OF FACILITIES                                  
+E19-709                  609   CONFERENCE ROOM    PROVOST RESERVE                                   
+E19-711                  380   OFFICE SERVICE     VP &SCTY OF CORP       COMM SVC OFF               
+E19-711A                 112   OFFICE             VP &SCTY OF CORP       COMM SVC OFF               
+E19-711B                 107   OFFICE             VP &SCTY OF CORP       COMM SVC OFF               
+E19-711C                  68   OFFICE SERVICE     VP &SCTY OF CORP       COMM SVC OFF               
+E19-711D                  90   OFFICE SERVICE     VP &SCTY OF CORP       COMM SVC OFF               
+E19-711G                  55   OFFICE             VP &SCTY OF CORP       COMM SVC OFF               
+E19-711H                  55   OFFICE             VP &SCTY OF CORP       COMM SVC OFF               
+E19-711L                  56   OFFICE             VP &SCTY OF CORP       COMM SVC OFF               
+E19-712                  202   UTILITY/MECH RM    DP OF FACILITIES                                  
+E19-714                  198   MALE LAVATORY      DP OF FACILITIES                                  
+E19-714J                  12   JANITOR CLOSET     DP OF FACILITIES                                  
+E19-715                  393   PVT CIRCULATION    VP &SCTY OF CORP       CONF SERVICES              
+E19-715A                 177   OFFICE             VP &SCTY OF CORP       CONF SERVICES              
+E19-715B                 138   CONFERENCE ROOM    VP &SCTY OF CORP       CONF SERVICES              
+E19-715C                  54   OFFICE SERVICE     VP &SCTY OF CORP       CONF SERVICES              
+E19-715D                 287   OFFICE SERVICE     VP &SCTY OF CORP       CONF SERVICES              
+E19-715F                  78   OFFICE SERVICE     VP &SCTY OF CORP       CONF SERVICES              
+E19-715G                  63   SECY/RECEPTION     VP &SCTY OF CORP       CONF SERVICES              
+E19-715H                  52   OFFICE             VP &SCTY OF CORP       CONF SERVICES              
+E19-715K                  55   OFFICE             VP &SCTY OF CORP       CONF SERVICES              
+E19-715L                  77   OFFICE             VP &SCTY OF CORP       CONF SERVICES              
+E19-715N                  59   OFFICE             VP &SCTY OF CORP       CONF SERVICES              
+E19-716J                  33   JANITOR CLOSET     DP OF FACILITIES                                  
+E19-718                   48   PUBLIC LAVATORY    DP OF FACILITIES                                  
+E19-718A                 191   FEMALE LAVATORY    DP OF FACILITIES                                  
+E19-718E                  22   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-722                  218   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-722A                 102   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-722B                 141   OFFICE             ENERGY INITIATIV                                  
+E19-722C                  89   OFFICE             ENERGY INITIATIV                                  
+E19-722D                 175   OFFICE             ENERGY INITIATIV                                  
+E19-722F                 204   OFFICE             ENERGY INITIATIV                                  
+E19-722G                  38   OFFICE             ENERGY INITIATIV                                  
+E19-722GA                 38   OFFICE SERVICE     ENERGY INITIATIV                                  
+E19-723                  625   PVT CIRCULATION    PUBLIC REL SVCS                                   
+E19-723A                 134   OFFICE SERVICE     PUBLIC REL SVCS                                   
+E19-723B                  80   OFFICE             PUBLIC REL SVCS                                   
+E19-723C                 107   OFFICE             PUBLIC REL SVCS                                   
+E19-723D                 109   OFFICE             PUBLIC REL SVCS                                   
+E19-723F                 160   OFFICE             PUBLIC REL SVCS                                   
+E19-723G                 118   OFFICE             PUBLIC REL SVCS                                   
+E19-723H                 119   OFFICE             PUBLIC REL SVCS                                   
+E19-723K                 113   OFFICE             PUBLIC REL SVCS                                   
+E19-723L                 161   OFFICE             PUBLIC REL SVCS                                   
+E19-723N                 135   OFFICE             PUBLIC REL SVCS                                   
+E19-723P                  62   OFFICE SERVICE     PUBLIC REL SVCS                                   
+E19-723Q                 285   CONFERENCE ROOM    PUBLIC REL SVCS                                   
+E19-723QA                 13   OFFICE SERVICE     PUBLIC REL SVCS                                   
+E19-732                  290   CONFERENCE ROOM    INFO SVCS & TECH                                  
+E19-733                  652   PVT CIRCULATION    IND PERFORM CTR                                   
+E19-733A                 144   OFFICE             IND PERFORM CTR                                   
+E19-733B                 108   OFFICE             IND PERFORM CTR                                   
+E19-733C                 151   OFFICE             IND PERFORM CTR                                   
+E19-733D                  72   OFFICE SERVICE     IND PERFORM CTR                                   
+E19-733DA                 41   OFFICE SERVICE     IND PERFORM CTR                                   
+E19-733F                 114   CONFERENCE ROOM    IND PERFORM CTR                                   
+E19-733G                 141   OFFICE SERVICE     IND PERFORM CTR                                   
+E19-733H                 212   CONFERENCE ROOM    IND PERFORM CTR                                   
+E19-733K                 105   OFFICE SERVICE     IND PERFORM CTR                                   
+E19-733L                 122   OFFICE             IND PERFORM CTR                                   
+E19-733N                  98   OFFICE             IND PERFORM CTR                                   
+E19-733P                  96   OFFICE             IND PERFORM CTR                                   
+E19-733Q                 152   OFFICE             IND PERFORM CTR                                   
+E19-738                  139   OFFICE SERVICE     INFO SVCS & TECH                                  
+E19-738A                 106   OFFICE SERVICE     INFO SVCS & TECH                                  
+E19-738B                  55   OFFICE             INFO SVCS & TECH                                  
+E19-738C                  55   OFFICE             INFO SVCS & TECH                                  
+E19-738DA                 50   OFFICE             INFO SVCS & TECH                                  
+E19-738DB                 40   OFFICE             INFO SVCS & TECH                                  
+E19-738G                   8   OFFICE SERVICE     INFO SVCS & TECH                                  
+E19-740E                  24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E19-741                  655   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-741A                  54   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-741BA                 55   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-741BB                 47   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-741LBA                54   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-741LBB                54   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-741NA                 54   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-741NB                 54   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-741P                 373   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-741Q                 156   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-741R                 149   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-741SA                 71   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-741SB                 70   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-741UA                 70   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-741UB                 71   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-741V                 130   ALTER/CONVERSION   PROVOST RESERVE                                   
+E19-744T                  10   TELECOM CLOSET     DP OF FACILITIES 

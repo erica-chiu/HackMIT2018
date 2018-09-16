@@ -1,0 +1,67 @@
+N57-000E1                177   ELEVATOR           DP OF FACILITIES                                  
+N57-000SA                 59   STAIRWAY           DP OF FACILITIES                                  
+N57-001                   48   UTILITY/MECH RM    DP OF FACILITIES                                  
+N57-007                  693   STACK/STUDY        LIBRARIES                                         
+N57-007A                 176   UTILITY/MECH RM    DP OF FACILITIES                                  
+N57-007Z                   7   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                       1,160                                                                        
+                                                                                                    
+N57-100E1                157   ELEVATOR           DP OF FACILITIES                                  
+N57-100LA                 38   LOBBY              DP OF FACILITIES                                  
+N57-100LB                 36   LOBBY              DP OF FACILITIES                                  
+N57-100SA                104   STAIRWAY           DP OF FACILITIES                                  
+N57-100SB                 88   STAIRWAY           DP OF FACILITIES                                  
+N57-102                  442   STACK/STUDY        LIBRARIES                                         
+N57-102A                 183   UTILITY/MECH RM    DP OF FACILITIES                                  
+N57-107                  270   STACK/STUDY        LIBRARIES                                         
+N57-110                  123   STACK/STUDY        LIBRARIES                                         
+N57-112                  100   OFFICE SERVICE     LIBRARIES                                         
+N57-112A                 130   OFFICE SERVICE     LIBRARIES                                         
+N57-113                   66   OFFICE SERVICE     LIBRARIES                                         
+N57-116                   49   PVT LAVATORY       LIBRARIES                                         
+N57-135                4,384   STACK/STUDY        LIBRARIES                                         
+N57-156A                 753   RECEIVING ROOM     DP OF FACIL ADM                                   
+N57-156B                 803   RECEIVING ROOM     DP OF FACIL ADM                                   
+N57-156C                 314   RECEIVING ROOM     LIBRARIES                                         
+N57-156D                 476   RECEIVING ROOM     LIBRARIES                                         
+                    --------                                                                        
+                       8,515                                                                        
+                                                                                                    
+N57-200E1                156   ELEVATOR           DP OF FACILITIES                                  
+N57-200LA                 48   LOBBY              DP OF FACILITIES                                  
+N57-200SA                151   STAIRWAY           DP OF FACILITIES                                  
+N57-200SB                128   STAIRWAY           DP OF FACILITIES                                  
+N57-216                   47   PVT LAVATORY       LIBRARIES                                         
+N57-235                6,719   STACK/STUDY        LIBRARIES                                         
+N57-235A                 530   OFFICE SERVICE     LIBRARIES                                         
+N57-235AA                154   OFFICE SERVICE     LIBRARIES                                         
+N57-235AAA                39   OFFICE             LIBRARIES                                         
+N57-235AB                 40   OFFICE             LIBRARIES                                         
+N57-235AC                 63   OFFICE             LIBRARIES                                         
+N57-235AD                102   OFFICE             LIBRARIES                                         
+N57-235AF                 51   OFFICE             LIBRARIES                                         
+N57-235AG                138   OFFICE SERVICE     LIBRARIES                                         
+N57-235AH                149   OFFICE SERVICE     LIBRARIES                                         
+N57-235AK                 94   OFFICE SERVICE     LIBRARIES                                         
+                    --------                                                                        
+                       8,609                                                                        
+                                                                                                    
+N57-300E1                158   ELEVATOR           DP OF FACILITIES                                  
+N57-300SA                133   STAIRWAY           DP OF FACILITIES                                  
+N57-300SB                130   STAIRWAY           DP OF FACILITIES                                  
+N57-335                8,264   STACK/STUDY        LIBRARIES                                         
+                    --------                                                                        
+                       8,685                                                                        
+                                                                                                    
+N57-400E1                158   ELEVATOR           DP OF FACILITIES                                  
+N57-400SA                135   STAIRWAY           DP OF FACILITIES                                  
+N57-400SB                128   STAIRWAY           DP OF FACILITIES                                  
+N57-435                8,264   STACK/STUDY        LIBRARIES                                         
+                    --------                                                                        
+                       8,685                                                                        
+                                                                                                    
+N57-500E1                158   ELEVATOR           DP OF FACILITIES                                  
+N57-500SA                133   STAIRWAY           DP OF FACILITIES                                  
+N57-500SB                126   STAIRWAY           DP OF FACILITIES                                  
+N57-535                8,264   STACK/STUDY        LIBRARIES         

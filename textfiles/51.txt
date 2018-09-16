@@ -1,0 +1,27 @@
+51-000LA                 214   LOBBY              DP OF FACILITIES                                  
+51-000SA                  60   STAIRWAY           DP OF FACILITIES                                  
+51-000Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+51-001                 1,066   ATHLETIC SERVICE   ATHLETICS                                         
+51-005                    63   PVT CIRCULATION    ATHLETICS                                         
+51-005A                  263   ATH LOCKER ROOM    ATHLETICS                                         
+51-005B                  173   ATH LOCKER ROOM    ATHLETICS                                         
+51-006A                   41   OFFICE             ATHLETICS                                         
+51-007                    57   ATHLETIC SERVICE   ATHLETICS                                         
+51-007A                   41   ATHLETIC SERVICE   ATHLETICS                                         
+51-008                   162   UTILITY/MECH RM    DP OF FACILITIES                                  
+51-009                   538   ATHLETIC SERVICE   ATHLETICS                                         
+51-009A                  137   UTILITY/MECH RM    DP OF FACILITIES                                  
+51-011                   394   ATHLETIC SERVICE   ATHLETICS                                         
+51-011A                  485   ATHLETIC SERVICE   ATHLETICS                                         
+51-011AA                  36   UTILITY/MECH RM    DP OF FACILITIES                                  
+51-015                   542   ATHLETIC SERVICE   ATHLETICS                                         
+51-017                   523   ATHLETIC SERVICE   ATHLETICS                                         
+                    --------                                                                        
+                       4,807                                                                        
+                                                                                                    
+51-100LA                 106   LOBBY              DP OF FACILITIES                                  
+51-100SA                 152   STAIRWAY           DP OF FACILITIES                                  
+51-106                    16   PUBLIC LAVATORY    DP OF FACILITIES                                  
+51-107                   152   ATHLETIC SERVICE   ATHLETICS                                         
+51-107A                  110   OFFICE             ATHLETICS                                         
+51-108                    16   PUBLIC LAVATORY    DP OF FACILITIES    

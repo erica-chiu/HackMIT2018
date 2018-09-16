@@ -1,0 +1,61 @@
+57-000SC                  55   STAIRWAY           DP OF FACILITIES                                  
+57-000SD                  23   STAIRWAY           DP OF FACILITIES                                  
+57-000Z                   97   SHAFT SPACE        DP OF FACILITIES                                  
+57-001                 4,461   UTILITY/MECH RM    DP OF FACILITIES                                  
+57-001A                   33   ATHLETIC SERVICE   ATHLETICS                                         
+57-003                    99   JANITOR STORAGE    DP OF FACILITIES                                  
+57-003T                   48   TELECOM CLOSET     DP OF FACILITIES                                  
+57-004                    99   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                       4,915                                                                        
+                                                                                                    
+57-100CA                 437   CORRIDOR           DP OF FACILITIES                                  
+57-100CD                 444   CORRIDOR           DP OF FACILITIES                                  
+57-100E1                  35   ELEVATOR           DP OF FACILITIES                                  
+57-100LA                 441   LOBBY              DP OF FACILITIES                                  
+57-100SA                  40   STAIRWAY           DP OF FACILITIES                                  
+57-100SB                  99   STAIRWAY           DP OF FACILITIES                                  
+57-100SC                  70   STAIRWAY           DP OF FACILITIES                                  
+57-100SD                  80   STAIRWAY           DP OF FACILITIES                                  
+57-100Z                  129   SHAFT SPACE        DP OF FACILITIES                                  
+57-113                    71   UTILITY/MECH RM    DP OF FACILITIES                                  
+57-121Z                  655   SHAFT SPACE        DP OF FACILITIES                                  
+57-124                   138   ATHLETIC SERVICE   ATHLETICS                                         
+57-125                   117   LAUNDRY FACIL      ATHLETICS                                         
+57-125A                   21   ATHLETIC SERVICE   DP OF FACIL ADM                                   
+57-126                   170   ATHLETIC SERVICE   ATHLETICS                                         
+57-127                   150   OFFICE             ATHLETICS                                         
+57-130                 7,567   ATHLETIC FACIL     ATHLETICS                                         
+57-146                 1,591   ATH LOCKER ROOM    ATHLETICS                                         
+57-147                 1,209   ATH LOCKER ROOM    ATHLETICS                                         
+57-147J                   22   JANITOR CLOSET     DP OF FACILITIES                                  
+57-148                 5,632   ATHLETIC FACIL     ATHLETICS                                         
+57-162                   399   ATHLETIC SERVICE   ATHLETICS                                         
+57-166                   608   UTILITY/MECH RM    DP OF FACILITIES                                  
+57-168                   951   ATHLETIC FACIL     ATHLETICS                                         
+57-168A                  139   ATHLETIC SERVICE   ATHLETICS                                         
+57-168B                    7   ATHLETIC SERVICE   ATHLETICS                                         
+57-170                 1,022   ATHLETIC FACIL     ATHLETICS                                         
+57-170A                   99   ATHLETIC SERVICE   ATHLETICS                                         
+57-170B                    7   ATHLETIC SERVICE   ATHLETICS                                         
+                    --------                                                                        
+                      22,351                                                                        
+                                                                                                    
+57-200CA                 337   CORRIDOR           DP OF FACILITIES                                  
+57-200SA                 398   STAIRWAY           DP OF FACILITIES                                  
+57-200SB                 104   STAIRWAY           DP OF FACILITIES                                  
+57-200SG                  49   STAIRWAY           DP OF FACILITIES                                  
+57-200SH                 134   STAIRWAY           DP OF FACILITIES                                  
+57-200Z                  228   SHAFT SPACE        DP OF FACILITIES                                  
+57-201                 2,734   ATHLETIC FACIL     ATHLETICS                                         
+57-202                   512   ATH LOCKER ROOM    ATHLETICS                                         
+57-203                   138   ATH SHOWER ROOM    ATHLETICS                                         
+57-204                    84   FEMALE LAVATORY    DP OF FACILITIES                                  
+57-205E                  120   ELECTRIC CLOSET    DP OF FACILITIES                                  
+57-206                    91   ATHLETIC SERVICE   ATHLETICS                                         
+57-206Z                  100   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,029                                                                        
+                                                                                                    
+57-300SG                  27   STAIRWAY           DP OF FACILITIES                                  
+57-301                   921   UTILITY/MECH RM    DP OF FACILITIES

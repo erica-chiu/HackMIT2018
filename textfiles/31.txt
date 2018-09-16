@@ -1,0 +1,331 @@
+31-000SA                 174   STAIRWAY           DP OF FACILITIES                                  
+31-001T                   24   TELECOM CLOSET     DP OF FACILITIES                                  
+31-004                 1,305   UTILITY/MECH RM    DP OF FACILITIES                                  
+31-004A                  414   UTILITY/MECH RM    DP OF FACILITIES                                  
+31-004B                  168   UTILITY/MECH RM    DP OF FACILITIES                                  
+31-004C                  435   UTILITY/MECH RM    DP OF FACILITIES                                  
+31-005                    63   UTILITY/MECH RM    DP OF FACILITIES                                  
+31-006                   301   LABORATORY SVC     AERO & ASTRO                                      
+31-069                   384   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                       3,269                                                                        
+                                                                                                    
+31-100CA                 709   CORRIDOR           DP OF FACILITIES                                  
+31-100CB                 288   CORRIDOR           DP OF FACILITIES                                  
+31-100E1                  54   ELEVATOR           DP OF FACILITIES                                  
+31-100E2                  54   ELEVATOR           DP OF FACILITIES                                  
+31-100LA                 736   LOBBY              DP OF FACILITIES                                  
+31-100LB                 343   LOBBY              DP OF FACILITIES                                  
+31-100LC                 955   LOBBY              DP OF FACILITIES                                  
+31-100SA                 189   STAIRWAY           DP OF FACILITIES                                  
+31-100SB                 107   STAIRWAY           DP OF FACILITIES                                  
+31-104E                   16   ELECTRIC CLOSET    DP OF FACILITIES                                  
+31-106                    65   UTILITY/MECH RM    DP OF FACILITIES                                  
+31-110                 1,252   RESEARCH LAB       AERO & ASTRO                                      
+31-110A                  107   RESEARCH LAB       AERO & ASTRO                                      
+31-111                    12   LABORATORY SVC     AERO & ASTRO                                      
+31-115                 1,001   ALTER/CONVERSION   AERO & ASTRO                                      
+31-120                   772   ALTER/CONVERSION   AERO & ASTRO                                      
+31-121A                   28   UTILITY/MECH RM    DP OF FACILITIES                                  
+31-121T                  153   TELECOM CLOSET     DP OF FACILITIES                                  
+31-123                   229   LAB SUPPORT SHOP   AERO & ASTRO                                      
+31-124A                   25   LABORATORY SVC     AERO & ASTRO                                      
+31-124B                   12   LABORATORY SVC     AERO & ASTRO                                      
+31-125                   794   LAB SUPPORT SHOP   AERO & ASTRO                                      
+31-127                   942   LABORATORY SVC     AERO & ASTRO                                      
+31-127A                   19   PVT CIRCULATION    AERO & ASTRO                                      
+31-128                   804   RESEARCH LAB       AERO & ASTRO                                      
+31-130                    92   MALE LAVATORY      DP OF FACILITIES                                  
+31-130J                   34   JANITOR CLOSET     DP OF FACILITIES                                  
+31-132                    92   FEMALE LAVATORY    DP OF FACILITIES                                  
+31-133A                   16   OFFICE SERVICE     MECHANICAL ENG                                    
+31-133B                    7   OFFICE SERVICE     MECHANICAL ENG                                    
+31-134                 1,867   LABORATORY SVC     MECHANICAL ENG                                    
+31-134A                   11   UTILITY/MECH RM    DP OF FACILITIES                                  
+31-134B                  268   LABORATORY SVC     MECHANICAL ENG                                    
+31-134E                   24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+31-135                   161   CONFERENCE ROOM    MECHANICAL ENG                                    
+31-137                    59   JANITOR STORAGE    DP OF FACILITIES                                  
+31-139                   162   CONFERENCE ROOM    MECHANICAL ENG                                    
+31-140                   776   RESEARCH LAB       MECHANICAL ENG                                    
+31-141                 1,098   RESEARCH LAB       MECHANICAL ENG                                    
+31-141A                  101   RESEARCH LAB       MECHANICAL ENG                                    
+31-142                   275   RESEARCH LAB       MECHANICAL ENG                                    
+31-146                   113   LABORATORY SVC     MECHANICAL ENG                                    
+31-148                   260   RESEARCH LAB       MECHANICAL ENG                                    
+31-148A                   90   LABORATORY SVC     MECHANICAL ENG                                    
+31-150                   300   RESEARCH LAB       MECHANICAL ENG                                    
+31-152                   394   RESEARCH LAB       MECHANICAL ENG                                    
+31-154                   312   RESEARCH LAB       MECHANICAL ENG                                    
+31-156                   366   RESEARCH LAB       MECHANICAL ENG                                    
+31-158                   277   RESEARCH LAB       MECHANICAL ENG                                    
+31-159                   268   LAB SUPPORT SHOP   MECHANICAL ENG                                    
+31-160                   293   RESEARCH LAB       MECHANICAL ENG                                    
+31-160E                  146   ELECTRIC CLOSET    DP OF FACILITIES                                  
+31-162                   935   RESEARCH LAB       MECHANICAL ENG                                    
+31-163                   411   LABORATORY SVC     MECHANICAL ENG                                    
+31-165                   680   RESEARCH LAB       AERO & ASTRO           LINCOLN LABS               
+31-166                   207   LABORATORY SVC     AERO & ASTRO                                      
+31-167A                   71   LABORATORY SVC     MECHANICAL ENG                                    
+31-167B                   71   LABORATORY SVC     MECHANICAL ENG                                    
+31-169                   140   LABORATORY SVC     MECHANICAL ENG                                    
+31-170                    77   UTILITY/MECH RM    DP OF FACILITIES                                  
+31-172                    25   UTILITY/MECH RM    DP OF FACILITIES                                  
+31-173                    90   PVT CIRCULATION    MECHANICAL ENG                                    
+31-174                   323   RESEARCH LAB       MECHANICAL ENG                                    
+31-175                   170   OFFICE SERVICE     MECHANICAL ENG                                    
+31-175A                   85   OFFICE SERVICE     MECHANICAL ENG                                    
+31-177                   173   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-180                   880   RESEARCH LAB       MECHANICAL ENG                                    
+31-181                   178   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-183                   172   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-185                   186   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-187                   156   LABORATORY SVC     MECHANICAL ENG                                    
+31-190                 1,368   RESEARCH LAB       MECHANICAL ENG                                    
+31-190A                   71   LABORATORY SVC     MECHANICAL ENG                                    
+31-190B                   38   LABORATORY SVC     MECHANICAL ENG                                    
+31-196                   123   LABORATORY SVC     MECHANICAL ENG                                    
+31-198                   264   ALTER/CONVERSION   PROVOST RESERVE                                   
+31-199                   212   STORAGE FACILITY   DP OF FACIL ADM                                   
+                    --------                                                                        
+                      24,629                                                                        
+                                                                                                    
+31-200E1                  54   ELEVATOR           DP OF FACILITIES                                  
+31-200E1M                 54   ELEVATOR           DP OF FACILITIES                                  
+31-200E2                  54   ELEVATOR           DP OF FACILITIES                                  
+31-200E2M                 54   ELEVATOR           DP OF FACILITIES                                  
+31-200LA                 175   LOBBY              DP OF FACILITIES                                  
+31-200LB                  70   LOBBY              DP OF FACILITIES                                  
+31-200LC                  67   LOBBY              DP OF FACILITIES                                  
+31-200SA                 178   STAIRWAY           DP OF FACILITIES                                  
+31-200SAM                178   STAIRWAY           DP OF FACILITIES                                  
+31-200SB                 200   STAIRWAY           DP OF FACILITIES                                  
+31-200SBM                208   STAIRWAY           DP OF FACILITIES                                  
+31-201                   295   RESEARCH LAB       AERO & ASTRO                                      
+31-201M                  222   CONFERENCE ROOM    AERO & ASTRO                                      
+31-202                   132   PVT CIRCULATION    AERO & ASTRO                                      
+31-202M                   33   PVT CIRCULATION    AERO & ASTRO                                      
+31-203                   295   RESEARCH LAB       AERO & ASTRO                                      
+31-204M                  414   CONFERENCE ROOM    AERO & ASTRO                                      
+31-205                   352   OFFICE SERVICE     AERO & ASTRO                                      
+31-206M                  238   OFFICE             AERO & ASTRO                                      
+31-207                    61   OFFICE SERVICE     AERO & ASTRO                                      
+31-207M                   16   OFFICE SERVICE     AERO & ASTRO                                      
+31-208JM                  50   JANITOR CLOSET     DP OF FACILITIES                                  
+31-208M                   69   PUBLIC LAVATORY    DP OF FACILITIES                                  
+31-208ZM                   9   SHAFT SPACE        DP OF FACILITIES                                  
+31-210                   654   PVT CIRCULATION    AERO & ASTRO                                      
+31-210A                   17   OFFICE SERVICE     AERO & ASTRO                                      
+31-210M                  244   PVT CIRCULATION    AERO & ASTRO                                      
+31-212                   174   RESEARCH LAB       AERO & ASTRO                                      
+31-212M                  591   OFFICE             AERO & ASTRO                                      
+31-213A                   58   OFFICE             AERO & ASTRO                                      
+31-213B                   57   OFFICE             AERO & ASTRO                                      
+31-213C                   33   OFFICE             AERO & ASTRO                                      
+31-213D                   31   OFFICE             AERO & ASTRO                                      
+31-213F                   31   OFFICE             AERO & ASTRO                                      
+31-213G                   34   OFFICE             AERO & ASTRO                                      
+31-214                    71   MALE LAVATORY      DP OF FACILITIES                                  
+31-214J                    9   JANITOR CLOSET     DP OF FACILITIES                                  
+31-215                    79   OFFICE             AERO & ASTRO                                      
+31-216                   116   FEMALE LAVATORY    DP OF FACILITIES                                  
+31-217                    97   OFFICE             AERO & ASTRO                                      
+31-219                   439   OFFICE             AERO & ASTRO                                      
+31-219M                  882   OFFICE             AERO & ASTRO                                      
+31-220                   750   RESEARCH LAB       AERO & ASTRO                                      
+31-221                   437   OFFICE             AERO & ASTRO                                      
+31-225                   394   RESEARCH LAB       AERO & ASTRO                                      
+31-226                 1,141   RESEARCH LAB       AERO & ASTRO                                      
+31-227                   888   LABORATORY SVC     AERO & ASTRO                                      
+31-227A                   26   PVT CIRCULATION    AERO & ASTRO                                      
+31-227AM                  28   PVT CIRCULATION    AERO & ASTRO                                      
+31-227M                  212   RESEARCH LAB       AERO & ASTRO                                      
+31-228                   876   RESEARCH LAB       AERO & ASTRO                                      
+31-228A                   36   PVT CIRCULATION    AERO & ASTRO                                      
+31-228AM                  17   PVT CIRCULATION    AERO & ASTRO                                      
+31-228M                  300   RESEARCH LAB       AERO & ASTRO                                      
+31-230                 1,486   PVT CIRCULATION    AERO & ASTRO                                      
+31-230A                    8   OFFICE SERVICE     AERO & ASTRO                                      
+31-231                   107   OFFICE             AERO & ASTRO                                      
+31-232A                   47   OFFICE             AERO & ASTRO                                      
+31-232B                   47   OFFICE             AERO & ASTRO                                      
+31-232C                   46   OFFICE             AERO & ASTRO                                      
+31-232D                   46   OFFICE             AERO & ASTRO                                      
+31-233                   252   OFFICE             AERO & ASTRO                                      
+31-234A                   47   OFFICE             AERO & ASTRO                                      
+31-234B                   47   OFFICE             AERO & ASTRO                                      
+31-234C                   47   OFFICE             AERO & ASTRO                                      
+31-234D                   47   OFFICE             AERO & ASTRO                                      
+31-235A                   32   OFFICE             AERO & ASTRO                                      
+31-235B                   30   OFFICE             AERO & ASTRO                                      
+31-235C                   39   OFFICE             AERO & ASTRO                                      
+31-235D                   39   OFFICE             AERO & ASTRO                                      
+31-235F                   30   OFFICE             AERO & ASTRO                                      
+31-235G                   32   OFFICE             AERO & ASTRO                                      
+31-236A                   57   OFFICE             AERO & ASTRO                                      
+31-236B                   57   OFFICE             AERO & ASTRO                                      
+31-238A                   57   OFFICE             AERO & ASTRO                                      
+31-238B                   57   OFFICE             AERO & ASTRO                                      
+31-239A                   32   OFFICE             AERO & ASTRO                                      
+31-239B                   30   OFFICE             AERO & ASTRO                                      
+31-239C                   39   OFFICE             AERO & ASTRO                                      
+31-239D                   39   OFFICE             AERO & ASTRO                                      
+31-239F                   30   OFFICE             AERO & ASTRO                                      
+31-239G                   32   OFFICE             AERO & ASTRO                                      
+31-240A                   48   OFFICE             AERO & ASTRO                                      
+31-240B                   48   OFFICE             AERO & ASTRO                                      
+31-240C                   46   OFFICE             AERO & ASTRO                                      
+31-240D                   46   OFFICE             AERO & ASTRO                                      
+31-243                   174   OFFICE             AERO & ASTRO                                      
+31-244A                   46   OFFICE             AERO & ASTRO                                      
+31-244B                   46   OFFICE             AERO & ASTRO                                      
+31-244C                   47   OFFICE             AERO & ASTRO                                      
+31-244D                   47   OFFICE             AERO & ASTRO                                      
+31-245                   224   OFFICE             AERO & ASTRO                                      
+31-248A                   84   OFFICE             AERO & ASTRO                                      
+31-248B                   35   OFFICE             AERO & ASTRO                                      
+31-248C                   35   OFFICE             AERO & ASTRO                                      
+31-250A                  230   RESEARCH LAB       AERO & ASTRO                                      
+31-250AA                  22   LABORATORY SVC     AERO & ASTRO                                      
+31-250B                  231   RESEARCH LAB       AERO & ASTRO                                      
+31-250BA                  23   LABORATORY SVC     AERO & ASTRO                                      
+31-254A                   47   OFFICE             AERO & ASTRO                                      
+31-254B                   47   OFFICE             AERO & ASTRO                                      
+31-254C                   47   OFFICE             AERO & ASTRO                                      
+31-254D                   47   OFFICE             AERO & ASTRO                                      
+31-255                 3,301   RESEARCH LAB       AERO & ASTRO                                      
+31-260A                1,246   UTILITY/MECH RM    DP OF FACILITIES                                  
+31-260B                  371   UTILITY/MECH RM    DP OF FACILITIES                                  
+31-260M                1,098   UTILITY/MECH RM    DP OF FACILITIES                                  
+31-270                   738   CONFERENCE ROOM    SCH OF ENGINEER                                   
+31-271T                  140   TELECOM CLOSET     DP OF FACILITIES                                  
+31-272J                   19   JANITOR CLOSET     DP OF FACILITIES                                  
+31-273                    59   OFFICE SERVICE     MECHANICAL ENG                                    
+31-274                    47   FEMALE LAVATORY    DP OF FACILITIES                                  
+31-275                    51   UTILITY/MECH RM    DP OF FACILITIES                                  
+31-276                   104   MALE LAVATORY      DP OF FACILITIES                                  
+31-280                   738   PVT CIRCULATION    MECHANICAL ENG                                    
+31-281                   169   OFFICE             MECHANICAL ENG                                    
+31-282                   175   OFFICE             MECHANICAL ENG                                    
+31-284A                   29   OFFICE             MECHANICAL ENG                                    
+31-284B                   46   OFFICE             MECHANICAL ENG                                    
+31-284C                   66   OFFICE             MECHANICAL ENG                                    
+31-284D                   45   OFFICE             MECHANICAL ENG                                    
+31-284F                   27   OFFICE             MECHANICAL ENG                                    
+31-285                   177   OFFICE             MECHANICAL ENG                                    
+31-288A                   27   OFFICE             MECHANICAL ENG                                    
+31-288B                   45   OFFICE             MECHANICAL ENG                                    
+31-288C                   58   OFFICE             MECHANICAL ENG                                    
+31-288D                   43   OFFICE             MECHANICAL ENG                                    
+31-288F                   26   OFFICE             MECHANICAL ENG                                    
+31-289                   181   OFFICE             MECHANICAL ENG                                    
+31-292A                   27   OFFICE             MECHANICAL ENG                                    
+31-292B                   46   OFFICE             MECHANICAL ENG                                    
+31-292C                   58   OFFICE             MECHANICAL ENG                                    
+31-292D                   41   OFFICE             MECHANICAL ENG                                    
+31-292F                   26   OFFICE             MECHANICAL ENG                                    
+31-293                   181   OFFICE             MECHANICAL ENG                                    
+31-296A                   27   OFFICE             MECHANICAL ENG                                    
+31-296B                   46   OFFICE             MECHANICAL ENG                                    
+31-296C                   58   OFFICE             MECHANICAL ENG                                    
+31-296D                   41   OFFICE             MECHANICAL ENG                                    
+31-296F                   26   OFFICE             MECHANICAL ENG                                    
+31-297A                   32   OFFICE             MECHANICAL ENG                                    
+31-297B                   27   OFFICE             MECHANICAL ENG                                    
+31-297C                   19   OFFICE             MECHANICAL ENG                                    
+31-297D                   31   OFFICE             MECHANICAL ENG                                    
+31-297F                   35   OFFICE             MECHANICAL ENG                                    
+31-298A                   27   OFFICE             MECHANICAL ENG                                    
+31-298B                   26   OFFICE             MECHANICAL ENG                                    
+31-298C                   57   OFFICE             MECHANICAL ENG                                    
+31-298D                   59   OFFICE             MECHANICAL ENG                                    
+31-298F                   30   OFFICE             MECHANICAL ENG                                    
+31-298G                   31   OFFICE             MECHANICAL ENG                                    
+31-299                   242   CONFERENCE ROOM    MECHANICAL ENG                                    
+                    --------                                                                        
+                      26,894                                                                        
+                                                                                                    
+31-300E1                  54   ELEVATOR           DP OF FACILITIES                                  
+31-300E2                  54   ELEVATOR           DP OF FACILITIES                                  
+31-300LA                  70   LOBBY              DP OF FACILITIES                                  
+31-300LB                 185   LOBBY              DP OF FACILITIES                                  
+31-300SA                 174   STAIRWAY           DP OF FACILITIES                                  
+31-300SB                 204   STAIRWAY           DP OF FACILITIES                                  
+31-301                   242   CONFERENCE ROOM    AERO & ASTRO                                      
+31-302                   106   PVT CIRCULATION    AERO & ASTRO                                      
+31-304A                   39   OFFICE             AERO & ASTRO                                      
+31-304B                   53   OFFICE             AERO & ASTRO                                      
+31-304C                   53   OFFICE             AERO & ASTRO                                      
+31-304D                   38   OFFICE             AERO & ASTRO                                      
+31-306A                   36   OFFICE             AERO & ASTRO                                      
+31-306B                   32   OFFICE             AERO & ASTRO                                      
+31-306C                   34   OFFICE             AERO & ASTRO                                      
+31-306D                   36   OFFICE             AERO & ASTRO                                      
+31-306F                   32   OFFICE             AERO & ASTRO                                      
+31-306G                   35   OFFICE             AERO & ASTRO                                      
+31-307A                   19   OFFICE SERVICE     AERO & ASTRO                                      
+31-307B                   30   UTILITY/MECH RM    DP OF FACILITIES                                  
+31-308                    63   MALE LAVATORY      DP OF FACILITIES                                  
+31-308J                   14   JANITOR CLOSET     DP OF FACILITIES                                  
+31-308Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+31-310                 1,143   PVT CIRCULATION    AERO & ASTRO                                      
+31-312                    93   FEMALE LAVATORY    DP OF FACILITIES                                  
+31-314A                   53   OFFICE             AERO & ASTRO                                      
+31-314B                   38   OFFICE             AERO & ASTRO                                      
+31-314C                   40   OFFICE             AERO & ASTRO                                      
+31-314D                   53   OFFICE             AERO & ASTRO                                      
+31-315                   170   OFFICE             AERO & ASTRO                                      
+31-316                   116   OFFICE             AERO & ASTRO                                      
+31-317                   206   OFFICE             AERO & ASTRO                                      
+31-318                   364   LABORATORY SVC     AERO & ASTRO                                      
+31-319                   205   OFFICE             AERO & ASTRO                                      
+31-320                   952   RESEARCH LAB       AERO & ASTRO           LINCOLN LABS               
+31-321                   202   OFFICE             AERO & ASTRO                                      
+31-322                    25   UTILITY/MECH RM    DP OF FACILITIES                                  
+31-324E                1,718   ELECTRIC CLOSET    DP OF FACILITIES                                  
+31-325                   924   PVT CIRCULATION    AERO & ASTRO                                      
+31-326                    29   UTILITY/MECH RM    DP OF FACILITIES                                  
+31-328                    19   LABORATORY SVC     AERO & ASTRO                                      
+31-328E                  475   ELECTRIC CLOSET    DP OF FACILITIES                                  
+31-330                    58   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+31-370                   819   RESEARCH LAB       MECHANICAL ENG                                    
+31-371                   206   CONFERENCE ROOM    MECHANICAL ENG                                    
+31-372                    32   UTILITY/MECH RM    DP OF FACILITIES                                  
+31-374                    49   MALE LAVATORY      DP OF FACILITIES                                  
+31-375J                    5   JANITOR CLOSET     DP OF FACILITIES                                  
+31-376                   113   FEMALE LAVATORY    DP OF FACILITIES                                  
+31-377                    28   UTILITY/MECH RM    DP OF FACILITIES                                  
+31-380                   510   LABORATORY SVC     MECHANICAL ENG                                    
+31-380A                1,165   RESEARCH LAB       MECHANICAL ENG                                    
+31-381A                   29   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-381B                   31   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-381C                   36   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-381D                   27   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-381F                   27   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-385A                   29   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-385B                   29   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-385C                   37   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-385D                   30   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-385F                   28   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-389A                   29   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-389B                   31   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-389C                   37   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-389D                   28   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-389F                   28   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-393A                   29   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-393B                   29   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-393C                   37   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-393D                   30   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-393F                   28   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-397A                   27   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-397B                   27   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-397C                   37   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-397D                   28   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-397F                   28   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+31-398                   301   RESEARCH LAB       MECHANICAL ENG                                    
+31-399                   323   LABORATORY SVC     MECHANICAL ENG                                    
+                    --------                                                                        
+                      12,804                                                                        
+                                                                                                    
+31-420                   283   UTILITY/MECH RM    DP OF FACILITIES                                  
+31-480                   653   UTILITY/MECH RM    DP OF FACILITIES   

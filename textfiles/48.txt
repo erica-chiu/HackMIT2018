@@ -1,0 +1,161 @@
+48-000CA               1,674   CORRIDOR           DP OF FACILITIES                                  
+48-000E1                  55   ELEVATOR           DP OF FACILITIES                                  
+48-000SA                 141   STAIRWAY           DP OF FACILITIES                                  
+48-000SB                 124   STAIRWAY           DP OF FACILITIES                                  
+48-000Z                  254   SHAFT SPACE        DP OF FACILITIES                                  
+48-002                   133   PUBLIC LAVATORY    DP OF FACILITIES                                  
+48-003                   136   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-005                    97   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-006                   148   UTILITY/MECH RM    DP OF FACILITIES                                  
+48-008                   249   UTILITY/MECH RM    DP OF FACILITIES                                  
+48-010E                  159   ELECTRIC CLOSET    DP OF FACILITIES                                  
+48-012AE                   9   ELECTRIC CLOSET    DP OF FACILITIES                                  
+48-012E                  121   ELECTRIC CLOSET    DP OF FACILITIES                                  
+48-014                   203   UTILITY/MECH RM    DP OF FACILITIES                                  
+48-015                   408   RESEARCH LAB       MECHANICAL ENG         OCEAN                      
+48-015A                2,019   RESEARCH LAB       MECHANICAL ENG         OCEAN                      
+48-015B                  183   RSCH LAB-OFFICE    MECHANICAL ENG         OCEAN                      
+48-016                   328   LABORATORY SVC     CIVIL & ENV ENG                                   
+48-016A                   59   LABORATORY SVC     CIVIL & ENV ENG                                   
+48-020                   442   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-020A                   72   UTILITY/MECH RM    DP OF FACILITIES                                  
+48-020T                  161   TELECOM CLOSET     DP OF FACILITIES                                  
+48-026                   619   LAB SUPPORT SHOP   CIVIL & ENV ENG                                   
+48-030                   366   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-030A                   39   LABORATORY SVC     CIVIL & ENV ENG                                   
+48-031T                   53   TELECOM CLOSET     DP OF FACILITIES                                  
+48-034                   410   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-036                 1,293   LABORATORY SVC     CIVIL & ENV ENG                                   
+48-036A                   78   LABORATORY SVC     MECHANICAL ENG                                    
+48-036B                  140   UTILITY/MECH RM    DP OF FACILITIES                                  
+48-038                   126   JANITOR STORAGE    DP OF FACILITIES                                  
+48-038A                   82   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      10,379                                                                        
+                                                                                                    
+48-100E1                  55   ELEVATOR           DP OF FACILITIES                                  
+48-100LA                 486   LOBBY              DP OF FACILITIES                                  
+48-100SA                 162   STAIRWAY           DP OF FACILITIES                                  
+48-100SB                 330   STAIRWAY           DP OF FACILITIES                                  
+48-100Z                    9   SHAFT SPACE        DP OF FACILITIES                                  
+48-101                   501   PVT CIRCULATION    CIVIL & ENV ENG                                   
+48-102                 1,217   RSCH LAB-OFFICE    CIVIL & ENV ENG                                   
+48-106                   129   RSCH LAB-OFFICE    CIVIL & ENV ENG                                   
+48-109                 1,472   TEACHING LAB       CIVIL & ENV ENG                                   
+48-120                 3,381   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-120A                  245   RECEIVING ROOM     CIVIL & ENV ENG                                   
+48-120B                  553   STORAGE FACILITY   CIVIL & ENV ENG                                   
+48-130                 1,431   PVT CIRCULATION    CIVIL & ENV ENG                                   
+48-135                    58   PUBLIC LAVATORY    DP OF FACILITIES                                  
+48-137                    59   PUBLIC LAVATORY    DP OF FACILITIES                                  
+                    --------                                                                        
+                      10,088                                                                        
+                                                                                                    
+48-200CA                 203   CORRIDOR           DP OF FACILITIES                                  
+48-200CB                 380   CORRIDOR           DP OF FACILITIES                                  
+48-200E1                  55   ELEVATOR           DP OF FACILITIES                                  
+48-200SA                 163   STAIRWAY           DP OF FACILITIES                                  
+48-200SB                 232   STAIRWAY           DP OF FACILITIES                                  
+48-200SC                 166   PVT CIRCULATION    CIVIL & ENV ENG                                   
+48-200Z                   17   SHAFT SPACE        DP OF FACILITIES                                  
+48-202                    93   OFFICE             CIVIL & ENV ENG                                   
+48-204                   132   MALE LAVATORY      DP OF FACILITIES                                  
+48-204J                   14   JANITOR CLOSET     DP OF FACILITIES                                  
+48-206                   277   LABORATORY SVC     CIVIL & ENV ENG                                   
+48-207                   273   OFFICE             CIVIL & ENV ENG                                   
+48-208                   533   OFFICE             CIVIL & ENV ENG                                   
+48-209                   147   OFFICE             CIVIL & ENV ENG                                   
+48-211                   116   OFFICE             CIVIL & ENV ENG                                   
+48-212                   717   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-213                   166   OFFICE             CIVIL & ENV ENG                                   
+48-216                   833   PVT CIRCULATION    CIVIL & ENV ENG                                   
+48-216A                  474   CONFERENCE ROOM    CIVIL & ENV ENG                                   
+48-216B                  259   OFFICE             CIVIL & ENV ENG                                   
+48-216BA                   5   OFFICE SERVICE     CIVIL & ENV ENG                                   
+48-216C                  260   OFFICE             CIVIL & ENV ENG                                   
+48-216D                  257   OFFICE             CIVIL & ENV ENG                                   
+48-216F                  142   SECY/RECEPTION     CIVIL & ENV ENG                                   
+48-216G                  224   OFFICE             CIVIL & ENV ENG                                   
+48-216GA                 235   OFFICE             CIVIL & ENV ENG                                   
+48-216GB               1,921   OFFICE             CIVIL & ENV ENG                                   
+48-216H                  196   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                       8,487                                                                        
+                                                                                                    
+48-300CA                 199   CORRIDOR           DP OF FACILITIES                                  
+48-300CB                 633   CORRIDOR           DP OF FACILITIES                                  
+48-300CC                 381   CORRIDOR           DP OF FACILITIES                                  
+48-300E1                  55   ELEVATOR           DP OF FACILITIES                                  
+48-300SA                 163   STAIRWAY           DP OF FACILITIES                                  
+48-300SB                 228   STAIRWAY           DP OF FACILITIES                                  
+48-300SC                  87   PVT CIRCULATION    CIVIL & ENV ENG                                   
+48-300Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+48-302                   124   FEMALE LAVATORY    DP OF FACILITIES                                  
+48-304                   101   FEMALE LAVATORY    DP OF FACILITIES                                  
+48-305                   270   OFFICE SERVICE     CIVIL & ENV ENG                                   
+48-308                   880   CLASSROOM          REGISTRAR                                         
+48-309                   274   OFFICE             CIVIL & ENV ENG                                   
+48-311                   312   CONFERENCE ROOM    CIVIL & ENV ENG                                   
+48-315T                  134   TELECOM CLOSET     DP OF FACILITIES                                  
+48-316                 1,253   CLASSROOM          REGISTRAR                                         
+48-316A                   53   CLASSROOM SVC      REGISTRAR                                         
+48-316B                    5   CLASSROOM SVC      REGISTRAR                                         
+48-316C                    5   CLASSROOM SVC      REGISTRAR                                         
+48-317                   134   OFFICE             CIVIL & ENV ENG                                   
+48-319                   134   OFFICE             CIVIL & ENV ENG                                   
+48-320                   759   OFFICE SERVICE     CIVIL & ENV ENG                                   
+48-321                   134   OFFICE             CIVIL & ENV ENG                                   
+48-323                   134   OFFICE             CIVIL & ENV ENG                                   
+48-324                   752   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-325                   134   OFFICE             CIVIL & ENV ENG                                   
+48-327                   134   OFFICE             CIVIL & ENV ENG                                   
+48-328                    91   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-329                   134   OFFICE             CIVIL & ENV ENG                                   
+48-330                   725   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-330A                   92   LABORATORY SVC     CIVIL & ENV ENG                                   
+48-331                   134   OFFICE             CIVIL & ENV ENG                                   
+48-333                   134   OFFICE             CIVIL & ENV ENG                                   
+48-335                   164   OFFICE             CIVIL & ENV ENG                                   
+48-336                   754   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-336A                   27   LABORATORY SVC     CIVIL & ENV ENG                                   
+48-338                   103   LABORATORY SVC     CIVIL & ENV ENG                                   
+                    --------                                                                        
+                       9,836                                                                        
+                                                                                                    
+48-400CA                 211   CORRIDOR           DP OF FACILITIES                                  
+48-400CB               1,015   CORRIDOR           DP OF FACILITIES                                  
+48-400CC                  57   CORRIDOR           DP OF FACILITIES                                  
+48-400E1                  55   ELEVATOR           DP OF FACILITIES                                  
+48-400SA                 163   STAIRWAY           DP OF FACILITIES                                  
+48-400SB                 200   STAIRWAY           DP OF FACILITIES                                  
+48-400Z                   26   SHAFT SPACE        DP OF FACILITIES                                  
+48-402                    47   LABORATORY SVC     CIVIL & ENV ENG                                   
+48-403                   270   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-404                   124   MALE LAVATORY      DP OF FACILITIES                                  
+48-404J                   15   JANITOR CLOSET     DP OF FACILITIES                                  
+48-406                    60   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-408                    63   LABORATORY SVC     CIVIL & ENV ENG                                   
+48-409                   377   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-410                   371   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-411                   134   OFFICE             CIVIL & ENV ENG                                   
+48-412                   663   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-413                   134   OFFICE             CIVIL & ENV ENG                                   
+48-414                   324   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-415                   134   OFFICE             CIVIL & ENV ENG                                   
+48-417                   134   OFFICE             CIVIL & ENV ENG                                   
+48-418                   697   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-419                   274   OFFICE             CIVIL & ENV ENG                                   
+48-420                   159   LABORATORY SVC     CIVIL & ENV ENG                                   
+48-423                   134   OFFICE             CIVIL & ENV ENG                                   
+48-424                   661   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-424A                  159   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-425                   134   OFFICE SERVICE     CIVIL & ENV ENG                                   
+48-426                   313   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-426A                   39   LABORATORY SVC     CIVIL & ENV ENG                                   
+48-427                   134   OFFICE             CIVIL & ENV ENG                                   
+48-428                   894   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-428A                   61   LABORATORY SVC     CIVIL & ENV ENG                                   
+48-429                   134   OFFICE             CIVIL & ENV ENG                                   
+48-433                   380   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-434                 1,109   RESEARCH LAB       CIVIL & ENV ENG                                   
+48-440                    45   LABORATORY SVC     CIVIL & ENV ENG  

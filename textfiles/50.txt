@@ -1,0 +1,205 @@
+50-000CA                 999   CORRIDOR           DP OF FACILITIES                                  
+50-000CB               1,218   CORRIDOR           DP OF FACILITIES                                  
+50-000CC                 880   CORRIDOR           DP OF FACILITIES                                  
+50-000E1                  51   ELEVATOR           DP OF FACILITIES                                  
+50-000E2                  17   ELEVATOR           DP OF FACILITIES                                  
+50-000LA                 595   LOBBY              DP OF FACILITIES                                  
+50-000SA                  62   STAIRWAY           DP OF FACILITIES                                  
+50-000SB                  68   STAIRWAY           DP OF FACILITIES                                  
+50-000SC                  60   STAIRWAY           DP OF FACILITIES                                  
+50-000SD                 100   STAIRWAY           DP OF FACILITIES                                  
+50-000Z                  120   SHAFT SPACE        DP OF FACILITIES                                  
+50-001                   264   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+50-002                   292   FEMALE LAVATORY    DP OF FACILITIES                                  
+50-002A                   25   JANITOR STORAGE    DP OF FACILITIES                                  
+50-005                   409   OFFICE             PROVOST RESERVE                                   
+50-005A                   89   OFFICE             PROVOST RESERVE                                   
+50-005B                  113   OFFICE             PROVOST RESERVE                                   
+50-005C                  154   OFFICE             PROVOST RESERVE                                   
+50-005F                  149   OFFICE             PROVOST RESERVE                                   
+50-005FA                   5   OFFICE SERVICE     PROVOST RESERVE                                   
+50-007                   151   FOOD FACIL SVC     CAMP ACTIV COMPL       DINING                     
+50-007A                   60   FOOD FACIL SVC     CAMP ACTIV COMPL       DINING                     
+50-009                   362   MALE LAVATORY      DP OF FACILITIES                                  
+50-009J                   14   JANITOR CLOSET     DP OF FACILITIES                                  
+50-010                   228   CONFERENCE ROOM    CAMP ACTIV COMPL                                  
+50-011                   105   OFFICE             CAMP ACTIV COMPL                                  
+50-012                   149   STORAGE FACILITY   DP OF FACIL ADM                                   
+50-013                    60   JANITOR STORAGE    DP OF FACILITIES                                  
+50-014A                   17   STORAGE FACILITY   DP OF FACIL ADM                                   
+50-014B                   13   STORAGE FACILITY   DP OF FACIL ADM                                   
+50-014C                   12   STORAGE FACILITY   DP OF FACIL ADM                                   
+50-014D                   15   STORAGE FACILITY   DP OF FACIL ADM                                   
+50-018                    63   JANITOR STORAGE    DP OF FACILITIES                                  
+50-020                   300   OFFICE             CAMP ACTIV COMPL                                  
+50-020A                    6   OFFICE SERVICE     DP OF FACIL ADM                                   
+50-021                   331   UTILITY/MECH RM    DP OF FACILITIES                                  
+50-021A                  168   STORAGE FACILITY   DP OF FACIL ADM                                   
+50-023                   517   STORAGE FACILITY   CAMP ACTIV COMPL                                  
+50-023A                   37   STORAGE FACILITY   CAMP ACTIV COMPL                                  
+50-024                   164   OFFICE             CAMP ACTIV COMPL                                  
+50-024A                   74   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+50-025                 1,989   STORAGE FACILITY   CAMP ACTIV COMPL                                  
+50-025A                  251   STORAGE FACILITY   CAMP ACTIV COMPL                                  
+50-026                   257   STORAGE FACILITY   CAMP ACTIV COMPL       FOOD SERVICES              
+50-028                   249   OFFICE             CAMP ACTIV COMPL                                  
+50-029                   486   UTILITY/MECH RM    DP OF FACILITIES                                  
+50-030                   562   LOUNGE             CAMP ACTIV COMPL       WMBR RADIO STA             
+50-030A                   51   MEDIA SERVICE      CAMP ACTIV COMPL       WMBR RADIO STA             
+50-030B                   58   MEDIA SERVICE      CAMP ACTIV COMPL       WMBR RADIO STA             
+50-030C                   53   MEDIA SERVICE      CAMP ACTIV COMPL                                  
+50-030D                   64   STORAGE FACILITY   CAMP ACTIV COMPL       STU ACTIVITIES             
+50-031A                  131   MEDIA SERVICE      CAMP ACTIV COMPL       STU ACTIVITIES             
+50-032                   244   STORAGE FACILITY   CAMP ACTIV COMPL                                  
+50-036                   161   MEDIA SERVICE      CAMP ACTIV COMPL       WMBR RADIO STA             
+50-037                   733   UTILITY/MECH RM    DP OF FACILITIES                                  
+50-038                    26   PVT CIRCULATION    CAMP ACTIV COMPL       WMBR RADIO STA             
+50-038A                  304   MEDIA PRODUCTION   CAMP ACTIV COMPL       STU ACTIVITIES             
+50-038B                  153   MEDIA PRODUCTION   CAMP ACTIV COMPL       STU ACTIVITIES             
+50-038C                   59   MEDIA PRODUCTION   CAMP ACTIV COMPL       STU ACTIVITIES             
+50-038D                  216   PVT CIRCULATION    CAMP ACTIV COMPL                                  
+50-039                   954   MEDIA SERVICE      CAMP ACTIV COMPL                                  
+50-039T                   39   TELECOM CLOSET     DP OF FACILITIES                                  
+50-040                   255   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+50-042                   249   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+50-042A                   96   MEDIA PRODUCTION   CAMP ACTIV COMPL       STU ACTIVITIES             
+50-044                   515   UTILITY/MECH RM    DP OF FACILITIES                                  
+50-045                    98   STORAGE FACILITY   CAMP ACTIV COMPL       STU ACTIVITIES             
+50-050                   522   FOOD FACIL SVC     CAMP ACTIV COMPL       FOOD SERVICES              
+50-050A                  173   FOOD FACIL SVC     CAMP ACTIV COMPL       FOOD SERVICES              
+50-050B                   11   UTILITY/MECH RM    DP OF FACILITIES       FOOD SERVICES              
+50-050C                  141   FOOD FACIL SVC     CAMP ACTIV COMPL       FOOD SERVICES              
+50-051                    59   FOOD FACIL SVC     CAMP ACTIV COMPL       FOOD SERVICES              
+50-051A                  117   FOOD FACIL SVC     CAMP ACTIV COMPL       FOOD SERVICES              
+50-052                    95   OFFICE             CAMP ACTIV COMPL       HSNG&FD SV DEPT            
+50-052A                   65   OFFICE             CAMP ACTIV COMPL       HSNG&FD SV DEPT            
+50-053                   703   FOOD FACIL SVC     CAMP ACTIV COMPL       FOOD SERVICES              
+50-054                    95   FOOD FACIL SVC     CAMP ACTIV COMPL       FOOD SERVICES              
+50-054A                  201   UTILITY/MECH RM    DP OF FACILITIES                                  
+50-054B                  111   FOOD FACIL SVC     CAMP ACTIV COMPL       FOOD SERVICES              
+50-055                    87   UTILITY/MECH RM    DP OF FACILITIES                                  
+50-055A                   10   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+50-055E                    6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+50-056                   237   NON-ATH LOCKR RM   CAMP ACTIV COMPL       HSNG&FD SV DEPT            
+50-057                   358   UTILITY/MECH RM    DP OF FACILITIES                                  
+50-058                   267   FOOD FACIL SVC     CAMP ACTIV COMPL       FOOD SERVICES              
+50-058A                   27   FOOD FACIL SVC     CAMP ACTIV COMPL       FOOD SERVICES              
+50-058B                   47   FOOD FACIL SVC     CAMP ACTIV COMPL       FOOD SERVICES              
+50-058C                   87   FOOD FACIL SVC     CAMP ACTIV COMPL       FOOD SERVICES              
+50-059                   272   FOOD FACIL SVC     CAMP ACTIV COMPL       FOOD SERVICES              
+50-059E                  116   ELECTRIC CLOSET    DP OF FACILITIES                                  
+50-060                   289   NON-ATH LOCKR RM   CAMP ACTIV COMPL       HSNG&FD SV DEPT            
+50-062                    79   STORAGE FACILITY   DP OF FACIL ADM                                   
+50-066                    75   STORAGE FACILITY   DP OF FACIL ADM                                   
+50-070                    95   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      21,111                                                                        
+                                                                                                    
+50-100E1                  51   ELEVATOR           DP OF FACILITIES                                  
+50-100E2                  15   ELEVATOR           DP OF FACILITIES                                  
+50-100LA                 913   LOBBY              DP OF FACILITIES                                  
+50-100LB                 303   LOBBY              DP OF FACILITIES                                  
+50-100LC                 763   LOBBY              DP OF FACILITIES                                  
+50-100SA                 183   STAIRWAY           DP OF FACILITIES                                  
+50-100SB                 184   STAIRWAY           DP OF FACILITIES                                  
+50-100SC                 100   STAIRWAY           DP OF FACILITIES                                  
+50-100SD                  47   STAIRWAY           DP OF FACILITIES                                  
+50-100SE                 104   STAIRWAY           DP OF FACILITIES                                  
+50-100Z                  613   SHAFT SPACE        DP OF FACILITIES                                  
+50-101                   928   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+50-105                   354   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+50-110                   314   FOOD FACILITY      CAMP ACTIV COMPL       DINING                     
+50-110A                   18   FOOD FACIL SVC     CAMP ACTIV COMPL       DINING                     
+50-110B                   17   FOOD FACIL SVC     CAMP ACTIV COMPL       DINING                     
+50-112                    59   PUBLIC LAVATORY    DP OF FACILITIES                                  
+50-118                    58   FOOD FACIL SVC     CAMP ACTIV COMPL       DINING                     
+50-120                   915   FOOD FACILITY      CAMP ACTIV COMPL       DINING                     
+50-140                 7,774   FOOD FACILITY      CAMP ACTIV COMPL       FOOD SERVICES              
+50-140A                  194   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+50-150A                   95   JANITOR STORAGE    DP OF FACILITIES                                  
+50-150B                   96   JANITOR STORAGE    DP OF FACILITIES                                  
+50-154                 1,280   FOOD FACIL SVC     CAMP ACTIV COMPL       FOOD SERVICES              
+50-156                   559   FOOD FACIL SVC     CAMP ACTIV COMPL       FOOD SERVICES              
+50-158                 1,101   FOOD FACIL SVC     CAMP ACTIV COMPL       FOOD SERVICES              
+                    --------                                                                        
+                      17,038                                                                        
+                                                                                                    
+50-200CA                 257   CORRIDOR           DP OF FACILITIES                                  
+50-200CB               1,151   CORRIDOR           DP OF FACILITIES                                  
+50-200CC                 246   CORRIDOR           DP OF FACILITIES                                  
+50-200CD               1,189   CORRIDOR           DP OF FACILITIES                                  
+50-200E1                  45   ELEVATOR           DP OF FACILITIES                                  
+50-200LA               1,136   LOBBY              DP OF FACILITIES                                  
+50-200SA                 246   STAIRWAY           DP OF FACILITIES                                  
+50-200SB                 250   STAIRWAY           DP OF FACILITIES                                  
+50-200SE                 172   STAIRWAY           DP OF FACILITIES                                  
+50-200Z                  574   SHAFT SPACE        DP OF FACILITIES                                  
+50-201                   921   ATHLETIC FACIL     CAMP ACTIV COMPL                                  
+50-202                    68   PUBLIC LAVATORY    DP OF FACILITIES                                  
+50-203                    26   JANITOR STORAGE    DP OF FACILITIES                                  
+50-209                    76   OFFICE SERVICE     CAMP ACTIV COMPL       STU ACTIVITIES             
+50-210                    25   OFFICE SERVICE     CAMP ACTIV COMPL       STU ACTIVITIES             
+50-220                   571   OFFICE SERVICE     CAMP ACTIV COMPL       STU ACTIVITIES             
+50-221                   116   OFFICE SERVICE     CAMP ACTIV COMPL       STU ACTIVITIES             
+50-222                   199   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+50-230                    71   OFFICE SERVICE     CAMP ACTIV COMPL       FOOD SERVICES              
+50-250                   879   FOOD FACILITY      CAMP ACTIV COMPL       FOOD SERVICES              
+50-250A                   63   PVT CIRCULATION    CAMP ACTIV COMPL       FOOD SERVICES              
+50-254                   208   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+50-255                    77   PVT CIRCULATION    CAMP ACTIV COMPL       FOOD SERVICES              
+50-256                   213   OFFICE             CAMP ACTIV COMPL       HSNG&FD SV DEPT            
+50-256A                   22   OFFICE SERVICE     CAMP ACTIV COMPL       FOOD SERVICES              
+50-258                 1,270   FOOD FACILITY      CAMP ACTIV COMPL       FOOD SERVICES              
+50-258A                  252   FOOD FACIL SVC     CAMP ACTIV COMPL       FOOD SERVICES              
+50-258B                  382   FOOD FACIL SVC     CAMP ACTIV COMPL       FOOD SERVICES              
+50-258C                  234   RECREATION FACIL   CAMP ACTIV COMPL       FOOD SERVICES              
+50-260                   263   OFFICE             CAMP ACTIV COMPL       FOOD SERVICES              
+50-260A                   26   OFFICE SERVICE     CAMP ACTIV COMPL       FOOD SERVICES              
+50-260AA                  35   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+50-260B                    5   OFFICE SERVICE     CAMP ACTIV COMPL       FOOD SERVICES              
+50-260C                   14   OFFICE SERVICE     CAMP ACTIV COMPL       FOOD SERVICES              
+                    --------                                                                        
+                      11,280                                                                        
+                                                                                                    
+50-300CA                 865   CORRIDOR           DP OF FACILITIES                                  
+50-300CB                 237   CORRIDOR           DP OF FACILITIES                                  
+50-300CC                 865   CORRIDOR           DP OF FACILITIES                                  
+50-300E1                  43   ELEVATOR           DP OF FACILITIES                                  
+50-300SA                  94   STAIRWAY           DP OF FACILITIES                                  
+50-300SB                  99   STAIRWAY           DP OF FACILITIES                                  
+50-300SE                 172   STAIRWAY           DP OF FACILITIES                                  
+50-300Z                  614   SHAFT SPACE        DP OF FACILITIES                                  
+50-301                   302   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+50-302                   237   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+50-303                   508   OFFICE SERVICE     CAMP ACTIV COMPL       ATHLETICS                  
+50-304                   217   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+50-304A                   19   STORAGE FACILITY   CAMP ACTIV COMPL       STU ACTIVITIES             
+50-305                   540   OFFICE SERVICE     CAMP ACTIV COMPL       ATHLETICS                  
+50-306                   530   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+50-309                   389   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+50-309A                  116   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+50-316                   284   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+50-316A                   16   OFFICE SERVICE     CAMP ACTIV COMPL       STU ACTIVITIES             
+50-318                   238   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+50-320                   219   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+50-320J                   19   JANITOR CLOSET     DP OF FACILITIES                                  
+50-340                 7,581   MULTI-PURPOSE RM   CAMP ACTIV COMPL       REGISTRARS OFF             
+50-350                   315   MALE LAVATORY      DP OF FACILITIES                                  
+50-350J                   13   JANITOR CLOSET     DP OF FACILITIES                                  
+50-350Z                   30   SHAFT SPACE        DP OF FACILITIES                                  
+50-351                    30   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+50-352                   185   OFFICE SERVICE     CAMP ACTIV COMPL       STU ACTIVITIES             
+50-352A                   62   JANITOR STORAGE    DP OF FACILITIES                                  
+50-353                   194   FEMALE LAVATORY    DP OF FACILITIES                                  
+50-353A                    8   JANITOR STORAGE    DP OF FACILITIES                                  
+50-353B                  109   OFFICE SERVICE     CAMP ACTIV COMPL       ATHLETICS                  
+50-354                   173   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+50-354A                   69   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+50-355                    55   OFFICE SERVICE     DP OF FACIL ADM                                   
+50-356                   215   OFFICE             CAMP ACTIV COMPL       HSNG&FD SV DEPT            
+50-356A                   25   OFFICE SERVICE     CAMP ACTIV COMPL       HSNG&FD SV DEPT            
+50-357                   477   STORAGE FACILITY   CAMP ACTIV COMPL       STU ACTIVITIES             
+50-357A                  266   STORAGE FACILITY   CAMP ACTIV COMPL       STU ACTIVITIES             
+50-358                   443   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+50-359                   259   OFFICE SERVICE     CAMP ACTIV COMPL       ATHLETICS                  
+50-360                   370   OFFICE             CAMP ACTIV COMPL       

@@ -1,0 +1,110 @@
+NW13-100CA               318   CORRIDOR           DP OF FACILITIES                                  
+NW13-100CB               129   CORRIDOR           DP OF FACILITIES                                  
+NW13-100E1                68   ELEVATOR           DP OF FACILITIES                                  
+NW13-100SA               138   STAIRWAY           DP OF FACILITIES                                  
+NW13-100SB               110   STAIRWAY           DP OF FACILITIES                                  
+NW13-100SC                55   STAIRWAY           DP OF FACILITIES                                  
+NW13-100SD                83   STAIRWAY           DP OF FACILITIES                                  
+NW13-100Z                 64   SHAFT SPACE        DP OF FACILITIES                                  
+NW13-109               3,153   LAB SUPPORT SHOP   NUCL REACTOR LAB                                  
+NW13-109A                110   OFFICE             NUCL REACTOR LAB                                  
+NW13-111                 187   LAB SUPPORT SHOP   NUCL REACTOR LAB                                  
+NW13-112                 521   LAB SUPPORT SHOP   NUCL REACTOR LAB                                  
+NW13-121                 208   MALE LAVATORY      DP OF FACILITIES                                  
+NW13-123                 154   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW13-125                 102   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW13-129                 259   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW13-130               2,628   STORAGE FACILITY   DP OF FACIL ADM                                   
+NW13-130A                234   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW13-130C                243   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW13-133               1,022   TEACHING LAB       NUCLEAR SCI & ENG                                 
+NW13-133A                670   TEACHING LAB       NUCLEAR SCI & ENG                                 
+NW13-133B                763   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW13-133D                839   RESEARCH LAB       NUCLEAR SCI & ENG                                 
+NW13-133E                 19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NW13-136                  53   LABORATORY SVC     ENV HLTH & SAFE                                   
+NW13-140                 335   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW13-141               1,622   LABORATORY SVC     ENV HLTH & SAFE                                   
+NW13-148A                 94   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW13-150                 301   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW13-151                 212   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW13-152                 253   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW13-155               1,321   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW13-158                 479   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW13-158A                289   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW13-158AA               290   LABORATORY SVC     VP-RSCH                                           
+NW13-160               1,045   LABORATORY SVC     ENV HLTH & SAFE                                   
+NW13-163                 203   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW13-164                  50   STORAGE FACILITY   DP OF FACIL ADM                                   
+NW13-165                 957   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW13-165A                 28   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW13-166                 132   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW13-171                 593   LAB SUPPORT SHOP   NUCL REACTOR LAB                                  
+NW13-176T                133   TELECOM CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      20,466                                                                        
+                                                                                                    
+NW13-200                 281   OFFICE             NUCLEAR SCI & ENG                                 
+NW13-200CA               672   CORRIDOR           DP OF FACILITIES                                  
+NW13-200CB               369   CORRIDOR           DP OF FACILITIES                                  
+NW13-200CC               315   CORRIDOR           DP OF FACILITIES                                  
+NW13-200CD               367   CORRIDOR           DP OF FACILITIES                                  
+NW13-200CE               862   CORRIDOR           DP OF FACILITIES                                  
+NW13-200CF               132   CORRIDOR           DP OF FACILITIES                                  
+NW13-200CG               100   CORRIDOR           DP OF FACILITIES                                  
+NW13-200CH               385   CORRIDOR           DP OF FACILITIES                                  
+NW13-200E1                80   ELEVATOR           DP OF FACILITIES                                  
+NW13-200SA               170   STAIRWAY           DP OF FACILITIES                                  
+NW13-200Z                 71   SHAFT SPACE        DP OF FACILITIES                                  
+NW13-201                 228   OFFICE             NUCLEAR SCI & ENG                                 
+NW13-202                 187   OFFICE             NUCLEAR SCI & ENG                                 
+NW13-204                 213   RESEARCH LAB       NUCLEAR SCI & ENG                                 
+NW13-205                 449   RESEARCH LAB       NUCLEAR SCI & ENG                                 
+NW13-205A                129   RESEARCH LAB       NUCLEAR SCI & ENG                                 
+NW13-206                 219   RESEARCH LAB       NUCLEAR SCI & ENG                                 
+NW13-207                 397   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW13-207A                 34   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW13-208                 220   RESEARCH LAB       EARTH ATMO&PL SC                                  
+NW13-209                 244   LABORATORY SVC     NUCLEAR SCI & ENG                                 
+NW13-210                 184   FEMALE LAVATORY    DP OF FACILITIES                                  
+NW13-211                 117   LABORATORY SVC     NUCLEAR SCI & ENG                                 
+NW13-212                 191   MALE LAVATORY      DP OF FACILITIES                                  
+NW13-213               1,487   RESEARCH LAB       NUCLEAR SCI & ENG                                 
+NW13-213A                134   RSCH LAB-OFFICE    NUCLEAR SCI & ENG                                 
+NW13-219                 276   RSCH LAB-OFFICE    NUCLEAR SCI & ENG                                 
+NW13-220                 301   RSCH LAB-OFFICE    NUCLEAR SCI & ENG                                 
+NW13-221                 226   OFFICE             NUCLEAR SCI & ENG                                 
+NW13-222                 196   OFFICE             NUCL REACTOR LAB                                  
+NW13-223                 209   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW13-224                 221   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW13-225                 219   LABORATORY SVC     NUCLEAR SCI & ENG                                 
+NW13-226                 225   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW13-227                 220   RESEARCH LAB       EARTH ATMO&PL SC                                  
+NW13-228                 227   RESEARCH LAB       EARTH ATMO&PL SC                                  
+NW13-239                 301   RSCH LAB-OFFICE    NUCLEAR SCI & ENG                                 
+NW13-240                 257   RSCH LAB-OFFICE    NUCLEAR SCI & ENG                                 
+NW13-241                 207   OFFICE             NUCL REACTOR LAB                                  
+NW13-242                 210   OFFICE             NUCL REACTOR LAB                                  
+NW13-243                 218   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW13-244                 140   OFFICE             NUCLEAR SCI & ENG                                 
+NW13-245                 222   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW13-247                 224   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW13-248                 106   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW13-250J                 39   JANITOR CLOSET     DP OF FACILITIES                                  
+NW13-251                 720   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW13-252                 347   OFFICE             NUCLEAR SCI & ENG                                 
+NW13-253               2,199   RESEARCH LAB       NUCLEAR SCI & ENG                                 
+NW13-254               1,051   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW13-259                 254   RESEARCH LAB       NUCLEAR SCI & ENG                                 
+NW13-260                 254   OFFICE             NUCL REACTOR LAB                                  
+NW13-261                 237   OFFICE             NUCL REACTOR LAB                                  
+NW13-262                 250   OFFICE             PROVOST RESERVE                                   
+NW13-263                 606   RESEARCH LAB       PROVOST RESERVE                                   
+NW13-264                 144   OFFICE SERVICE     NUCL REACTOR LAB                                  
+NW13-269                 341   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW13-270                 664   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW13-272                  69   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW13-272A                122   RSCH LAB-OFFICE    NUCL REACTOR LAB                                  
+NW13-274                 648   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW13-279                 250   OFFICE             NUCL REACTOR LAB                                  
+NW13-280                 254   OFFICE             NUCL REACTOR LAB    

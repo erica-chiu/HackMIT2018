@@ -1,0 +1,507 @@
+4-000CA                1,660   CORRIDOR           DP OF FACILITIES                                  
+4-000CB                2,227   CORRIDOR           DP OF FACILITIES                                  
+4-000CC                  979   CORRIDOR           DP OF FACILITIES                                  
+4-000E1                   79   ELEVATOR           DP OF FACILITIES                                  
+4-000LA                   74   LOBBY              DP OF FACILITIES                                  
+4-000SA                   74   STAIRWAY           DP OF FACILITIES                                  
+4-000SB                  125   STAIRWAY           DP OF FACILITIES                                  
+4-000Z                   306   SHAFT SPACE        DP OF FACILITIES                                  
+4-001                    274   MALE LAVATORY      DP OF FACILITIES                                  
+4-001J                    41   JANITOR CLOSET     DP OF FACILITIES                                  
+4-001Z                    25   SHAFT SPACE        DP OF FACILITIES                                  
+4-002                    998   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-003                  1,113   LAB SUPPORT SHOP   MATS SCI & ENG         CERAM/MET                  
+4-006                  1,297   LAB SUPPORT SHOP   MATS SCI & ENG                                    
+4-007                    527   RESEARCH LAB       MATS SCI & ENG         MET                        
+4-008E                    17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-012Z                   104   SHAFT SPACE        DP OF FACILITIES                                  
+4-014                    202   JANITOR STORAGE    DP OF FACILITIES                                  
+4-017                    537   OFFICE SERVICE     AUDIO-VISUAL SVC                                  
+4-017A                   104   OFFICE             AUDIO-VISUAL SVC                                  
+4-017B                     7   OFFICE SERVICE     AUDIO-VISUAL SVC                                  
+4-017C                   166   OFFICE             AUDIO-VISUAL SVC                                  
+4-017D                   120   OFFICE             AUDIO-VISUAL SVC                                  
+4-017F                   129   OFFICE             AUDIO-VISUAL SVC                                  
+4-017G                   465   OFFICE SERVICE     AUDIO-VISUAL SVC                                  
+4-017GA                   16   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-017H                   185   OFFICE             DP OF FACIL ADM                                   
+4-026                    200   LABORATORY SVC     MATS SCI & ENG         DEPT-GEN                   
+4-028                    116   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-029A                   130   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-029B                   118   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-029E                   250   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-031                    428   LABORATORY SVC     MATS SCI & ENG         MAT-ENG                    
+4-032                    162   STORAGE FACILITY   MATS SCI & ENG                                    
+4-032A                   114   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-032T                    89   TELECOM CLOSET     DP OF FACILITIES                                  
+4-033                    561   LABORATORY SVC     MATS SCI & ENG         MAT-ENG                    
+4-034                    158   OFFICE             DP OF FACIL ADM        ZONE A                     
+4-034B                   121   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-035                    917   CLASSROOM          AUDIO-VISUAL SVC                                  
+4-036                    196   OFFICE             DP OF FACIL ADM        ZONE A                     
+4-038                    171   PVT CIRCULATION    DP OF FACIL ADM                                   
+4-038A                    51   OFFICE             DP OF FACIL ADM                                   
+4-038B                   222   OFFICE             DP OF FACIL ADM                                   
+4-038C                    43   OFFICE SERVICE     DP OF FACIL ADM                                   
+4-038D                    67   PVT CIRCULATION    DP OF FACIL ADM                                   
+4-038DA                   30   PVT LAVATORY       DP OF FACIL ADM        ZONE A                     
+4-038DB                   45   PVT LAVATORY       DP OF FACIL ADM        ZONE A                     
+4-038DC                   58   OFFICE             DP OF FACIL ADM        ZONE A                     
+4-039A                    65   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-039J                   375   OFFICE SERVICE     EXEC VICE PRES                                    
+4-040A                   149   STORAGE FACILITY   DP OF FACIL ADM        ZONE A                     
+4-041                     85   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-041AE                  282   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-041E                    17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-043                    440   LABORATORY SVC     MATS SCI & ENG         MET                        
+4-043A                    68   LABORATORY SVC     MATS SCI & ENG         ARCH MAT                   
+4-044                    618   UTILITY/MECH RM    DP OF FACILITIES       ZONE A                     
+4-045                    351   OFFICE             MATS SCI & ENG                                    
+4-046                    364   RESEARCH LAB       MATS SCI & ENG                                    
+4-047                    508   OFFICE             MATS SCI & ENG                                    
+4-049                    293   OFFICE SERVICE     MATS SCI & ENG         ELEC MAT                   
+4-049A                    76   OFFICE             MATS SCI & ENG                                    
+4-049AA                   24   OFFICE SERVICE     MATS SCI & ENG         ELEC MAT                   
+4-049B                    90   OFFICE             MATS SCI & ENG                                    
+4-051                    203   OFFICE             MATS SCI & ENG         ELEC MAT                   
+4-052                    815   RESEARCH LAB       MATS SCI & ENG                                    
+4-052B                   195   RSCH LAB-OFFICE    MATS SCI & ENG                                    
+4-052Z                   279   SHAFT SPACE        DP OF FACILITIES                                  
+4-053                    683   OFFICE             MATS SCI & ENG                                    
+4-054                    666   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-055                    440   RESEARCH LAB       MATS SCI & ENG         MET                        
+4-057                    206   RESEARCH LAB       MATS SCI & ENG         MET                        
+4-058                    693   OFFICE SERVICE     MIT MUSEUM                                        
+4-059E                    20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-061                    917   RESEARCH LAB       MATS SCI & ENG         MET                        
+4-061A                    19   LABORATORY SVC     MATS SCI & ENG                                    
+4-063                    599   LAB SUPPORT SHOP   CHEMISTRY                                         
+4-063A                    99   OFFICE             CHEMISTRY                                         
+4-064                     89   OFFICE SERVICE     DP OF FACIL ADM                                   
+4-064A                   120   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+4-065                    374   LAB SUPPORT SHOP   CHEMISTRY                                         
+4-066                    288   JANITOR STORAGE    DP OF FACILITIES                                  
+4-066A                    60   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-066Z                    31   SHAFT SPACE        DP OF FACILITIES                                  
+4-067                     70   LABORATORY SVC     CHEMISTRY                                         
+4-068                    202   FEMALE LAVATORY    DP OF FACILITIES                                  
+4-068A                    68   MALE LAVATORY      DP OF FACILITIES                                  
+4-068J                    25   JANITOR CLOSET     DP OF FACILITIES                                  
+4-069                    342   LAB SUPPORT SHOP   CHEMISTRY                                         
+4-070                    821   PVT CIRCULATION    DP OF FACIL ADM                                   
+4-070A                    25   SECY/RECEPTION     DP OF FACIL ADM                                   
+4-070B                    94   OFFICE             DP OF FACIL ADM                                   
+4-070C                   112   OFFICE             DP OF FACIL ADM                                   
+4-070D                   146   OFFICE             DP OF FACIL ADM                                   
+4-070FA                   13   OFFICE             DP OF FACIL ADM                                   
+4-070FB                   13   OFFICE             DP OF FACIL ADM                                   
+4-070GA                   13   OFFICE             DP OF FACIL ADM                                   
+4-070GB                   13   OFFICE             DP OF FACIL ADM                                   
+4-070GC                   13   OFFICE             DP OF FACIL ADM                                   
+4-070GD                   13   OFFICE             DP OF FACIL ADM                                   
+4-070HA                   13   OFFICE             DP OF FACIL ADM                                   
+4-070HB                   13   OFFICE             DP OF FACIL ADM                                   
+4-070HC                   13   OFFICE             DP OF FACIL ADM                                   
+4-070HD                   13   OFFICE             DP OF FACIL ADM                                   
+4-070KA                   13   OFFICE             DP OF FACIL ADM                                   
+4-070KB                   13   OFFICE             DP OF FACIL ADM                                   
+4-070KC                   13   OFFICE             DP OF FACIL ADM                                   
+4-070KD                   13   OFFICE             DP OF FACIL ADM                                   
+4-070LA                   13   OFFICE             DP OF FACIL ADM                                   
+4-070LB                   13   OFFICE             DP OF FACIL ADM                                   
+4-070N                    27   OFFICE SERVICE     DP OF FACIL ADM                                   
+4-070P                    62   OFFICE SERVICE     DP OF FACIL ADM                                   
+4-070Q                    96   OFFICE SERVICE     DP OF FACIL ADM                                   
+4-070R                    17   OFFICE SERVICE     DP OF FACIL ADM                                   
+4-070S                   203   CONFERENCE ROOM    DP OF FACIL ADM                                   
+4-070U                    21   OFFICE SERVICE     DP OF FACIL ADM                                   
+                    --------                                                                        
+                      29,233                                                                        
+                                                                                                    
+4-100CA                2,142   CORRIDOR           DP OF FACILITIES                                  
+4-100CB                2,496   CORRIDOR           DP OF FACILITIES                                  
+4-100CC                1,210   CORRIDOR           DP OF FACILITIES                                  
+4-100E1                   67   ELEVATOR           DP OF FACILITIES                                  
+4-100LA                   82   LOBBY              DP OF FACILITIES                                  
+4-100LB                  210   LOBBY              DP OF FACILITIES                                  
+4-100LC                  158   LOBBY              DP OF FACILITIES                                  
+4-100SA                  358   STAIRWAY           DP OF FACILITIES                                  
+4-100SB                  223   STAIRWAY           DP OF FACILITIES                                  
+4-100Z                 1,058   SHAFT SPACE        DP OF FACILITIES                                  
+4-101                    260   MALE LAVATORY      DP OF FACILITIES                                  
+4-101J                    52   JANITOR CLOSET     DP OF FACILITIES                                  
+4-104                    203   SECY/RECEPTION     PROVOST                                           
+4-104A                   150   OFFICE SERVICE     PROVOST                                           
+4-104B                   320   OFFICE             PROVOST                                           
+4-105                    711   CONFERENCE ROOM    EXEC VICE PRES                                    
+4-105Z                    26   SHAFT SPACE        DP OF FACILITIES                                  
+4-107                    195   SECY/RECEPTION     OFF OF MINR EDUC                                  
+4-107A                    66   OFFICE             OFF OF MINR EDUC                                  
+4-107B                    75   OFFICE             OFF OF MINR EDUC                                  
+4-108                    270   CONFERENCE ROOM    DEAN-STU LIFE                                     
+4-108A                    13   OFFICE SERVICE     DEAN-STU LIFE                                     
+4-109                    114   OFFICE             OFF OF MINR EDUC                                  
+4-109A                   208   OFFICE             OFF OF MINR EDUC                                  
+4-110                    390   SECY/RECEPTION     DEAN-STU LIFE                                     
+4-110A                   212   OFFICE             DEAN-STU LIFE                                     
+4-110B                   356   OFFICE             DEAN-STU LIFE                                     
+4-110C                   110   OFFICE SERVICE     DEAN-STU LIFE                                     
+4-110D                    51   OFFICE             DEAN-STU LIFE                                     
+4-110E                    18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-113                    204   OFFICE SERVICE     OFF OF MINR EDUC                                  
+4-113A                    74   OFFICE             OFF OF MINR EDUC                                  
+4-113B                    73   OFFICE             OFF OF MINR EDUC                                  
+4-113C                   149   OFFICE             OFF OF MINR EDUC                                  
+4-113D                    67   OFFICE SERVICE     OFF OF MINR EDUC                                  
+4-113F                    55   OFFICE SERVICE     OFF OF MINR EDUC                                  
+4-113G                    45   OFFICE             OFF OF MINR EDUC                                  
+4-113H                    64   OFFICE             OFF OF MINR EDUC                                  
+4-115                    204   MERCHAND FACIL     CAMPUS DINING                                     
+4-119                    527   RESEARCH LAB       MATS SCI & ENG                                    
+4-119A                     6   LABORATORY SVC     MATS SCI & ENG                                    
+4-129J                    68   JANITOR CLOSET     DP OF FACILITIES                                  
+4-131                    615   LAB SUPPORT SHOP   MATS SCI & ENG                                    
+4-131A                   319   RESEARCH LAB       MATS SCI & ENG                                    
+4-131AE                   18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-131B                 1,278   RESEARCH LAB       MATS SCI & ENG                                    
+4-131BA                  920   RESEARCH LAB       MATS SCI & ENG                                    
+4-131BAA                  30   LABORATORY SVC     MATS SCI & ENG                                    
+4-131M                   315   LABORATORY SVC     MATS SCI & ENG                                    
+4-133E                    15   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-134                    262   OFFICE SERVICE     MATS SCI & ENG                                    
+4-134A                   308   OFFICE SERVICE     MATS SCI & ENG                                    
+4-134B                   292   OFFICE SERVICE     MATS SCI & ENG                                    
+4-138                    224   OFFICE             MATS SCI & ENG                                    
+4-140                    311   OFFICE             MATS SCI & ENG                                    
+4-140A                     3   OFFICE SERVICE     MATS SCI & ENG                                    
+4-141                    199   RESEARCH LAB       MATS SCI & ENG                                    
+4-142                    207   OFFICE             MATS SCI & ENG                                    
+4-143                    189   OFFICE             MATS SCI & ENG                                    
+4-144                    323   CLASSROOM          REGISTRAR                                         
+4-145                    768   CLASSROOM          REGISTRAR                                         
+4-145E                    43   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-146                    282   CLASSROOM          REGISTRAR                                         
+4-148                    206   CLASSROOM          REGISTRAR                                         
+4-148A                    11   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-149                    873   CLASSROOM          REGISTRAR                                         
+4-149A                     8   CLASSROOM SVC      REGISTRAR                                         
+4-149B                     8   CLASSROOM SVC      REGISTRAR                                         
+4-152                    439   CLASSROOM          REGISTRAR                                         
+4-152A                    24   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-153                    850   CLASSROOM          REGISTRAR                                         
+4-153A                     9   CLASSROOM SVC      REGISTRAR                                         
+4-153B                     8   CLASSROOM SVC      REGISTRAR                                         
+4-154A                     8   CLASSROOM SVC      REGISTRAR                                         
+4-156A                     9   CLASSROOM SVC      REGISTRAR                                         
+4-158                    495   CLASSROOM          REGISTRAR                                         
+4-158A                    22   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-159                    782   CLASSROOM          REGISTRAR                                         
+4-159A                    22   CLASSROOM SVC      REGISTRAR                                         
+4-160A                     7   CLASSROOM SVC      REGISTRAR                                         
+4-161E                    13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-162                    488   CLASSROOM          REGISTRAR                                         
+4-162A                    22   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-163                  1,276   LECTURE HALL       REGISTRAR                                         
+4-163A                    25   CLASSROOM SVC      REGISTRAR                                         
+4-164                    224   OFFICE             MUSIC & THEATER ART                               
+4-166                    269   FEMALE LAVATORY    DP OF FACILITIES                                  
+4-166Z                    45   SHAFT SPACE        DP OF FACILITIES                                  
+4-167                    328   COMPUTER FACIL     INFO SVCS & TECH                                  
+4-169J                    88   JANITOR CLOSET     DP OF FACILITIES                                  
+4-172                    793   OFFICE SERVICE     MATHEMATICS                                       
+4-173                     43   OFFICE SERVICE     MATHEMATICS                                       
+4-173A                    13   OFFICE SERVICE     MATHEMATICS                                       
+4-174                    139   SECY/RECEPTION     MATHEMATICS                                       
+4-174A                   224   OFFICE             MATHEMATICS                                       
+                    --------                                                                        
+                      28,032                                                                        
+                                                                                                    
+4-200CA                1,825   CORRIDOR           DP OF FACILITIES                                  
+4-200CB                2,510   CORRIDOR           DP OF FACILITIES                                  
+4-200CC                  576   CORRIDOR           DP OF FACILITIES                                  
+4-200E1                   67   ELEVATOR           DP OF FACILITIES                                  
+4-200LA                   75   LOBBY              DP OF FACILITIES                                  
+4-200SA                  269   STAIRWAY           DP OF FACILITIES                                  
+4-200SB                  282   STAIRWAY           DP OF FACILITIES                                  
+4-200Z                 1,157   SHAFT SPACE        DP OF FACILITIES                                  
+4-201                    276   FEMALE LAVATORY    DP OF FACILITIES                                  
+4-201J                    36   JANITOR CLOSET     DP OF FACILITIES                                  
+4-202                    431   CONFERENCE ROOM    EXEC VICE PRES                                    
+4-204                    323   SECY/RECEPTION     EXEC VICE PRES                                    
+4-204A                    10   OFFICE SERVICE     EXEC VICE PRES                                    
+4-205                    269   SECY/RECEPTION     EXEC VICE PRES                                    
+4-205A                   376   OFFICE             EXEC VICE PRES                                    
+4-205B                   174   OFFICE             EXEC VICE PRES                                    
+4-205C                    11   OFFICE SERVICE     EXEC VICE PRES                                    
+4-206                    327   OFFICE             EXEC VICE PRES                                    
+4-206A                    15   OFFICE SERVICE     EXEC VICE PRES                                    
+4-208                    324   OFFICE             EXEC VICE PRES                                    
+4-208E                    18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-211                  1,041   RESEARCH LAB       MATS SCI & ENG                                    
+4-211A                   226   CONFERENCE ROOM    MATS SCI & ENG                                    
+4-211B                   221   RSCH LAB-OFFICE    MATS SCI & ENG                                    
+4-212                    198   SECY/RECEPTION     SCH OF HUM & S S                                  
+4-212A                   196   OFFICE             SCH OF HUM & S S                                  
+4-212B                   295   OFFICE             SCH OF HUM & S S                                  
+4-212BA                   14   OFFICE SERVICE     SCH OF HUM & S S                                  
+4-215                    234   OFFICE             MUSIC & THEATER ART                               
+4-215T                    11   TELECOM CLOSET     DP OF FACILITIES                                  
+4-217                    532   OFFICE             MATS SCI & ENG         MET                        
+4-217A                    24   OFFICE SERVICE     MATS SCI & ENG         MAT-SCI                    
+4-217B                    44   OFFICE SERVICE     MATS SCI & ENG         MAT-SCI                    
+4-229                    398   OFFICE             MATS SCI & ENG                                    
+4-229A                    69   JANITOR STORAGE    DP OF FACILITIES                                  
+4-231                  1,226   LECTURE HALL       REGISTRAR                                         
+4-233                     14   CLASSROOM SVC      REGISTRAR                                         
+4-235E                    11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-237                  1,178   LECTURE HALL       REGISTRAR                                         
+4-237A                    64   CLASSROOM SVC      REGISTRAR                                         
+4-237E                    17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-239E                     4   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-240                    393   OFFICE SERVICE     SCH OF HUM & S S                                  
+4-240A                    97   OFFICE             SCH OF HUM & S S                                  
+4-240AA                   47   OFFICE SERVICE     SCH OF HUM & S S                                  
+4-240B                   136   OFFICE             SCH OF HUM & S S                                  
+4-240C                   135   OFFICE             SCH OF HUM & S S                                  
+4-240D                   208   SECY/RECEPTION     SCH OF HUM & S S                                  
+4-240F                   192   OFFICE             SCH OF HUM & S S                                  
+4-240G                   177   OFFICE             SCH OF HUM & S S                                  
+4-240H                   188   OFFICE             SCH OF HUM & S S                                  
+4-240K                    82   OFFICE             SCH OF HUM & S S                                  
+4-241E                    13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-243                    136   OFFICE SERVICE     MUSIC & THEATER ART                               
+4-243A                    86   OFFICE SERVICE     MUSIC & THEATER ART                               
+4-243B                   121   OFFICE             MUSIC & THEATER ART                               
+4-243C                   153   OFFICE             MUSIC & THEATER ART                               
+4-243D                   150   OFFICE             MUSIC & THEATER ART                               
+4-243F                   101   OFFICE             MUSIC & THEATER ART                               
+4-243G                    97   OFFICE SERVICE     MUSIC & THEATER ART                               
+4-243H                     7   OFFICE SERVICE     MUSIC & THEATER ART                               
+4-243K                     8   OFFICE SERVICE     MUSIC & THEATER ART                               
+4-243T                     8   TELECOM CLOSET     DP OF FACILITIES                                  
+4-244                     94   OFFICE SERVICE     MUSIC & THEATER ART                               
+4-246                    184   SECY/RECEPTION     MUSIC & THEATER ART                               
+4-246A                    94   OFFICE             MUSIC & THEATER ART                               
+4-246AA                   25   OFFICE SERVICE     MUSIC & THEATER ART                               
+4-246B                   178   OFFICE             MUSIC & THEATER ART                               
+4-248                    215   OFFICE             OFF OF PROVOST                                    
+4-249                    838   CLASSROOM          REGISTRAR                                         
+4-250                    281   SECY/RECEPTION     OFF OF PROVOST                                    
+4-251                    400   CLASSROOM          REGISTRAR                                         
+4-252                    194   OFFICE             OFF OF PROVOST                                    
+4-253                    488   CLASSROOM          REGISTRAR                                         
+4-255                     43   CLASSROOM SVC      REGISTRAR                                         
+4-257                    658   CLASSROOM          REGISTRAR                                         
+4-260                    518   LABORATORY SVC     MUSIC & THEATER ART                               
+4-260A                   104   MUSIC PRACTICE     MUSIC & THEATER ART                               
+4-260B                   110   MUSIC PRACTICE     MUSIC & THEATER ART                               
+4-260C                    92   MUSIC PRACTICE     MUSIC & THEATER ART                               
+4-260D                   109   MUSIC PRACTICE     MUSIC & THEATER ART                               
+4-260F                   105   MUSIC PRACTICE     MUSIC & THEATER ART                               
+4-260G                    92   MUSIC PRACTICE     MUSIC & THEATER ART                               
+4-260H                   110   MUSIC PRACTICE     MUSIC & THEATER ART                               
+4-260K                   106   MUSIC PRACTICE     MUSIC & THEATER ART                               
+4-260L                     7   LABORATORY SVC     MUSIC & THEATER ART                               
+4-260N                    27   LABORATORY SVC     MUSIC & THEATER ART                               
+4-261                    832   CLASSROOM          REGISTRAR                                         
+4-261E                    13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-262                     28   JANITOR STORAGE    DP OF FACILITIES                                  
+4-262Z                    36   SHAFT SPACE        DP OF FACILITIES                                  
+4-265                    829   CLASSROOM          REGISTRAR                                         
+4-266                    291   MALE LAVATORY      DP OF FACILITIES                                  
+4-266Z                    24   SHAFT SPACE        DP OF FACILITIES                                  
+4-267J                    31   JANITOR CLOSET     DP OF FACILITIES                                  
+4-267T                    11   TELECOM CLOSET     DP OF FACILITIES                                  
+4-269A                   222   OFFICE SERVICE     DP OF FACIL ADM                                   
+4-269T                   194   TELECOM CLOSET     DP OF FACILITIES                                  
+4-270                  1,603   LECTURE HALL       REGISTRAR                                         
+4-270A                    31   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-270B                    29   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-270C                    45   CLASSROOM SVC      REGISTRAR                                         
+                    --------                                                                        
+                      27,195                                                                        
+                                                                                                    
+4-300CA                1,829   CORRIDOR           DP OF FACILITIES                                  
+4-300CB                2,711   CORRIDOR           DP OF FACILITIES                                  
+4-300CC                  588   CORRIDOR           DP OF FACILITIES                                  
+4-300CD                1,189   CORRIDOR           DP OF FACILITIES                                  
+4-300E1                   67   ELEVATOR           DP OF FACILITIES                                  
+4-300LA                   76   LOBBY              DP OF FACILITIES                                  
+4-300SA                  270   STAIRWAY           DP OF FACILITIES                                  
+4-300SB                  283   STAIRWAY           DP OF FACILITIES                                  
+4-300Z                   683   SHAFT SPACE        DP OF FACILITIES                                  
+4-301                    261   MALE LAVATORY      DP OF FACILITIES                                  
+4-301J                    55   JANITOR CLOSET     DP OF FACILITIES                                  
+4-303                    691   CONFERENCE ROOM    PHYSICS                                           
+4-303A                    13   OFFICE SERVICE     PHYSICS                                           
+4-303B                    15   OFFICE SERVICE     PHYSICS                                           
+4-303C                    16   OFFICE SERVICE     PHYSICS                                           
+4-304                    556   OFFICE SERVICE     PHYSICS                                           
+4-304A                   172   OFFICE             PHYSICS                                           
+4-304B                   163   OFFICE             PHYSICS                                           
+4-304C                   231   SECY/RECEPTION     PHYSICS                                           
+4-304D                   206   OFFICE             PHYSICS                                           
+4-304E                    11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-304F                   206   OFFICE             PHYSICS                                           
+4-304G                   189   SECY/RECEPTION     PHYSICS                                           
+4-304H                   398   OFFICE             PHYSICS                                           
+4-305                    252   OFFICE             PHYSICS                                           
+4-307T                    92   TELECOM CLOSET     DP OF FACILITIES                                  
+4-309                    252   OFFICE             PHYSICS                                           
+4-311                    120   OFFICE SERVICE     PHYSICS                                           
+4-311A                   236   OFFICE             PHYSICS                                           
+4-313                    142   OFFICE             PHYSICS                                           
+4-315                    394   OFFICE SERVICE     PHYSICS                                           
+4-315B                   204   OFFICE             PHYSICS                                           
+4-315C                   140   SECY/RECEPTION     PHYSICS                                           
+4-315D                   106   SECY/RECEPTION     PHYSICS                                           
+4-315F                   113   OFFICE             PHYSICS                                           
+4-315G                   113   OFFICE             PHYSICS                                           
+4-315K                    19   OFFICE SERVICE     PHYSICS                                           
+4-315L                   111   OFFICE SERVICE     PHYSICS                                           
+4-317AE                   19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-317BE                   18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-327                     69   OFFICE SERVICE     PHYSICS                                           
+4-329                     69   OFFICE SERVICE     PHYSICS                                           
+4-331                    718   CONFERENCE ROOM    PHYSICS                                           
+4-332                  2,066   OFFICE SERVICE     PHYSICS                                           
+4-332A                   191   OFFICE             PHYSICS                                           
+4-337                    194   OFFICE SERVICE     PHYSICS                                           
+4-337A                   180   OFFICE             PHYSICS                                           
+4-337B                   184   OFFICE             PHYSICS                                           
+4-337C                   102   OFFICE             PHYSICS                                           
+4-337D                   184   OFFICE             PHYSICS                                           
+4-341                    160   OFFICE             PHYSICS                                           
+4-342E                    18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-345                    194   OFFICE SERVICE     PHYSICS                                           
+4-345A                   184   OFFICE             PHYSICS                                           
+4-345B                   102   OFFICE             PHYSICS                                           
+4-345C                   188   OFFICE             PHYSICS                                           
+4-345D                   108   OFFICE             PHYSICS                                           
+4-346E                     8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-347                     15   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-348AZ                    5   SHAFT SPACE        DP OF FACILITIES                                  
+4-348BZ                   13   SHAFT SPACE        DP OF FACILITIES                                  
+4-349                  1,207   CONFERENCE ROOM    PHYSICS                                           
+4-349A                    90   OFFICE SERVICE     PHYSICS                                           
+4-349B                    82   OFFICE SERVICE     PHYSICS                                           
+4-349C                     7   OFFICE SERVICE     PHYSICS                                           
+4-350                    755   OFFICE SERVICE     PHYSICS                                           
+4-350A                   252   OFFICE             PHYSICS                                           
+4-350AZ                    5   SHAFT SPACE        DP OF FACILITIES                                  
+4-350BZ                   12   SHAFT SPACE        DP OF FACILITIES                                  
+4-358                    173   CONFERENCE ROOM    PHYSICS                                           
+4-360                    158   CONFERENCE ROOM    PHYSICS                                           
+4-361                  2,464   TEACHING LAB       PHYSICS                                           
+4-361A                   435   TEACHING LAB       PHYSICS                                           
+4-361B                   266   TEACHING LAB       PHYSICS                                           
+4-362                    145   OFFICE             PHYSICS                                           
+4-363E                     5   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-364                    713   CLASSROOM          REGISTRAR                                         
+4-364A                    16   CLASSROOM SVC      REGISTRAR                                         
+4-364AZ                   35   SHAFT SPACE        DP OF FACILITIES                                  
+4-366                    279   FEMALE LAVATORY    DP OF FACILITIES                                  
+4-366A                    47   JANITOR STORAGE    DP OF FACILITIES                                  
+4-369J                    63   JANITOR CLOSET     DP OF FACILITIES                                  
+4-370                  1,630   LECTURE HALL       REGISTRAR                                         
+4-370A                    31   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-370B                    47   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-370C                    45   CLASSROOM SVC      REGISTRAR                                         
+                    --------                                                                        
+                      27,120                                                                        
+                                                                                                    
+4-400CA                1,098   CORRIDOR           DP OF FACILITIES                                  
+4-400CB                  718   CORRIDOR           DP OF FACILITIES                                  
+4-400CC                  108   CORRIDOR           DP OF FACILITIES                                  
+4-400CD                  303   CORRIDOR           DP OF FACILITIES                                  
+4-400CE                  125   CORRIDOR           DP OF FACILITIES                                  
+4-400E1                   67   ELEVATOR           DP OF FACILITIES                                  
+4-400LA                   76   LOBBY              DP OF FACILITIES                                  
+4-400M                 1,291   LABORATORY SVC     CHEMISTRY                                         
+4-400SA                  294   STAIRWAY           DP OF FACILITIES                                  
+4-400SB                  304   STAIRWAY           DP OF FACILITIES                                  
+4-400SC                   15   STAIRWAY           DP OF FACILITIES                                  
+4-400SCM                  13   STAIRWAY           DP OF FACILITIES                                  
+4-400Z                   588   SHAFT SPACE        DP OF FACILITIES                                  
+4-401                    248   FEMALE LAVATORY    DP OF FACILITIES                                  
+4-401J                    45   JANITOR CLOSET     DP OF FACILITIES                                  
+4-402                    751   CLASSROOM          EDGERTON CENTER        EDGERTON CENTER            
+4-402A                    20   CLASSROOM SVC      EDGERTON CENTER        EDGERTON CENTER            
+4-402B                    20   CLASSROOM SVC      EDGERTON CENTER        EDGERTON CENTER            
+4-403                    104   OFFICE SERVICE     EDGERTON CENTER                                   
+4-403B                   251   CONFERENCE ROOM    EDGERTON CENTER        EDGERTON CENTER            
+4-405                    350   OFFICE             EDGERTON CENTER        EDGERTON CENTER            
+4-406                    167   OFFICE             EDGERTON CENTER        EDGERTON CENTER            
+4-406A                   172   OFFICE             EDGERTON CENTER        EDGERTON CENTER            
+4-408                    186   OFFICE             EDGERTON CENTER        EDGERTON CENTER            
+4-409                    927   RESEARCH LAB       EDGERTON CENTER        EDGERTON CENTER            
+4-410                    742   RESEARCH LAB       EDGERTON CENTER        EDGERTON CENTER            
+4-410A                   121   LABORATORY SVC     EDGERTON CENTER        EDGERTON CENTER            
+4-410E                    15   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-411                    167   LAB SUPPORT SHOP   EDGERTON CENTER        EDGERTON CENTER            
+4-412                     79   LABORATORY SVC     EDGERTON CENTER        EDGERTON CENTER            
+4-413                    511   RESEARCH LAB       MATS SCI & ENG         MET                        
+4-413A                   104   RESEARCH LAB       MATS SCI & ENG                                    
+4-415                    237   OFFICE             MATS SCI & ENG         MET                        
+4-421                    451   RESEARCH LAB       MATS SCI & ENG         MET                        
+4-421B                   105   RSCH LAB-OFFICE    MATS SCI & ENG                                    
+4-428Z                    38   SHAFT SPACE        DP OF FACILITIES                                  
+4-429                    383   LABORATORY SVC     CHEMISTRY                                         
+4-429A                    69   LABORATORY SVC     CHEMISTRY                                         
+4-430                  2,142   TEACHING LAB       CHEMISTRY                                         
+4-430A                    53   LABORATORY SVC     CHEMISTRY                                         
+4-435                    288   TEACHING LAB       CHEMISTRY                                         
+4-435A                   132   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-440                  2,195   TEACHING LAB       CHEMISTRY                                         
+4-440A                    53   LABORATORY SVC     CHEMISTRY                                         
+4-440E                    18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-441                    456   TEACHING LAB       CHEMISTRY                                         
+4-441E                    15   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-444                  2,127   TEACHING LAB       CHEMISTRY                                         
+4-447                    314   TEACHING LAB       CHEMISTRY                                         
+4-447A                   160   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-448                    335   TEACHING LAB       CHEMISTRY                                         
+4-449                    316   OFFICE             CHEMISTRY                                         
+4-449A                   256   OFFICE             CHEMISTRY                                         
+4-449B                   257   OFFICE             CHEMISTRY                                         
+4-450                    324   LABORATORY SVC     CHEMISTRY                                         
+4-450A                   129   LABORATORY SVC     CHEMISTRY                                         
+4-451                     12   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-452                    218   TEACHING LAB       CHEMISTRY                                         
+4-454                  2,035   TEACHING LAB       CHEMISTRY                                         
+4-457                    295   TEACHING LAB       CHEMISTRY                                         
+4-457A                   169   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-460                  2,019   TEACHING LAB       CHEMISTRY                                         
+4-460A                    53   LABORATORY SVC     CHEMISTRY                                         
+4-463E                    13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+4-464                    205   LABORATORY SVC     CHEMISTRY                                         
+4-465                    916   TEACHING LAB       CHEMISTRY                                         
+4-465A                     9   LABORATORY SVC     CHEMISTRY                                         
+4-466                    161   FEMALE LAVATORY    DP OF FACILITIES                                  
+4-468                    175   MALE LAVATORY      DP OF FACILITIES                                  
+4-468J                    21   JANITOR CLOSET     DP OF FACILITIES                                  
+4-469                    283   LAB SUPPORT SHOP   CHEMISTRY                                         
+4-470                    339   TEACHING LAB       CHEMISTRY                                         
+4-471                    354   TEACHING LAB       CHEMISTRY                                         
+4-472                    282   TEACHING LAB       CHEMISTRY                                         
+4-474                    517   TEACHING LAB       CHEMISTRY                                         
+                    --------                                                                        
+                      28,901                                                                        
+                                                                                                    
+4-500CC                   44   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+4-500SA                   68   STAIRWAY           DP OF FACILITIES                                  
+4-500SB                  123   STAIRWAY           DP OF FACILITIES                                  
+4-503                    188   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-509                     68   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-511                    326   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-513                    278   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-529                    139   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-530                     72   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-535                    358   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-540                  1,325   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-548                    121   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-550                    184   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-560                     61   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-564                    147   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-565                    157   UTILITY/MECH RM    DP OF FACILITIES                                  
+4-567                    134   UTILITY/MECH RM    DP OF FACILITIES  

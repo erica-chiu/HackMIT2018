@@ -1,0 +1,76 @@
+34-000CA                  39   CORRIDOR           DP OF FACILITIES                                  
+34-000SA                  66   STAIRWAY           DP OF FACILITIES                                  
+34-000SB                  66   STAIRWAY           DP OF FACILITIES                                  
+34-000SC                 163   STAIRWAY           DP OF FACILITIES                                  
+34-001                   111   CLASSROOM SVC      ELEC ENG&COMP SC       EECS                       
+34-001J                   46   JANITOR CLOSET     DP OF FACILITIES                                  
+34-001Z                  190   SHAFT SPACE        DP OF FACILITIES                                  
+34-002                   133   CLASSROOM SVC      ELEC ENG&COMP SC       EECS                       
+34-002A                   66   CLASSROOM SVC      ELEC ENG&COMP SC       EECS                       
+34-002Z                  184   SHAFT SPACE        DP OF FACILITIES                                  
+34-003                 1,107   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                       2,171                                                                        
+                                                                                                    
+34-100LA               1,728   LOBBY              DP OF FACILITIES                                  
+34-100SA                  44   STAIRWAY           DP OF FACILITIES                                  
+34-100SB                  43   STAIRWAY           DP OF FACILITIES                                  
+34-100Z                  286   SHAFT SPACE        DP OF FACILITIES                                  
+34-101                 2,810   LECTURE HALL       REGISTRAR                                         
+34-101A                   32   CLASSROOM SVC      ELEC ENG&COMP SC                                  
+34-101B                  117   UTILITY/MECH RM    DP OF FACILITIES                                  
+34-101E                   57   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,117                                                                        
+                                                                                                    
+34-200CA                 656   CORRIDOR           DP OF FACILITIES                                  
+34-200Z                  182   SHAFT SPACE        DP OF FACILITIES                                  
+34-201                   302   CLASSROOM SVC      ELEC ENG&COMP SC       A/V BOOTH                  
+34-201A                  319   CLASSROOM SVC      AUDIO-VISUAL SVC       A/V BOOTH                  
+34-201E                   14   ELECTRIC CLOSET    DP OF FACILITIES                                  
+34-201T                    9   TELECOM CLOSET     DP OF FACILITIES                                  
+34-202                   330   CLASSROOM SVC      ELEC ENG&COMP SC       A/V BOOTH                  
+                    --------                                                                        
+                       1,811                                                                        
+                                                                                                    
+34-300CA               1,553   CORRIDOR           DP OF FACILITIES                                  
+34-300CB                 228   CORRIDOR           DP OF FACILITIES                                  
+34-300CC                 194   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+34-300SC                  99   STAIRWAY           DP OF FACILITIES                                  
+34-300Z                1,067   SHAFT SPACE        DP OF FACILITIES                                  
+34-301                   666   CLASSROOM          REGISTRAR                                         
+34-301E                   21   ELECTRIC CLOSET    DP OF FACILITIES                                  
+34-302                   669   CLASSROOM          REGISTRAR                                         
+34-302T                   13   TELECOM CLOSET     DP OF FACILITIES                                  
+34-303                   689   CLASSROOM          REGISTRAR                                         
+34-304                   692   CLASSROOM          REGISTRAR                                         
+34-306                    36   CLASSROOM SVC      REGISTRAR                                         
+                    --------                                                                        
+                       5,928                                                                        
+                                                                                                    
+34-400CA                 828   CORRIDOR           DP OF FACILITIES                                  
+34-400CC                 200   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+34-400SC                 136   STAIRWAY           DP OF FACILITIES                                  
+34-400Z                   46   SHAFT SPACE        DP OF FACILITIES                                  
+34-401A                1,625   CONFERENCE ROOM    ELEC ENG&COMP SC                                  
+34-401AA                  50   OFFICE SERVICE     ELEC ENG&COMP SC       EECS                       
+34-401B                1,659   CONFERENCE ROOM    ELEC ENG&COMP SC       EECS                       
+34-401BB                  49   OFFICE SERVICE     ELEC ENG&COMP SC       EECS                       
+34-401C                   15   OFFICE SERVICE     ELEC ENG&COMP SC       EECS                       
+34-401D                   12   OFFICE SERVICE     ELEC ENG&COMP SC       EECS                       
+34-401E                    7   ELECTRIC CLOSET    DP OF FACILITIES                                  
+34-401T                    7   TELECOM CLOSET     DP OF FACILITIES                                  
+34-402                   307   OFFICE SERVICE     ELEC ENG&COMP SC       EECS                       
+34-402A                   53   OFFICE SERVICE     ELEC ENG&COMP SC       EECS                       
+                    --------                                                                        
+                       4,994                                                                        
+                                                                                                    
+34-500CA                 689   CORRIDOR           DP OF FACILITIES                                  
+34-500Z                   48   SHAFT SPACE        DP OF FACILITIES                                  
+34-501                 3,797   TEACHING LAB       ELEC ENG&COMP SC                                  
+34-501A                   49   LABORATORY SVC     ELEC ENG&COMP SC                                  
+34-501B                   49   LABORATORY SVC     ELEC ENG&COMP SC                                  
+34-501C                   41   LABORATORY SVC     ELEC ENG&COMP SC                                  
+34-501D                   35   LABORATORY SVC     ELEC ENG&COMP SC                                  
+34-501E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+34-501T                   11   TELECOM CLOSET     DP OF FACILITIES   

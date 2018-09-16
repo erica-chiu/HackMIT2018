@@ -1,0 +1,29 @@
+W15-000CA                242   CORRIDOR           DP OF FACILITIES                                  
+W15-000LA                162   LOBBY              DP OF FACILITIES                                  
+W15-000SA                 53   STAIRWAY           DP OF FACILITIES                                  
+W15-000SB                 52   STAIRWAY           DP OF FACILITIES                                  
+W15-000Z                 400   SHAFT SPACE        DP OF FACILITIES                                  
+W15-001                  208   STORAGE FACILITY   CAMP ACTIV COMPL                                  
+W15-002                  206   UTILITY/MECH RM    DP OF FACILITIES                                  
+W15-003                   23   FEMALE LAVATORY    DP OF FACILITIES                                  
+W15-004                   21   MALE LAVATORY      DP OF FACILITIES                                  
+W15-010                  285   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+W15-011                   57   MULTI-PURPOSE RM   CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W15-012                  106   MULTI-PURPOSE RM   CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W15-013                   46   MULTI-PURPOSE RM   CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W15-014                   43   MULTI-PURPOSE RM   CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W15-015                   90   MULTI-PURPOSE RM   CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W15-015A                  17   UTILITY/MECH RM    DP OF FACILITIES                                  
+W15-016T                  57   TELECOM CLOSET     DP OF FACILITIES       RELIGIOUS CNSL             
+W15-017                   11   MULTI-PURPOSE RM   CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W15-018J                  61   JANITOR CLOSET     DP OF FACILITIES                                  
+W15-020                   36   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                       2,177                                                                        
+                                                                                                    
+W15-100LA                337   LOBBY              DP OF FACILITIES                                  
+W15-100SA                 56   STAIRWAY           DP OF FACILITIES                                  
+W15-100SB                 83   STAIRWAY           DP OF FACILITIES                                  
+W15-100Z                 153   SHAFT SPACE        DP OF FACILITIES                                  
+W15-110                1,843   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+W15-110M                 127   MULTI-PURPOSE RM   CAMP ACTIV COMPL     

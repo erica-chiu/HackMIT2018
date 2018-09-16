@@ -1,0 +1,77 @@
+W34-100CA              1,900   CORRIDOR           DP OF FACILITIES                                  
+W34-100CB                 70   CORRIDOR           DP OF FACILITIES                                  
+W34-100E1                 74   ELEVATOR           DP OF FACILITIES                                  
+W34-100E1M                72   ELEVATOR           DP OF FACILITIES                                  
+W34-100LA              3,414   LOBBY              DP OF FACILITIES                                  
+W34-100LB                317   LOBBY              DP OF FACILITIES                                  
+W34-100SA                 64   STAIRWAY           DP OF FACILITIES                                  
+W34-100SB                202   STAIRWAY           DP OF FACILITIES                                  
+W34-100SBM               165   STAIRWAY           DP OF FACILITIES                                  
+W34-100SC                 82   STAIRWAY           DP OF FACILITIES                                  
+W34-100SCM               124   STAIRWAY           DP OF FACILITIES                                  
+W34-100SD                347   STAIRWAY           DP OF FACILITIES                                  
+W34-100SE                260   STAIRWAY           DP OF FACILITIES                                  
+W34-100SF                246   STAIRWAY           DP OF FACILITIES                                  
+W34-100SG                339   STAIRWAY           DP OF FACILITIES                                  
+W34-100Z                 271   SHAFT SPACE        DP OF FACILITIES                                  
+W34-101               23,321   ATHLETIC FACIL     ATHLETICS                                         
+W34-101A                  32   UTILITY/MECH RM    DP OF FACILITIES                                  
+W34-102                  141   OFFICE             ATHLETICS                                         
+W34-103                  169   ATHLETIC SERVICE   ATHLETICS                                         
+W34-104                  404   ATHLETIC SERVICE   ATHLETICS                                         
+W34-105                   35   ATH LOCKER ROOM    ATHLETICS                                         
+W34-106                   35   ATH LOCKER ROOM    ATHLETICS                                         
+W34-107                   27   ATHLETIC SERVICE   ATHLETICS                                         
+W34-108                  210   ATHLETIC SERVICE   ATHLETICS                                         
+W34-109                   86   ATHLETIC SERVICE   ATHLETICS                                         
+W34-110                  119   ATHLETIC SERVICE   ATHLETICS                                         
+W34-110J                  29   JANITOR CLOSET     DP OF FACILITIES                                  
+W34-111                  255   MALE LAVATORY      DP OF FACILITIES                                  
+W34-112                  233   FEMALE LAVATORY    DP OF FACILITIES                                  
+W34-113                  635   ATH LOCKER ROOM    ATHLETICS                                         
+W34-115                  106   PVT LAVATORY       ATHLETICS                                         
+W34-116                  110   ATH LOCKER ROOM    ATHLETICS                                         
+W34-116A                  63   ATH SHOWER ROOM    ATHLETICS                                         
+W34-117                  708   ATH LOCKER ROOM    ATHLETICS                                         
+W34-117M                  73   ATHLETIC SERVICE   ATHLETICS                                         
+W34-119                  175   PVT LAVATORY       ATHLETICS                                         
+W34-119M                  75   ATHLETIC SERVICE   ATHLETICS                                         
+W34-119TM                 92   TELECOM CLOSET     DP OF FACILITIES                                  
+W34-120                  124   ATH LOCKER ROOM    ATHLETICS                                         
+W34-120A                 113   ATH SHOWER ROOM    ATHLETICS                                         
+W34-123                  708   ATH LOCKER ROOM    ATHLETICS                                         
+W34-125M               4,352   UTILITY/MECH RM    DP OF FACILITIES                                  
+W34-128                  639   ATH LOCKER ROOM    ATHLETICS                                         
+W34-130                  688   UTILITY/MECH RM    DP OF FACILITIES                                  
+W34-133                   95   UTILITY/MECH RM    DP OF FACILITIES                                  
+W34-134                  227   OFFICE             DP OF FACIL ADM                                   
+W34-134A                 109   OFFICE             DP OF FACIL ADM                                   
+W34-135                  374   UTILITY/MECH RM    DP OF FACILITIES                                  
+W34-135M               2,253   UTILITY/MECH RM    DP OF FACILITIES                                  
+W34-137                   46   UTILITY/MECH RM    DP OF FACILITIES                                  
+W34-137JM                 45   JANITOR CLOSET     DP OF FACILITIES                                  
+W34-138                  501   VEHICLE STORAGE    ATHLETICS                                         
+W34-139                  285   UTILITY/MECH RM    DP OF FACILITIES                                  
+W34-140                  481   UTILITY/MECH RM    DP OF FACILITIES                                  
+W34-140M                 322   UTILITY/MECH RM    DP OF FACILITIES                                  
+W34-142                1,800   STORAGE FACILITY   ATHLETICS                                         
+W34-142A                 149   STORAGE FACILITY   ATHLETICS                                         
+W34-142B                  41   ATHLETIC SERVICE   ATHLETICS                                         
+W34-143EM              1,376   UTILITY/MECH RM    DP OF FACILITIES                                  
+W34-153                  416   ATHLETIC SERVICE   ATHLETICS                                         
+                    --------                                                                        
+                      50,227                                                                        
+                                                                                                    
+W34-200CA                339   CORRIDOR           DP OF FACILITIES                                  
+W34-200E1                 83   ELEVATOR           DP OF FACILITIES                                  
+W34-200SA                217   STAIRWAY           DP OF FACILITIES                                  
+W34-200SB                220   STAIRWAY           DP OF FACILITIES                                  
+W34-200SC                 90   STAIRWAY           DP OF FACILITIES                                  
+W34-200SD                304   STAIRWAY           DP OF FACILITIES                                  
+W34-200SE                116   STAIRWAY           DP OF FACILITIES                                  
+W34-200SF                123   STAIRWAY           DP OF FACILITIES                                  
+W34-200SG                305   STAIRWAY           DP OF FACILITIES                                  
+W34-201               49,271   ATHLETIC FACIL     ATHLETICS                                         
+W34-201A               1,291   ATHLETIC FACIL     ATHLETICS                                         
+W34-237                  333   ATHLETIC SERVICE   ATHLETICS                                         
+W34-237J                  42   JANITOR CLOSET     DP OF FACILITIES   

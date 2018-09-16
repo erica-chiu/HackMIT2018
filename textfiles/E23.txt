@@ -1,0 +1,594 @@
+E23-000CA                764   CORRIDOR           DP OF FACILITIES                                  
+E23-000CB                607   CORRIDOR           DP OF FACILITIES                                  
+E23-000CC                314   CORRIDOR           DP OF FACILITIES                                  
+E23-000CD                476   CORRIDOR           DP OF FACILITIES                                  
+E23-000E1                 85   ELEVATOR           DP OF FACILITIES                                  
+E23-000E2                 79   ELEVATOR           DP OF FACILITIES                                  
+E23-000LA                689   LOBBY              DP OF FACILITIES                                  
+E23-000SB                222   STAIRWAY           DP OF FACILITIES                                  
+E23-000SC                 74   STAIRWAY           DP OF FACILITIES                                  
+E23-000Z                 439   SHAFT SPACE        DP OF FACILITIES                                  
+E23-003                  223   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-003A                 215   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-004T                  71   TELECOM CLOSET     DP OF FACILITIES                                  
+E23-008A                 254   UTILITY/MECH RM    DP OF FACILITIES                                  
+E23-008AE                 13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E23-008BE                 28   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E23-008E               1,121   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E23-009                  778   CONFERENCE ROOM    MEDICAL DEPT                                      
+E23-009A                 561   CONFERENCE ROOM    MEDICAL DEPT                                      
+E23-009B                 176   OFFICE SERVICE     PROVOST RESERVE                                   
+E23-014                   77   UTILITY/MECH RM    DP OF FACILITIES                                  
+E23-014E                  72   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E23-015                  257   UTILITY/MECH RM    DP OF FACILITIES                                  
+E23-016                  125   FEMALE LAVATORY    DP OF FACILITIES                                  
+E23-018                  127   MALE LAVATORY      DP OF FACILITIES                                  
+E23-019                  302   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-020A                  41   UTILITY/MECH RM    DP OF FACILITIES                                  
+E23-020J                  87   JANITOR CLOSET     DP OF FACILITIES                                  
+E23-021A                 360   OFFICE SERVICE     INFO SVCS & TECH                                  
+E23-021AA                 61   OFFICE             INFO SVCS & TECH                                  
+E23-021AB                 72   OFFICE             INFO SVCS & TECH                                  
+E23-021AC                123   OFFICE SERVICE     INFO SVCS & TECH                                  
+E23-021AD                 81   OFFICE             INFO SVCS & TECH                                  
+E23-021AF                 22   OFFICE SERVICE     INFO SVCS & TECH                                  
+E23-021AG                 73   OFFICE             INFO SVCS & TECH                                  
+E23-021AH                 62   OFFICE             INFO SVCS & TECH                                  
+E23-021AK                 70   OFFICE             INFO SVCS & TECH                                  
+E23-021AL                 65   OFFICE             INFO SVCS & TECH                                  
+E23-021AN                 71   OFFICE             INFO SVCS & TECH                                  
+E23-021T                 235   TELECOM CLOSET     DP OF FACILITIES                                  
+E23-022                  191   JANITOR STORAGE    DP OF FACILITIES                                  
+E23-023                  425   OFFICE             MEDICAL DEPT                                      
+E23-023A                  57   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-023B                  78   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-023C                  27   OFFICE             MEDICAL DEPT                                      
+E23-023D                 229   OFFICE             MEDICAL DEPT                                      
+E23-023F                 109   OFFICE             MEDICAL DEPT                                      
+E23-023G                  56   OFFICE             MEDICAL DEPT                                      
+E23-024                1,806   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-024A                 133   MAIL ROOM          DP OF FACIL ADM                                   
+E23-026                   52   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-028                   64   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-030                   60   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-032                  101   JANITOR LOCKER     DP OF FACILITIES                                  
+E23-032A                  68   JANITOR STORAGE    DP OF FACILITIES                                  
+E23-032E                  88   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E23-034J                  59   JANITOR CLOSET     DP OF FACILITIES                                  
+E23-036                  119   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-039                  381   COMPUTER SERVICE   INFO SVCS & TECH                                  
+E23-041E                 187   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E23-041T                  18   TELECOM CLOSET     DP OF FACILITIES                                  
+E23-042                  217   OFFICE             MEDICAL DEPT                                      
+E23-043J                 293   JANITOR CLOSET     DP OF FACILITIES                                  
+E23-046                  348   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-050                   53   PVT LAVATORY       MEDICAL DEPT                                      
+E23-052                   57   PVT LAVATORY       MEDICAL DEPT                                      
+E23-053                2,605   UTILITY/MECH RM    DP OF FACILITIES                                  
+E23-053A                 338   UTILITY/MECH RM    DP OF FACILITIES                                  
+E23-054                  153   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-054A                  16   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-057                  515   HEALTH CARE SVC    MEDICAL DEPT                                      
+                    --------                                                                        
+                      18,476                                                                        
+                                                                                                    
+E23-100CA              2,172   CORRIDOR           DP OF FACILITIES                                  
+E23-100CD                687   CORRIDOR           DP OF FACILITIES                                  
+E23-100E1                 75   ELEVATOR           DP OF FACILITIES                                  
+E23-100E2                 75   ELEVATOR           DP OF FACILITIES                                  
+E23-100LA                101   LOBBY              DP OF FACILITIES                                  
+E23-100LB              1,073   LOBBY              DP OF FACILITIES                                  
+E23-100LC                113   LOBBY              DP OF FACILITIES                                  
+E23-100LD                 55   LOBBY              DP OF FACILITIES                                  
+E23-100SA                214   STAIRWAY           DP OF FACILITIES                                  
+E23-100SB                185   STAIRWAY           DP OF FACILITIES                                  
+E23-100SC                190   STAIRWAY           DP OF FACILITIES                                  
+E23-100SD                 97   STAIRWAY           DP OF FACILITIES                                  
+E23-100Z                 284   SHAFT SPACE        DP OF FACILITIES                                  
+E23-101                  139   OFFICE             MEDICAL DEPT                                      
+E23-104T                  23   TELECOM CLOSET     DP OF FACILITIES                                  
+E23-105                  110   OFFICE             MEDICAL DEPT                                      
+E23-107                  106   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-109                   87   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-110                   83   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-111                   86   OFFICE             MEDICAL DEPT                                      
+E23-113                  103   OFFICE             MEDICAL DEPT                                      
+E23-114                   99   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-115                   90   OFFICE             MEDICAL DEPT                                      
+E23-116                   98   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-116E                  10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E23-116T                  11   TELECOM CLOSET     DP OF FACILITIES                                  
+E23-117                  157   OFFICE             MEDICAL DEPT                                      
+E23-118                   45   PUBLIC LAVATORY    DP OF FACILITIES                                  
+E23-120                   56   PUBLIC LAVATORY    DP OF FACILITIES                                  
+E23-123                  163   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-123A                  40   PVT LAVATORY       MEDICAL DEPT                                      
+E23-125                  113   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-126                   28   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-127                  112   OFFICE             MEDICAL DEPT                                      
+E23-128J                  13   JANITOR CLOSET     DP OF FACILITIES                                  
+E23-129                  107   OFFICE             MEDICAL DEPT                                      
+E23-130                    7   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-131                  114   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-132                   82   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-133                  108   OFFICE             MEDICAL DEPT                                      
+E23-135                  110   OFFICE             MEDICAL DEPT                                      
+E23-137                   86   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-137A                  12   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-138E                   2   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E23-138T                  27   TELECOM CLOSET     DP OF FACILITIES                                  
+E23-139                  108   OFFICE             MEDICAL DEPT                                      
+E23-140                   54   PVT LAVATORY       MEDICAL DEPT                                      
+E23-141                   86   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-141A                  10   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-142                  186   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-143                  111   OFFICE             MEDICAL DEPT                                      
+E23-144                  200   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-145                  112   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-146                  214   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-147                   89   OFFICE             MEDICAL DEPT                                      
+E23-148                  574   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-148A                  14   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-148B                  12   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-148BF                 27   OFFICE             MEDICAL DEPT                                      
+E23-148C                  13   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-148D                  12   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-148E                   1   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E23-148F                  16   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-149                   74   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-150                   23   PVT LAVATORY       MEDICAL DEPT                                      
+E23-151                  105   OFFICE             MEDICAL DEPT                                      
+E23-152                  310   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-152A                  20   PUBLIC WAITING     MEDICAL DEPT                                      
+E23-153                  202   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-154                  963   DIAGNOS SVC LAB    MEDICAL DEPT                                      
+E23-154A                  82   RSCH LAB-OFFICE    MEDICAL DEPT                                      
+E23-161                   69   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-163                  231   PVT CIRCULATION    MEDICAL DEPT                                      
+E23-163A                  30   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-163B                  41   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-163C                  58   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-164                   27   PVT LAVATORY       MEDICAL DEPT                                      
+E23-165                   61   PVT LAVATORY       MEDICAL DEPT                                      
+E23-166                   26   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-167                   44   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-168                   18   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-169                   69   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-170                   40   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-171                  904   PUBLIC WAITING     MEDICAL DEPT                                      
+E23-171B                 217   SECY/RECEPTION     MEDICAL DEPT                                      
+E23-171C                  10   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-171T                   7   TELECOM CLOSET     DP OF FACILITIES                                  
+E23-172                   25   PVT LAVATORY       MEDICAL DEPT                                      
+E23-174                   25   PVT LAVATORY       MEDICAL DEPT                                      
+E23-175                   67   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-176                  102   OFFICE             MEDICAL DEPT                                      
+E23-177                  110   OFFICE             MEDICAL DEPT                                      
+E23-178                  100   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-179                  105   OFFICE             MEDICAL DEPT                                      
+E23-180                  166   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-181                   93   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-182                   96   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-183                   81   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-184                  177   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-184A                  10   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-185                  117   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-185E                   3   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E23-186                  167   OFFICE             MEDICAL DEPT                                      
+E23-187                  104   OFFICE             MEDICAL DEPT                                      
+E23-188                  238   PUBLIC WAITING     MEDICAL DEPT                                      
+E23-188A                 295   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-189                  317   SECY/RECEPTION     MEDICAL DEPT                                      
+E23-189A                  11   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-189B                  11   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-191                   45   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-191A                 203   OFFICE             MEDICAL DEPT                                      
+E23-191AA                 40   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-192                   23   PVT LAVATORY       MEDICAL DEPT                                      
+E23-193                  511   PUBLIC WAITING     MEDICAL DEPT                                      
+E23-193A                 141   SECY/RECEPTION     MEDICAL DEPT                                      
+E23-193AA                114   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-193B                 363   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-194                   99   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-195                  375   PUBLIC WAITING     MEDICAL DEPT                                      
+E23-196                  780   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-196A                 195   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-196B                  98   OFFICE             MEDICAL DEPT                                      
+                    --------                                                                        
+                      18,619                                                                        
+                                                                                                    
+E23-200CA                485   CORRIDOR           DP OF FACILITIES                                  
+E23-200CB                449   CORRIDOR           DP OF FACILITIES                                  
+E23-200CC                142   CORRIDOR           DP OF FACILITIES                                  
+E23-200E1                 84   ELEVATOR           DP OF FACILITIES                                  
+E23-200E2                 84   ELEVATOR           DP OF FACILITIES                                  
+E23-200LA                492   LOBBY              DP OF FACILITIES                                  
+E23-200SA                180   STAIRWAY           DP OF FACILITIES                                  
+E23-200SB                157   STAIRWAY           DP OF FACILITIES                                  
+E23-200SC                174   STAIRWAY           DP OF FACILITIES                                  
+E23-200SD                134   STAIRWAY           DP OF FACILITIES                                  
+E23-200Z                 258   SHAFT SPACE        DP OF FACILITIES                                  
+E23-201                  118   OFFICE             MEDICAL DEPT                                      
+E23-203                  111   OFFICE             MEDICAL DEPT                                      
+E23-205                  102   OFFICE             MEDICAL DEPT                                      
+E23-205A                 288   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-207                   93   OFFICE             MEDICAL DEPT                                      
+E23-207Z                  29   SHAFT SPACE        DP OF FACILITIES                                  
+E23-208                   91   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-209                  108   OFFICE             MEDICAL DEPT                                      
+E23-209C                   6   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-210                   96   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-211                  114   OFFICE             MEDICAL DEPT                                      
+E23-211A                 161   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-211E                  15   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E23-212                   90   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-213                  107   OFFICE             MEDICAL DEPT                                      
+E23-214                   24   PVT LAVATORY       MEDICAL DEPT                                      
+E23-215                  114   OFFICE             MEDICAL DEPT                                      
+E23-215T                   7   TELECOM CLOSET     DP OF FACILITIES                                  
+E23-216                   23   PVT LAVATORY       MEDICAL DEPT                                      
+E23-217                   97   OFFICE             MEDICAL DEPT                                      
+E23-218                   44   PVT LAVATORY       MEDICAL DEPT                                      
+E23-219                  591   PUBLIC WAITING     MEDICAL DEPT                                      
+E23-219A                  18   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-219C                 105   SECY/RECEPTION     MEDICAL DEPT                                      
+E23-222                   97   OFFICE             MEDICAL DEPT                                      
+E23-223                  115   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-224                   95   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-225                  114   OFFICE             MEDICAL DEPT                                      
+E23-226                   99   OFFICE             MEDICAL DEPT                                      
+E23-227                  112   OFFICE             MEDICAL DEPT                                      
+E23-228                  177   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-228A                  50   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-229                  117   OFFICE             MEDICAL DEPT                                      
+E23-230                   67   SECY/RECEPTION     MEDICAL DEPT                                      
+E23-230A                  81   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-231                  102   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-233                  148   OFFICE             MEDICAL DEPT                                      
+E23-235                   89   OFFICE             MEDICAL DEPT                                      
+E23-235A                 231   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-237                  117   OFFICE             MEDICAL DEPT                                      
+E23-239                  112   OFFICE             MEDICAL DEPT                                      
+E23-240                   29   PVT LAVATORY       MEDICAL DEPT                                      
+E23-241                  120   OFFICE             MEDICAL DEPT                                      
+E23-242                   28   PVT LAVATORY       MEDICAL DEPT                                      
+E23-243                   94   OFFICE             MEDICAL DEPT                                      
+E23-244                   51   OFFICE             MEDICAL DEPT                                      
+E23-245                  116   OFFICE             MEDICAL DEPT                                      
+E23-245A                 195   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-246                   93   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-247                  115   OFFICE             MEDICAL DEPT                                      
+E23-248                   94   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-248A                  27   PATIENT BATHROOM   MEDICAL DEPT                                      
+E23-249                   95   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-250                   46   PVT LAVATORY       MEDICAL DEPT                                      
+E23-251                  113   OFFICE             MEDICAL DEPT                                      
+E23-251A                 108   OFFICE             MEDICAL DEPT                                      
+E23-252                  869   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-253                  108   OFFICE             MEDICAL DEPT                                      
+E23-253A                  86   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-254                  143   OFFICE             MEDICAL DEPT                                      
+E23-254A                  13   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-255                   91   OFFICE             MEDICAL DEPT                                      
+E23-255A                  14   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-255B                  67   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-256                  139   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-257                   92   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-257A                  12   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-258                  126   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-259                  111   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-260                   53   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-260A                  53   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-260B                  13   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-261                   89   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-262                  149   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-263                   92   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-264                  149   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-265                  138   OFFICE             MEDICAL DEPT                                      
+E23-266                  152   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-267                  148   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-268                  549   PUBLIC WAITING     MEDICAL DEPT                                      
+E23-268A                  28   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-268C                 249   SECY/RECEPTION     MEDICAL DEPT                                      
+E23-268D                  13   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-268E                   4   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E23-269A                   5   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E23-269B                   4   UTILITY/MECH RM    DP OF FACILITIES                                  
+E23-269C                 279   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-269CA                 10   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-269T                  10   TELECOM CLOSET     DP OF FACILITIES                                  
+E23-271                  233   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-273                  115   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-274                  145   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-274A                  23   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-274T                  13   TELECOM CLOSET     DP OF FACILITIES                                  
+E23-275                  115   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-276                   58   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-276J                  16   JANITOR CLOSET     DP OF FACILITIES                                  
+E23-277                  123   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-278                   93   OFFICE             MEDICAL DEPT                                      
+E23-279                  115   OFFICE             MEDICAL DEPT                                      
+E23-280                   92   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-281                  114   OFFICE             MEDICAL DEPT                                      
+E23-282                   94   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-282A                 198   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-283                  108   OFFICE             MEDICAL DEPT                                      
+E23-283A                 114   OFFICE             MEDICAL DEPT                                      
+E23-284                   89   OFFICE             MEDICAL DEPT                                      
+E23-286                   94   OFFICE             MEDICAL DEPT                                      
+E23-287                  616   PUBLIC WAITING     MEDICAL DEPT                                      
+E23-287A                  27   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-287D                 107   SECY/RECEPTION     MEDICAL DEPT                                      
+E23-288                   56   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-289                  121   OFFICE             MEDICAL DEPT                                      
+E23-289A                  90   OFFICE             MEDICAL DEPT                                      
+E23-290                   96   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-291                  113   OFFICE             MEDICAL DEPT                                      
+E23-292                   92   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-292A                 198   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-293                  108   OFFICE             MEDICAL DEPT                                      
+E23-294                   98   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-295                  115   OFFICE             MEDICAL DEPT                                      
+E23-297                  639   CONFERENCE ROOM    MEDICAL DEPT                                      
+E23-297A                  15   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-297B                  36   OFFICE SERVICE     MEDICAL DEPT                                      
+                    --------                                                                        
+                      16,974                                                                        
+                                                                                                    
+E23-300CA                511   CORRIDOR           DP OF FACILITIES                                  
+E23-300CB                573   CORRIDOR           DP OF FACILITIES                                  
+E23-300E1                 90   ELEVATOR           DP OF FACILITIES                                  
+E23-300E2                 95   ELEVATOR           DP OF FACILITIES                                  
+E23-300LA                650   LOBBY              DP OF FACILITIES                                  
+E23-300SA                180   STAIRWAY           DP OF FACILITIES                                  
+E23-300SB                129   STAIRWAY           DP OF FACILITIES                                  
+E23-300SC                146   STAIRWAY           DP OF FACILITIES                                  
+E23-300SD                115   STAIRWAY           DP OF FACILITIES                                  
+E23-300Z                 351   SHAFT SPACE        DP OF FACILITIES                                  
+E23-301                  113   OFFICE             MEDICAL DEPT                                      
+E23-302T                   9   TELECOM CLOSET     DP OF FACILITIES                                  
+E23-302Z                   9   SHAFT SPACE        DP OF FACILITIES                                  
+E23-303                  106   OFFICE             MEDICAL DEPT                                      
+E23-305                  105   OFFICE             MEDICAL DEPT                                      
+E23-307                  106   OFFICE             MEDICAL DEPT                                      
+E23-308                  489   SECY/RECEPTION     MEDICAL DEPT                                      
+E23-308A                  89   OFFICE             MEDICAL DEPT                                      
+E23-308AA                 28   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-308B                  12   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-309                  106   OFFICE             MEDICAL DEPT                                      
+E23-311                  102   OFFICE             MEDICAL DEPT                                      
+E23-312                  113   PVT CIRCULATION    MEDICAL DEPT                                      
+E23-312C                  74   OFFICE             MEDICAL DEPT                                      
+E23-312E                  14   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E23-313                   86   OFFICE             MEDICAL DEPT                                      
+E23-314                   42   PVT LAVATORY       MEDICAL DEPT                                      
+E23-315                  104   OFFICE             MEDICAL DEPT                                      
+E23-316                   23   PVT LAVATORY       MEDICAL DEPT                                      
+E23-317                   91   OFFICE             MEDICAL DEPT                                      
+E23-318                   21   PVT LAVATORY       MEDICAL DEPT                                      
+E23-318Z                   3   SHAFT SPACE        DP OF FACILITIES                                  
+E23-319                  369   CONFERENCE ROOM    MEDICAL DEPT                                      
+E23-319A                  13   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-319T                  15   TELECOM CLOSET     DP OF FACILITIES                                  
+E23-322                   94   OFFICE             MEDICAL DEPT                                      
+E23-323                   93   OFFICE             MEDICAL DEPT                                      
+E23-323A                 338   PVT CIRCULATION    MEDICAL DEPT                                      
+E23-324                   93   OFFICE             MEDICAL DEPT                                      
+E23-325                  110   OFFICE             MEDICAL DEPT                                      
+E23-325A                 102   PVT CIRCULATION    MEDICAL DEPT                                      
+E23-326                   93   OFFICE             MEDICAL DEPT                                      
+E23-327                  109   OFFICE             MEDICAL DEPT                                      
+E23-328                   29   PVT LAVATORY       MEDICAL DEPT                                      
+E23-329                  109   OFFICE             MEDICAL DEPT                                      
+E23-330                   89   OFFICE             MEDICAL DEPT                                      
+E23-331                  112   OFFICE             MEDICAL DEPT                                      
+E23-331A                 226   PVT CIRCULATION    MEDICAL DEPT                                      
+E23-332                   89   OFFICE             MEDICAL DEPT                                      
+E23-333                  104   OFFICE             MEDICAL DEPT                                      
+E23-335                  104   OFFICE             MEDICAL DEPT                                      
+E23-337                  132   OFFICE             MEDICAL DEPT                                      
+E23-340                   27   PVT LAVATORY       MEDICAL DEPT                                      
+E23-341                  159   OFFICE             MEDICAL DEPT                                      
+E23-342                   25   PVT LAVATORY       MEDICAL DEPT                                      
+E23-343                  159   OFFICE             MEDICAL DEPT                                      
+E23-344                   83   OFFICE             MEDICAL DEPT                                      
+E23-345                  159   OFFICE             MEDICAL DEPT                                      
+E23-346                  150   OFFICE             MEDICAL DEPT                                      
+E23-347                  187   OFFICE             MEDICAL DEPT                                      
+E23-348                   25   PVT LAVATORY       MEDICAL DEPT                                      
+E23-350                   42   PVT LAVATORY       MEDICAL DEPT                                      
+E23-351                  187   OFFICE             MEDICAL DEPT                                      
+E23-353                  187   OFFICE             MEDICAL DEPT                                      
+E23-354                  147   OFFICE             MEDICAL DEPT                                      
+E23-354J                  17   JANITOR CLOSET     DP OF FACILITIES                                  
+E23-355                  183   OFFICE             MEDICAL DEPT                                      
+E23-356                  165   OFFICE             MEDICAL DEPT                                      
+E23-359                  160   OFFICE             MEDICAL DEPT                                      
+E23-360                   95   OFFICE             MEDICAL DEPT                                      
+E23-361                  154   OFFICE             MEDICAL DEPT                                      
+E23-362                  182   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-363                  184   OFFICE             MEDICAL DEPT                                      
+E23-365                  157   OFFICE             MEDICAL DEPT                                      
+E23-366                   29   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-366A                  67   OFFICE             MEDICAL DEPT                                      
+E23-366B                 214   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-366C                  42   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-367                  140   OFFICE             MEDICAL DEPT                                      
+E23-368                  236   SECY/RECEPTION     MEDICAL DEPT                                      
+E23-368A                 572   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-368B                 626   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-370                  622   PUBLIC WAITING     MEDICAL DEPT                                      
+E23-370E                   3   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E23-370T                  11   TELECOM CLOSET     DP OF FACILITIES                                  
+E23-371                  134   OFFICE             MEDICAL DEPT                                      
+E23-371A                  94   OFFICE             MEDICAL DEPT                                      
+E23-373                   78   OFFICE             MEDICAL DEPT                                      
+E23-374T                 165   TELECOM CLOSET     DP OF FACILITIES                                  
+E23-375                  124   OFFICE             MEDICAL DEPT                                      
+E23-376                  324   CONFERENCE ROOM    MEDICAL DEPT                                      
+E23-376A                 167   PVT CIRCULATION    MEDICAL DEPT                                      
+E23-385                  397   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-385A                 366   MULTI-PURPOSE RM   MEDICAL DEPT                                      
+E23-385B                  14   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-385C                  82   SECY/RECEPTION     MEDICAL DEPT                                      
+E23-385D                  98   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-385F                  93   OFFICE             MEDICAL DEPT                                      
+E23-385G                  97   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-385H                 116   OFFICE             MEDICAL DEPT                                      
+E23-385K                  97   OFFICE             MEDICAL DEPT                                      
+E23-385L                 116   OFFICE             MEDICAL DEPT                                      
+E23-385N                 101   OFFICE             MEDICAL DEPT                                      
+E23-385P                  94   OFFICE             MEDICAL DEPT                                      
+E23-385Q                 111   OFFICE             MEDICAL DEPT                                      
+E23-388                   57   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-389                  126   OFFICE             MEDICAL DEPT                                      
+E23-389A                  89   OFFICE             MEDICAL DEPT                                      
+E23-390                  101   OFFICE             MEDICAL DEPT                                      
+E23-391                  116   OFFICE             MEDICAL DEPT                                      
+E23-392                  100   OFFICE             MEDICAL DEPT                                      
+E23-393                  115   OFFICE             MEDICAL DEPT                                      
+E23-394                  131   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-395                  115   OFFICE             MEDICAL DEPT                                      
+E23-397                  116   OFFICE             MEDICAL DEPT                                      
+E23-398                  274   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-398A                 126   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-398B                   4   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-398C                  86   OFFICE             MEDICAL DEPT                                      
+E23-398D                  85   OFFICE             MEDICAL DEPT                                      
+E23-399                  153   OFFICE             MEDICAL DEPT                                      
+                    --------                                                                        
+                      17,164                                                                        
+                                                                                                    
+E23-400CA                593   CORRIDOR           DP OF FACILITIES                                  
+E23-400CB                108   CORRIDOR           DP OF FACILITIES                                  
+E23-400E1                 86   ELEVATOR           DP OF FACILITIES                                  
+E23-400E2                 86   ELEVATOR           DP OF FACILITIES                                  
+E23-400LA                621   LOBBY              DP OF FACILITIES                                  
+E23-400SA                182   STAIRWAY           DP OF FACILITIES                                  
+E23-400SB                 98   STAIRWAY           DP OF FACILITIES                                  
+E23-400Z                 168   SHAFT SPACE        DP OF FACILITIES                                  
+E23-401                  120   OFFICE             MEDICAL DEPT                                      
+E23-402Z                  18   SHAFT SPACE        DP OF FACILITIES                                  
+E23-403                  115   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-405                  110   OFFICE             MEDICAL DEPT                                      
+E23-406                   92   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-407                  111   OFFICE             MEDICAL DEPT                                      
+E23-408                   89   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-409                  104   OFFICE             MEDICAL DEPT                                      
+E23-410                   84   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-410A                 365   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-411                  110   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-411A                  89   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-411E                  15   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E23-412                   89   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-412A                   3   UTILITY/MECH RM    DP OF FACILITIES                                  
+E23-414                   42   PVT LAVATORY       MEDICAL DEPT                                      
+E23-415                  110   OFFICE             MEDICAL DEPT                                      
+E23-415A                  88   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-416                   23   PVT LAVATORY       MEDICAL DEPT                                      
+E23-418                   24   PVT LAVATORY       MEDICAL DEPT                                      
+E23-419                  571   PUBLIC WAITING     MEDICAL DEPT                                      
+E23-419A                  21   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-419B                  71   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-419C                 141   SECY/RECEPTION     MEDICAL DEPT                                      
+E23-419T                  34   TELECOM CLOSET     DP OF FACILITIES                                  
+E23-420T                  14   TELECOM CLOSET     DP OF FACILITIES                                  
+E23-423                  110   OFFICE             MEDICAL DEPT                                      
+E23-425                  167   OFFICE             MEDICAL DEPT                                      
+E23-427                  109   OFFICE             MEDICAL DEPT                                      
+E23-428A                  48   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-428B                  36   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-428J                  20   JANITOR CLOSET     DP OF FACILITIES                                  
+E23-429                  109   OFFICE             MEDICAL DEPT                                      
+E23-431                  109   OFFICE             MEDICAL DEPT                                      
+E23-432                  250   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-433                  223   OFFICE             MEDICAL DEPT                                      
+E23-435                  223   OFFICE             MEDICAL DEPT                                      
+E23-437                   83   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-438A                  16   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-439                  130   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-439A                   5   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E23-439B                  24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E23-443                  232   CONFERENCE ROOM    MEDICAL DEPT                                      
+E23-445                  113   OFFICE             MEDICAL DEPT                                      
+E23-447                  113   OFFICE             MEDICAL DEPT                                      
+E23-448                   94   OFFICE             MEDICAL DEPT                                      
+E23-449                  113   OFFICE             MEDICAL DEPT                                      
+E23-450                   94   OFFICE             MEDICAL DEPT                                      
+E23-451                  114   OFFICE             MEDICAL DEPT                                      
+E23-453                  112   OFFICE             MEDICAL DEPT                                      
+E23-454                  398   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-455                  114   OFFICE             MEDICAL DEPT                                      
+E23-456                   98   OFFICE             MEDICAL DEPT                                      
+E23-457                  112   OFFICE             MEDICAL DEPT                                      
+E23-459                  114   OFFICE             MEDICAL DEPT                                      
+E23-460                  105   OFFICE             MEDICAL DEPT                                      
+E23-461                  112   OFFICE             MEDICAL DEPT                                      
+E23-462                  105   OFFICE             MEDICAL DEPT                                      
+E23-463                  114   OFFICE             MEDICAL DEPT                                      
+E23-464                1,655   CORRIDOR           DP OF FACILITIES                                  
+E23-464A                 151   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-464B                   9   TELECOM CLOSET     DP OF FACILITIES                                  
+E23-464C                  12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E23-464D                  11   UTILITY/MECH RM    DP OF FACILITIES                                  
+E23-464E                  12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E23-465                  171   OFFICE SERVICE     MEDICAL DEPT                                      
+E23-491                  169   OFFICE             MEDICAL DEPT                                      
+E23-493                  118   OFFICE             MEDICAL DEPT                                      
+E23-494A                 387   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-494C                  95   PVT LAVATORY       MEDICAL DEPT                                      
+E23-495                  107   OFFICE             MEDICAL DEPT                                      
+E23-497                   65   PVT LAVATORY       MEDICAL DEPT                                      
+E23-497A                  64   PVT LAVATORY       MEDICAL DEPT                                      
+E23-497B                  87   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-497C                  80   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-497F                   9   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-498                  136   OFFICE             MEDICAL DEPT                                      
+E23-499                  120   SECY/RECEPTION     MEDICAL DEPT                                      
+E23-499A                 130   OFFICE             MEDICAL DEPT                                      
+E23-499B                 114   OFFICE             MEDICAL DEPT                                      
+E23-499C                 114   OFFICE             MEDICAL DEPT                                      
+E23-499D                  16   HEALTH CARE SVC    MEDICAL DEPT                                      
+                    --------                                                                        
+                      12,346                                                                        
+                                                                                                    
+E23-500CA                206   CORRIDOR           DP OF FACILITIES                                  
+E23-500E1                 84   ELEVATOR           DP OF FACILITIES                                  
+E23-500E2                 84   ELEVATOR           DP OF FACILITIES                                  
+E23-500LA                160   LOBBY              DP OF FACILITIES                                  
+E23-500SA                157   STAIRWAY           DP OF FACILITIES                                  
+E23-501                  502   CONFERENCE ROOM    MEDICAL DEPT                                      
+E23-506                    3   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-507                  114   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-508                   95   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-509                  101   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-510                1,271   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-510A                  92   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-510B                  89   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-510C                  90   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-510D                  91   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-510F                 104   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-510G                  64   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-510H                  72   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-510I                  84   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-510K                  92   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-510L                  90   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-510M                  96   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-510N                 234   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-510P                  17   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-511                  125   OFFICE             MEDICAL DEPT                                      
+E23-513                  114   OFFICE             MEDICAL DEPT                                      
+E23-515                   99   OFFICE             MEDICAL DEPT                                      
+E23-517A                   7   UTILITY/MECH RM    DP OF FACILITIES                                  
+E23-517T                 168   TELECOM CLOSET     DP OF FACILITIES                                  
+E23-518                   39   PVT LAVATORY       MEDICAL DEPT                                      
+E23-519J                  20   JANITOR CLOSET     DP OF FACILITIES                                  
+E23-520                   31   PVT LAVATORY       MEDICAL DEPT                                      
+E23-521E                   7   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E23-522                   61   HEALTH CARE SVC    MEDICAL DEPT                                      
+E23-524                   47   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-526                   47   TREATMNT/EXAM RM   MEDICAL DEPT                                      
+E23-528                  277   SECY/RECEPTION     MEDICAL DEPT                                      
+E23-528A                  82   PUBLIC WAITING     MEDICAL DEPT                                      
+E23-530                  123   OFFICE             MEDICAL DEPT                                      
+E23-530A                  50   HEALTH CARE SVC    MEDICAL DEPT 

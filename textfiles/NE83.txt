@@ -1,0 +1,98 @@
+NE83-400Z                  9   SHAFT SPACE        DP OF FACILITIES                                  
+NE83-401               1,161   PVT CIRCULATION    K I FOR AST&SP R                                  
+NE83-401A                 30   OFFICE SERVICE     K I FOR AST&SP R                                  
+NE83-405                 765   LAB SUPPORT SHOP   K I FOR AST&SP R                                  
+NE83-405A                 50   LABORATORY SVC     K I FOR AST&SP R                                  
+NE83-405B                 71   LABORATORY SVC     K I FOR AST&SP R                                  
+NE83-405C                413   LABORATORY SVC     K I FOR AST&SP R                                  
+NE83-410                  54   PVT CIRCULATION    K I FOR AST&SP R                                  
+NE83-412                 184   MALE LAVATORY      DP OF FACILITIES                                  
+NE83-412J                 20   JANITOR CLOSET     DP OF FACILITIES                                  
+NE83-413                  67   RSCH LAB-OFFICE    K I FOR AST&SP R                                  
+NE83-414                 192   FEMALE LAVATORY    DP OF FACILITIES                                  
+NE83-415                 851   RESEARCH LAB       K I FOR AST&SP R                                  
+NE83-415A                122   RSCH LAB-OFFICE    K I FOR AST&SP R                                  
+NE83-415B                 89   RSCH LAB-OFFICE    K I FOR AST&SP R                                  
+NE83-416                 169   LABORATORY SVC     K I FOR AST&SP R                                  
+NE83-426                 196   LABORATORY SVC     K I FOR AST&SP R                                  
+NE83-431               1,053   RESEARCH LAB       K I FOR AST&SP R                                  
+NE83-431A                283   RESEARCH LAB       K I FOR AST&SP R                                  
+NE83-431B                140   LABORATORY SVC     K I FOR AST&SP R                                  
+NE83-431C                 22   LABORATORY SVC     K I FOR AST&SP R                                  
+NE83-461               1,035   RESEARCH LAB       K I FOR AST&SP R                                  
+NE83-461A                 98   LABORATORY SVC     K I FOR AST&SP R                                  
+NE83-461B                879   OFFICE SERVICE     K I FOR AST&SP R                                  
+NE83-465                 878   RESEARCH LAB       K I FOR AST&SP R                                  
+NE83-465A                326   LABORATORY SVC     K I FOR AST&SP R                                  
+NE83-471                 126   CONFERENCE ROOM    K I FOR AST&SP R                                  
+                    --------                                                                        
+                       9,286                                                                        
+                                                                                                    
+NE83-500Z                  8   SHAFT SPACE        DP OF FACILITIES                                  
+NE83-501               2,427   PVT CIRCULATION    K I FOR AST&SP R                                  
+NE83-503                  70   OFFICE SERVICE     K I FOR AST&SP R                                  
+NE83-505                  91   OFFICE SERVICE     K I FOR AST&SP R                                  
+NE83-507A                 38   OFFICE             K I FOR AST&SP R                                  
+NE83-507B                 38   OFFICE             K I FOR AST&SP R                                  
+NE83-507C                 38   OFFICE             K I FOR AST&SP R                                  
+NE83-507D                 38   OFFICE             K I FOR AST&SP R                                  
+NE83-507F                 38   OFFICE             K I FOR AST&SP R                                  
+NE83-507G                 38   OFFICE             K I FOR AST&SP R                                  
+NE83-510                  58   PVT CIRCULATION    K I FOR AST&SP R                                  
+NE83-510A                 42   OFFICE SERVICE     K I FOR AST&SP R                                  
+NE83-512                 190   MALE LAVATORY      DP OF FACILITIES                                  
+NE83-512J                 17   JANITOR CLOSET     DP OF FACILITIES                                  
+NE83-514                 190   FEMALE LAVATORY    DP OF FACILITIES                                  
+NE83-515                 195   OFFICE             K I FOR AST&SP R                                  
+NE83-516                 172   OFFICE SERVICE     K I FOR AST&SP R                                  
+NE83-517                  64   OFFICE SERVICE     K I FOR AST&SP R                                  
+NE83-517A                 64   OFFICE             K I FOR AST&SP R                                  
+NE83-519                  68   OFFICE             K I FOR AST&SP R                                  
+NE83-519A                 68   OFFICE             K I FOR AST&SP R                                  
+NE83-521                 128   OFFICE             K I FOR AST&SP R                                  
+NE83-523                  61   OFFICE             K I FOR AST&SP R                                  
+NE83-523A                 61   OFFICE             K I FOR AST&SP R                                  
+NE83-525                 133   OFFICE             K I FOR AST&SP R                                  
+NE83-526T                 63   TELECOM CLOSET     DP OF FACILITIES                                  
+NE83-527                  62   OFFICE             K I FOR AST&SP R                                  
+NE83-527A                 62   OFFICE             K I FOR AST&SP R                                  
+NE83-529                  65   OFFICE             K I FOR AST&SP R                                  
+NE83-529A                 64   OFFICE             K I FOR AST&SP R                                  
+NE83-530A                434   CONFERENCE ROOM    K I FOR AST&SP R                                  
+NE83-530B                335   OFFICE SERVICE     K I FOR AST&SP R                                  
+NE83-531                  65   OFFICE             K I FOR AST&SP R                                  
+NE83-531A                 64   OFFICE             K I FOR AST&SP R                                  
+NE83-533                  65   OFFICE             K I FOR AST&SP R                                  
+NE83-533A                 64   OFFICE             K I FOR AST&SP R                                  
+NE83-535                  64   OFFICE             K I FOR AST&SP R                                  
+NE83-535A                 64   OFFICE             K I FOR AST&SP R                                  
+NE83-537                  64   OFFICE             K I FOR AST&SP R                                  
+NE83-537A                 64   OFFICE             K I FOR AST&SP R                                  
+NE83-539                 128   OFFICE             K I FOR AST&SP R                                  
+NE83-541                  98   OFFICE             K I FOR AST&SP R                                  
+NE83-541A                 81   OFFICE             K I FOR AST&SP R                                  
+NE83-543                 128   OFFICE             K I FOR AST&SP R                                  
+NE83-545                 128   OFFICE             K I FOR AST&SP R                                  
+NE83-547                 127   OFFICE             K I FOR AST&SP R                                  
+NE83-549                 109   OFFICE             K I FOR AST&SP R                                  
+NE83-551                 195   CONFERENCE ROOM    K I FOR AST&SP R                                  
+NE83-553                 125   OFFICE             K I FOR AST&SP R                                  
+NE83-555                 125   OFFICE             K I FOR AST&SP R                                  
+NE83-557                 125   OFFICE             K I FOR AST&SP R                                  
+NE83-559                 127   OFFICE             K I FOR AST&SP R                                  
+NE83-561                 126   OFFICE             K I FOR AST&SP R                                  
+NE83-563                 126   OFFICE             K I FOR AST&SP R                                  
+NE83-565                 126   OFFICE             K I FOR AST&SP R                                  
+NE83-567                 134   OFFICE SERVICE     K I FOR AST&SP R                                  
+NE83-569                 119   OFFICE             K I FOR AST&SP R                                  
+NE83-571                 125   OFFICE             K I FOR AST&SP R                                  
+NE83-573                 118   OFFICE SERVICE     K I FOR AST&SP R                                  
+NE83-573A                 72   OFFICE             K I FOR AST&SP R                                  
+NE83-576                  13   OFFICE SERVICE     K I FOR AST&SP R                                  
+NE83-577                  98   OFFICE             K I FOR AST&SP R                                  
+NE83-579A                 32   OFFICE             K I FOR AST&SP R                                  
+NE83-579B                 41   OFFICE             K I FOR AST&SP R                                  
+NE83-579C                 42   OFFICE             K I FOR AST&SP R                                  
+NE83-579D                 33   OFFICE             K I FOR AST&SP R                                  
+NE83-585                 295   OFFICE SERVICE     K I FOR AST&SP R                                  
+NE83-585A                 56   OFFICE SERVICE     K I FOR AST&SP R    

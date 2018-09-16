@@ -1,0 +1,13 @@
+NW20-000                 141   LABORATORY SVC     PLASMA SCI FSN CTR                                
+                    --------                                                                        
+                         141                                                                        
+                                                                                                    
+NW20-100               2,544   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW20-100AM                23   PVT LAVATORY       PLASMA SCI FSN CTR                                
+NW20-100BM               434   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW20-100M              2,017   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW20-100SA                23   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW20-100SAM               23   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW20-100SB                17   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW20-100SBM               17   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW20-101                  53   LABORATORY SVC     PLASMA SCI FSN CTR      

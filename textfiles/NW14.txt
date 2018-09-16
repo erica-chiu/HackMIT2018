@@ -1,0 +1,420 @@
+-----------------   --------   ----------------   --------------------   ----------------           
+NW14-0/000CA           2,654   CORRIDOR           DP OF FACILITIES                                  
+NW14-0/000CB           1,544   CORRIDOR           DP OF FACILITIES                                  
+NW14-0/000E1              62   ELEVATOR           DP OF FACILITIES                                  
+NW14-0/000E2             108   ELEVATOR           DP OF FACILITIES                                  
+NW14-0/000SA             185   STAIRWAY           DP OF FACILITIES                                  
+NW14-0/000SC              63   STAIRWAY           DP OF FACILITIES                                  
+NW14-0/000SD             177   STAIRWAY           DP OF FACILITIES                                  
+NW14-0/000SF             101   STAIRWAY           DP OF FACILITIES                                  
+NW14-0/000SG              66   STAIRWAY           DP OF FACILITIES                                  
+NW14-0/000SH              36   STAIRWAY           DP OF FACILITIES                                  
+NW14-0/101               337   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-0/104A            1,361   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-0/105Z               57   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-0/108               411   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-0/108T              159   TELECOM CLOSET     DP OF FACILITIES                                  
+NW14-0/108TA              59   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-0/109                67   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-0/110               237   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-0/111                19   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-0/111A               72   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-0/111B               76   STORAGE FACILITY   DP OF FACIL ADM                                   
+NW14-0/112               249   STORAGE FACILITY   DP OF FACIL ADM                                   
+NW14-0/112A               48   STORAGE FACILITY   DP OF FACIL ADM                                   
+NW14-0/113               426   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-0/122             1,047   LABORATORY SVC     VP-RSCH                                           
+NW14-0/205               143   LABORATORY SVC     VP-RSCH                                           
+NW14-0/207               302   LABORATORY SVC     VP-RSCH                                           
+NW14-0/209               200   LABORATORY SVC     VP-RSCH                                           
+NW14-0/211               360   JANITOR STORAGE    DP OF FACILITIES                                  
+NW14-0/213               503   LABORATORY SVC     VP-RSCH                                           
+NW14-0/214             2,073   LABORATORY SVC     VP-RSCH                                           
+NW14-0/215               225   LABORATORY SVC     VP-RSCH                                           
+NW14-0/217               329   LABORATORY SVC     VP-RSCH                                           
+NW14-0/221               650   LABORATORY SVC     VP-RSCH                                           
+NW14-0/223               715   LABORATORY SVC     VP-RSCH                                           
+NW14-0/225             3,137   LABORATORY SVC     VP-RSCH                                           
+NW14-0/305               778   LAB SUPPORT SHOP   MUSIC & THEATER ART                               
+NW14-0/307               617   VEHICLE STORAGE    CAMPUS POLICE                                     
+NW14-0/307T               88   TELECOM CLOSET     DP OF FACILITIES                                  
+NW14-0/318               637   LABORATORY SVC     VP-RSCH                                           
+NW14-0/319               574   LABORATORY SVC     VP-RSCH                                           
+NW14-0/323                88   LABORATORY SVC     VP-RSCH                                           
+NW14-0/324             2,803   LABORATORY SVC     VP-RSCH                                           
+NW14-0/404             1,389   RESEARCH LAB       VP-RSCH                                           
+NW14-0/404A               80   RESEARCH LAB       VP-RSCH                                           
+NW14-0/409             2,247   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-0/411             1,528   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-0/411A               18   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-0/421             1,483   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-0/421A               18   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-0/423             2,503   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-0/423A               87   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-0/425               253   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-0/504               946   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-000Z                 32   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      34,426                                                                        
+                                                                                                    
+NW14-1/000CA             655   CORRIDOR           DP OF FACILITIES                                  
+NW14-1/000CB             580   CORRIDOR           DP OF FACILITIES                                  
+NW14-1/000CC             399   CORRIDOR           DP OF FACILITIES                                  
+NW14-1/000CE             271   CORRIDOR           DP OF FACILITIES                                  
+NW14-1/000CG           1,118   CORRIDOR           DP OF FACILITIES                                  
+NW14-1/000E1              58   ELEVATOR           DP OF FACILITIES                                  
+NW14-1/000E2             108   ELEVATOR           DP OF FACILITIES                                  
+NW14-1/000LA             277   LOBBY              DP OF FACILITIES                                  
+NW14-1/000LB             496   LOBBY              DP OF FACILITIES                                  
+NW14-1/000LC             113   LOBBY              DP OF FACILITIES                                  
+NW14-1/000SA             302   STAIRWAY           DP OF FACILITIES                                  
+NW14-1/000SB              93   STAIRWAY           DP OF FACILITIES                                  
+NW14-1/000SC             292   STAIRWAY           DP OF FACILITIES                                  
+NW14-1/000SD             194   STAIRWAY           DP OF FACILITIES                                  
+NW14-1/000SE              39   STAIRWAY           DP OF FACILITIES                                  
+NW14-1/000SF              75   STAIRWAY           DP OF FACILITIES                                  
+NW14-1/000SG              23   STAIRWAY           DP OF FACILITIES                                  
+NW14-1/000SH              37   STAIRWAY           DP OF FACILITIES                                  
+NW14-1/101                58   EXHIBITION FACIL   VP-RSCH                                           
+NW14-1/102A              337   OFFICE             VP-RSCH                                           
+NW14-1/102C              168   OFFICE             VP-RSCH                                           
+NW14-1/102D              161   OFFICE             VP-RSCH                                           
+NW14-1/104               195   OFFICE SERVICE     VP-RSCH                                           
+NW14-1/105Z               59   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-1/106               200   OFFICE SERVICE     VP-RSCH                                           
+NW14-1/106A               17   PUBLIC LAVATORY    DP OF FACILITIES                                  
+NW14-1/106B                4   OFFICE SERVICE     VP-RSCH                                           
+NW14-1/108               222   OFFICE             VP-RSCH                                           
+NW14-1/108A              380   OFFICE             VP-RSCH                PARKNG&TRANSPORT           
+NW14-1/108B              189   OFFICE             VP-RSCH                                           
+NW14-1/109                20   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-1/110                94   CLASSROOM SVC      VP-RSCH                                           
+NW14-1/112             1,264   CLASSROOM          VP-RSCH                                           
+NW14-1/112A               76   CLASSROOM SVC      VP-RSCH                                           
+NW14-1/112B               76   CLASSROOM SVC      VP-RSCH                                           
+NW14-1/112C               17   CLASSROOM SVC      VP-RSCH                                           
+NW14-1/112D               16   CLASSROOM SVC      VP-RSCH                                           
+NW14-1/115J              105   JANITOR CLOSET     DP OF FACILITIES                                  
+NW14-1/120               512   RESEARCH LAB       VP-RSCH                                           
+NW14-1/124               798   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-1/205               141   FEMALE LAVATORY    DP OF FACILITIES                                  
+NW14-1/206J               53   JANITOR CLOSET     DP OF FACILITIES                                  
+NW14-1/207               151   MALE LAVATORY      DP OF FACILITIES                                  
+NW14-1/209               356   OFFICE             VP-RSCH                                           
+NW14-1/211               366   OFFICE             VP-RSCH                                           
+NW14-1/213               136   OFFICE SERVICE     VP-RSCH                                           
+NW14-1/213A              221   OFFICE             VP-RSCH                                           
+NW14-1/215                96   OFFICE             VP-RSCH                                           
+NW14-1/215A              156   OFFICE             VP-RSCH                                           
+NW14-1/215B               73   OFFICE             VP-RSCH                                           
+NW14-1/215C               16   OFFICE SERVICE     VP-RSCH                                           
+NW14-1/217                70   LABORATORY SVC     VP-RSCH                                           
+NW14-1/219               524   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-1/220               182   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-1/223               443   RECEIVING ROOM     VP-RSCH                                           
+NW14-1/225               642   RECEIVING ROOM     VP-RSCH                                           
+NW14-1/307T               38   TELECOM CLOSET     DP OF FACILITIES                                  
+NW14-1/310               636   LABORATORY SVC     VP-RSCH                                           
+NW14-1/310A              375   RESEARCH LAB       VP-RSCH                                           
+NW14-1/310B              800   RESEARCH LAB       VP-RSCH                                           
+NW14-1/314               551   RESEARCH LAB       VP-RSCH                                           
+NW14-1/314A              383   RESEARCH LAB       VP-RSCH                                           
+NW14-1/315               767   CONFERENCE ROOM    VP-RSCH                                           
+NW14-1/316               272   LABORATORY SVC     VP-RSCH                                           
+NW14-1/316A              695   RESEARCH LAB       VP-RSCH                                           
+NW14-1/318               263   RESEARCH LAB       VP-RSCH                                           
+NW14-1/318A               99   LABORATORY SVC     VP-RSCH                                           
+NW14-1/318B              865   RESEARCH LAB       VP-RSCH                                           
+NW14-1/318C               30   RESEARCH LAB       VP-RSCH                                           
+NW14-1/319               706   LABORATORY SVC     VP-RSCH                                           
+NW14-1/320             1,348   LABORATORY SVC     VP-RSCH                                           
+NW14-1/321               294   LABORATORY SVC     VP-RSCH                                           
+NW14-1/323               277   RESEARCH LAB       VP-RSCH                                           
+NW14-1/324               271   RESEARCH LAB       VP-RSCH                                           
+NW14-1/325               172   LABORATORY SVC     VP-RSCH                                           
+NW14-1/325A               47   LABORATORY SVC     VP-RSCH                                           
+NW14-1/326               405   RESEARCH LAB       VP-RSCH                                           
+NW14-1/326A              390   LABORATORY SVC     VP-RSCH                                           
+NW14-1/326B              199   LABORATORY SVC     VP-RSCH                                           
+NW14-1/326BA             253   LABORATORY SVC     VP-RSCH                                           
+NW14-1/326C              184   LABORATORY SVC     VP-RSCH                                           
+NW14-1/327             1,797   PVT CIRCULATION    PLASMA SCI FSN CTR     FBML                       
+NW14-1/405                66   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-1/411                85   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-1/415                47   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-1/417                47   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-1/421                34   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-1/509               130   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-1/509A              269   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-1/511               191   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-1/514               727   LABORATORY SVC     VP-RSCH                                           
+NW14-1/514A              386   RSCH LAB-OFFICE    VP-RSCH                                           
+NW14-1/514B              161   RSCH LAB-OFFICE    VP-RSCH                                           
+NW14-1/515               125   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-1/516               216   LABORATORY SVC     VP-RSCH                                           
+NW14-1/517               357   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-1/517A               19   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-1/519               159   RSCH LAB-OFFICE    PLASMA SCI FSN CTR     FBML                       
+NW14-1/521               131   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-1/523               404   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-1/523A               20   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-1/525               295   LABORATORY SVC     VP-RSCH                                           
+NW14-1/526                57   LABORATORY SVC     VP-RSCH                                           
+NW14-1/526A               60   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-1/612               421   LABORATORY SVC     VP-RSCH                                           
+NW14-1/612E              165   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NW14-1/614               425   LABORATORY SVC     VP-RSCH                                           
+NW14-100Z                511   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      31,345                                                                        
+                                                                                                    
+NW14-2/000CA           1,114   CORRIDOR           DP OF FACILITIES                                  
+NW14-2/000CB             233   CORRIDOR           DP OF FACILITIES                                  
+NW14-2/000E1              64   ELEVATOR           DP OF FACILITIES                                  
+NW14-2/000E2             108   ELEVATOR           DP OF FACILITIES                                  
+NW14-2/000LA             905   LOBBY              DP OF FACILITIES                                  
+NW14-2/000SA             265   STAIRWAY           DP OF FACILITIES                                  
+NW14-2/000SB             205   STAIRWAY           DP OF FACILITIES                                  
+NW14-2/000SC             146   STAIRWAY           DP OF FACILITIES                                  
+NW14-2/000SD             201   STAIRWAY           DP OF FACILITIES                                  
+NW14-2/000SE             143   STAIRWAY           DP OF FACILITIES                                  
+NW14-2/104             1,300   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/104A              210   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/105                54   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-2/108               194   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/108A              385   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/108Z               12   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-2/109                21   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-2/110               567   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/110A               30   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-2/110Z               11   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-2/112               631   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/112Z               10   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-2/114               487   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/114Z               10   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-2/116               437   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/116A               60   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/116Z                9   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-2/118               233   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/118A              258   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/118Z               10   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-2/120               946   LAB SUPPORT SHOP   PLASMA SCI FSN CTR     FBML                       
+NW14-2/120Z               10   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-2/120Z1              11   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-2/124               199   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-2/124J               49   JANITOR CLOSET     DP OF FACILITIES                                  
+NW14-2/126               259   OFFICE SERVICE     PLASMA SCI FSN CTR     FBML                       
+NW14-2/126Z               12   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-2/128               269   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-2/205                34   LABORATORY SVC     VP-RSCH                                           
+NW14-2/207               228   OFFICE             VP-RSCH                                           
+NW14-2/208               388   CONFERENCE ROOM    VP-RSCH                                           
+NW14-2/209               166   SECY/RECEPTION     VP-RSCH                                           
+NW14-2/211               155   OFFICE             VP-RSCH                                           
+NW14-2/212                82   OFFICE SERVICE     VP-RSCH                                           
+NW14-2/212A               77   OFFICE SERVICE     VP-RSCH                                           
+NW14-2/213               192   OFFICE             VP-RSCH                                           
+NW14-2/214               108   OFFICE             VP-RSCH                                           
+NW14-2/215               736   OFFICE SERVICE     VP-RSCH                                           
+NW14-2/219             1,031   PVT CIRCULATION    VP-RSCH                                           
+NW14-2/220               153   OFFICE             VP-RSCH                                           
+NW14-2/222               327   OFFICE             VP-RSCH                                           
+NW14-2/224               669   RESEARCH LAB       VP-RSCH                                           
+NW14-2/225               167   PVT CIRCULATION    VP-RSCH                                           
+NW14-2/225A                7   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-2/302             1,141   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/302A              489   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/302B              270   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/302C              107   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-2/302D              268   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-2/304               142   MALE LAVATORY      DP OF FACILITIES                                  
+NW14-2/305               106   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-2/306               160   FEMALE LAVATORY    DP OF FACILITIES                                  
+NW14-2/307T               47   TELECOM CLOSET     DP OF FACILITIES                                  
+NW14-2/309             2,423   LABORATORY SVC     VP-RSCH                                           
+NW14-2/311               254   OFFICE             VP-RSCH                                           
+NW14-2/313               256   OFFICE             VP-RSCH                                           
+NW14-2/315               215   OFFICE SERVICE     VP-RSCH                                           
+NW14-2/317               256   OFFICE             VP-RSCH                                           
+NW14-2/319               195   OFFICE             VP-RSCH                                           
+NW14-2/321               242   OFFICE             VP-RSCH                                           
+NW14-2/323               337   LABORATORY SVC     VP-RSCH                                           
+NW14-2/324               969   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/324A            1,027   TEACHING LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/324AA             139   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-2/324AAA             18   RESEARCH LAB       VP-RSCH                                           
+NW14-2/324AB              96   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-2/324AC             614   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/324BE              45   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NW14-2/409               222   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/415             1,188   LAB SUPPORT SHOP   VP-RSCH                                           
+NW14-2/415A              488   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-2/415B              582   LAB SUPPORT SHOP   VP-RSCH                                           
+NW14-2/417               443   LABORATORY SVC     VP-RSCH                                           
+NW14-2/419               532   LABORATORY SVC     VP-RSCH                                           
+NW14-2/419M              184   LABORATORY SVC     VP-RSCH                                           
+NW14-2/505             2,543   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/505A               28   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-2/505AM              42   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-2/505M              818   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/506               117   OFFICE             VP-RSCH                                           
+NW14-2/507               665   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-2/508               138   OFFICE             VP-RSCH                                           
+NW14-2/510               144   OFFICE             VP-RSCH                                           
+NW14-2/512               165   OFFICE             VP-RSCH                                           
+NW14-2/514               172   LABORATORY SVC     VP-RSCH                                           
+NW14-2/516               418   RESEARCH LAB       VP-RSCH                                           
+NW14-2/517             1,169   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/517A              122   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-2/517AM              23   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-2/517M              263   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-2/520               398   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-2/520A              199   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-2/522               114   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-2/524               206   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-2/526               142   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-200Z                374   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      36,302                                                                        
+                                                                                                    
+NW14-3/000CA             158   CORRIDOR           DP OF FACILITIES                                  
+NW14-3/000CB           1,130   CORRIDOR           DP OF FACILITIES                                  
+NW14-3/000CC             425   CORRIDOR           DP OF FACILITIES                                  
+NW14-3/000CD             175   CORRIDOR           DP OF FACILITIES                                  
+NW14-3/000E1              53   ELEVATOR           DP OF FACILITIES                                  
+NW14-3/000E2             104   ELEVATOR           DP OF FACILITIES                                  
+NW14-3/000LA             240   LOBBY              DP OF FACILITIES                                  
+NW14-3/000SA             281   STAIRWAY           DP OF FACILITIES                                  
+NW14-3/000SB             110   STAIRWAY           DP OF FACILITIES                                  
+NW14-3/000SC              75   STAIRWAY           DP OF FACILITIES                                  
+NW14-3/101               207   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-3/102               209   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-3/104               939   OFFICE SERVICE     PLASMA SCI FSN CTR     FBML                       
+NW14-3/105Z               65   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-3/106               191   OFFICE SERVICE     PLASMA SCI FSN CTR     FBML                       
+NW14-3/107               297   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-3/108               331   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-3/108A              140   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-3/108Z                8   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-3/109                22   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-3/110               452   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-3/110Z                7   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-3/111               270   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-3/112               449   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-3/112Z                8   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-3/113               212   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-3/114               381   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-3/114Z                7   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-3/115               212   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-3/116             1,244   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-3/116Z                8   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-3/116Z1               8   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-3/116Z2               7   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-3/117               210   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-3/119               253   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-3/121               216   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-3/122               147   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-3/123J               44   JANITOR CLOSET     DP OF FACILITIES                                  
+NW14-3/124                49   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-3/207               155   MALE LAVATORY      DP OF FACILITIES                                  
+NW14-3/207J               28   JANITOR CLOSET     DP OF FACILITIES                                  
+NW14-3/208                77   FEMALE LAVATORY    DP OF FACILITIES                                  
+NW14-3/208A              102   FEMALE LAVATORY    DP OF FACILITIES                                  
+NW14-3/208Z               37   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-3/209               155   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-3/211               219   OFFICE SERVICE     PLASMA SCI FSN CTR     FBML                       
+NW14-3/212               370   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-3/213               353   CONFERENCE ROOM    PLASMA SCI FSN CTR     FBML                       
+NW14-3/214               171   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-3/216               194   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-3/217               173   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-3/217A               20   OFFICE SERVICE     PLASMA SCI FSN CTR     FBML                       
+NW14-3/218               209   SECY/RECEPTION     PLASMA SCI FSN CTR     FBML                       
+NW14-3/219               151   OFFICE SERVICE     PLASMA SCI FSN CTR     FBML                       
+NW14-3/220               379   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-3/221                53   OFFICE SERVICE     PLASMA SCI FSN CTR     FBML                       
+NW14-3/311               185   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-3/312               491   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-300Z                145   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      13,010                                                                        
+                                                                                                    
+NW14-4/000CA             123   CORRIDOR           DP OF FACILITIES                                  
+NW14-4/000CB           1,156   CORRIDOR           DP OF FACILITIES                                  
+NW14-4/000E1              50   ELEVATOR           DP OF FACILITIES                                  
+NW14-4/000E2             101   ELEVATOR           DP OF FACILITIES                                  
+NW14-4/000LA             298   LOBBY              DP OF FACILITIES                                  
+NW14-4/000SA             281   STAIRWAY           DP OF FACILITIES                                  
+NW14-4/000SB             108   STAIRWAY           DP OF FACILITIES                                  
+NW14-4/101               213   MALE LAVATORY      DP OF FACILITIES                                  
+NW14-4/102                62   FEMALE LAVATORY    DP OF FACILITIES                                  
+NW14-4/102A              124   FEMALE LAVATORY    DP OF FACILITIES                                  
+NW14-4/103               154   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-4/104               354   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-4/105Z               52   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-4/106               552   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-4/107               277   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-4/108               468   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-4/108Z                9   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-4/109                15   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-4/110               452   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-4/110Z                8   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-4/111               251   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-4/112               460   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-4/112Z                9   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-4/113               201   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-4/114Z                9   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-4/114Z1               8   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-4/115               195   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-4/116               736   LAB SUPPORT SHOP   PLASMA SCI FSN CTR     FBML                       
+NW14-4/117               205   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-4/118               832   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-4/118A               64   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-4/118Z                8   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-4/118Z1               7   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-4/119               235   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-4/121               225   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-4/122               152   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-4/123J               53   JANITOR CLOSET     DP OF FACILITIES                                  
+NW14-4/124                50   OFFICE SERVICE     PLASMA SCI FSN CTR     FBML                       
+NW14-400Z                183   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                       8,742                                                                        
+                                                                                                    
+NW14-5/000CA             124   CORRIDOR           DP OF FACILITIES                                  
+NW14-5/000CB           1,117   CORRIDOR           DP OF FACILITIES                                  
+NW14-5/000E1              51   ELEVATOR           DP OF FACILITIES                                  
+NW14-5/000E2             108   ELEVATOR           DP OF FACILITIES                                  
+NW14-5/000LA             242   LOBBY              DP OF FACILITIES                                  
+NW14-5/000SA             281   STAIRWAY           DP OF FACILITIES                                  
+NW14-5/000SB             110   STAIRWAY           DP OF FACILITIES                                  
+NW14-5/101               214   MALE LAVATORY      DP OF FACILITIES                                  
+NW14-5/102               193   FEMALE LAVATORY    DP OF FACILITIES                                  
+NW14-5/105Z               52   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-5/106               839   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-5/106A              343   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-5/107               283   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-5/108               486   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-5/108Z               13   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-5/109                15   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW14-5/110               481   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-5/110Z               10   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-5/111               252   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-5/112               329   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-5/112A              116   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW14-5/113               207   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-5/114               807   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-5/114Z               11   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-5/114Z1               8   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-5/115               205   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-5/117               205   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-5/118               399   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-5/118Z                8   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-5/119               244   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-5/120               472   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW14-5/120Z               10   SHAFT SPACE        DP OF FACILITIES                                  
+NW14-5/121               224   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-5/122               151   OFFICE             PLASMA SCI FSN CTR     FBML                       
+NW14-5/123J               53   JANITOR CLOSET     DP OF FACILITIES                                  
+NW14-5/124                48   OFFICE SERVICE     PLASMA SCI FSN CTR     FBML                       
+NW14-500Z                116   SHAFT SPACE        DP OF FACILITIES  

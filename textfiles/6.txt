@@ -1,0 +1,327 @@
+6-000CA                2,297   CORRIDOR           DP OF FACILITIES                                  
+6-000CC                  180   CORRIDOR           DP OF FACILITIES                                  
+6-000E1                   37   ELEVATOR           DP OF FACILITIES                                  
+6-000SA                  301   STAIRWAY           DP OF FACILITIES                                  
+6-000Z                   116   SHAFT SPACE        DP OF FACILITIES                                  
+6-001                    241   UTILITY/MECH RM    DP OF FACILITIES                                  
+6-002                    161   STORAGE FACILITY   DP OF FACIL ADM                                   
+6-002A                    17   STORAGE FACILITY   DP OF FACIL ADM                                   
+6-002B                    66   UTILITY/MECH RM    DP OF FACILITIES                                  
+6-003E                    24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6-003J                    42   JANITOR CLOSET     DP OF FACILITIES                                  
+6-004                    150   LABORATORY SVC     SCH OF SCIENCE                                    
+6-005                    400   RESEARCH LAB       CHEMISTRY                                         
+6-005A                   234   RESEARCH LAB       CHEMISTRY                                         
+6-006                    290   RESEARCH LAB       CHEMISTRY                                         
+6-007                    271   RESEARCH LAB       CHEMISTRY                                         
+6-008                    287   RESEARCH LAB       CHEMISTRY                                         
+6-009                    390   RESEARCH LAB       CHEMISTRY                                         
+6-010                    231   RESEARCH LAB       CHEMISTRY                                         
+6-012                    258   RESEARCH LAB       CHEMISTRY                                         
+6-013                     55   LABORATORY SVC     CHEMISTRY                                         
+6-013A                   415   RESEARCH LAB       CHEMISTRY                                         
+6-013B                   487   RESEARCH LAB       CHEMISTRY                                         
+6-014                    703   RESEARCH LAB       CHEMISTRY                                         
+6-014AE                    9   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6-014BE                    9   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6-016                    269   RESEARCH LAB       CHEMISTRY                                         
+6-017                    320   LABORATORY SVC     ENV HLTH & SAFE                                   
+6-017A                   475   RESEARCH LAB       ENV HLTH & SAFE                                   
+6-017B                   314   LABORATORY SVC     ENV HLTH & SAFE                                   
+6-019                    342   OFFICE SERVICE     PHYSICS                                           
+6-020                     47   LABORATORY SVC     CHEMISTRY                                         
+6-020A                   566   RESEARCH LAB       CHEMISTRY                                         
+6-020B                    31   LABORATORY SVC     CHEMISTRY                                         
+6-021                    317   LABORATORY SVC     CHEMISTRY                                         
+6-022                    197   OFFICE SERVICE     CHEMISTRY                                         
+6-022A                   305   OFFICE             CHEMISTRY                                         
+6-022B                   425   OFFICE             CHEMISTRY                                         
+6-023                    268   RSCH LAB-OFFICE    CHEMISTRY                                         
+6-025                     92   UTILITY/MECH RM    DP OF FACILITIES                                  
+6-026                    777   OFFICE             CHEMISTRY                                         
+6-026A                     7   STORAGE FACILITY   DP OF FACIL ADM                                   
+6-026E                    13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6-027                     18   LABORATORY SVC     CHEMISTRY                                         
+6-030                    455   OFFICE             CHEMISTRY                                         
+6-030B                   710   UTILITY/MECH RM    DP OF FACILITIES                                  
+6-030E                    23   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6-031                  1,692   RESEARCH LAB       CHEMISTRY                                         
+6-032                     14   UTILITY/MECH RM    DP OF FACILITIES                                  
+6-033                     94   LABORATORY SVC     CHEMISTRY                                         
+6-034                    554   UTILITY/MECH RM    DP OF FACILITIES                                  
+6-035                    263   RSCH LAB-OFFICE    CHEMISTRY                                         
+6-036                    132   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      16,389                                                                        
+                                                                                                    
+6-100CA                2,266   CORRIDOR           DP OF FACILITIES                                  
+6-100CM                   39   CORRIDOR           DP OF FACILITIES                                  
+6-100E1                   39   ELEVATOR           DP OF FACILITIES                                  
+6-100LB                  936   LOBBY              DP OF FACILITIES                                  
+6-100SA                  306   STAIRWAY           DP OF FACILITIES                                  
+6-100SM                  264   STAIRWAY           DP OF FACILITIES                                  
+6-100Z                   441   SHAFT SPACE        DP OF FACILITIES                                  
+6-101                    216   OFFICE             MATS SCI & ENG                                    
+6-102                    144   OFFICE             MATS SCI & ENG                                    
+6-103                    350   CONFERENCE ROOM    MATS SCI & ENG                                    
+6-104                    813   CONFERENCE ROOM    MATS SCI & ENG                                    
+6-104A                     4   OFFICE SERVICE     MATS SCI & ENG                                    
+6-104B                    27   OFFICE SERVICE     MATS SCI & ENG                                    
+6-104C                     4   OFFICE SERVICE     MATS SCI & ENG                                    
+6-107                    274   OFFICE SERVICE     MATS SCI & ENG                                    
+6-107A                   129   OFFICE             MATS SCI & ENG                                    
+6-107B                   149   OFFICE             MATS SCI & ENG                                    
+6-107BA                   68   SECY/RECEPTION     MATS SCI & ENG                                    
+6-107C                    66   SECY/RECEPTION     MATS SCI & ENG                                    
+6-107D                     5   OFFICE SERVICE     MATS SCI & ENG                                    
+6-107J                    33   JANITOR CLOSET     DP OF FACILITIES                                  
+6-108                    194   OFFICE SERVICE     MATS SCI & ENG                                    
+6-109E                     8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6-112                     92   OFFICE SERVICE     MATS SCI & ENG                                    
+6-112A                   180   OFFICE             MATS SCI & ENG                                    
+6-112B                   179   OFFICE             MATS SCI & ENG                                    
+6-112C                   119   OFFICE             MATS SCI & ENG                                    
+6-112D                    80   OFFICE             MATS SCI & ENG                                    
+6-113                    335   OFFICE SERVICE     MATS SCI & ENG                                    
+6-113A                     2   OFFICE SERVICE     MATS SCI & ENG                                    
+6-113C                   108   OFFICE SERVICE     MATS SCI & ENG                                    
+6-113D                   185   OFFICE             MATS SCI & ENG                                    
+6-113F                   162   OFFICE             MATS SCI & ENG                                    
+6-113G                    76   SECY/RECEPTION     MATS SCI & ENG                                    
+6-113H                   295   OFFICE             MATS SCI & ENG                                    
+6-113HA                    6   OFFICE SERVICE     MATS SCI & ENG                                    
+6-114                    636   TEACHING LAB       PHYSICS                                           
+6-114A                    40   CLASSROOM SVC      PHYSICS                                           
+6-120                    678   LECTURE HALL       REGISTRAR                                         
+6-120AM                  102   CLASSROOM SVC      PHYSICS                                           
+6-120E                    21   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6-120EM                    9   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6-120M                   785   LECTURE HALL       PHYSICS                                           
+6-121EM                   19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6-122                    532   UTILITY/MECH RM    DP OF FACILITIES                                  
+6-122A                   188   UTILITY/MECH RM    DP OF FACILITIES                                  
+6-122B                   148   UTILITY/MECH RM    DP OF FACILITIES                                  
+6-122C                    99   UTILITY/MECH RM    DP OF FACILITIES                                  
+6-122D                   101   UTILITY/MECH RM    DP OF FACILITIES                                  
+6-123                    306   OFFICE             SCH OF SCIENCE                                    
+6-128                    244   LABORATORY SVC     CHEMISTRY                                         
+6-128A                   160   RSCH LAB-OFFICE    CHEMISTRY                                         
+6-128B                   138   RSCH LAB-OFFICE    CHEMISTRY                                         
+6-128C                    80   LABORATORY SVC     CHEMISTRY                                         
+6-130                    165   LABORATORY SVC     CHEMISTRY                                         
+6-130A                   165   RSCH LAB-OFFICE    CHEMISTRY                                         
+6-131                    413   PVT CIRCULATION    SCH OF SCIENCE                                    
+6-131A                   279   OFFICE             SCH OF SCIENCE                                    
+6-131B                   196   OFFICE             SCH OF SCIENCE                                    
+6-131C                   169   OFFICE             SCH OF SCIENCE                                    
+6-131D                   182   OFFICE             SCH OF SCIENCE                                    
+6-131F                   174   OFFICE             SCH OF SCIENCE                                    
+6-131G                   172   OFFICE             SCH OF SCIENCE                                    
+6-131H                   115   OFFICE SERVICE     SCH OF SCIENCE                                    
+6-131K                   103   SECY/RECEPTION     SCH OF SCIENCE                                    
+6-131L                   100   SECY/RECEPTION     SCH OF SCIENCE                                    
+6-131N                    69   OFFICE SERVICE     SCH OF SCIENCE                                    
+6-132                    421   RESEARCH LAB       CHEMISTRY                                         
+6-132A                    50   LABORATORY SVC     CHEMISTRY                                         
+6-132E                    24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6-132T                    10   TELECOM CLOSET     DP OF FACILITIES                                  
+6-134                    378   RESEARCH LAB       CHEMISTRY                                         
+6-136                     95   LABORATORY SVC     CHEMISTRY                                         
+6-136A                    26   LABORATORY SVC     CHEMISTRY                                         
+6-136B                   130   LABORATORY SVC     CHEMISTRY                                         
+                    --------                                                                        
+                      16,317                                                                        
+                                                                                                    
+6-200CA                2,145   CORRIDOR           DP OF FACILITIES                                  
+6-200CB                  159   CORRIDOR           DP OF FACILITIES                                  
+6-200E1                   39   ELEVATOR           DP OF FACILITIES                                  
+6-200SA                  305   STAIRWAY           DP OF FACILITIES                                  
+6-200SAM                 320   STAIRWAY           DP OF FACILITIES                                  
+6-200SB                  108   STAIRWAY           DP OF FACILITIES                                  
+6-200SBM                  68   STAIRWAY           DP OF FACILITIES                                  
+6-200Z                   354   SHAFT SPACE        DP OF FACILITIES                                  
+6-201                    220   OFFICE SERVICE     CHEMISTRY                                         
+6-202                    245   OFFICE             MATS SCI & ENG         POLYMERS                   
+6-203                    347   OFFICE SERVICE     CHEMISTRY                                         
+6-204                    117   LABORATORY SVC     CHEMISTRY                                         
+6-204A                   199   RESEARCH LAB       CHEMISTRY                                         
+6-205                    220   OFFICE SERVICE     CHEMISTRY                                         
+6-205A                   161   SECY/RECEPTION     CHEMISTRY                                         
+6-205B                   119   OFFICE             CHEMISTRY                                         
+6-205C                    99   OFFICE SERVICE     CHEMISTRY                                         
+6-205D                    86   OFFICE             CHEMISTRY                                         
+6-206                    322   CONFERENCE ROOM    CHEMISTRY                                         
+6-207E                    20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6-208                    202   OFFICE             CHEMISTRY                                         
+6-208J                    43   JANITOR CLOSET     DP OF FACILITIES                                  
+6-209                     59   OFFICE SERVICE     SCH OF SCIENCE                                    
+6-210                    246   LAB SUPPORT SHOP   PHYSICS                                           
+6-211                    329   OFFICE             SCH OF SCIENCE                                    
+6-212                    397   LAB SUPPORT SHOP   PHYSICS                                           
+6-213                    315   OFFICE             CHEMISTRY                                         
+6-214                    527   LAB SUPPORT SHOP   PHYSICS                                           
+6-215                    331   SECY/RECEPTION     CHEMISTRY                                         
+6-215A                   311   OFFICE             CHEMISTRY                                         
+6-217                    296   OFFICE             CHEMISTRY                                         
+6-217A                     7   OFFICE SERVICE     CHEMISTRY                                         
+6-217B                     6   OFFICE SERVICE     CHEMISTRY                                         
+6-218AM                  255   OFFICE             CHEMISTRY                                         
+6-218BM                  253   OFFICE             CHEMISTRY                                         
+6-218CM                  108   OFFICE             CHEMISTRY                                         
+6-218DM                   92   UTILITY/MECH RM    DP OF FACILITIES                                  
+6-218M                   488   OFFICE SERVICE     CHEMISTRY                                         
+6-219                    322   OFFICE             CHEMISTRY                                         
+6-220                    474   OFFICE SERVICE     CHEMISTRY                                         
+6-220A                     4   STORAGE FACILITY   DP OF FACIL ADM                                   
+6-221                    318   OFFICE             CHEMISTRY                                         
+6-222                     99   OFFICE SERVICE     CHEMISTRY                                         
+6-222A                   107   OFFICE SERVICE     CHEMISTRY                                         
+6-222B                   120   OFFICE             CHEMISTRY                                         
+6-223                    174   OFFICE             CHEMISTRY                                         
+6-224                     70   OFFICE             CHEMISTRY                                         
+6-225                    177   OFFICE             CHEMISTRY                                         
+6-226                    129   OFFICE             CHEMISTRY                                         
+6-227                    285   SECY/RECEPTION     CHEMISTRY                                         
+6-227A                    72   OFFICE SERVICE     CHEMISTRY                                         
+6-227B                   154   OFFICE SERVICE     CHEMISTRY                                         
+6-227BA                   12   OFFICE SERVICE     CHEMISTRY                                         
+6-228                     93   OFFICE             CHEMISTRY                                         
+6-229                    167   OFFICE             CHEMISTRY                                         
+6-230                    150   OFFICE             CHEMISTRY                                         
+6-230E                    15   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6-230T                     6   TELECOM CLOSET     DP OF FACILITIES                                  
+6-231                    183   OFFICE             CHEMISTRY                                         
+6-232                     72   OFFICE             CHEMISTRY                                         
+6-232A                    43   OFFICE SERVICE     CHEMISTRY                                         
+6-233                    401   CONFERENCE ROOM    CHEMISTRY                                         
+6-233A                    28   OFFICE SERVICE     CHEMISTRY                                         
+6-234                    118   OFFICE             CHEMISTRY                                         
+6-234A                   116   OFFICE             CHEMISTRY                                         
+6-234B                   140   OFFICE             CHEMISTRY                                         
+6-235                    307   OFFICE             CHEMISTRY                                         
+6-236                    132   OFFICE SERVICE     CHEMISTRY                                         
+6-237                    132   SECY/RECEPTION     CHEMISTRY                                         
+6-237A                   199   OFFICE             CHEMISTRY                                         
+                    --------                                                                        
+                      14,738                                                                        
+                                                                                                    
+6-300CA                  977   CORRIDOR           DP OF FACILITIES                                  
+6-300CB                2,404   CORRIDOR           DP OF FACILITIES                                  
+6-300E1                   40   ELEVATOR           DP OF FACILITIES                                  
+6-300SA                  306   STAIRWAY           DP OF FACILITIES                                  
+6-300SB                   58   STAIRWAY           DP OF FACILITIES                                  
+6-300Z                   222   SHAFT SPACE        DP OF FACILITIES                                  
+6-301                    270   OFFICE             PHYSICS                                           
+6-302                    158   OFFICE             PHYSICS                                           
+6-303                    213   OFFICE             PHYSICS                                           
+6-304                    113   OFFICE             PHYSICS                                           
+6-305                    205   OFFICE             PHYSICS                                           
+6-306                    174   OFFICE             PHYSICS                                           
+6-307                    175   OFFICE             PHYSICS                                           
+6-308                    202   OFFICE             PHYSICS                                           
+6-309                    156   OFFICE SERVICE     PHYSICS                                           
+6-310                    329   CONFERENCE ROOM    PHYSICS                                           
+6-310A                    10   OFFICE SERVICE     PHYSICS                                           
+6-311                    213   OFFICE             PHYSICS                                           
+6-311A                   471   OFFICE SERVICE     PHYSICS                                           
+6-311AA                   21   OFFICE SERVICE     PHYSICS                                           
+6-312                    208   OFFICE             PHYSICS                                           
+6-313                    213   OFFICE             PHYSICS                                           
+6-314                    208   OFFICE             PHYSICS                                           
+6-315                    215   OFFICE             PHYSICS                                           
+6-316                    223   OFFICE             PHYSICS                                           
+6-317                    225   OFFICE             PHYSICS                                           
+6-318                    206   OFFICE             PHYSICS                                           
+6-318E                    32   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6-319                    196   OFFICE             PHYSICS                                           
+6-319A                    85   OFFICE             PHYSICS                                           
+6-319B                    81   OFFICE             PHYSICS                                           
+6-320                    210   OFFICE             PHYSICS                                           
+6-320E                    34   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6-321                    900   CONFERENCE ROOM    CHEMISTRY                                         
+6-321A                   104   OFFICE SERVICE     CHEMISTRY                                         
+6-322                    239   OFFICE             PHYSICS                                           
+6-323                     94   LABORATORY SVC     CHEMISTRY                                         
+6-324J                    89   JANITOR CLOSET     DP OF FACILITIES                                  
+6-325                     90   RSCH LAB-OFFICE    CHEMISTRY                                         
+6-325A                   318   RESEARCH LAB       CHEMISTRY                                         
+6-326                    296   RESEARCH LAB       CHEMISTRY                                         
+6-327                    522   RESEARCH LAB       CHEMISTRY                                         
+6-327A                    99   RSCH LAB-OFFICE    CHEMISTRY                                         
+6-328                    545   RESEARCH LAB       CHEMISTRY                                         
+6-328A                   112   RSCH LAB-OFFICE    CHEMISTRY                                         
+6-331                    310   OFFICE             CHEMISTRY                                         
+6-331A                   131   OFFICE SERVICE     CHEMISTRY                                         
+6-332                     89   RSCH LAB-OFFICE    CHEMISTRY                                         
+6-332A                   340   RESEARCH LAB       CHEMISTRY                                         
+6-332AA                   33   LABORATORY SVC     CHEMISTRY                                         
+6-332E                    19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6-332T                     7   TELECOM CLOSET     DP OF FACILITIES                                  
+6-333                    303   SECY/RECEPTION     CHEMISTRY                                         
+6-334                    193   OFFICE SERVICE     CHEMISTRY                                         
+6-334A                   154   OFFICE             CHEMISTRY                                         
+6-335                    363   OFFICE             CHEMISTRY                                         
+6-336                    117   LABORATORY SVC     CHEMISTRY                                         
+                    --------                                                                        
+                      14,322                                                                        
+                                                                                                    
+6-400CA                1,206   CORRIDOR           DP OF FACILITIES                                  
+6-400CB                2,174   CORRIDOR           DP OF FACILITIES                                  
+6-400E1                   40   ELEVATOR           DP OF FACILITIES                                  
+6-400SA                  306   STAIRWAY           DP OF FACILITIES                                  
+6-400SB                   65   STAIRWAY           DP OF FACILITIES                                  
+6-400Z                   309   SHAFT SPACE        DP OF FACILITIES                                  
+6-401                    259   OFFICE             PHYSICS                                           
+6-402                    173   OFFICE             PHYSICS                                           
+6-403                    222   OFFICE             PHYSICS                                           
+6-403A                   170   OFFICE SERVICE     PHYSICS                                           
+6-404                     99   OFFICE SERVICE     PHYSICS                                           
+6-405                    222   OFFICE             PHYSICS                                           
+6-406                    209   OFFICE             PHYSICS                                           
+6-407                    154   OFFICE             PHYSICS                                           
+6-408                    214   OFFICE             PHYSICS                                           
+6-409                    144   OFFICE             PHYSICS                                           
+6-410                    219   OFFICE             PHYSICS                                           
+6-411                    243   OFFICE             PHYSICS                                           
+6-411A                   171   OFFICE SERVICE     PHYSICS                                           
+6-412                    107   OFFICE             PHYSICS                                           
+6-413                    231   OFFICE             PHYSICS                                           
+6-414                    217   OFFICE             PHYSICS                                           
+6-415                    231   OFFICE             PHYSICS                                           
+6-415A                   237   OFFICE             PHYSICS                                           
+6-415AE                   34   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6-416                    213   OFFICE             PHYSICS                                           
+6-416A                   224   OFFICE             PHYSICS                                           
+6-416J                    37   JANITOR CLOSET     DP OF FACILITIES                                  
+6-417                    568   RESEARCH LAB       CHEMISTRY                                         
+6-417A                    79   RSCH LAB-OFFICE    CHEMISTRY                                         
+6-418                    365   OFFICE             CHEMISTRY                                         
+6-420                    378   OFFICE SERVICE     CHEMISTRY                                         
+6-421                    573   RESEARCH LAB       CHEMISTRY                                         
+6-421A                    87   RSCH LAB-OFFICE    CHEMISTRY                                         
+6-422                    415   RESEARCH LAB       CHEMISTRY                                         
+6-425                    348   LABORATORY SVC     CHEMISTRY                                         
+6-426                    271   LABORATORY SVC     CHEMISTRY                                         
+6-427                    563   RESEARCH LAB       CHEMISTRY                                         
+6-427A                    83   RSCH LAB-OFFICE    CHEMISTRY                                         
+6-428                    574   RESEARCH LAB       CHEMISTRY                                         
+6-428A                    82   RSCH LAB-OFFICE    CHEMISTRY                                         
+6-431                    597   RESEARCH LAB       CHEMISTRY                                         
+6-432E                    19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6-432T                     7   TELECOM CLOSET     DP OF FACILITIES                                  
+6-433                    155   RSCH LAB-OFFICE    CHEMISTRY                                         
+6-434                    717   RESEARCH LAB       CHEMISTRY                                         
+6-434A                    21   LABORATORY SVC     CHEMISTRY                                         
+6-434B                    39   LABORATORY SVC     CHEMISTRY                                         
+6-435                    331   OFFICE             CHEMISTRY                                         
+6-436                    120   LABORATORY SVC     CHEMISTRY                                         
+                    --------                                                                        
+                      14,525                                                                        
+                                                                                                    
+6-500CG                   84   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+6-500CH                   29   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+6-500SA                  152   STAIRWAY           DP OF FACILITIES                                  
+6-526                     81   UTILITY/MECH RM    DP OF FACILITIES                                  
+6-527                    447   UTILITY/MECH RM    DP OF FACILITIES                                  
+6-530                    785   UTILITY/MECH RM    DP OF FACILITIES                                  
+6-536                     65   UTILITY/MECH RM    DP OF FACILITIES 

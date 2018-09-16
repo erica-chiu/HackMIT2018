@@ -1,0 +1,89 @@
+14-0/000CA               674   CORRIDOR           DP OF FACILITIES                                  
+14-0/000CB             1,380   CORRIDOR           DP OF FACILITIES                                  
+14-0/000CC               219   CORRIDOR           DP OF FACILITIES                                  
+14-0/000CD               280   CORRIDOR           DP OF FACILITIES                                  
+14-0/000CE               210   CORRIDOR           DP OF FACILITIES                                  
+14-0/000E1                55   ELEVATOR           DP OF FACILITIES                                  
+14-0/000E2                33   ELEVATOR           DP OF FACILITIES                                  
+14-0/000E3                25   ELEVATOR           DP OF FACILITIES                                  
+14-0/000E4                25   ELEVATOR           DP OF FACILITIES                                  
+14-0/000E5                49   ELEVATOR           DP OF FACILITIES                                  
+14-0/000LA               366   LOBBY              DP OF FACILITIES                                  
+14-0/000SA               144   STAIRWAY           DP OF FACILITIES                                  
+14-0/000SB               234   STAIRWAY           DP OF FACILITIES                                  
+14-0/000SC               320   STAIRWAY           DP OF FACILITIES                                  
+14-0/000SD               286   STAIRWAY           DP OF FACILITIES                                  
+14-0/000SE                55   STAIRWAY           DP OF FACILITIES                                  
+14-0/000SH                71   STAIRWAY           DP OF FACILITIES                                  
+14-0/000SJ                90   STAIRWAY           DP OF FACILITIES                                  
+14-0/010                 353   OFFICE SERVICE     LIBRARIES              ATHENA                     
+14-0/010T                 84   TELECOM CLOSET     DP OF FACILITIES                                  
+14-0/050               1,081   STACK/STUDY        LIBRARIES                                         
+14-0/050B                 50   OFFICE SERVICE     LIBRARIES                                         
+14-0/250                  15   PVT CIRCULATION    LIBRARIES                                         
+14-0/255                 213   OFFICE SERVICE     LIBRARIES                                         
+14-0/301Z              1,647   SHAFT SPACE        DP OF FACILITIES                                  
+14-0/315                 559   OFFICE SERVICE     MUSIC & THEATER ART                               
+14-0/315B                 50   PVT LAVATORY       MUSIC & THEATER ART                               
+14-0/315C                116   OFFICE SERVICE     MUSIC & THEATER ART                               
+14-0/330              16,348   STACK/STUDY        LIBRARIES                                         
+14-0/330A                328   STUDY ROOM         LIBRARIES              ATHENA                     
+14-0/330AA               108   STUDY ROOM         LIBRARIES                                         
+14-0/330AB               144   STUDY ROOM         LIBRARIES                                         
+14-0/330B                 13   UTILITY/MECH RM    DP OF FACILITIES                                  
+14-0/330D                284   LIBRARY PROCESS    LIBRARIES                                         
+14-0/330DA                94   LIBRARY PROCESS    LIBRARIES                                         
+14-0/350                  13   PVT CIRCULATION    LIBRARIES                                         
+14-0/353                 174   OFFICE SERVICE     LIBRARIES                                         
+14-0/356                 231   MALE LAVATORY      DP OF FACILITIES                                  
+14-0/356J                 45   JANITOR CLOSET     DP OF FACILITIES                                  
+14-0/450                  83   OFFICE             LIBRARIES                                         
+14-0/458                 196   OFFICE SERVICE     LIBRARIES                                         
+14-0/458Z                 25   SHAFT SPACE        DP OF FACILITIES                                  
+14-0/513               1,993   LIBRARY PROCESS    LIBRARIES                                         
+14-0/513A                 98   OFFICE             LIBRARIES                                         
+14-0/513B                182   OFFICE SERVICE     LIBRARIES                                         
+14-0/513C                 49   OFFICE SERVICE     LIBRARIES                                         
+14-0/513CA                68   OFFICE SERVICE     LIBRARIES                                         
+14-0/513D                 83   OFFICE SERVICE     LIBRARIES                                         
+14-0/551               1,059   LIBRARY PROCESS    LIBRARIES                                         
+14-0/551A                 65   OFFICE             LIBRARIES                                         
+14-0/554                 366   OFFICE SERVICE     LIBRARIES                                         
+14-0/554A                 60   OFFICE             LIBRARIES                                         
+14-0/554B                 48   OFFICE             LIBRARIES                                         
+14-0/554C                 49   OFFICE             LIBRARIES                                         
+14-0/554CA                48   OFFICE             LIBRARIES                                         
+14-0/554D                113   OFFICE             LIBRARIES                                         
+14-0/611                  48   OFFICE SERVICE     LIBRARIES                                         
+14-0/611A                102   UTILITY/MECH RM    DP OF FACILITIES                                  
+14-0/627                  92   OFFICE SERVICE     LIBRARIES                                         
+14-0/627A                 77   OFFICE             LIBRARIES                                         
+14-0/627B                171   OFFICE SERVICE     LIBRARIES                                         
+14-0/637                 751   CLASSROOM          INFO SVCS & TECH       ATHENA                     
+14-0/645                 404   OFFICE SERVICE     LIBRARIES                                         
+14-0/653                 226   OFFICE             LIBRARIES                                         
+14-0/653A                148   OFFICE             LIBRARIES                                         
+14-0/655                 118   OFFICE SERVICE     LIBRARIES                                         
+14-0/655A                 48   OFFICE             LIBRARIES                                         
+14-0/655B                216   OFFICE             LIBRARIES                                         
+14-0/655C                321   OFFICE SERVICE     LIBRARIES                                         
+14-0/655D                509   STORAGE FACILITY   LIBRARIES                                         
+14-0/657                  65   OFFICE SERVICE     LIBRARIES                                         
+14-0/658T                123   TELECOM CLOSET     DP OF FACILITIES                                  
+14-0/701                 255   JANITOR STORAGE    DP OF FACILITIES                                  
+14-0/702                 120   MERCHAND FACIL     CAMPUS DINING                                     
+14-0/710                 550   LIBRARY PROCESS    LIBRARIES                                         
+14-0/720AE                25   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14-0/720E                755   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14-0/726T                 57   TELECOM CLOSET     DP OF FACILITIES                                  
+14-0/736               1,400   UTILITY/MECH RM    DP OF FACILITIES                                  
+14-0/736J                 25   JANITOR CLOSET     DP OF FACILITIES                                  
+14-0/746               1,100   UTILITY/MECH RM    DP OF FACILITIES                                  
+14-0/746A                 86   STORAGE FACILITY   DP OF FACIL ADM                                   
+14-0/748                  72   JANITOR STORAGE    DP OF FACILITIES                                  
+14-0/752                 136   MAIL ROOM          DP OF FACIL ADM                                   
+14-0/756                 337   OFFICE SERVICE     LIBRARIES                                         
+14-0/808                 813   UTILITY/MECH RM    DP OF FACILITIES                                  
+14-0/808A                 24   STORAGE FACILITY   DP OF FACIL ADM                                   
+14-0/824E                 83   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14-000Z                   74   SHAFT SPACE        DP OF FACILITIES       

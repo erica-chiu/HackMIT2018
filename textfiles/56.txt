@@ -1,0 +1,495 @@
+56-0000E3                 53   ELEVATOR           DP OF FACILITIES                                  
+56-0000SB                135   STAIRWAY           DP OF FACILITIES                                  
+56-0000SC                133   STAIRWAY           DP OF FACILITIES                                  
+56-0000SD                  9   STAIRWAY           DP OF FACILITIES                                  
+56-0000SDM                32   STAIRWAY           DP OF FACILITIES                                  
+56-0001                  201   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-0002                6,817   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-0003                  145   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-0004                  538   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-0004M                 370   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-0006                  203   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-0008                  380   STORAGE FACILITY   DP OF FACIL ADM                                   
+56-0036                1,432   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-0037                  808   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-0048                   74   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      11,330                                                                        
+                                                                                                    
+56-000CA               1,655   CORRIDOR           DP OF FACILITIES                                  
+56-000E1                  65   ELEVATOR           DP OF FACILITIES                                  
+56-000E2                  64   ELEVATOR           DP OF FACILITIES                                  
+56-000E3                  54   ELEVATOR           DP OF FACILITIES                                  
+56-000LA                 640   LOBBY              DP OF FACILITIES                                  
+56-000SA                 141   STAIRWAY           DP OF FACILITIES                                  
+56-000SB                 157   STAIRWAY           DP OF FACILITIES                                  
+56-000SC                 102   STAIRWAY           DP OF FACILITIES                                  
+56-000Z                  507   SHAFT SPACE        DP OF FACILITIES                                  
+56-002                   227   OFFICE SERVICE     BIOENG DEPT                                       
+56-005                   117   OFFICE SERVICE     CAMP ACTIV COMPL       LECTURE SERIES             
+56-015                   275   MAIL ROOM          DP OF FACIL ADM                                   
+56-015A                  223   STORAGE FACILITY   DP OF FACIL ADM                                   
+56-021J                   21   JANITOR CLOSET     DP OF FACILITIES                                  
+56-022                   852   OFFICE             PROCUREMENT                                       
+56-022B                  224   OFFICE SERVICE     PROCUREMENT                                       
+56-025E                  119   ELECTRIC CLOSET    DP OF FACILITIES                                  
+56-025EE                  68   ELECTRIC CLOSET    DP OF FACILITIES                                  
+56-030                   889   OFFICE SERVICE     BIOENG DEPT                                       
+56-031                   275   NON-ATH LOCKR RM   DP OF FACIL ADM                                   
+56-031A                   61   NON-ATH LOCKR RM   DP OF FACIL ADM                                   
+56-031B                   60   NON-ATH LOCKR RM   DP OF FACIL ADM                                   
+56-038                    20   LABORATORY SVC     BIOENG DEPT                                       
+56-043                   138   FEMALE LAVATORY    DP OF FACILITIES                                  
+56-046                   298   OFFICE SERVICE     BIOENG DEPT                                       
+56-046A                   84   OFFICE             BIOENG DEPT                                       
+56-046B                  226   OFFICE SERVICE     BIOENG DEPT                                       
+56-046C                  189   OFFICE SERVICE     BIOENG DEPT                                       
+56-047                   139   MALE LAVATORY      DP OF FACILITIES                                  
+56-052                    29   LABORATORY SVC     BIOENG DEPT                                       
+56-058                    26   LABORATORY SVC     BIOENG DEPT                                       
+56-060                   326   OFFICE             BIOENG DEPT                                       
+56-066T                   33   TELECOM CLOSET     DP OF FACILITIES                                  
+56-067                   689   OFFICE SERVICE     PROCUREMENT                                       
+56-069                   774   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-070                 1,538   OFFICE SERVICE     PROCUREMENT                                       
+56-070E                   17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+56-086                   360   STORAGE FACILITY   DP OF FACIL ADM                                   
+56-086A                  130   STORAGE FACILITY   DP OF FACIL ADM                                   
+56-086T                   25   TELECOM CLOSET     DP OF FACILITIES                                  
+56-093                    69   STORAGE FACILITY   DP OF FACIL ADM                                   
+56-095Z                   44   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      11,953                                                                        
+                                                                                                    
+56-100CA               1,727   CORRIDOR           DP OF FACILITIES                                  
+56-100CB                 455   CORRIDOR           DP OF FACILITIES                                  
+56-100E1                  65   ELEVATOR           DP OF FACILITIES                                  
+56-100E2                  64   ELEVATOR           DP OF FACILITIES                                  
+56-100E3                  54   ELEVATOR           DP OF FACILITIES                                  
+56-100LA                 954   LOBBY              DP OF FACILITIES                                  
+56-100LB                 154   LOBBY              DP OF FACILITIES                                  
+56-100LC                 230   LOBBY              DP OF FACILITIES                                  
+56-100SA                 141   STAIRWAY           DP OF FACILITIES                                  
+56-100SB                 143   STAIRWAY           DP OF FACILITIES                                  
+56-100Z                  742   SHAFT SPACE        DP OF FACILITIES                                  
+56-106                    14   MAIL ROOM          DP OF FACIL ADM                                   
+56-114                 1,529   LECTURE HALL       REGISTRAR                                         
+56-114A                   25   CLASSROOM SVC      REGISTRAR                                         
+56-114B                   19   CLASSROOM SVC      REGISTRAR                                         
+56-115                    53   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-129                 1,119   COMPUTER FACIL     INFO SVCS & TECH       ATHENA                     
+56-129A                   31   COMPUTER SERVICE   INFO SVCS & TECH                                  
+56-129B                   19   COMPUTER SERVICE   INFO SVCS & TECH                                  
+56-154                 1,106   CLASSROOM          REGISTRAR                                         
+56-162                   746   CLASSROOM          REGISTRAR                                         
+56-166T                   44   TELECOM CLOSET     DP OF FACILITIES                                  
+56-167                   643   CLASSROOM          REGISTRAR                                         
+56-169                   481   CLASSROOM          REGISTRAR                                         
+56-180                   768   CLASSROOM          REGISTRAR                                         
+56-186                   134   STORAGE FACILITY   DP OF FACIL ADM                                   
+56-186A                  262   STORAGE FACILITY   DP OF FACIL ADM                                   
+56-186AA                  46   OFFICE SERVICE     DP OF FACIL ADM                                   
+56-186E                   80   ELECTRIC CLOSET    DP OF FACILITIES                                  
+56-186J                   63   JANITOR CLOSET     DP OF FACILITIES                                  
+56-191                   483   CLASSROOM          REGISTRAR                                         
+56-191A                   58   CLASSROOM SVC      REGISTRAR                                         
+                    --------                                                                        
+                      12,451                                                                        
+                                                                                                    
+56-200CA               1,313   CORRIDOR           DP OF FACILITIES                                  
+56-200E1                  64   ELEVATOR           DP OF FACILITIES                                  
+56-200E2                  63   ELEVATOR           DP OF FACILITIES                                  
+56-200LA                 572   LOBBY              DP OF FACILITIES                                  
+56-200SA                 139   STAIRWAY           DP OF FACILITIES                                  
+56-200SB                 149   STAIRWAY           DP OF FACILITIES                                  
+56-200Z                  631   SHAFT SPACE        DP OF FACILITIES                                  
+56-202                   335   CONFERENCE ROOM    BIOENG DEPT                                       
+56-205                   236   OFFICE             BIOENG DEPT                                       
+56-211                   151   OFFICE             BIOENG DEPT                                       
+56-213J                   27   JANITOR CLOSET     DP OF FACILITIES                                  
+56-215                   216   LABORATORY SVC     VP-RSCH                                           
+56-219                    42   JANITOR STORAGE    DP OF FACILITIES                                  
+56-221                    30   OFFICE SERVICE     BIOENG DEPT                                       
+56-222                    15   OFFICE SERVICE     BIOENG DEPT                                       
+56-225E                  129   ELECTRIC CLOSET    DP OF FACILITIES                                  
+56-225EE                 100   ELECTRIC CLOSET    DP OF FACILITIES                                  
+56-228                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-230                 1,525   RESEARCH LAB       BIOENG DEPT                                       
+56-235                   168   SECY/RECEPTION     BIOENG DEPT                                       
+56-235A                   76   OFFICE SERVICE     BIOENG DEPT                                       
+56-235B                  257   OFFICE             BIOENG DEPT                                       
+56-235C                   83   OFFICE             BIOENG DEPT                                       
+56-235D                   81   OFFICE SERVICE     BIOENG DEPT                                       
+56-236                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-238                   244   LABORATORY SVC     BIOENG DEPT                                       
+56-238A                   61   LABORATORY SVC     BIOENG DEPT                                       
+56-244                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-246                    14   LABORATORY SVC     BIOENG DEPT                                       
+56-252                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-254                   740   RESEARCH LAB       BIOENG DEPT                                       
+56-254A                  186   RESEARCH LAB       BIOENG DEPT                                       
+56-254B                   75   RESEARCH LAB       BIOENG DEPT                                       
+56-254C                    7   LABORATORY SVC     BIOENG DEPT                                       
+56-255                   515   OFFICE             BIOENG DEPT                                       
+56-255A                   76   OFFICE             BIOENG DEPT                                       
+56-255AA                  87   OFFICE             BIOENG DEPT                                       
+56-262                    14   LABORATORY SVC     VP-RSCH                                           
+56-265                   166   LABORATORY SVC     VP-RSCH                                           
+56-265A                  166   SECY/RECEPTION     VP-RSCH                                           
+56-265B                  166   OFFICE             VP-RSCH                                           
+56-266T                   44   TELECOM CLOSET     DP OF FACILITIES                                  
+56-270                   994   RESEARCH LAB       VP-RSCH                                           
+56-275                   207   RESEARCH LAB       VP-RSCH                                           
+56-276                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-278                    14   LABORATORY SVC     VP-RSCH                                           
+56-279                   254   RESEARCH LAB       VP-RSCH                                           
+56-285                    81   LABORATORY SVC     BIOENG DEPT                                       
+56-286                 1,031   RESEARCH LAB       BIOENG DEPT                                       
+56-286A                   95   RESEARCH LAB       BIOENG DEPT                                       
+56-291                   336   OFFICE             BIOENG DEPT                                       
+56-292                    17   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-295Z                   45   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      12,137                                                                        
+                                                                                                    
+56-300CA               1,314   CORRIDOR           DP OF FACILITIES                                  
+56-300E1                  65   ELEVATOR           DP OF FACILITIES                                  
+56-300E2                  64   ELEVATOR           DP OF FACILITIES                                  
+56-300LA                 678   LOBBY              DP OF FACILITIES                                  
+56-300SA                 139   STAIRWAY           DP OF FACILITIES                                  
+56-300SB                 149   STAIRWAY           DP OF FACILITIES                                  
+56-300Z                  478   SHAFT SPACE        DP OF FACILITIES                                  
+56-302                   335   CONFERENCE ROOM    BIOENG DEPT                                       
+56-311                   258   LABORATORY SVC     BIOENG DEPT                                       
+56-311A                   26   LABORATORY SVC     BIOENG DEPT                                       
+56-313J                   28   JANITOR CLOSET     DP OF FACILITIES                                  
+56-314                    13   LABORATORY SVC     BIOENG DEPT                                       
+56-315                   238   LABORATORY SVC     BIOENG DEPT                                       
+56-321                    46   LABORATORY SVC     BIOENG DEPT                                       
+56-322                 1,529   TEACHING LAB       BIOENG DEPT                                       
+56-325E                  128   ELECTRIC CLOSET    DP OF FACILITIES                                  
+56-325EE                 100   ELECTRIC CLOSET    DP OF FACILITIES                                  
+56-328                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-330                    12   LABORATORY SVC     BIOENG DEPT                                       
+56-331                    86   LABORATORY SVC     BIOENG DEPT                                       
+56-336                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-338                   503   TEACHING LAB       BIOENG DEPT                                       
+56-341                   251   SECY/RECEPTION     BIOENG DEPT                                       
+56-341A                  125   OFFICE             BIOENG DEPT                                       
+56-341B                  177   OFFICE             BIOENG DEPT                                       
+56-341C                  176   OFFICE             BIOENG DEPT                                       
+56-341D                  103   OFFICE             BIOENG DEPT                                       
+56-344                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-346                    12   LABORATORY SVC     BIOENG DEPT                                       
+56-351                    71   LABORATORY SVC     BIOENG DEPT                                       
+56-352                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-353                   341   OFFICE             BIOENG DEPT                                       
+56-354                   954   RESEARCH LAB       BIOENG DEPT                                       
+56-354A                   72   LABORATORY SVC     BIOENG DEPT                                       
+56-362                    12   LABORATORY SVC     BIOENG DEPT                                       
+56-366T                   44   TELECOM CLOSET     DP OF FACILITIES                                  
+56-367                   354   RSCH LAB-OFFICE    BIOENG DEPT                                       
+56-367B                  207   RESEARCH LAB       BIOENG DEPT                                       
+56-370                    12   LABORATORY SVC     BIOENG DEPT                                       
+56-373                    98   LABORATORY SVC     BIOENG DEPT                                       
+56-376                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-378                 1,638   RESEARCH LAB       BIOENG DEPT                                       
+56-378A                   95   RESEARCH LAB       BIOENG DEPT                                       
+56-378B                  188   RESEARCH LAB       BIOENG DEPT                                       
+56-378C                  185   RESEARCH LAB       BIOENG DEPT                                       
+56-379                   208   OFFICE             BIOENG DEPT                                       
+56-385                   257   OFFICE             BIOENG DEPT                                       
+56-386                    12   LABORATORY SVC     BIOENG DEPT                                       
+56-389                   260   OFFICE             BIOENG DEPT                                       
+56-392                    17   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      12,153                                                                        
+                                                                                                    
+56-400CA               1,339   CORRIDOR           DP OF FACILITIES                                  
+56-400E1                  65   ELEVATOR           DP OF FACILITIES                                  
+56-400E2                  64   ELEVATOR           DP OF FACILITIES                                  
+56-400LA                 684   LOBBY              DP OF FACILITIES                                  
+56-400SA                 144   STAIRWAY           DP OF FACILITIES                                  
+56-400SB                 149   STAIRWAY           DP OF FACILITIES                                  
+56-400Z                  417   SHAFT SPACE        DP OF FACILITIES                                  
+56-402                   335   CONFERENCE ROOM    BIOENG DEPT            BIOTEC                     
+56-411                   259   LABORATORY SVC     CHEMICAL ENG                                      
+56-411A                   26   LABORATORY SVC     CHEMICAL ENG                                      
+56-413J                   28   JANITOR CLOSET     DP OF FACILITIES                                  
+56-414                    13   LABORATORY SVC     CHEMICAL ENG                                      
+56-415                   212   LABORATORY SVC     CHEMICAL ENG                                      
+56-421                    73   LABORATORY SVC     BIOENG DEPT            BIOTEC                     
+56-422                 2,046   RESEARCH LAB       CHEMICAL ENG                                      
+56-425E                  128   ELECTRIC CLOSET    DP OF FACILITIES                                  
+56-425EE                 100   ELECTRIC CLOSET    DP OF FACILITIES                                  
+56-428                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-431                   382   OFFICE             CHEMICAL ENG                                      
+56-436                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-438                    12   LABORATORY SVC     CHEMICAL ENG                                      
+56-439                   298   OFFICE             CHEMICAL ENG                                      
+56-444                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-446                    12   LABORATORY SVC     CHEMICAL ENG                                      
+56-447                   206   RESEARCH LAB       CHEMICAL ENG                                      
+56-452                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-453                   299   OFFICE             CHEMICAL ENG                                      
+56-454                 2,028   RESEARCH LAB       CHEMICAL ENG                                      
+56-459                    94   LABORATORY SVC     CHEMICAL ENG                                      
+56-462                    12   LABORATORY SVC     CHEMICAL ENG                                      
+56-466T                   44   TELECOM CLOSET     DP OF FACILITIES                                  
+56-469                   245   SECY/RECEPTION     CHEMICAL ENG                                      
+56-469A                  105   OFFICE SERVICE     CHEMICAL ENG                                      
+56-469B                  177   OFFICE             CHEMICAL ENG                                      
+56-469C                  177   OFFICE             CHEMICAL ENG                                      
+56-469D                  105   OFFICE SERVICE     CHEMICAL ENG                                      
+56-476                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-477                    94   RESEARCH LAB       CHEMICAL ENG                                      
+56-478                 1,030   RESEARCH LAB       CHEMICAL ENG                                      
+56-478A                   96   LABORATORY SVC     CHEMICAL ENG                                      
+56-483                   166   OFFICE             CHEMICAL ENG                                      
+56-484                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-491                   393   OFFICE             CHEMICAL ENG                                      
+56-492                    17   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-495Z                   45   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      12,231                                                                        
+                                                                                                    
+56-500CA               1,315   CORRIDOR           DP OF FACILITIES                                  
+56-500E1                  65   ELEVATOR           DP OF FACILITIES                                  
+56-500E2                  64   ELEVATOR           DP OF FACILITIES                                  
+56-500LA                 678   LOBBY              DP OF FACILITIES                                  
+56-500SA                 139   STAIRWAY           DP OF FACILITIES                                  
+56-500SB                 150   STAIRWAY           DP OF FACILITIES                                  
+56-500Z                  474   SHAFT SPACE        DP OF FACILITIES                                  
+56-502                   335   CONFERENCE ROOM    CHEMISTRY                                         
+56-511                   259   LABORATORY SVC     CHEMISTRY                                         
+56-511A                   26   LABORATORY SVC     CHEMISTRY                                         
+56-513J                   27   JANITOR CLOSET     DP OF FACILITIES                                  
+56-514                    12   LABORATORY SVC     CHEMISTRY                                         
+56-515                   235   LABORATORY SVC     CHEMISTRY                                         
+56-521                    58   RESEARCH LAB       CHEMISTRY                                         
+56-522                 1,527   RESEARCH LAB       CHEMISTRY                                         
+56-525E                  129   ELECTRIC CLOSET    DP OF FACILITIES                                  
+56-525EE                 100   ELECTRIC CLOSET    DP OF FACILITIES                                  
+56-528                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-530                    12   LABORATORY SVC     CHEMISTRY                                         
+56-531                   256   LABORATORY SVC     CHEMISTRY                                         
+56-536                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-538                    12   LABORATORY SVC     CHEMISTRY                                         
+56-539                   292   RESEARCH LAB       CHEMISTRY                                         
+56-539A                   70   LABORATORY SVC     CHEMISTRY                                         
+56-544                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-545                   338   RESEARCH LAB       CHEMISTRY                                         
+56-545A                   58   LABORATORY SVC     CHEMISTRY                                         
+56-546                 1,544   RESEARCH LAB       CHEMISTRY                                         
+56-552                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-553                   129   LABORATORY SVC     CHEMISTRY                                         
+56-554                    12   LABORATORY SVC     CHEMISTRY                                         
+56-561                   186   RESEARCH LAB       CHEMISTRY                                         
+56-562                    12   LABORATORY SVC     CHEMISTRY                                         
+56-566T                   44   TELECOM CLOSET     DP OF FACILITIES                                  
+56-567                   510   RESEARCH LAB       CHEMISTRY                                         
+56-570                 2,036   RESEARCH LAB       CHEMISTRY                                         
+56-570A                   98   RSCH LAB-OFFICE    CHEMISTRY                                         
+56-575                    56   LABORATORY SVC     CHEMISTRY                                         
+56-576                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-578                    12   LABORATORY SVC     CHEMISTRY                                         
+56-579                   159   SECY/RECEPTION     CHEMISTRY                                         
+56-579A                  175   OFFICE             CHEMISTRY                                         
+56-579B                   72   OFFICE SERVICE     CHEMISTRY                                         
+56-587                   167   LABORATORY SVC     CHEMISTRY                                         
+56-591                   219   LABORATORY SVC     CHEMISTRY                                         
+56-592                    16   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      12,173                                                                        
+                                                                                                    
+56-600CA               1,348   CORRIDOR           DP OF FACILITIES                                  
+56-600E1                  65   ELEVATOR           DP OF FACILITIES                                  
+56-600E2                  64   ELEVATOR           DP OF FACILITIES                                  
+56-600LA                 574   LOBBY              DP OF FACILITIES                                  
+56-600SA                 144   STAIRWAY           DP OF FACILITIES                                  
+56-600SB                 149   STAIRWAY           DP OF FACILITIES                                  
+56-600Z                  392   SHAFT SPACE        DP OF FACILITIES                                  
+56-601                   107   OFFICE             BIOENG DEPT                                       
+56-602                   335   CONFERENCE ROOM    BIOENG DEPT                                       
+56-611                   251   LABORATORY SVC     BIOENG DEPT                                       
+56-611A                   26   LABORATORY SVC     BIOENG DEPT                                       
+56-613J                   28   JANITOR CLOSET     DP OF FACILITIES                                  
+56-614                 1,016   CLASSROOM          BIOENG DEPT                                       
+56-615                   224   LABORATORY SVC     BIOENG DEPT                                       
+56-621                    77   LABORATORY SVC     BIOENG DEPT                                       
+56-625E                  128   ELECTRIC CLOSET    DP OF FACILITIES                                  
+56-625EE                 100   ELECTRIC CLOSET    DP OF FACILITIES                                  
+56-628                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-630                    12   LABORATORY SVC     BIOENG DEPT                                       
+56-636                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-638                 1,032   RESEARCH LAB       BIOENG DEPT                                       
+56-644                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-646                    12   LABORATORY SVC     BIOENG DEPT                                       
+56-651                   339   OFFICE SERVICE     BIOENG DEPT                                       
+56-651A                   76   OFFICE             BIOENG DEPT                                       
+56-651B                   74   OFFICE             BIOENG DEPT                                       
+56-651C                  112   SECY/RECEPTION     BIOENG DEPT                                       
+56-651D                   78   OFFICE             BIOENG DEPT                                       
+56-651F                   72   OFFICE             BIOENG DEPT                                       
+56-651P                   99   OFFICE             BIOENG DEPT                                       
+56-651Q                  202   OFFICE             BIOENG DEPT                                       
+56-651R                  130   OFFICE SERVICE     BIOENG DEPT                                       
+56-652                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-654                 1,023   RESEARCH LAB       BIOENG DEPT                                       
+56-662                    12   OFFICE SERVICE     BIOENG DEPT                                       
+56-666T                   44   TELECOM CLOSET     DP OF FACILITIES                                  
+56-669                   171   OFFICE SERVICE     BIOENG DEPT                                       
+56-669A                   84   OFFICE             BIOENG DEPT                                       
+56-669B                  177   OFFICE             BIOENG DEPT                                       
+56-669C                   89   OFFICE             BIOENG DEPT                                       
+56-669D                  177   OFFICE             BIOENG DEPT                                       
+56-669F                   85   OFFICE             BIOENG DEPT                                       
+56-669G                   51   SECY/RECEPTION     BIOENG DEPT                                       
+56-670                 1,001   RESEARCH LAB       BIOENG DEPT                                       
+56-676                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-678                    12   OFFICE SERVICE     BIOENG DEPT                                       
+56-679                   101   LABORATORY SVC     BIOENG DEPT                                       
+56-683                   219   LABORATORY SVC     BIOENG DEPT                                       
+56-685                   170   OFFICE SERVICE     BIOENG DEPT                                       
+56-686                 1,038   RESEARCH LAB       BIOENG DEPT                                       
+56-686A                   96   RESEARCH LAB       BIOENG DEPT                                       
+56-691                   234   RESEARCH LAB       BIOENG DEPT                                       
+56-692                    17   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-695Z                   45   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      12,209                                                                        
+                                                                                                    
+56-700CA               1,330   CORRIDOR           DP OF FACILITIES                                  
+56-700E1                  65   ELEVATOR           DP OF FACILITIES                                  
+56-700E2                  64   ELEVATOR           DP OF FACILITIES                                  
+56-700LA                 571   LOBBY              DP OF FACILITIES                                  
+56-700SA                 139   STAIRWAY           DP OF FACILITIES                                  
+56-700SB                 149   STAIRWAY           DP OF FACILITIES                                  
+56-700Z                  361   SHAFT SPACE        DP OF FACILITIES                                  
+56-702                   335   OFFICE SERVICE     BIOENG DEPT                                       
+56-711                   379   CONFERENCE ROOM    BIOENG DEPT                                       
+56-713J                   26   JANITOR CLOSET     DP OF FACILITIES                                  
+56-714                    13   LABORATORY SVC     BIOENG DEPT                                       
+56-715                   217   LABORATORY SVC     BIOENG DEPT                                       
+56-721                   124   LABORATORY SVC     BIOENG DEPT                                       
+56-722                   509   RESEARCH LAB       BIOENG DEPT                                       
+56-722A                  498   RESEARCH LAB       BIOENG DEPT                                       
+56-725E                   99   ELECTRIC CLOSET    DP OF FACILITIES                                  
+56-725EE                 106   ELECTRIC CLOSET    DP OF FACILITIES                                  
+56-728                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-730                    12   LABORATORY SVC     BIOENG DEPT                                       
+56-731                   279   SECY/RECEPTION     BIOENG DEPT                                       
+56-731A                  177   OFFICE             BIOENG DEPT                                       
+56-736                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-738                   509   RESEARCH LAB       BIOENG DEPT                                       
+56-738A                  509   RESEARCH LAB       BIOENG DEPT                                       
+56-738B                  509   RESEARCH LAB       BIOENG DEPT                                       
+56-743                   116   LABORATORY SVC     BIOENG DEPT                                       
+56-744                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-746                    12   LABORATORY SVC     BIOENG DEPT                                       
+56-747                   336   RESEARCH LAB       BIOENG DEPT                                       
+56-747A                   83   RSCH LAB-OFFICE    BIOENG DEPT                                       
+56-747B                   86   RSCH LAB-OFFICE    BIOENG DEPT                                       
+56-752                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-753                    79   OFFICE             BIOENG DEPT                                       
+56-754                   996   RESEARCH LAB       BIOENG DEPT                                       
+56-762                    12   LABORATORY SVC     BIOENG DEPT                                       
+56-763                   467   OFFICE             BIOENG DEPT                                       
+56-766T                   44   TELECOM CLOSET     DP OF FACILITIES                                  
+56-770                    12   LABORATORY SVC     PROVOST RESERVE                                   
+56-773                   378   RESEARCH LAB       PROVOST RESERVE                                   
+56-776                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-778                    12   LABORATORY SVC     BIOENG DEPT                                       
+56-779                    92   LABORATORY SVC     BIOENG DEPT                                       
+56-786                 1,559   RESEARCH LAB       PROVOST RESERVE                                   
+56-786A                   96   LABORATORY SVC     BIOENG DEPT                                       
+56-787                   229   SECY/RECEPTION     BIOENG DEPT                                       
+56-787A                  151   OFFICE             BIOENG DEPT                                       
+56-787B                  177   OFFICE             PROVOST RESERVE                                   
+56-791                    80   LABORATORY SVC     BIOENG DEPT                                       
+56-792                    17   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-795Z                   45   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      12,158                                                                        
+                                                                                                    
+56-800CA                 406   CORRIDOR           DP OF FACILITIES                                  
+56-800CB                 104   CORRIDOR           DP OF FACILITIES                                  
+56-800CC                 222   CORRIDOR           DP OF FACILITIES                                  
+56-800E1                  65   ELEVATOR           DP OF FACILITIES                                  
+56-800E2                  63   ELEVATOR           DP OF FACILITIES                                  
+56-800LA                 454   LOBBY              DP OF FACILITIES                                  
+56-800SA                 144   STAIRWAY           DP OF FACILITIES                                  
+56-800SB                 149   STAIRWAY           DP OF FACILITIES                                  
+56-800Z                  411   SHAFT SPACE        DP OF FACILITIES                                  
+56-803                    88   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-805                    77   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-806E                   78   ELECTRIC CLOSET    DP OF FACILITIES                                  
+56-809J                   39   JANITOR CLOSET     DP OF FACILITIES                                  
+56-813                   391   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-815                   101   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-817                   101   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-819                    88   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-820                   216   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+56-820A                   72   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+56-820AA                  12   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+56-820B                   69   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+56-821                   130   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-822                    15   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-825                   974   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-827                    25   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-827A                   34   PVT LAVATORY       DIV OF COMP MED                                   
+56-827B                   40   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-828                   256   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+56-828A                   36   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+56-828B                   36   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+56-828C                   36   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+56-833                   116   ANIMAL QUARTERS    DIV OF COMP MED                                   
+56-833A                   43   ANIMAL QUARTERS    DIV OF COMP MED                                   
+56-833B                   43   ANIMAL QUARTERS    DIV OF COMP MED                                   
+56-836                   376   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+56-837                   647   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-838J                   34   JANITOR CLOSET     DP OF FACILITIES                                  
+56-841                   107   ANIMAL QUARTERS    DIV OF COMP MED                                   
+56-841A                   47   ANIMAL QUARTERS    DIV OF COMP MED                                   
+56-841B                   42   ANIMAL QUARTERS    DIV OF COMP MED                                   
+56-841C                   42   ANIMAL QUARTERS    DIV OF COMP MED                                   
+56-844                   355   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-846                    14   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-850                 1,245   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-851                   101   ANIMAL QUARTERS    DIV OF COMP MED                                   
+56-851A                   45   ANIMAL QUARTERS    DIV OF COMP MED                                   
+56-851B                   46   ANIMAL QUARTERS    DIV OF COMP MED                                   
+56-851C                   46   ANIMAL QUARTERS    DIV OF COMP MED                                   
+56-852                   640   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+56-852A                   35   LABORATORY SVC     DIV OF COMP MED                                   
+56-852B                   35   LABORATORY SVC     DIV OF COMP MED                                   
+56-852C                   35   LABORATORY SVC     DIV OF COMP MED                                   
+56-859                   292   ANIMAL QUARTERS    DIV OF COMP MED                                   
+56-860                   495   LABORATORY SVC     DIV OF COMP MED                                   
+56-866T                   33   TELECOM CLOSET     DP OF FACILITIES                                  
+56-867                   190   ANIMAL QUARTERS    DIV OF COMP MED                                   
+56-873                   185   ANIMAL QUARTERS    DIV OF COMP MED                                   
+56-876                   390   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-883                   163   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-883A                  180   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-884                   506   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-889                   174   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-889A                   74   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-893                    62   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-894                   100   ANIMAL SERVICE     DIV OF COMP MED                                   
+56-895Z                   45   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      11,918                                                                        
+                                                                                                    
+56-900SA                 141   STAIRWAY           DP OF FACILITIES                                  
+56-900SB                 123   STAIRWAY           DP OF FACILITIES                                  
+56-900Z                  242   SHAFT SPACE        DP OF FACILITIES                                  
+56-902Z                   65   SHAFT SPACE        DP OF FACILITIES                                  
+56-904Z                   64   SHAFT SPACE        DP OF FACILITIES                                  
+56-908                   889   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-908A                1,859   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-908AA                 197   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-908Z                   70   SHAFT SPACE        DP OF FACILITIES                                  
+56-921                 2,478   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-940                 1,785   UTILITY/MECH RM    DP OF FACILITIES                                  
+56-945Z                   60   SHAFT SPACE        DP OF FACILITIES

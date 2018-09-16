@@ -1,0 +1,85 @@
+W89-100CA                119   CORRIDOR           DP OF FACILITIES                                  
+W89-100CB                784   CORRIDOR           DP OF FACILITIES                                  
+W89-100E1                 54   ELEVATOR           DP OF FACILITIES                                  
+W89-100LA                415   LOBBY              DP OF FACILITIES                                  
+W89-100LB                120   LOBBY              DP OF FACILITIES                                  
+W89-100SA                132   STAIRWAY           DP OF FACILITIES                                  
+W89-100SB                 78   STAIRWAY           DP OF FACILITIES                                  
+W89-100SC                 95   STAIRWAY           DP OF FACILITIES                                  
+W89-100Z                  49   SHAFT SPACE        DP OF FACILITIES                                  
+W89-101                  386   OFFICE             CAMPUS POLICE                                     
+W89-102                   74   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-102Z                   3   SHAFT SPACE        DP OF FACILITIES                                  
+W89-104                   86   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-104A                  44   OFFICE             CAMPUS POLICE                                     
+W89-104B                  44   OFFICE             CAMPUS POLICE                                     
+W89-107                   87   UTILITY/MECH RM    DP OF FACILITIES                                  
+W89-111                   68   PVT CIRCULATION    CAMPUS POLICE                                     
+W89-111A                  80   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-111B                 237   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-112                  103   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-113                   70   FEMALE LAVATORY    DP OF FACILITIES                                  
+W89-114                  188   MALE LAVATORY      DP OF FACILITIES                                  
+W89-115                  176   UTILITY/MECH RM    DP OF FACILITIES                                  
+W89-116                   54   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-117                   90   OFFICE             CAMPUS POLICE                                     
+W89-117T                  96   TELECOM CLOSET     DP OF FACILITIES                                  
+W89-118                   51   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-120                   52   UTILITY/MECH RM    DP OF FACILITIES                                  
+W89-122                  108   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-123                   44   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-124                  263   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-124AE                134   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W89-127                  432   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-130                   37   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-134J                  17   JANITOR CLOSET     DP OF FACILITIES                                  
+W89-137                  409   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-138                  305   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-139                  899   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-139E                  79   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W89-139Z                   5   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                       6,565                                                                        
+                                                                                                    
+W89-200CA                354   CORRIDOR           DP OF FACILITIES                                  
+W89-200CB                895   CORRIDOR           DP OF FACILITIES                                  
+W89-200E1                 54   ELEVATOR           DP OF FACILITIES                                  
+W89-200E1M                54   ELEVATOR           DP OF FACILITIES                                  
+W89-200SA                169   STAIRWAY           DP OF FACILITIES                                  
+W89-200SAM                66   STAIRWAY           DP OF FACILITIES                                  
+W89-200SC                110   STAIRWAY           DP OF FACILITIES                                  
+W89-200Z                  96   SHAFT SPACE        DP OF FACILITIES                                  
+W89-203                  629   OFFICE             CAMPUS POLICE                                     
+W89-207                  144   OFFICE             CAMPUS POLICE                                     
+W89-209E                  10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W89-211                   44   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-211A                  24   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-211B                  15   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-213                   68   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-215                  252   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-215A                  40   PVT LAVATORY       CAMPUS POLICE                                     
+W89-215B                  34   PVT LAVATORY       CAMPUS POLICE                                     
+W89-215C                 191   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-215CA                 90   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-221                  114   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-221A                  43   OFFICE             CAMPUS POLICE                                     
+W89-221B                  43   OFFICE             CAMPUS POLICE                                     
+W89-222                  153   OFFICE             CAMPUS POLICE                                     
+W89-223                  295   OFFICE             CAMPUS POLICE                                     
+W89-224                  181   OFFICE             CAMPUS POLICE                                     
+W89-225                  130   OFFICE             CAMPUS POLICE                                     
+W89-227                  124   SECY/RECEPTION     CAMPUS POLICE                                     
+W89-229                   42   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-230                  344   CONFERENCE ROOM    CAMPUS POLICE                                     
+W89-231                   82   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-233                   49   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-235E                  34   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W89-237                   56   FEMALE LAVATORY    DP OF FACILITIES                                  
+W89-238                  152   OFFICE             CAMPUS POLICE                                     
+W89-239                   56   MALE LAVATORY      DP OF FACILITIES                                  
+W89-239J                  16   JANITOR CLOSET     DP OF FACILITIES                                  
+W89-240                  200   OFFICE             CAMPUS POLICE                                     
+W89-241                    9   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-242                  371   OFFICE             CAMPUS POLICE                                     
+W89-242A                  19   OFFICE SERVICE     CAMPUS POLICE                                     
+W89-243                  115   OFFICE SERVICE     CAMPUS POLICE   

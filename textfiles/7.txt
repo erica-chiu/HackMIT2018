@@ -1,0 +1,341 @@
+7-000CA                  946   CORRIDOR           DP OF FACILITIES                                  
+7-000CB                  422   CORRIDOR           DP OF FACILITIES                                  
+7-000CC                  580   CORRIDOR           DP OF FACILITIES                                  
+7-000CD                  267   CORRIDOR           DP OF FACILITIES                                  
+7-000CE                   40   CORRIDOR           DP OF FACILITIES                                  
+7-000E1                   58   ELEVATOR           DP OF FACILITIES                                  
+7-000LA                  631   LOBBY              DP OF FACILITIES                                  
+7-000SA                  410   STAIRWAY           DP OF FACILITIES                                  
+7-000Z                   415   SHAFT SPACE        DP OF FACILITIES                                  
+7-003                    362   OFFICE             DP OF FACIL ADM                                   
+7-005                    361   RECEIVING ROOM     PROVOST RESERVE                                   
+7-006                    308   OFFICE             MECHANICAL ENG                                    
+7-008                    374   OFFICE             MECHANICAL ENG                                    
+7-008E                    26   ELECTRIC CLOSET    DP OF FACILITIES                                  
+7-011                  1,640   UTILITY/MECH RM    DP OF FACILITIES                                  
+7-012                    310   OFFICE             MECHANICAL ENG                                    
+7-014                    114   OFFICE SERVICE     DP OF FACIL ADM                                   
+7-015                    185   UTILITY/MECH RM    DP OF FACILITIES                                  
+7-015A                    33   UTILITY/MECH RM    DP OF FACILITIES                                  
+7-016                    284   UTILITY/MECH RM    DP OF FACILITIES                                  
+7-016E                    42   ELECTRIC CLOSET    DP OF FACILITIES                                  
+7-017                    211   OFFICE SERVICE     DP OF FACIL ADM        STORAGE SPACE              
+7-017A                   152   OFFICE SERVICE     DP OF FACIL ADM        STORAGE SPACE              
+7-018                     47   PVT CIRCULATION    DP OF FACIL ADM                                   
+7-018A                    43   PVT LAVATORY       DP OF FACIL ADM                                   
+7-018B                    91   NON-ATH LOCKR RM   DP OF FACIL ADM                                   
+7-018C                    43   PVT LAVATORY       DP OF FACIL ADM                                   
+7-019                    136   OFFICE SERVICE     DP OF FACIL ADM        ZONE C                     
+7-019A                   129   OFFICE             DP OF FACIL ADM        ZONE C                     
+7-019B                   131   OFFICE             DP OF FACIL ADM                                   
+7-019C                   362   OFFICE             DP OF FACIL ADM                                   
+7-021                    574   RESEARCH LAB       MECHANICAL ENG                                    
+7-025E                   841   ELECTRIC CLOSET    DP OF FACILITIES                                  
+7-027                    307   STORAGE FACILITY   DP OF FACIL ADM                                   
+7-027A                   155   STORAGE FACILITY   DP OF FACIL ADM                                   
+7-027B                   152   STORAGE FACILITY   DP OF FACIL ADM                                   
+7-027C                    61   STORAGE FACILITY   DP OF FACIL ADM                                   
+7-027D                   172   STORAGE FACILITY   DP OF FACIL ADM                                   
+7-029                    244   PVT CIRCULATION    DP OF FACIL ADM                                   
+7-029A                   121   LABORATORY SVC     PUBLIC REL SVCS        INFO CTR                   
+7-029AA                  170   PVT CIRCULATION    DP OF FACIL ADM                                   
+7-029C                   354   STORAGE FACILITY   PROVOST RESERVE                                   
+7-029E                   207   ELECTRIC CLOSET    DP OF FACILITIES                                  
+7-029EA                   47   STORAGE FACILITY   DP OF FACIL ADM                                   
+7-031                     43   UTILITY/MECH RM    DP OF FACILITIES                                  
+7-033E                    78   ELECTRIC CLOSET    DP OF FACILITIES                                  
+7-034                    243   PVT CIRCULATION    MECHANICAL ENG                                    
+7-034A                   167   LABORATORY SVC     MECHANICAL ENG                                    
+7-034B                 1,638   RESEARCH LAB       MECHANICAL ENG                                    
+7-034BA                  273   RESEARCH LAB       MECHANICAL ENG                                    
+7-034BB                   88   LAB SUPPORT SHOP   MECHANICAL ENG                                    
+7-034BC                  822   RESEARCH LAB       MECHANICAL ENG                                    
+7-034C                   203   CONFERENCE ROOM    MECHANICAL ENG                                    
+7-034D                   573   PVT CIRCULATION    MECHANICAL ENG                                    
+7-034DA                  145   CONFERENCE ROOM    MECHANICAL ENG                                    
+7-034DAA                  27   UTILITY/MECH RM    DP OF FACILITIES                                  
+7-034DB                   10   EXHIBITION FACIL   MECHANICAL ENG                                    
+7-034DC                   73   LABORATORY SVC     MECHANICAL ENG                                    
+7-034DD                   81   LABORATORY SVC     MECHANICAL ENG                                    
+7-034DE                   81   LABORATORY SVC     MECHANICAL ENG                                    
+7-034DF                   81   LABORATORY SVC     MECHANICAL ENG                                    
+7-034DG                   81   LABORATORY SVC     MECHANICAL ENG                                    
+7-034DH                   81   LABORATORY SVC     MECHANICAL ENG                                    
+7-034DJ                   82   LABORATORY SVC     MECHANICAL ENG                                    
+7-034DK                  192   LABORATORY SVC     MECHANICAL ENG                                    
+7-034DL                  185   LABORATORY SVC     MECHANICAL ENG                                    
+7-034DM                  185   LABORATORY SVC     MECHANICAL ENG                                    
+7-034DN                  186   LABORATORY SVC     MECHANICAL ENG                                    
+7-034DP                  185   LABORATORY SVC     MECHANICAL ENG                                    
+7-034DQ                   39   OFFICE SERVICE     MECHANICAL ENG                                    
+7-034E                    26   ELECTRIC CLOSET    DP OF FACILITIES                                  
+7-034F                    14   OFFICE SERVICE     MECHANICAL ENG                                    
+7-034T                    60   TELECOM CLOSET     DP OF FACILITIES                                  
+7-038Z                    41   SHAFT SPACE        DP OF FACILITIES                                  
+7-045                    203   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      18,744                                                                        
+                                                                                                    
+7-100CA                  838   CORRIDOR           DP OF FACILITIES                                  
+7-100CB                  582   CORRIDOR           DP OF FACILITIES                                  
+7-100E1                   73   ELEVATOR           DP OF FACILITIES                                  
+7-100E2                   29   ELEVATOR           DP OF FACILITIES                                  
+7-100LA                6,049   LOBBY              DP OF FACILITIES                                  
+7-100SA                   46   STAIRWAY           DP OF FACILITIES                                  
+7-100SB                  384   STAIRWAY           DP OF FACILITIES                                  
+7-100Z                   234   SHAFT SPACE        DP OF FACILITIES                                  
+7-103                    251   OFFICE SERVICE     UND ADV&ACAD PR                                   
+7-103A                   204   OFFICE             UND ADV&ACAD PR                                   
+7-103B                   153   OFFICE             UND ADV&ACAD PR                                   
+7-103C                   164   OFFICE             UND ADV&ACAD PR                                   
+7-103D                   185   OFFICE             UND ADV&ACAD PR                                   
+7-103F                    98   OFFICE             UND ADV&ACAD PR                                   
+7-103G                    22   OFFICE SERVICE     UND ADV&ACAD PR                                   
+7-104                    238   OFFICE SERVICE     UND ADV&ACAD PR                                   
+7-104A                   103   OFFICE             UND ADV&ACAD PR                                   
+7-104B                   119   OFFICE             UND ADV&ACAD PR                                   
+7-104C                   154   OFFICE             UND ADV&ACAD PR                                   
+7-104D                   109   OFFICE             UND ADV&ACAD PR                                   
+7-104F                   212   OFFICE             UND ADV&ACAD PR                                   
+7-104G                   130   OFFICE SERVICE     UND ADV&ACAD PR                                   
+7-104K                    69   OFFICE             UND ADV&ACAD PR                                   
+7-104M                    87   OFFICE             UND ADV&ACAD PR                                   
+7-104P                   103   OFFICE             UND ADV&ACAD PR                                   
+7-107                    291   MALE LAVATORY      DP OF FACILITIES                                  
+7-107J                    26   JANITOR CLOSET     DP OF FACILITIES                                  
+7-107Z                    57   SHAFT SPACE        DP OF FACILITIES                                  
+7-108E                    17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+7-108Z                     6   SHAFT SPACE        DP OF FACILITIES                                  
+7-111                    516   FOOD FACIL SVC     PUBLIC REL SVCS                                   
+7-121                    218   SECY/RECEPTION     PUBLIC REL SVCS                                   
+7-121A                   132   OFFICE             PUBLIC REL SVCS                                   
+7-121B                   359   OFFICE             PUBLIC REL SVCS                                   
+7-133                    375   OFFICE SERVICE     DEAN-UNDERGRD ED                                  
+7-133A                    80   SECY/RECEPTION     DEAN-UNDERGRD ED                                  
+7-133B                    35   OFFICE SERVICE     DEAN-UNDERGRD ED                                  
+7-133C                   420   OFFICE             DEAN-UNDERGRD ED                                  
+7-133D                    36   OFFICE SERVICE     DEAN-UNDERGRD ED                                  
+7-133F                    58   OFFICE             DEAN-UNDERGRD ED                                  
+7-133H                    61   OFFICE             DEAN-UNDERGRD ED                                  
+7-133K                    56   OFFICE             DEAN-UNDERGRD ED                                  
+7-133Z                    45   SHAFT SPACE        DP OF FACILITIES                                  
+7-134                    157   OFFICE SERVICE     LIBRARIES                                         
+7-134A                   236   CONFERENCE ROOM    LIBRARIES                                         
+7-134B                   208   OFFICE SERVICE     LIBRARIES                                         
+7-134BA                    8   OFFICE SERVICE     LIBRARIES                                         
+7-134BB                   29   OFFICE SERVICE     LIBRARIES                                         
+7-134C                    74   OFFICE SERVICE     LIBRARIES                                         
+7-134J                    31   JANITOR CLOSET     DP OF FACILITIES                                  
+7-135J                    38   JANITOR CLOSET     DP OF FACILITIES                                  
+7-139                    318   OFFICE SERVICE     DEAN-UNDERGRD ED                                  
+7-139A                   214   OFFICE             DEAN-UNDERGRD ED                                  
+7-139B                   168   OFFICE             DEAN-UNDERGRD ED                                  
+7-139C                    54   SECY/RECEPTION     DEAN-UNDERGRD ED                                  
+7-139D                   204   OFFICE             DEAN-UNDERGRD ED                                  
+7-139F                   103   OFFICE             DEAN-UNDERGRD ED                                  
+7-141                     90   OFFICE SERVICE     DEAN-UNDERGRD ED                                  
+7-141A                   128   OFFICE             DEAN-UNDERGRD ED                                  
+7-142                    405   LIBRARY PROCESS    LIBRARIES                                         
+7-142A                    48   OFFICE SERVICE     LIBRARIES                                         
+7-142B                   181   OFFICE             LIBRARIES                                         
+7-142C                    88   OFFICE             LIBRARIES                                         
+7-142D                    51   OFFICE             LIBRARIES                                         
+7-142E                    28   ELECTRIC CLOSET    DP OF FACILITIES                                  
+7-143                    378   OFFICE SERVICE     DEAN-UNDERGRD ED                                  
+7-143A                    74   OFFICE             DEAN-UNDERGRD ED                                  
+7-143B                   104   OFFICE             DEAN-UNDERGRD ED                                  
+7-143C                    20   OFFICE SERVICE     DEAN-UNDERGRD ED                                  
+7-143D                    85   OFFICE             DEAN-UNDERGRD ED                                  
+7-146                    822   LIBRARY PROCESS    LIBRARIES                                         
+7-146A                    40   OFFICE             LIBRARIES                                         
+7-146B                    40   OFFICE             LIBRARIES                                         
+7-146C                    40   OFFICE             LIBRARIES                                         
+7-146D                    40   OFFICE             LIBRARIES                                         
+                    --------                                                                        
+                      17,930                                                                        
+                                                                                                    
+7-200CA                  117   CORRIDOR           DP OF FACILITIES                                  
+7-200CB                  533   CORRIDOR           DP OF FACILITIES                                  
+7-200CC                  449   CORRIDOR           DP OF FACILITIES                                  
+7-200CD                  486   CORRIDOR           DP OF FACILITIES                                  
+7-200CE                  573   CORRIDOR           DP OF FACILITIES                                  
+7-200CF                  224   CORRIDOR           DP OF FACILITIES                                  
+7-200CG                  443   CORRIDOR           DP OF FACILITIES                                  
+7-200E1                   73   ELEVATOR           DP OF FACILITIES                                  
+7-200E2                   29   ELEVATOR           DP OF FACILITIES                                  
+7-200SA                   53   STAIRWAY           DP OF FACILITIES                                  
+7-200SB                  374   STAIRWAY           DP OF FACILITIES                                  
+7-200SC                   30   PVT CIRCULATION    LIBRARIES                                         
+7-200Z                   374   SHAFT SPACE        DP OF FACILITIES                                  
+7-203                    202   OFFICE SERVICE     VP &SCTY OF CORP                                  
+7-203A                   143   OFFICE SERVICE     VP &SCTY OF CORP                                  
+7-203B                   168   OFFICE             VP &SCTY OF CORP                                  
+7-203D                     8   OFFICE SERVICE     VP &SCTY OF CORP                                  
+7-203F                   137   SECY/RECEPTION     VP &SCTY OF CORP                                  
+7-203G                   184   OFFICE             VP &SCTY OF CORP                                  
+7-203H                   136   SECY/RECEPTION     VP &SCTY OF CORP                                  
+7-206                    330   SECY/RECEPTION     EXEC VICE PRES                                    
+7-206A                   129   OFFICE             EXEC VICE PRES                                    
+7-206B                   189   OFFICE             EXEC VICE PRES                                    
+7-206C                   324   OFFICE             EXEC VICE PRES                                    
+7-207                    277   FEMALE LAVATORY    DP OF FACILITIES                                  
+7-207J                    15   JANITOR CLOSET     DP OF FACILITIES                                  
+7-208T                    24   TELECOM CLOSET     DP OF FACILITIES                                  
+7-209                     10   UTILITY/MECH RM    DP OF FACILITIES                                  
+7-209Z                    56   SHAFT SPACE        DP OF FACILITIES                                  
+7-211                    220   OFFICE             OFF OF PRESIDENT                                  
+7-211A                    11   OFFICE SERVICE     OFF OF PRESIDENT                                  
+7-211J                    53   JANITOR CLOSET     DP OF FACILITIES                                  
+7-221                    521   OFFICE             CHAIRMAN OF CORP                                  
+7-221A                    18   OFFICE SERVICE     CHAIRMAN OF CORP                                  
+7-231                    235   SECY/RECEPTION     SCH OF ARCH & PL                                  
+7-231A                   183   OFFICE             SCH OF ARCH & PL                                  
+7-231B                     7   OFFICE SERVICE     SCH OF ARCH & PL                                  
+7-231M                    55   OFFICE SERVICE     SCH OF ARCH & PL                                  
+7-231S                    51   PVT CIRCULATION    SCH OF ARCH & PL                                  
+7-231SM                   60   PVT CIRCULATION    SCH OF ARCH & PL                                  
+7-233                    268   CONFERENCE ROOM    SCH OF ARCH & PL                                  
+7-233A                    34   OFFICE SERVICE     SCH OF ARCH & PL                                  
+7-233Z                    53   SHAFT SPACE        DP OF FACILITIES                                  
+7-234                  1,099   PVT CIRCULATION    LIBRARIES                                         
+7-234A                    41   STACK/STUDY        LIBRARIES                                         
+7-234E                    28   ELECTRIC CLOSET    DP OF FACILITIES                                  
+7-235                    239   LIBRARY PROCESS    LIBRARIES                                         
+7-236                     63   OFFICE SERVICE     LIBRARIES                                         
+7-237                    103   STACK/STUDY        LIBRARIES                                         
+7-238                    271   OFFICE             LIBRARIES                                         
+7-238A                   129   OFFICE             LIBRARIES                                         
+7-239                    136   STACK/STUDY        LIBRARIES                                         
+7-240                     76   LIBRARY PROCESS    LIBRARIES                                         
+7-242                  1,525   STUDY ROOM         LIBRARIES                                         
+7-243                    271   SECY/RECEPTION     LIBRARIES                                         
+7-243A                   179   OFFICE             LIBRARIES                                         
+7-243B                   184   OFFICE             LIBRARIES                                         
+7-243C                   207   OFFICE             LIBRARIES                                         
+7-243D                    33   OFFICE SERVICE     LIBRARIES                                         
+7-243E                     3   OFFICE SERVICE     LIBRARIES                                         
+7-243F                     5   OFFICE SERVICE     LIBRARIES                                         
+7-244                  1,046   STACK/STUDY        LIBRARIES                                         
+                    --------                                                                        
+                      13,492                                                                        
+                                                                                                    
+7-300CA                  779   CORRIDOR           DP OF FACILITIES                                  
+7-300CB                  536   CORRIDOR           DP OF FACILITIES                                  
+7-300CD                  486   CORRIDOR           DP OF FACILITIES                                  
+7-300CE                  603   CORRIDOR           DP OF FACILITIES                                  
+7-300CF                  206   CORRIDOR           DP OF FACILITIES                                  
+7-300CG                  443   CORRIDOR           DP OF FACILITIES                                  
+7-300E1                   73   ELEVATOR           DP OF FACILITIES                                  
+7-300LA                  396   LOBBY              DP OF FACILITIES                                  
+7-300SB                  374   STAIRWAY           DP OF FACILITIES                                  
+7-300Z                   352   SHAFT SPACE        DP OF FACILITIES                                  
+7-301                    424   OFFICE SERVICE     ARCHITECTURE                                      
+7-301A                   203   OFFICE SERVICE     ARCHITECTURE                                      
+7-302                    180   OFFICE             ARCHITECTURE                                      
+7-303                    715   OFFICE             ARCHITECTURE                                      
+7-303J                    11   JANITOR CLOSET     DP OF FACILITIES                                  
+7-304                    377   OFFICE SERVICE     ARCHITECTURE                                      
+7-304A                    62   SECY/RECEPTION     ARCHITECTURE                                      
+7-304B                    88   OFFICE             ARCHITECTURE                                      
+7-304C                   154   OFFICE             ARCHITECTURE                                      
+7-304D                   149   OFFICE             ARCHITECTURE                                      
+7-304F                   148   OFFICE             ARCHITECTURE                                      
+7-304G                   170   OFFICE             ARCHITECTURE                                      
+7-306                      3   UTILITY/MECH RM    DP OF FACILITIES                                  
+7-307                    141   OFFICE SERVICE     SCH OF ARCH & PL                                  
+7-307A                    47   OFFICE             SCH OF ARCH & PL                                  
+7-307B                    47   OFFICE             SCH OF ARCH & PL                                  
+7-307C                    43   OFFICE             SCH OF ARCH & PL                                  
+7-307D                    43   OFFICE             SCH OF ARCH & PL                                  
+7-308E                    19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+7-311                    214   OFFICE             SCH OF ARCH & PL                                  
+7-311J                    53   JANITOR CLOSET     DP OF FACILITIES                                  
+7-321                    510   OFFICE             MECHANICAL ENG         OCEAN                      
+7-331                    187   OFFICE SERVICE     SCH OF ARCH & PL                                  
+7-331A                   122   OFFICE             SCH OF ARCH & PL                                  
+7-331B                   116   OFFICE             SCH OF ARCH & PL                                  
+7-331C                   108   OFFICE SERVICE     SCH OF ARCH & PL                                  
+7-331CA                   94   OFFICE             SCH OF ARCH & PL                                  
+7-331D                     9   OFFICE SERVICE     SCH OF ARCH & PL                                  
+7-331S                    57   PVT CIRCULATION    SCH OF ARCH & PL                                  
+7-332E                    23   ELECTRIC CLOSET    DP OF FACILITIES                                  
+7-333Z                    56   SHAFT SPACE        DP OF FACILITIES                                  
+7-334                    277   CONFERENCE ROOM    SCH OF ARCH & PL                                  
+7-334A                    10   OFFICE SERVICE     SCH OF ARCH & PL                                  
+7-334AT                   28   TELECOM CLOSET     DP OF FACILITIES                                  
+7-334T                   122   TELECOM CLOSET     DP OF FACILITIES                                  
+7-336                    815   EXHIBITION FACIL   SCH OF ARCH & PL                                  
+7-337                    443   OFFICE SERVICE     SCH OF ARCH & PL                                  
+7-337A                   177   OFFICE             ARCHITECTURE                                      
+7-337B                   109   OFFICE             ARCHITECTURE                                      
+7-337BA                   10   OFFICE SERVICE     ARCHITECTURE                                      
+7-337D                   187   OFFICE             ARCHITECTURE                                      
+7-337F                   163   OFFICE             ARCHITECTURE                                      
+7-337G                   143   OFFICE             ARCHITECTURE                                      
+7-337H                   162   OFFICE             ARCHITECTURE                                      
+7-337K                   161   OFFICE             URBAN ST & PLAN                                   
+7-337L                    47   OFFICE SERVICE     URBAN ST & PLAN                                   
+7-337M                   183   OFFICE             URBAN ST & PLAN                                   
+7-337P                   124   OFFICE             URBAN ST & PLAN                                   
+7-337Q                   132   OFFICE             URBAN ST & PLAN                                   
+7-337R                    88   OFFICE             URBAN ST & PLAN                                   
+7-337S                    92   OFFICE SERVICE     URBAN ST & PLAN                                   
+7-337U                    64   OFFICE             ARCHITECTURE                                      
+7-337V                   116   SECY/RECEPTION     ARCHITECTURE                                      
+7-338                    617   CONFERENCE ROOM    SCH OF ARCH & PL                                  
+7-344                    140   OFFICE SERVICE     SCH OF ARCH & PL                                  
+7-344A                   194   OFFICE             ARCHITECTURE                                      
+7-346                    112   OFFICE             URBAN ST & PLAN                                   
+7-346A                   176   OFFICE             URBAN ST & PLAN                                   
+                    --------                                                                        
+                      13,711                                                                        
+                                                                                                    
+7-400CA                1,162   CORRIDOR           DP OF FACILITIES                                  
+7-400CB                1,349   CORRIDOR           DP OF FACILITIES                                  
+7-400CC                  428   CORRIDOR           DP OF FACILITIES                                  
+7-400CD                  448   CORRIDOR           DP OF FACILITIES                                  
+7-400CE                  545   CORRIDOR           DP OF FACILITIES                                  
+7-400CF                  694   CORRIDOR           DP OF FACILITIES                                  
+7-400E1                   72   ELEVATOR           DP OF FACILITIES                                  
+7-400SB                  380   STAIRWAY           DP OF FACILITIES                                  
+7-400Z                   538   SHAFT SPACE        DP OF FACILITIES                                  
+7-403                  1,085   STUDIO             ARCHITECTURE                                      
+7-404                  1,104   STUDIO             ARCHITECTURE                                      
+7-407                    374   FOOD FACIL SVC     SCH OF ARCH & PL       HSNG&FD SV DEPT            
+7-407A                     3   UTILITY/MECH RM    DP OF FACILITIES                                  
+7-408                    348   EXHIBITION FACIL   ARCHITECTURE                                      
+7-408E                    22   ELECTRIC CLOSET    DP OF FACILITIES                                  
+7-411                    571   FOOD FACILITY      SCH OF ARCH & PL       HSNG&FD SV DEPT            
+7-411A                   252   FOOD FACILITY      SCH OF ARCH & PL                                  
+7-421                    644   STUDIO             SCH OF ARCH & PL                                  
+7-429                    950   CLASSROOM          SCH OF ARCH & PL                                  
+7-429A                    18   OFFICE SERVICE     SCH OF ARCH & PL                                  
+7-431T                    21   TELECOM CLOSET     DP OF FACILITIES                                  
+7-433                    160   STUDIO             ARCHITECTURE                                      
+7-433Z                    57   SHAFT SPACE        DP OF FACILITIES                                  
+7-434                  4,795   STUDIO             ARCHITECTURE                                      
+7-434AM                  274   STUDIO             ARCHITECTURE                                      
+7-434BM                  155   STUDIO             ARCHITECTURE                                      
+7-434CM                  155   STUDIO             ARCHITECTURE                                      
+7-434DM                  156   STUDIO             ARCHITECTURE                                      
+7-434E                    25   ELECTRIC CLOSET    DP OF FACILITIES                                  
+7-434FM                  155   STUDIO             ARCHITECTURE                                      
+7-434GM                  181   STUDIO             ARCHITECTURE                                      
+7-434SA                   14   PVT CIRCULATION    ARCHITECTURE                                      
+7-434SAM                  69   PVT CIRCULATION    ARCHITECTURE                                      
+7-434SB                   14   PVT CIRCULATION    ARCHITECTURE                                      
+7-434SBM                  69   PVT CIRCULATION    ARCHITECTURE                                      
+7-434SC                   14   PVT CIRCULATION    ARCHITECTURE                                      
+7-434SCM                  69   PVT CIRCULATION    ARCHITECTURE                                      
+7-445AE                   13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+7-445E                    25   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                      17,410                                                                        
+                                                                                                    
+7-500Z                 4,453   SHAFT SPACE        DP OF FACILITIES                                  
+7-511                    611   UTILITY/MECH RM    DP OF FACILITIES                                  
+7-512                    681   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,745                                                                        
+                                                                                                    
+7-612                    136   UTILITY/MECH RM    DP OF FACILITIES 

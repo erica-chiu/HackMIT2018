@@ -1,0 +1,15 @@
+NW15-0/100             5,363   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW15-0/102             1,436   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW15-0/104               418   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW15-000Z                251   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                       7,468                                                                        
+                                                                                                    
+NW15-1/100             3,050   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW15-1/100A              881   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW15-1/100AM             305   RESEARCH LAB       PLASMA SCI FSN CTR     FBML                       
+NW15-1/101               214   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW15-1/101A               30   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW15-1/102             3,047   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW15-1/102A               29   LABORATORY SVC     PLASMA SCI FSN CTR     FBML                       
+NW15-100Z                 27   SHAFT SPACE        DP OF FACILITIES 

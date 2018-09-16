@@ -1,0 +1,24 @@
+N50-000SA                 81   STAIRWAY           DP OF FACILITIES                                  
+N50-000SB                 80   STAIRWAY           DP OF FACILITIES                                  
+N50-001                  653   MERCHAND SVC       MIT PRESS                                         
+N50-006                1,977   MERCHAND SVC       MIT PRESS                                         
+N50-009                  122   MERCHAND SVC       MIT PRESS                                         
+N50-013                  589   MERCHAND SVC       MIT PRESS                                         
+N50-016                  196   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                       3,698                                                                        
+                                                                                                    
+N50-100LA                 51   LOBBY              DP OF FACILITIES                                  
+N50-100SA                 63   STAIRWAY           DP OF FACILITIES                                  
+N50-100SB                 87   STAIRWAY           DP OF FACILITIES                                  
+N50-101                2,169   MERCHAND FACIL     MIT PRESS                                         
+N50-102                  254   OFFICE             MIT PRESS                                         
+N50-106                   52   PVT CIRCULATION    MIT PRESS                                         
+N50-106A                 107   MALE LAVATORY      DP OF FACILITIES                                  
+N50-106B                  89   FEMALE LAVATORY    DP OF FACILITIES                                  
+N50-106J                  39   JANITOR CLOSET     DP OF FACILITIES                                  
+N50-108                  158   MERCHAND SVC       MIT PRESS                                         
+N50-112                   34   MERCHAND SVC       MIT PRESS                                         
+N50-116                  325   MERCHAND SVC       MIT PRESS                                         
+N50-117                  185   OFFICE             MIT PRESS                                         
+N50-118T                  69   TELECOM CLOSET     DP OF FACILITIES  

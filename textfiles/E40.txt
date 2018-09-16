@@ -1,0 +1,625 @@
+E40-000CA              1,053   CORRIDOR           DP OF FACILITIES                                  
+E40-000CC                420   CORRIDOR           DP OF FACILITIES                                  
+E40-000CD                532   CORRIDOR           DP OF FACILITIES                                  
+E40-000E1                 93   ELEVATOR           DP OF FACILITIES                                  
+E40-000E2                 93   ELEVATOR           DP OF FACILITIES                                  
+E40-000LA                639   LOBBY              DP OF FACILITIES                                  
+E40-000SA                152   STAIRWAY           DP OF FACILITIES                                  
+E40-000SB                145   STAIRWAY           DP OF FACILITIES                                  
+E40-000SC                112   STAIRWAY           DP OF FACILITIES                                  
+E40-000Z                  53   SHAFT SPACE        DP OF FACILITIES                                  
+E40-001                  155   JANITOR STORAGE    DP OF FACILITIES                                  
+E40-002                   79   UTILITY/MECH RM    DP OF FACILITIES                                  
+E40-004                   44   UTILITY/MECH RM    DP OF FACILITIES                                  
+E40-005E                  21   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E40-006T                  91   TELECOM CLOSET     DP OF FACILITIES                                  
+E40-008                2,827   COMPUTER FACIL     INFO SVCS & TECH                                  
+E40-008A                 116   OFFICE SERVICE     PROVOST RESERVE        IS&T                       
+E40-008B                 102   OFFICE SERVICE     PROVOST RESERVE        IS&T                       
+E40-008C                 101   COMPUTER SERVICE   INFO SVCS & TECH                                  
+E40-008D                 102   COMPUTER FACIL     INFO SVCS & TECH                                  
+E40-009                  355   COMPUTER SERVICE   INFO SVCS & TECH                                  
+E40-010                   86   MAIL ROOM          PROVOST RESERVE                                   
+E40-014                  223   COMPUTER SERVICE   INFO SVCS & TECH                                  
+E40-014A                 314   COMPUTER SERVICE   INFO SVCS & TECH                                  
+E40-014B                 777   UTILITY/MECH RM    DP OF FACILITIES                                  
+E40-014C                 223   OFFICE SERVICE     SCH OF MANAGEMNT       ORC                        
+E40-014D                 190   OFFICE SERVICE     SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E40-014F                  86   OFFICE SERVICE     SCH OF MANAGEMNT       ORC                        
+E40-014G                  83   OFFICE SERVICE     SCH OF MANAGEMNT       ORC                        
+E40-014H                  65   OFFICE SERVICE     LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-014KA                203   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-014KB                157   OFFICE SERVICE     LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-014KC                157   OFFICE SERVICE     SCH OF MANAGEMNT       ORC                        
+E40-014KD                159   OFFICE SERVICE     SCH OF MANAGEMNT       ORC                        
+E40-014KF                207   JANITOR STORAGE    DP OF FACILITIES                                  
+E40-014L                 106   STORAGE FACILITY   DP OF FACIL ADM                                   
+E40-014N                  32   OFFICE SERVICE     DP OF FACIL ADM                                   
+E40-014P                  62   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-051                  200   UTILITY/MECH RM    DP OF FACILITIES                                  
+E40-052                  905   UTILITY/MECH RM    DP OF FACILITIES                                  
+E40-054                  120   OFFICE             DP OF FACIL ADM                                   
+E40-070                1,493   UTILITY/MECH RM    DP OF FACILITIES                                  
+E40-072                  226   STORAGE FACILITY   DP OF FACIL ADM                                   
+E40-090                6,034   UTILITY/MECH RM    DP OF FACILITIES                                  
+E40-090C                 268   UTILITY/MECH RM    DP OF FACILITIES                                  
+E40-090D                  74   NON-ATH LOCKR RM   DP OF FACIL ADM                                   
+E40-090F                  91   PVT LAVATORY       DP OF FACIL ADM                                   
+E40-090J                  36   JANITOR CLOSET     DP OF FACILITIES                                  
+E40-098                  132   JANITOR STORAGE    DP OF FACILITIES                                  
+                    --------                                                                        
+                      19,990                                                                        
+                                                                                                    
+E40-1/116                 30   OFFICE SERVICE     SCH OF MANAGEMNT       ORC                        
+E40-100                  322   RECEIVING ROOM     DP OF FACIL ADM                                   
+E40-100E1                 93   ELEVATOR           DP OF FACILITIES                                  
+E40-100E2                 92   ELEVATOR           DP OF FACILITIES                                  
+E40-100LA                916   LOBBY              DP OF FACILITIES                                  
+E40-100LB                306   LOBBY              DP OF FACILITIES                                  
+E40-100LC                176   LOBBY              DP OF FACILITIES                                  
+E40-100SA                124   STAIRWAY           DP OF FACILITIES                                  
+E40-100SB                128   STAIRWAY           DP OF FACILITIES                                  
+E40-100SC                245   STAIRWAY           DP OF FACILITIES                                  
+E40-100Z                 118   SHAFT SPACE        DP OF FACILITIES                                  
+E40-101                  178   MALE LAVATORY      DP OF FACILITIES                                  
+E40-101J                  32   JANITOR CLOSET     DP OF FACILITIES                                  
+E40-101Z                  77   SHAFT SPACE        DP OF FACILITIES                                  
+E40-102                   10   UTILITY/MECH RM    DP OF FACILITIES                                  
+E40-103                  882   PVT CIRCULATION    SCH OF MANAGEMNT                                  
+E40-105T                  33   TELECOM CLOSET     DP OF FACILITIES                                  
+E40-106                  136   SECY/RECEPTION     SCH OF MANAGEMNT                                  
+E40-107                  188   OFFICE             SCH OF MANAGEMNT       ORC                        
+E40-111                  194   OFFICE             SCH OF MANAGEMNT       ORC                        
+E40-112                  407   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E40-113                  167   OFFICE             SCH OF MANAGEMNT       ORC                        
+E40-115                   11   OFFICE SERVICE     SCH OF MANAGEMNT       ORC                        
+E40-119                  721   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-121                   88   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-123                   88   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-125                   50   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-127                   50   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-129                   50   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-130                3,339   PVT CIRCULATION    SCH OF MANAGEMNT                                  
+E40-130A                 250   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-130AA                 14   OFFICE             SCH OF MANAGEMNT                                  
+E40-130AB                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130AC                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130AD                 14   OFFICE             SCH OF MANAGEMNT                                  
+E40-130AF                 14   OFFICE             SCH OF MANAGEMNT                                  
+E40-130AG                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130AH                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130AK                 12   OFFICE             SCH OF MANAGEMNT                                  
+E40-130AL                 14   OFFICE             SCH OF MANAGEMNT                                  
+E40-130AN                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130AP                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130AQ                 14   OFFICE             SCH OF MANAGEMNT                                  
+E40-130AR                 14   OFFICE             SCH OF MANAGEMNT                                  
+E40-130AS                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130AU                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130AV                 14   OFFICE             SCH OF MANAGEMNT                                  
+E40-130BA                 16   OFFICE             SCH OF MANAGEMNT                                  
+E40-130BB                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130BD                 18   OFFICE             SCH OF MANAGEMNT                                  
+E40-130BF                 16   OFFICE             SCH OF MANAGEMNT                                  
+E40-130BG                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130BH                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130BK                 18   OFFICE             SCH OF MANAGEMNT                                  
+E40-130CA                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130CB                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130CC                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130CD                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130CF                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130CG                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130CH                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130CK                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130CL                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130CN                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130CP                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130CQ                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130DA                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130DB                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130DC                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130DD                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130DF                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130DG                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130DH                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130DK                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130DL                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130DN                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130DP                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130DQ                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130FA                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130FB                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130FC                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130FD                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130FF                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130FG                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130FH                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130FK                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130FL                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130FN                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130FP                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130FQ                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130GA                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130GB                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130GC                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130GD                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130GF                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130GG                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130GH                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130GK                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130GL                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130GN                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130GP                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130GQ                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130HA                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130HB                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130HC                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130HD                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130HF                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130HG                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130HH                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130HK                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130HL                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130HN                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130HP                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130HQ                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130KA                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130KB                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130KC                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130KD                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130KF                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130KG                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130KH                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130KK                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130KL                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130KN                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130KP                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130KQ                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-130L                  89   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-130NC                 11   OFFICE             SCH OF MANAGEMNT                                  
+E40-146                   34   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-146A                  72   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-148                  185   OFFICE             SCH OF MANAGEMNT       ORC                        
+E40-150                  116   OFFICE SERVICE     SCH OF MANAGEMNT       ORC                        
+E40-152                  120   OFFICE SERVICE     SCH OF MANAGEMNT       ORC                        
+E40-154                  174   OFFICE             SCH OF MANAGEMNT       ORC                        
+E40-156                  112   OFFICE SERVICE     SCH OF MANAGEMNT       ORC                        
+E40-160                1,802   PVT CIRCULATION    SCH OF MANAGEMNT                                  
+E40-161                   36   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-162                  322   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-163                  676   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E40-165A                  41   OFFICE             SCH OF MANAGEMNT                                  
+E40-165B                  41   OFFICE             SCH OF MANAGEMNT                                  
+E40-165C                  35   OFFICE             SCH OF MANAGEMNT                                  
+E40-165D                  35   OFFICE             SCH OF MANAGEMNT                                  
+E40-165F                  24   OFFICE             SCH OF MANAGEMNT                                  
+E40-165G                  24   OFFICE             SCH OF MANAGEMNT                                  
+E40-165H                  24   OFFICE             SCH OF MANAGEMNT                                  
+E40-165K                  24   OFFICE             SCH OF MANAGEMNT                                  
+E40-165L                  29   OFFICE             SCH OF MANAGEMNT                                  
+E40-165N                  29   OFFICE             SCH OF MANAGEMNT                                  
+E40-166                  238   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E40-167                  152   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-168                  123   OFFICE             SCH OF MANAGEMNT                                  
+E40-169A                  19   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-169B                  19   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-170                   99   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-171                  116   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-172                   90   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-174                   43   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-175                  347   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E40-175A                 259   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E40-176                    9   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-177                  148   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E40-178                  357   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-179                   18   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-183                   50   OFFICE SERVICE     DP OF FACIL ADM                                   
+E40-183Z                  58   SHAFT SPACE        DP OF FACILITIES                                  
+E40-184                  116   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-185                   21   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-186                  116   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-187                   22   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-188                  116   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-189                   26   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-190                   88   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-191                  810   OFFICE             SCH OF MANAGEMNT                                  
+E40-195                  122   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-195A                  89   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-196                  226   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-196A                 185   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E40-199                  113   FEMALE LAVATORY    DP OF FACILITIES                                  
+E40-199A                 155   FEMALE LAVATORY    DP OF FACILITIES                                  
+E40-199B                   7   UTILITY/MECH RM    DP OF FACILITIES                                  
+E40-199E                  39   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                      19,026                                                                        
+                                                                                                    
+E40-200E1                 98   ELEVATOR           DP OF FACILITIES                                  
+E40-200E2                 96   ELEVATOR           DP OF FACILITIES                                  
+E40-200LA                319   LOBBY              DP OF FACILITIES                                  
+E40-200SA                149   STAIRWAY           DP OF FACILITIES                                  
+E40-200SB                147   STAIRWAY           DP OF FACILITIES                                  
+E40-200SC                141   STAIRWAY           DP OF FACILITIES                                  
+E40-201                  195   MALE LAVATORY      DP OF FACILITIES                                  
+E40-201A                  32   UTILITY/MECH RM    DP OF FACILITIES                                  
+E40-201Z                  88   SHAFT SPACE        DP OF FACILITIES                                  
+E40-205                3,202   PVT CIRCULATION    C FOR TRANSP LOG                                  
+E40-209                   16   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-209A                  17   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-210                  629   CONFERENCE ROOM    C FOR TRANSP LOG                                  
+E40-211                  273   CONFERENCE ROOM    C FOR TRANSP LOG                                  
+E40-214T                 136   TELECOM CLOSET     DP OF FACILITIES                                  
+E40-215                  134   OFFICE             C FOR TRANSP LOG                                  
+E40-217                  137   OFFICE             C FOR TRANSP LOG                                  
+E40-218                  383   OFFICE             C FOR TRANSP LOG                                  
+E40-218A                  90   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-218B                  92   OFFICE             C FOR TRANSP LOG                                  
+E40-218C                  97   OFFICE             C FOR TRANSP LOG                                  
+E40-218D                  95   OFFICE             C FOR TRANSP LOG                                  
+E40-219                  466   OFFICE             C FOR TRANSP LOG                                  
+E40-219A                  94   OFFICE             C FOR TRANSP LOG                                  
+E40-219B                 101   OFFICE             C FOR TRANSP LOG                                  
+E40-219C                  99   OFFICE             C FOR TRANSP LOG                                  
+E40-219D                 214   OFFICE             C FOR TRANSP LOG                                  
+E40-219F                  33   SECY/RECEPTION     C FOR TRANSP LOG                                  
+E40-225J                  33   JANITOR CLOSET     DP OF FACILITIES                                  
+E40-226                  561   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-226A                 151   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-226B                 334   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-227                   82   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-229                   77   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-235                  148   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-238                  255   OFFICE             C FOR TRANSP LOG                                  
+E40-238A                 110   OFFICE             C FOR TRANSP LOG                                  
+E40-238B                 116   OFFICE             C FOR TRANSP LOG                                  
+E40-239                  429   OFFICE             C FOR TRANSP LOG                                  
+E40-239A                 113   OFFICE             C FOR TRANSP LOG                                  
+E40-239B                  93   OFFICE             C FOR TRANSP LOG                                  
+E40-239C                 113   OFFICE             C FOR TRANSP LOG                                  
+E40-239D                  98   OFFICE             C FOR TRANSP LOG                                  
+E40-244                   69   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-244A                  90   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-247                  433   OFFICE             C FOR TRANSP LOG                                  
+E40-247A                 111   OFFICE             C FOR TRANSP LOG                                  
+E40-247B                  94   OFFICE             C FOR TRANSP LOG                                  
+E40-247C                  94   OFFICE             C FOR TRANSP LOG                                  
+E40-247D                 115   OFFICE             C FOR TRANSP LOG                                  
+E40-250                  123   OFFICE             C FOR TRANSP LOG                                  
+E40-252                  127   LABORATORY SVC     C FOR TRANSP LOG                                  
+E40-255                  255   OFFICE             C FOR TRANSP LOG                                  
+E40-255A                  53   SECY/RECEPTION     C FOR TRANSP LOG                                  
+E40-256                  544   RESEARCH LAB       C FOR TRANSP LOG                                  
+E40-259                  256   OFFICE             C FOR TRANSP LOG                                  
+E40-259A                  54   SECY/RECEPTION     C FOR TRANSP LOG                                  
+E40-260                  545   RESEARCH LAB       C FOR TRANSP LOG                                  
+E40-260A                 121   LABORATORY SVC     C FOR TRANSP LOG                                  
+E40-262                  129   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-263                  206   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-264                  108   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-266                  255   CONFERENCE ROOM    C FOR TRANSP LOG                                  
+E40-267                  440   OFFICE             C FOR TRANSP LOG                                  
+E40-267A                 114   OFFICE             C FOR TRANSP LOG                                  
+E40-267B                  94   OFFICE             C FOR TRANSP LOG                                  
+E40-270                  111   OFFICE             C FOR TRANSP LOG                                  
+E40-275A                 111   OFFICE             C FOR TRANSP LOG                                  
+E40-275B                  93   OFFICE             C FOR TRANSP LOG                                  
+E40-275C                  93   OFFICE             C FOR TRANSP LOG                                  
+E40-275D                  98   OFFICE             C FOR TRANSP LOG                                  
+E40-275F                 160   OFFICE             C FOR TRANSP LOG                                  
+E40-275G                 135   OFFICE             C FOR TRANSP LOG                                  
+E40-275H                 359   OFFICE             C FOR TRANSP LOG                                  
+E40-275K                 377   OFFICE             C FOR TRANSP LOG                                  
+E40-275L                 339   OFFICE             C FOR TRANSP LOG                                  
+E40-278                   65   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-279                  176   OFFICE             C FOR TRANSP LOG                                  
+E40-280                  120   OFFICE             C FOR TRANSP LOG                                  
+E40-281                  507   OFFICE             C FOR TRANSP LOG                                  
+E40-281A                  49   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-285                  161   OFFICE             C FOR TRANSP LOG                                  
+E40-286                  365   CONFERENCE ROOM    C FOR TRANSP LOG                                  
+E40-287                  283   OFFICE             C FOR TRANSP LOG                                  
+E40-290                  201   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-293                   83   RESEARCH LAB       C FOR TRANSP LOG                                  
+E40-299                  227   FEMALE LAVATORY    DP OF FACILITIES                                  
+E40-299E                  39   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                      18,868                                                                        
+                                                                                                    
+E40-300CA                636   CORRIDOR           DP OF FACILITIES                                  
+E40-300CB                125   CORRIDOR           DP OF FACILITIES                                  
+E40-300E1                 96   ELEVATOR           DP OF FACILITIES                                  
+E40-300E2                 93   ELEVATOR           DP OF FACILITIES                                  
+E40-300LA                427   LOBBY              DP OF FACILITIES                                  
+E40-300SA                144   STAIRWAY           DP OF FACILITIES                                  
+E40-300SB                139   STAIRWAY           DP OF FACILITIES                                  
+E40-300SC                149   STAIRWAY           DP OF FACILITIES                                  
+E40-300Z                 187   SHAFT SPACE        DP OF FACILITIES                                  
+E40-301                  195   MALE LAVATORY      DP OF FACILITIES                                  
+E40-301J                  30   JANITOR CLOSET     DP OF FACILITIES                                  
+E40-301Z                  77   SHAFT SPACE        DP OF FACILITIES                                  
+E40-302                  110   OFFICE SERVICE     LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-304                  110   OFFICE SERVICE     LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-305T                  31   TELECOM CLOSET     DP OF FACILITIES                                  
+E40-306                  230   PVT CIRCULATION    LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-307                  129   OFFICE             LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-308                  130   OFFICE             LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-309                  134   OFFICE             LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-311                  135   OFFICE             LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-313                  135   OFFICE             LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-315                  154   OFFICE             LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-316                  311   CONFERENCE ROOM    LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-317                   98   OFFICE             LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-318                  164   OFFICE SERVICE     LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-319                  167   OFFICE             LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-320                   60   OFFICE SERVICE     LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-321                  129   OFFICE             LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-322                   12   OFFICE SERVICE     LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-323                  122   OFFICE             LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-325                   80   OFFICE SERVICE     LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-326                1,268   PVT CIRCULATION    LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-326A                  74   OFFICE             LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-326B                  73   OFFICE             LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-326C                  74   OFFICE             LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-326D                  99   OFFICE SERVICE     LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-326F                  57   OFFICE SERVICE     LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-326G                  73   OFFICE             LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-326H                  74   OFFICE             LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-327                  151   OFFICE             LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-329                  172   OFFICE             LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-331                  109   OFFICE             LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-333                  105   OFFICE             LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-335                  114   OFFICE             LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-336                  119   OFFICE             LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-337                  119   OFFICE             LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-338                  118   OFFICE SERVICE     LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-339                   99   OFFICE             LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-341                  158   OFFICE             LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-350                1,438   PVT CIRCULATION    C FOR TRANSP LOG                                  
+E40-351                1,663   OFFICE             LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-351A                 466   OFFICE SERVICE     LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-351AB                324   OFFICE SERVICE     LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-351AC                151   OFFICE             LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-351B                 140   OFFICE SERVICE     LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-351C                  75   OFFICE SERVICE     LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-351D                 125   OFFICE SERVICE     LDRS GBL OPS-SYS DSN   ESD                        
+                                                   MGMT                                             
+                                                                                                    
+E40-351F                 124   OFFICE SERVICE     LDRS GBL OPS-SYS DSN                              
+                                                   MGMT                                             
+                                                                                                    
+E40-353                  336   CONFERENCE ROOM    C FOR TRANSP LOG                                  
+E40-354J                  31   JANITOR CLOSET     DP OF FACILITIES                                  
+E40-355                  130   CONFERENCE ROOM    C FOR TRANSP LOG                                  
+E40-356                1,167   CLASSROOM          C FOR TRANSP LOG                                  
+E40-356A                  15   CLASSROOM SVC      C FOR TRANSP LOG                                  
+E40-356B                  11   CLASSROOM SVC      C FOR TRANSP LOG                                  
+E40-357                  108   CONFERENCE ROOM    C FOR TRANSP LOG                                  
+E40-361                  315   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-361A                  89   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-361B                  89   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-365                  111   OFFICE             C FOR TRANSP LOG                                  
+E40-366                1,063   CLASSROOM          C FOR TRANSP LOG                                  
+E40-367                  112   OFFICE             C FOR TRANSP LOG                                  
+E40-369                  400   OFFICE             C FOR TRANSP LOG                                  
+E40-369A                 113   OFFICE             C FOR TRANSP LOG                                  
+E40-369B                 110   OFFICE             C FOR TRANSP LOG                                  
+E40-369C                 103   OFFICE             C FOR TRANSP LOG                                  
+E40-369D                 104   OFFICE             C FOR TRANSP LOG                                  
+E40-370                   91   CONFERENCE ROOM    C FOR TRANSP LOG                                  
+E40-372                   46   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-374                   93   CONFERENCE ROOM    C FOR TRANSP LOG                                  
+E40-376                   91   CONFERENCE ROOM    C FOR TRANSP LOG                                  
+E40-377                   12   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-379                  153   OFFICE             C FOR TRANSP LOG                                  
+E40-381                  128   OFFICE             C FOR TRANSP LOG                                  
+E40-382                   21   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-383                  127   OFFICE             C FOR TRANSP LOG                                  
+E40-383J                  48   JANITOR CLOSET     DP OF FACILITIES                                  
+E40-384                   20   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-385                  135   OFFICE             C FOR TRANSP LOG                                  
+E40-387                  134   OFFICE             C FOR TRANSP LOG                                  
+E40-388                   36   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-392                   96   CONFERENCE ROOM    C FOR TRANSP LOG                                  
+E40-393                   21   OFFICE SERVICE     C FOR TRANSP LOG                                  
+E40-394                   93   CONFERENCE ROOM    C FOR TRANSP LOG                                  
+E40-396                   95   CONFERENCE ROOM    C FOR TRANSP LOG                                  
+E40-397E                  19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E40-398                   94   CONFERENCE ROOM    C FOR TRANSP LOG                                  
+E40-399                  316   FEMALE LAVATORY    DP OF FACILITIES                                  
+E40-399E                  39   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                      18,627                                                                        
+                                                                                                    
+E40-400E1                 90   ELEVATOR           DP OF FACILITIES                                  
+E40-400E2                 97   ELEVATOR           DP OF FACILITIES                                  
+E40-400LA                475   LOBBY              DP OF FACILITIES                                  
+E40-400SA                145   STAIRWAY           DP OF FACILITIES                                  
+E40-400SB                128   STAIRWAY           DP OF FACILITIES                                  
+E40-400SC                145   STAIRWAY           DP OF FACILITIES                                  
+E40-400Z                 132   SHAFT SPACE        DP OF FACILITIES                                  
+E40-401                  174   MALE LAVATORY      DP OF FACILITIES                                  
+E40-401Z                  75   SHAFT SPACE        DP OF FACILITIES                                  
+E40-402                  128   OFFICE             C FOR INT STUDIE                                  
+E40-403                  204   OFFICE SERVICE     C FOR INT STUDIE                                  
+E40-404                  128   OFFICE             C FOR INT STUDIE                                  
+E40-405                  809   PVT CIRCULATION    C FOR INT STUDIE                                  
+E40-405T                  31   TELECOM CLOSET     DP OF FACILITIES                                  
+E40-407                  129   OFFICE             C FOR INT STUDIE                                  
+E40-408                  133   OFFICE             C FOR INT STUDIE                                  
+E40-409                  140   OFFICE             C FOR INT STUDIE                                  
+E40-410                  127   OFFICE             C FOR INT STUDIE                                  
+E40-410J                  24   JANITOR CLOSET     DP OF FACILITIES                                  
+E40-411                  130   OFFICE             C FOR INT STUDIE                                  
+E40-412                  134   OFFICE             C FOR INT STUDIE                                  
+E40-413                  134   OFFICE             C FOR INT STUDIE                                  
+E40-414                  125   OFFICE             C FOR INT STUDIE                                  
+E40-415                  136   OFFICE             C FOR INT STUDIE                                  
+E40-416                  874   PVT CIRCULATION    C FOR INT STUDIE                                  
+E40-417                  139   OFFICE             C FOR INT STUDIE                                  
+E40-418                  219   CONFERENCE ROOM    C FOR INT STUDIE                                  
+E40-419                  194   OFFICE             C FOR INT STUDIE                                  
+E40-420                  124   OFFICE SERVICE     C FOR INT STUDIE                                  
+E40-421                  149   OFFICE             C FOR INT STUDIE                                  
+E40-422A                 109   OFFICE             C FOR INT STUDIE                                  
+E40-423                  133   OFFICE             C FOR INT STUDIE                                  
+E40-424                   69   OFFICE SERVICE     C FOR INT STUDIE                                  
+E40-425                  155   OFFICE             C FOR INT STUDIE                                  
+E40-427                   99   OFFICE             C FOR INT STUDIE                                  
+E40-428                   72   SECY/RECEPTION     C FOR INT STUDIE                                  
+E40-429                  133   OFFICE             C FOR INT STUDIE                                  
+E40-430                   72   OFFICE             C FOR INT STUDIE                                  
+E40-431                  133   OFFICE             C FOR INT STUDIE                                  
+E40-432                   59   OFFICE SERVICE     C FOR INT STUDIE                                  
+E40-433                  160   OFFICE             C FOR INT STUDIE                                  
+E40-434                   65   OFFICE SERVICE     C FOR INT STUDIE                                  
+E40-435                  198   OFFICE             C FOR INT STUDIE                                  
+E40-437                  247   OFFICE             C FOR INT STUDIE                                  
+E40-438                  132   OFFICE             C FOR INT STUDIE                                  
+E40-440                  763   PVT CIRCULATION    C FOR INT STUDIE                                  
+E40-441                  131   OFFICE             C FOR INT STUDIE                                  
+E40-443                  133   OFFICE             C FOR INT STUDIE                                  
+E40-444                  123   OFFICE SERVICE     C FOR INT STUDIE                                  
+E40-444A                 136   OFFICE             C FOR INT STUDIE                                  
+E40-444B                 135   OFFICE             C FOR INT STUDIE                                  
+E40-444C                 142   OFFICE             C FOR INT STUDIE                                  
+E40-444D                 137   OFFICE             C FOR INT STUDIE                                  
+E40-445                  132   OFFICE             C FOR INT STUDIE                                  
+E40-446                  141   OFFICE             C FOR INT STUDIE                                  
+E40-447                  191   OFFICE             C FOR INT STUDIE                                  
+E40-448                  462   OFFICE             C FOR INT STUDIE                                  
+E40-450                  128   OFFICE             C FOR INT STUDIE                                  
+E40-451                  114   OFFICE             C FOR INT STUDIE                                  
+E40-452                  128   OFFICE             C FOR INT STUDIE                                  
+E40-454                  168   PVT CIRCULATION    C FOR INT STUDIE                                  
+E40-454A                  23   OFFICE SERVICE     C FOR INT STUDIE                                  
+E40-454B                 216   OFFICE SERVICE     C FOR INT STUDIE                                  
+E40-454C                 234   CONFERENCE ROOM    C FOR INT STUDIE                                  
+E40-455                  305   OFFICE             C FOR INT STUDIE                                  
+E40-457                  138   OFFICE             C FOR INT STUDIE                                  
+E40-459                  132   OFFICE             C FOR INT STUDIE                                  
+E40-460                1,566   PVT CIRCULATION    C FOR INT STUDIE                                  
+E40-462                   16   OFFICE SERVICE     C FOR INT STUDIE                                  
+E40-463                  270   OFFICE             C FOR INT STUDIE                                  
+E40-464                  275   CONFERENCE ROOM    C FOR INT STUDIE                                  
+E40-465                  203   OFFICE             C FOR INT STUDIE                                  
+E40-466                  128   OFFICE             C FOR INT STUDIE                                  
+E40-467                  140   OFFICE             C FOR INT STUDIE                                  
+E40-468                  130   OFFICE SERVICE     C FOR INT STUDIE                                  
+E40-469                  131   OFFICE             C FOR INT STUDIE                                  
+E40-471                  247   OFFICE             C FOR INT STUDIE                                  
+E40-472                   75   OFFICE             C FOR INT STUDIE                                  
+E40-474                   74   OFFICE             C FOR INT STUDIE                                  
+E40-475                  238   OFFICE             C FOR INT STUDIE                                  
+E40-476                   74   OFFICE             C FOR INT STUDIE                                  
+E40-477                  144   OFFICE             C FOR INT STUDIE                                  
+E40-478                   97   OFFICE             C FOR INT STUDIE                                  
+E40-479                  176   OFFICE             C FOR INT STUDIE                                  
+E40-480                   22   OFFICE SERVICE     C FOR INT STUDIE                                  
+E40-481                  177   OFFICE             C FOR INT STUDIE                                  
+E40-482                  138   OFFICE             C FOR INT STUDIE                                  
+E40-483J                  48   JANITOR CLOSET     DP OF FACILITIES                                  
+E40-483Z                  31   SHAFT SPACE        DP OF FACILITIES                                  
+E40-484                  122   OFFICE SERVICE     C FOR INT STUDIE                                  
+E40-486                  134   OFFICE             C FOR INT STUDIE                                  
+E40-488                  230   OFFICE             C FOR INT STUDIE                                  
+E40-489                  241   OFFICE             C FOR INT STUDIE                                  
+E40-490                  119   OFFICE SERVICE     C FOR INT STUDIE                                  
+E40-490A                 119   OFFICE SERVICE     C FOR INT STUDIE                                  
+E40-491                  202   OFFICE             C FOR INT STUDIE                                  
+E40-493                  195   OFFICE             C FOR INT STUDIE                                  
+E40-495                   67   PVT LAVATORY       C FOR INT STUDIE                                  
+E40-496                  963   CONFERENCE ROOM    C FOR INT STUDIE                                  
+E40-497J                  50   JANITOR CLOSET     DP OF FACILITIES                                  
+E40-499                  176   FEMALE LAVATORY    DP OF FACILITIES                                  
+E40-499E                  37   ELECTRIC CLOSET    DP OF FACILITIES 

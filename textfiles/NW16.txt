@@ -1,0 +1,172 @@
+NW16-000CA             3,157   CORRIDOR           DP OF FACILITIES                                  
+NW16-000E1                98   ELEVATOR           DP OF FACILITIES                                  
+NW16-000LA                72   LOBBY              DP OF FACILITIES                                  
+NW16-000SA               321   STAIRWAY           DP OF FACILITIES                                  
+NW16-000SB               235   STAIRWAY           DP OF FACILITIES                                  
+NW16-000Z                  2   SHAFT SPACE        DP OF FACILITIES                                  
+NW16-001Z                 14   SHAFT SPACE        DP OF FACILITIES                                  
+NW16-002                 211   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-005                  58   STORAGE FACILITY   DP OF FACIL ADM                                   
+NW16-006                 242   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-007                  51   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-009                 419   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-015                 515   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-022                 349   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-024                 288   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-024E                 24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NW16-028                 173   OFFICE             DP OF FACIL ADM                                   
+NW16-030                 178   STORAGE FACILITY   DP OF FACIL ADM                                   
+NW16-034                 374   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-038                 392   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-040                 694   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-044                 364   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-046                 367   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-047                  45   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-048                  98   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-053               1,154   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-056                 363   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-060                 388   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-064                 372   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-069                 725   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-069A                769   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW16-071                 337   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-073                 751   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-080T                 97   TELECOM CLOSET     DP OF FACILITIES                                  
+NW16-082E                241   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NW16-085                 385   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-086                 454   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW16-086A                226   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      15,006                                                                        
+                                                                                                    
+NW16-100                 692   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW16-100CA             2,354   CORRIDOR           DP OF FACILITIES                                  
+NW16-100E1                98   ELEVATOR           DP OF FACILITIES                                  
+NW16-100LA                72   LOBBY              DP OF FACILITIES                                  
+NW16-100SA               389   STAIRWAY           DP OF FACILITIES                                  
+NW16-100SB               232   STAIRWAY           DP OF FACILITIES                                  
+NW16-100Z                 28   SHAFT SPACE        DP OF FACILITIES                                  
+NW16-105A                  8   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-105T                  9   TELECOM CLOSET     DP OF FACILITIES                                  
+NW16-106                 209   SECY/RECEPTION     PLASMA SCI FSN CTR                                
+NW16-106A                125   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-106B                305   OFFICE             PLASMA SCI FSN CTR                                
+NW16-108                 196   OFFICE             PLASMA SCI FSN CTR                                
+NW16-110                 166   OFFICE             PLASMA SCI FSN CTR                                
+NW16-112                 176   OFFICE             PLASMA SCI FSN CTR                                
+NW16-114                 173   OFFICE             PLASMA SCI FSN CTR                                
+NW16-115                 112   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-116                 164   OFFICE             PLASMA SCI FSN CTR                                
+NW16-117                 445   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW16-118                 181   FEMALE LAVATORY    DP OF FACILITIES                                  
+NW16-118A                  2   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-121                 448   CONFERENCE ROOM    PLASMA SCI FSN CTR                                
+NW16-122                 212   MALE LAVATORY      DP OF FACILITIES                                  
+NW16-122J                 37   JANITOR CLOSET     DP OF FACILITIES                                  
+NW16-124E                 24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NW16-127                 107   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-128                 167   OFFICE             PLASMA SCI FSN CTR                                
+NW16-130                 180   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-131                 471   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW16-132                 369   OFFICE             PLASMA SCI FSN CTR                                
+NW16-133                 106   OFFICE             PLASMA SCI FSN CTR                                
+NW16-135                 110   OFFICE             PLASMA SCI FSN CTR                                
+NW16-136                 662   CONFERENCE ROOM    PLASMA SCI FSN CTR                                
+NW16-139                 216   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW16-141                 160   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-145T                 13   TELECOM CLOSET     DP OF FACILITIES                                  
+NW16-153                 701   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-153A                173   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-154                 171   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-155                 219   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-156                 171   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-158                 171   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-159                 112   OFFICE             PLASMA SCI FSN CTR                                
+NW16-160                 177   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-161                 107   OFFICE             PLASMA SCI FSN CTR                                
+NW16-162                 173   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-164                 179   OFFICE             PLASMA SCI FSN CTR                                
+NW16-166                 174   OFFICE             PLASMA SCI FSN CTR                                
+NW16-168                 170   OFFICE             PLASMA SCI FSN CTR                                
+NW16-169                  90   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-170                 176   OFFICE             PLASMA SCI FSN CTR                                
+NW16-172                 173   OFFICE             PLASMA SCI FSN CTR                                
+NW16-174                 168   OFFICE             PLASMA SCI FSN CTR                                
+NW16-176                 177   OFFICE             PLASMA SCI FSN CTR                                
+NW16-178                 174   OFFICE             PLASMA SCI FSN CTR                                
+NW16-179                 113   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-180                 354   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-184                 209   OFFICE             PLASMA SCI FSN CTR                                
+NW16-186                 434   OFFICE             PLASMA SCI FSN CTR                                
+NW16-187                 124   SECY/RECEPTION     PLASMA SCI FSN CTR                                
+NW16-189                 150   OFFICE             PLASMA SCI FSN CTR                                
+                    --------                                                                        
+                      14,459                                                                        
+                                                                                                    
+NW16-200CA               872   CORRIDOR           DP OF FACILITIES                                  
+NW16-200CB             2,060   CORRIDOR           DP OF FACILITIES                                  
+NW16-200CC               419   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+NW16-200CD               429   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+NW16-200E1               106   ELEVATOR           DP OF FACILITIES                                  
+NW16-200LA                90   LOBBY              DP OF FACILITIES                                  
+NW16-200LB                66   LOBBY              DP OF FACILITIES                                  
+NW16-200SA               191   STAIRWAY           DP OF FACILITIES                                  
+NW16-200SB               242   STAIRWAY           DP OF FACILITIES                                  
+NW16-200Z                 26   SHAFT SPACE        DP OF FACILITIES                                  
+NW16-202                 316   OFFICE             PLASMA SCI FSN CTR                                
+NW16-204                 205   SECY/RECEPTION     PLASMA SCI FSN CTR                                
+NW16-205A                 10   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-205B                  9   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-206                 106   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-208                  71   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-210                 168   OFFICE             PLASMA SCI FSN CTR                                
+NW16-212                 207   OFFICE             PLASMA SCI FSN CTR                                
+NW16-213                 805   CONFERENCE ROOM    PLASMA SCI FSN CTR                                
+NW16-214                 188   OFFICE             PLASMA SCI FSN CTR                                
+NW16-216                 155   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-216E                  3   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NW16-217                 148   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-217A                 38   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-218                 182   FEMALE LAVATORY    DP OF FACILITIES                                  
+NW16-219                 170   OFFICE             PLASMA SCI FSN CTR                                
+NW16-222                 222   MALE LAVATORY      DP OF FACILITIES                                  
+NW16-222J                 36   JANITOR CLOSET     DP OF FACILITIES                                  
+NW16-223                 349   OFFICE             PLASMA SCI FSN CTR                                
+NW16-224E                 21   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NW16-225                 389   OFFICE             PLASMA SCI FSN CTR                                
+NW16-227J                 31   JANITOR STORAGE    DP OF FACILITIES                                  
+NW16-228                 105   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-229                 166   OFFICE             PLASMA SCI FSN CTR                                
+NW16-230                 125   OFFICE             PLASMA SCI FSN CTR                                
+NW16-232                 105   OFFICE             PLASMA SCI FSN CTR                                
+NW16-233                 442   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-234                 129   OFFICE             PLASMA SCI FSN CTR                                
+NW16-236                 127   OFFICE             PLASMA SCI FSN CTR                                
+NW16-238                 125   OFFICE             PLASMA SCI FSN CTR                                
+NW16-239                 303   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-240                 204   OFFICE             PLASMA SCI FSN CTR                                
+NW16-243                 347   OFFICE             PLASMA SCI FSN CTR                                
+NW16-249                 565   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW16-250                 314   OFFICE             PLASMA SCI FSN CTR                                
+NW16-252                 170   SECY/RECEPTION     PLASMA SCI FSN CTR                                
+NW16-253                 322   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW16-255                 323   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW16-256                 351   OFFICE             PLASMA SCI FSN CTR                                
+NW16-258                 169   OFFICE             PLASMA SCI FSN CTR                                
+NW16-260                 176   OFFICE             PLASMA SCI FSN CTR                                
+NW16-262                 172   OFFICE             PLASMA SCI FSN CTR                                
+NW16-264                 187   OFFICE             PLASMA SCI FSN CTR                                
+NW16-266                 166   OFFICE             PLASMA SCI FSN CTR                                
+NW16-267                 228   OFFICE             PLASMA SCI FSN CTR                                
+NW16-268                 184   OFFICE             PLASMA SCI FSN CTR                                
+NW16-270                 193   OFFICE             PLASMA SCI FSN CTR                                
+NW16-272                 164   OFFICE             PLASMA SCI FSN CTR                                
+NW16-273                 201   OFFICE             PLASMA SCI FSN CTR                                
+NW16-274                 176   OFFICE             PLASMA SCI FSN CTR                                
+NW16-276                 167   SECY/RECEPTION     PLASMA SCI FSN CTR                                
+NW16-279                 187   MAIL ROOM          DP OF FACIL ADM                                   
+NW16-280                 152   OFFICE             PLASMA SCI FSN CTR                                
+NW16-282                 192   SECY/RECEPTION     PLASMA SCI FSN CTR                                
+NW16-284                 198   OFFICE             PLASMA SCI FSN CTR                                
+NW16-287                 312   SECY/RECEPTION     PLASMA SCI FSN CTR                                
+NW16-288                 427   OFFICE             PLASMA SCI FSN CTR  

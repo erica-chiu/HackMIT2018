@@ -1,0 +1,654 @@
+E62-000000SA             141   STAIRWAY           DP OF FACILITIES                                  
+E62-000000SG              65   STAIRWAY           DP OF FACILITIES                                  
+E62-000000Z              338   SHAFT SPACE        DP OF FACILITIES                                  
+E62-000017               336   STORAGE FACILITY   DP OF FACIL ADM                                   
+E62-000042               244   STORAGE FACILITY   DP OF FACIL ADM                                   
+E62-000099            12,426   VEHICLE STORAGE    DP OF FACIL ADM                                   
+                    --------                                                                        
+                      13,550                                                                        
+                                                                                                    
+E62-00000E3               82   ELEVATOR           DP OF FACILITIES                                  
+E62-00000E4               71   ELEVATOR           DP OF FACILITIES                                  
+E62-00000E5               71   ELEVATOR           DP OF FACILITIES                                  
+E62-00000E6               52   ELEVATOR           DP OF FACILITIES                                  
+E62-00000LA              270   LOBBY              DP OF FACILITIES                                  
+E62-00000SA              148   STAIRWAY           DP OF FACILITIES                                  
+E62-00000SG               66   STAIRWAY           DP OF FACILITIES                                  
+E62-00000SK              156   STAIRWAY           DP OF FACILITIES                                  
+E62-00000SM              202   STAIRWAY           DP OF FACILITIES                                  
+E62-00000Z             1,044   SHAFT SPACE        DP OF FACILITIES                                  
+E62-00097                 61   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-00099             56,080   VEHICLE STORAGE    DP OF FACIL ADM                                   
+                    --------                                                                        
+                      58,304                                                                        
+                                                                                                    
+E62-0000E3                82   ELEVATOR           DP OF FACILITIES                                  
+E62-0000E4                71   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-0000E5                71   ELEVATOR           DP OF FACILITIES                                  
+E62-0000E6                52   ELEVATOR           DP OF FACILITIES                                  
+E62-0000LA               289   LOBBY              DP OF FACILITIES                                  
+E62-0000SG                69   STAIRWAY           DP OF FACILITIES                                  
+E62-0000SK               156   STAIRWAY           DP OF FACILITIES                                  
+E62-0000SM               202   STAIRWAY           DP OF FACILITIES                                  
+E62-0000Z              1,964   SHAFT SPACE        DP OF FACILITIES                                  
+E62-0027                  54   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-0028                  96   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-0029                  73   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-0039                  97   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-0050                  95   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-0093                 217   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-0095                  61   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-0099              55,329   VEHICLE STORAGE    DP OF FACIL ADM                                   
+                    --------                                                                        
+                      58,976                                                                        
+                                                                                                    
+E62-000CA              1,148   CORRIDOR           DP OF FACILITIES                                  
+E62-000CB              1,085   CORRIDOR           DP OF FACILITIES                                  
+E62-000E1                 58   ELEVATOR           DP OF FACILITIES                                  
+E62-000E2                 59   ELEVATOR           DP OF FACILITIES                                  
+E62-000E3                 82   ELEVATOR           DP OF FACILITIES                                  
+E62-000E4                 71   ELEVATOR           DP OF FACILITIES                                  
+E62-000E5                 71   ELEVATOR           DP OF FACILITIES                                  
+E62-000E6                 52   ELEVATOR           DP OF FACILITIES                                  
+E62-000LA                543   LOBBY              DP OF FACILITIES                                  
+E62-000SB                223   STAIRWAY           DP OF FACILITIES                                  
+E62-000SC                116   STAIRWAY           DP OF FACILITIES                                  
+E62-000SG                 67   STAIRWAY           DP OF FACILITIES                                  
+E62-000SK                156   STAIRWAY           DP OF FACILITIES                                  
+E62-000SM                241   STAIRWAY           DP OF FACILITIES                                  
+E62-000Z                 942   SHAFT SPACE        DP OF FACILITIES                                  
+E62-015                  494   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-015A                 344   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-021                  839   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-022                  183   OFFICE             DP OF FACIL ADM                                   
+E62-024                  589   STORAGE FACILITY   DP OF FACIL ADM                                   
+E62-025                   36   PUBLIC LAVATORY    DP OF FACILITIES                                  
+E62-027                   73   PUBLIC LAVATORY    DP OF FACILITIES                                  
+E62-032                  272   JANITOR STORAGE    DP OF FACILITIES                                  
+E62-032J                  55   JANITOR CLOSET     DP OF FACILITIES                                  
+E62-035                2,378   FOOD FACIL SVC     CAMPUS DINING                                     
+E62-035A                 104   OFFICE             CAMPUS DINING                                     
+E62-035B                  55   FOOD FACIL SVC     CAMPUS DINING                                     
+E62-035C                  59   FOOD FACIL SVC     CAMPUS DINING                                     
+E62-035D                 168   FOOD FACIL SVC     CAMPUS DINING                                     
+E62-035F                  21   OFFICE SERVICE     CAMPUS DINING                                     
+E62-035G                  94   FOOD FACIL SVC     CAMPUS DINING                                     
+E62-037                   38   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-038                  352   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-039                  263   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-040                  181   FOOD FACIL SVC     CAMPUS DINING                                     
+E62-041J                  46   JANITOR CLOSET     DP OF FACILITIES                                  
+E62-043                  374   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-045                  379   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-088                  371   VEHICLE STORAGE    DP OF FACIL ADM                                   
+E62-090E                 183   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-091E                 269   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-091T                 214   TELECOM CLOSET     DP OF FACILITIES                                  
+E62-093E                 826   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-094                  823   VEHICLE STORAGE    DP OF FACIL ADM                                   
+E62-095                   44   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-095E                 168   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-096                1,100   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-096E                 286   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-097                  583   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-098E                  93   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-099               36,320   VEHICLE STORAGE    DP OF FACIL ADM                                   
+                    --------                                                                        
+                      53,591                                                                        
+                                                                                                    
+E62-100CA              8,245   CORRIDOR           DP OF FACILITIES                                  
+E62-100CB              2,850   CORRIDOR           DP OF FACILITIES                                  
+E62-100E1                105   ELEVATOR           DP OF FACILITIES                                  
+E62-100E2                 95   ELEVATOR           DP OF FACILITIES                                  
+E62-100E3                 82   ELEVATOR           DP OF FACILITIES                                  
+E62-100E4                 71   ELEVATOR           DP OF FACILITIES                                  
+E62-100E5                 71   ELEVATOR           DP OF FACILITIES                                  
+E62-100E6                 52   ELEVATOR           DP OF FACILITIES                                  
+E62-100LA              2,184   LOBBY              DP OF FACILITIES                                  
+E62-100LB                190   LOBBY              DP OF FACILITIES                                  
+E62-100SA                336   STAIRWAY           DP OF FACILITIES                                  
+E62-100SB                256   STAIRWAY           DP OF FACILITIES                                  
+E62-100SC                159   STAIRWAY           DP OF FACILITIES                                  
+E62-100SD                130   STAIRWAY           DP OF FACILITIES                                  
+E62-100SH                173   STAIRWAY           DP OF FACILITIES                                  
+E62-100SL                134   STAIRWAY           DP OF FACILITIES                                  
+E62-100SM                233   STAIRWAY           DP OF FACILITIES                                  
+E62-100Z                 565   SHAFT SPACE        DP OF FACILITIES                                  
+E62-105                  204   CLASSROOM          SCH OF MANAGEMNT                                  
+E62-107                  335   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-109                  144   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-111                  291   FEMALE LAVATORY    DP OF FACILITIES                                  
+E62-111J                  24   JANITOR CLOSET     DP OF FACILITIES                                  
+E62-113                  283   MALE LAVATORY      DP OF FACILITIES                                  
+E62-113E                  90   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-113T                  98   TELECOM CLOSET     DP OF FACILITIES                                  
+E62-115                   46   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-117                  315   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-119                  199   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-121                  120   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-123                  111   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-125                  163   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-127                  144   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-128                  107   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-129                  524   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-130                  175   STUDY ROOM         SCH OF MANAGEMNT                                  
+E62-132                  165   STUDY ROOM         SCH OF MANAGEMNT                                  
+E62-136                  275   FOOD FACIL SVC     CAMPUS DINING                                     
+E62-136A                  98   FOOD FACIL SVC     CAMPUS DINING                                     
+E62-136J                  27   JANITOR CLOSET     DP OF FACILITIES                                  
+E62-137                2,571   FOOD FACILITY      SCH OF MANAGEMNT                                  
+E62-137C               2,402   FOOD FACIL SVC     CAMPUS DINING                                     
+E62-144                  184   FOOD FACIL SVC     CAMPUS DINING                                     
+E62-147                   50   SHAFT SPACE        DP OF FACILITIES                                  
+E62-150                2,828   FOOD FACILITY      CAMPUS DINING                                     
+E62-150A                 306   FOOD FACIL SVC     CAMPUS DINING                                     
+E62-150J                  16   JANITOR CLOSET     DP OF FACILITIES                                  
+E62-152                   56   SECY/RECEPTION     SCH OF MANAGEMNT                                  
+E62-154E                  24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-156                   21   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-158                  295   MALE LAVATORY      DP OF FACILITIES                                  
+E62-160                  310   FEMALE LAVATORY    DP OF FACILITIES                                  
+E62-160J                  51   JANITOR CLOSET     DP OF FACILITIES                                  
+E62-164                1,815   CLASSROOM          SCH OF MANAGEMNT                                  
+E62-165                  916   LOUNGE             SCH OF MANAGEMNT                                  
+E62-166                  132   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-170E                  28   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-174                  260   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-176                2,436   CLASSROOM          SCH OF MANAGEMNT                                  
+E62-177                  213   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-179                  213   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-181                  213   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-183                  213   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-185                  180   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-186                   43   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-187                  182   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-188                  215   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-189T                  50   TELECOM CLOSET     DP OF FACILITIES                                  
+E62-190                  217   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-190E                 161   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-192                   30   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-196                  157   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-197                   69   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-199                   65   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      36,791                                                                        
+                                                                                                    
+E62-200CA              4,084   CORRIDOR           DP OF FACILITIES                                  
+E62-200CB              2,536   CORRIDOR           DP OF FACILITIES                                  
+E62-200E3                 82   ELEVATOR           DP OF FACILITIES                                  
+E62-200E4                 71   ELEVATOR           DP OF FACILITIES                                  
+E62-200E5                 71   ELEVATOR           DP OF FACILITIES                                  
+E62-200LA              1,166   LOBBY              DP OF FACILITIES                                  
+E62-200SA                697   STAIRWAY           DP OF FACILITIES                                  
+E62-200SB                290   STAIRWAY           DP OF FACILITIES                                  
+E62-200SD                408   STAIRWAY           DP OF FACILITIES                                  
+E62-200SH                359   STAIRWAY           DP OF FACILITIES                                  
+E62-200SL                163   STAIRWAY           DP OF FACILITIES                                  
+E62-200Z                 179   SHAFT SPACE        DP OF FACILITIES                                  
+E62-201                1,462   LOUNGE             SCH OF MANAGEMNT                                  
+E62-211                  139   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-213                  139   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-215                  139   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-217E                 107   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-219T                 132   TELECOM CLOSET     DP OF FACILITIES                                  
+E62-221                  894   CLASSROOM          REGISTRAR                                         
+E62-223                2,016   CLASSROOM          REGISTRAR                                         
+E62-225                   69   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-227                  139   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-229                  131   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-231                  349   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-233                2,625   CLASSROOM          REGISTRAR                                         
+E62-233A                  93   CLASSROOM SVC      REGISTRAR                                         
+E62-235                  167   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-237                  172   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-239                  187   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-241                  150   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-247                   48   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-248                  269   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-249                  113   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-249A                 160   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-250                1,283   CLASSROOM          REGISTRAR                                         
+E62-250A                  63   CLASSROOM SVC      REGISTRAR                                         
+E62-252J                  31   JANITOR CLOSET     DP OF FACILITIES                                  
+E62-254                  266   MALE LAVATORY      DP OF FACILITIES                                  
+E62-256                  327   FEMALE LAVATORY    DP OF FACILITIES                                  
+E62-261                  349   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-262                2,082   CLASSROOM          REGISTRAR                                         
+E62-263                  131   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-264E                  39   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-265                  128   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-267                  132   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-268                   20   CLASSROOM SVC      REGISTRAR                                         
+E62-269                  132   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-274                  254   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-275                  187   LOUNGE             SCH OF MANAGEMNT                                  
+E62-276                2,398   CLASSROOM          REGISTRAR                                         
+E62-277                  145   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-279                  137   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-281                  134   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-282                   61   CLASSROOM SVC      REGISTRAR                                         
+E62-283                  137   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-284                  111   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-285                  128   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-286                  214   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-287                  141   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-288                  125   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-289                  145   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E62-290E                 144   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-290T                  52   TELECOM CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      29,301                                                                        
+                                                                                                    
+E62-300CA              2,568   CORRIDOR           DP OF FACILITIES                                  
+E62-300CB              2,980   CORRIDOR           DP OF FACILITIES                                  
+E62-300E3                 82   ELEVATOR           DP OF FACILITIES                                  
+E62-300E4                 71   ELEVATOR           DP OF FACILITIES                                  
+E62-300E5                 71   ELEVATOR           DP OF FACILITIES                                  
+E62-300LA                833   LOBBY              DP OF FACILITIES                                  
+E62-300SC                145   STAIRWAY           DP OF FACILITIES                                  
+E62-300SL                195   STAIRWAY           DP OF FACILITIES                                  
+E62-300Z                 314   SHAFT SPACE        DP OF FACILITIES                                  
+E62-311                  399   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-311A                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-311B                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-311C                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-311T                  90   TELECOM CLOSET     DP OF FACILITIES                                  
+E62-312                  115   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-312E                  90   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-313                  195   OFFICE             SCH OF MANAGEMNT                                  
+E62-314                  206   OFFICE             SCH OF MANAGEMNT                                  
+E62-315                  201   OFFICE             SCH OF MANAGEMNT                                  
+E62-316                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-317                  202   OFFICE             SCH OF MANAGEMNT                                  
+E62-318                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-319                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-320                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-321                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-322                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-323                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-324                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-325                  210   OFFICE             SCH OF MANAGEMNT                                  
+E62-326                  298   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-327                  211   OFFICE             SCH OF MANAGEMNT                                  
+E62-328                  153   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-329                  299   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-331                  759   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-331A                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-331B                 102   OFFICE             SCH OF MANAGEMNT                                  
+E62-331C                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-332                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-333                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-334                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-335                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-336                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-337                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-338                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-339                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-340                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-341                  208   OFFICE             SCH OF MANAGEMNT                                  
+E62-342                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-343                  211   OFFICE             SCH OF MANAGEMNT                                  
+E62-344                  151   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-345                  155   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-346                  562   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-347                   50   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-349                  496   LOUNGE             SCH OF MANAGEMNT                                  
+E62-350                  993   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-351                  243   MALE LAVATORY      DP OF FACILITIES                                  
+E62-352E                  45   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-352J                  54   JANITOR CLOSET     DP OF FACILITIES                                  
+E62-353                  244   FEMALE LAVATORY    DP OF FACILITIES                                  
+E62-355                  428   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-355A                 101   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-355B                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-355C                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-357                   82   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-358                   92   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-359                  204   OFFICE             SCH OF MANAGEMNT                                  
+E62-360                  206   OFFICE             SCH OF MANAGEMNT                                  
+E62-361                  204   OFFICE             SCH OF MANAGEMNT                                  
+E62-362                  204   OFFICE             SCH OF MANAGEMNT                                  
+E62-363                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-364                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-365                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-366                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-367                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-368                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-369                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-370                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-371                  422   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-371A                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-371B                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-371C                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-373                  155   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-374                  286   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-375                  268   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-376                  210   OFFICE             SCH OF MANAGEMNT                                  
+E62-377                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-378                  211   OFFICE             SCH OF MANAGEMNT                                  
+E62-379                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-380                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-381                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-382                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-383                  204   OFFICE             SCH OF MANAGEMNT                                  
+E62-384                  204   OFFICE             SCH OF MANAGEMNT                                  
+E62-385                  210   OFFICE             SCH OF MANAGEMNT                                  
+E62-386                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-387                  271   OFFICE             SCH OF MANAGEMNT                                  
+E62-388                  208   OFFICE             SCH OF MANAGEMNT                                  
+E62-389                  211   OFFICE             SCH OF MANAGEMNT                                  
+E62-390                  204   OFFICE             SCH OF MANAGEMNT                                  
+E62-390E                  92   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-390T                  84   TELECOM CLOSET     DP OF FACILITIES                                  
+E62-3OOSB                260   STAIRWAY           DP OF FACILITIES                                  
+                    --------                                                                        
+                      26,927                                                                        
+                                                                                                    
+E62-400CA              2,810   CORRIDOR           DP OF FACILITIES                                  
+E62-400CB              2,899   CORRIDOR           DP OF FACILITIES                                  
+E62-400E3                 82   ELEVATOR           DP OF FACILITIES                                  
+E62-400E4                 71   ELEVATOR           DP OF FACILITIES                                  
+E62-400E5                 71   ELEVATOR           DP OF FACILITIES                                  
+E62-400LA              1,052   LOBBY              DP OF FACILITIES                                  
+E62-400SB                260   STAIRWAY           DP OF FACILITIES                                  
+E62-400SC                148   STAIRWAY           DP OF FACILITIES                                  
+E62-400SJ                145   STAIRWAY           DP OF FACILITIES                                  
+E62-400SL                195   STAIRWAY           DP OF FACILITIES                                  
+E62-400Z                 481   SHAFT SPACE        DP OF FACILITIES                                  
+E62-411                  429   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-411A                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-411B                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-411C                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-411T                  90   TELECOM CLOSET     DP OF FACILITIES                                  
+E62-412                  235   OFFICE             SCH OF MANAGEMNT                                  
+E62-412E                  85   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-413                  196   OFFICE             SCH OF MANAGEMNT                                  
+E62-414                  253   OFFICE             SCH OF MANAGEMNT                                  
+E62-415                  201   OFFICE             SCH OF MANAGEMNT                                  
+E62-416                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-417                  201   OFFICE             SCH OF MANAGEMNT                                  
+E62-418                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-419                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-420                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-421                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-422                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-423                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-424                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-425                  210   OFFICE             SCH OF MANAGEMNT                                  
+E62-426                  296   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-427                  211   OFFICE             SCH OF MANAGEMNT                                  
+E62-428                  152   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-429                  291   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-431                  869   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-432                  212   OFFICE             SCH OF MANAGEMNT                                  
+E62-433                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-434                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-435                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-436                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-437                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-438                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-439                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-440                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-441                  208   OFFICE             SCH OF MANAGEMNT                                  
+E62-442                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-443                  211   OFFICE             SCH OF MANAGEMNT                                  
+E62-444                  151   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-445                  155   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-446                  562   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-447                   50   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-448                  133   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-450                  993   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-451                  246   MALE LAVATORY      DP OF FACILITIES                                  
+E62-452E                  45   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-452J                  54   JANITOR CLOSET     DP OF FACILITIES                                  
+E62-453                  246   FEMALE LAVATORY    DP OF FACILITIES                                  
+E62-455                  259   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-455A                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-455B                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-455C                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-455D                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-457                   82   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-458                   92   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-459                  204   OFFICE             SCH OF MANAGEMNT                                  
+E62-460                  206   OFFICE             SCH OF MANAGEMNT                                  
+E62-461                  204   OFFICE             SCH OF MANAGEMNT                                  
+E62-462                  204   OFFICE             SCH OF MANAGEMNT                                  
+E62-463                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-464                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-465                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-466                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-467                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-468                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-469                  214   OFFICE             SCH OF MANAGEMNT                                  
+E62-470                  211   OFFICE             SCH OF MANAGEMNT                                  
+E62-471                  408   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-471A                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-471B                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-471C                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-473                  155   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-474                  286   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-475                  270   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-476                  210   OFFICE             SCH OF MANAGEMNT                                  
+E62-477                  211   OFFICE             SCH OF MANAGEMNT                                  
+E62-478                  211   OFFICE             SCH OF MANAGEMNT                                  
+E62-479                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-480                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-481                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-482                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-483                  204   OFFICE             SCH OF MANAGEMNT                                  
+E62-484                  204   OFFICE             SCH OF MANAGEMNT                                  
+E62-485                  210   OFFICE             SCH OF MANAGEMNT                                  
+E62-486                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-487                  271   OFFICE             SCH OF MANAGEMNT                                  
+E62-488                  208   OFFICE             SCH OF MANAGEMNT                                  
+E62-489                  204   OFFICE             SCH OF MANAGEMNT                                  
+E62-490                  202   OFFICE             SCH OF MANAGEMNT                                  
+E62-490E                  93   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-490T                  83   TELECOM CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      27,176                                                                        
+                                                                                                    
+E62-500CA              2,690   CORRIDOR           DP OF FACILITIES                                  
+E62-500CB              2,849   CORRIDOR           DP OF FACILITIES                                  
+E62-500E3                 82   ELEVATOR           DP OF FACILITIES                                  
+E62-500E4                 71   ELEVATOR           DP OF FACILITIES                                  
+E62-500E5                 71   ELEVATOR           DP OF FACILITIES                                  
+E62-500LA              1,194   LOBBY              DP OF FACILITIES                                  
+E62-500SB                258   STAIRWAY           DP OF FACILITIES                                  
+E62-500SC                145   STAIRWAY           DP OF FACILITIES                                  
+E62-500SE                118   STAIRWAY           DP OF FACILITIES                                  
+E62-500SJ                148   STAIRWAY           DP OF FACILITIES                                  
+E62-500SL                195   STAIRWAY           DP OF FACILITIES                                  
+E62-500Z                 287   SHAFT SPACE        DP OF FACILITIES                                  
+E62-511                  390   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-511A                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-511B                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-511C                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-511T                  90   TELECOM CLOSET     DP OF FACILITIES                                  
+E62-512                  235   OFFICE             SCH OF MANAGEMNT                                  
+E62-512E                  85   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-513                  196   OFFICE             SCH OF MANAGEMNT                                  
+E62-514                  253   OFFICE             SCH OF MANAGEMNT                                  
+E62-515                  201   OFFICE             SCH OF MANAGEMNT                                  
+E62-516                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-517                  201   OFFICE             SCH OF MANAGEMNT                                  
+E62-518                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-519                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-520                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-521                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-522                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-523                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-524                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-525                  210   OFFICE             SCH OF MANAGEMNT                                  
+E62-526                  296   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-527                  211   OFFICE             SCH OF MANAGEMNT                                  
+E62-528                  152   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-529                  291   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-531                  812   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-531A                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-531B                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-532                  212   OFFICE             SCH OF MANAGEMNT                                  
+E62-533                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-534                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-535                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-536                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-537                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-538                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-539                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-540                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-541                  208   OFFICE             SCH OF MANAGEMNT                                  
+E62-542                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-543                  211   OFFICE             SCH OF MANAGEMNT                                  
+E62-544                  151   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-545                  155   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-546                  843   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-546B                  18   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-547                   50   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-549                  122   LOUNGE             SCH OF MANAGEMNT                                  
+E62-550                  961   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-551                  244   MALE LAVATORY      DP OF FACILITIES                                  
+E62-552E                  45   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-552J                  54   JANITOR CLOSET     DP OF FACILITIES                                  
+E62-553                  245   FEMALE LAVATORY    DP OF FACILITIES                                  
+E62-555                  436   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-555A                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-555B                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-557                   82   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-558                   92   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-559                  204   OFFICE             SCH OF MANAGEMNT                                  
+E62-560                  206   OFFICE             SCH OF MANAGEMNT                                  
+E62-561                  204   OFFICE             SCH OF MANAGEMNT                                  
+E62-562                  204   OFFICE             SCH OF MANAGEMNT                                  
+E62-563                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-564                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-565                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-566                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-567                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-568                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-569                  214   OFFICE             SCH OF MANAGEMNT                                  
+E62-570                  214   OFFICE             SCH OF MANAGEMNT                                  
+E62-571                  723   OFFICE             SCH OF MANAGEMNT                                  
+E62-573                  155   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-574                  286   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-575                  268   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-576                  210   OFFICE             SCH OF MANAGEMNT                                  
+E62-577                  211   OFFICE             SCH OF MANAGEMNT                                  
+E62-578                  211   OFFICE             SCH OF MANAGEMNT                                  
+E62-579                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-580                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-581                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-582                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-583                  204   OFFICE             SCH OF MANAGEMNT                                  
+E62-584                  204   OFFICE             SCH OF MANAGEMNT                                  
+E62-585                  210   OFFICE             SCH OF MANAGEMNT                                  
+E62-586                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-587                  569   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-588                  208   OFFICE             SCH OF MANAGEMNT                                  
+E62-590                  202   OFFICE             SCH OF MANAGEMNT                                  
+E62-590E                  93   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-590T                  83   TELECOM CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      27,508                                                                        
+                                                                                                    
+E62-600CA              2,671   CORRIDOR           DP OF FACILITIES                                  
+E62-600CB              2,850   CORRIDOR           DP OF FACILITIES                                  
+E62-600E3                 82   ELEVATOR           DP OF FACILITIES                                  
+E62-600E5                 71   ELEVATOR           DP OF FACILITIES                                  
+E62-600LA              1,186   LOBBY              DP OF FACILITIES                                  
+E62-600SB                259   STAIRWAY           DP OF FACILITIES                                  
+E62-600SC                148   STAIRWAY           DP OF FACILITIES                                  
+E62-600SE                182   STAIRWAY           DP OF FACILITIES                                  
+E62-600SF                196   STAIRWAY           DP OF FACILITIES                                  
+E62-600SL                195   STAIRWAY           DP OF FACILITIES                                  
+E62-600Z                 439   SHAFT SPACE        DP OF FACILITIES                                  
+E62-611                  391   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-611A                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-611B                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-611C                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-611T                  90   TELECOM CLOSET     DP OF FACILITIES                                  
+E62-612                  235   OFFICE             SCH OF MANAGEMNT                                  
+E62-612E                  86   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-613                  196   OFFICE             SCH OF MANAGEMNT                                  
+E62-614                  253   OFFICE             SCH OF MANAGEMNT                                  
+E62-615                  201   OFFICE             SCH OF MANAGEMNT                                  
+E62-616                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-617                  201   OFFICE             SCH OF MANAGEMNT                                  
+E62-618                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-619                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-620                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-621                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-622                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-623                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-624                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-625                  214   OFFICE             SCH OF MANAGEMNT                                  
+E62-626                  296   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-627                  211   OFFICE             SCH OF MANAGEMNT                                  
+E62-628                  152   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-629                  291   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-631                  687   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-631A                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-631B                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-631C                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-632                  212   OFFICE             SCH OF MANAGEMNT                                  
+E62-633                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-634                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-635                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-636                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-637                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-638                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-639                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-640                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-641                  208   OFFICE             SCH OF MANAGEMNT                                  
+E62-642                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-644                  138   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-645                  135   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-646                  468   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-647                   51   UTILITY/MECH RM    DP OF FACILITIES                                  
+E62-649                  105   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-650                  959   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-651                  244   MALE LAVATORY      DP OF FACILITIES                                  
+E62-652E                  45   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-652J                  54   JANITOR CLOSET     DP OF FACILITIES                                  
+E62-653                  245   FEMALE LAVATORY    DP OF FACILITIES                                  
+E62-655                  478   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-655A                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-655B                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-655C                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-657                   82   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-658                   92   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-659                  204   OFFICE             SCH OF MANAGEMNT                                  
+E62-660                  206   OFFICE             SCH OF MANAGEMNT                                  
+E62-661                  204   OFFICE             SCH OF MANAGEMNT                                  
+E62-662                  204   OFFICE             SCH OF MANAGEMNT                                  
+E62-663                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-664                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-665                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-666                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-667                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-668                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-669                  214   OFFICE             SCH OF MANAGEMNT                                  
+E62-670                  214   OFFICE             SCH OF MANAGEMNT                                  
+E62-671                  422   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-671A                 101   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-671B                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-671C                 101   OFFICE             SCH OF MANAGEMNT                                  
+E62-673                  155   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E62-674                  286   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-675                  268   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-676                  214   OFFICE             SCH OF MANAGEMNT                                  
+E62-677                  211   OFFICE             SCH OF MANAGEMNT                                  
+E62-678                  205   OFFICE             SCH OF MANAGEMNT                                  
+E62-679                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-680                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-681                  206   OFFICE             SCH OF MANAGEMNT                                  
+E62-682                  206   OFFICE             SCH OF MANAGEMNT                                  
+E62-683                  207   OFFICE             SCH OF MANAGEMNT                                  
+E62-684                  207   OFFICE             SCH OF MANAGEMNT                                  
+E62-685                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-686                  209   OFFICE             SCH OF MANAGEMNT                                  
+E62-687                  568   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E62-688                  208   OFFICE             SCH OF MANAGEMNT                                  
+E62-690                  202   OFFICE             SCH OF MANAGEMNT                                  
+E62-690E                  93   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E62-690T                  83   TELECOM CLOSET     DP OF FACILITIES                                  
+E62-6OOE4                 71   ELEVATOR           DP OF FACILITIES 

@@ -1,0 +1,644 @@
+NE49-2/000             3,939   PVT CIRCULATION    OFF OF PROVOST         ODL                        
+NE49-2/002               205   SECY/RECEPTION     OFF OF PROVOST         ODL                        
+NE49-2/003             1,026   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/004               130   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/004A                9   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/005               724   CONFERENCE ROOM    OFF OF PROVOST         ODL                        
+NE49-2/006               265   CONFERENCE ROOM    OFF OF PROVOST         ODL                        
+NE49-2/010                92   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/011                57   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/012                88   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/013                58   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/015               119   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/017               120   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/018                17   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/019A               45   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/019B               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/019C               45   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/019D               52   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/020T              117   TELECOM CLOSET     DP OF FACILITIES       ODL                        
+NE49-2/021A               45   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/021B               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/021C               45   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/021D               51   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/021F               47   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/021G               48   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/021H               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/021K               36   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/022               134   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/024                46   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/026               137   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/027A               36   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/027B               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/027C               48   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/027D               48   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/027F               42   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/027G               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/027H               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/027K               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/028               110   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/030                69   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/031A               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/031B               45   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/031C               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/031D               42   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/031F               45   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/031G               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/031H               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/034               414   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/035A               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/035B               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/035C               46   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/035D               45   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/035F               37   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/040                31   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/041A               37   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/041B               42   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/041C               58   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/044               121   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/045               183   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/048               109   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/049                89   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/050               100   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/051                90   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/055               204   CONFERENCE ROOM    OFF OF PROVOST         ODL                        
+NE49-2/056               122   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/057                88   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/059                89   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/061A               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/061B               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/061C               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/063A               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/063B               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/063C               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/063D               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/063F               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/063G               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/069A               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/069B               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/069C               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/069D               47   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/069F               48   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/069G               50   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/074               249   CONFERENCE ROOM    OFF OF PROVOST         ODL                        
+NE49-2/075A               48   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/075B               48   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/075C               48   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/075D               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/075F               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/075G               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/081A               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/081B               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/081C               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/081D               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/081F               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/081G               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/082               131   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/087A               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/087B               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/087C               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/087D               47   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/087F               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/087G               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/088               119   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/090                59   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/090T               91   TELECOM CLOSET     DP OF FACILITIES       ODL                        
+NE49-2/092                37   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/093A               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/093B               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/093C               47   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/093D               50   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/093F               47   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/093G               38   OFFICE             OFF OF PROVOST                                    
+NE49-2/094                38   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/100             3,163   PVT CIRCULATION    OFF OF PROVOST         ODL                        
+NE49-2/103               149   CONFERENCE ROOM    OFF OF PROVOST         ODL                        
+NE49-2/107               620   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/111A               45   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/111B               46   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/111C               46   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/111D               41   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/112               244   CONFERENCE ROOM    OFF OF PROVOST         ODL                        
+NE49-2/114               120   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/115A               41   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/115B               46   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/115C               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/115D               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/116               120   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/119A               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/119B               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/119C               38   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/119D               37   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/120               120   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/122               120   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/125                70   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/127                44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/129               103   CONFERENCE ROOM    OFF OF PROVOST         ODL                        
+NE49-2/131A               37   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/131B               38   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/133A               37   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/133B               38   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/133C               38   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/133D               37   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/134               118   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/136               118   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/139A               37   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/139B               38   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/145               155   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/151               576   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/152               219   CONFERENCE ROOM    OFF OF PROVOST         ODL                        
+NE49-2/153                57   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/154                47   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/156                65   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/157               109   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/158                60   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/159               116   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/161               113   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/162                63   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/164               138   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/165A               38   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/165B               39   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/165C               38   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/165D               37   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/169A               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/169B               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/169C               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/169D               44   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/173               259   CONFERENCE ROOM    OFF OF PROVOST         ODL                        
+NE49-2/175               132   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/177A               38   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/177B               38   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/177C               42   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/177D               51   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/177F               45   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/177G               37   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/177H               38   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/177K               37   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/178                18   OFFICE SERVICE     OFF OF PROVOST         ODL                        
+NE49-2/180               146   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/181A               37   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/181B               38   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/181C               37   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/181D               45   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/181F               51   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/181G               42   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/181H               43   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/181K               42   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/182               121   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/184               121   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/185               411   CONFERENCE ROOM    OFF OF PROVOST         ODL                        
+NE49-2/188               140   OFFICE             OFF OF PROVOST         ODL                        
+NE49-2/190               286   CONFERENCE ROOM    OFF OF PROVOST         ODL                        
+                    --------                                                                        
+                      23,374                                                                        
+                                                                                                    
+NE49-3/002             1,233   PVT CIRCULATION    DP OF FACIL ADM                                   
+NE49-3/014               263   OFFICE SERVICE     AUDIT DIVISION                                    
+NE49-3/014A               61   OFFICE             AUDIT DIVISION                                    
+NE49-3/014B               93   OFFICE             AUDIT DIVISION                                    
+NE49-3/014C              100   OFFICE             AUDIT DIVISION                                    
+NE49-3/014D               96   OFFICE             AUDIT DIVISION                                    
+NE49-3/014F               93   OFFICE             AUDIT DIVISION                                    
+NE49-3/014G               94   OFFICE             AUDIT DIVISION                                    
+NE49-3/021A              105   OFFICE             AUDIT DIVISION                                    
+NE49-3/021F               95   OFFICE             AUDIT DIVISION                                    
+NE49-3/021G              105   OFFICE             AUDIT DIVISION                                    
+NE49-3/021H              101   OFFICE             AUDIT DIVISION                                    
+NE49-3/021K               93   OFFICE             AUDIT DIVISION                                    
+NE49-3/021L               93   OFFICE SERVICE     AUDIT DIVISION                                    
+NE49-3/021M               96   OFFICE             AUDIT DIVISION                                    
+NE49-3/021N               96   OFFICE             AUDIT DIVISION                                    
+NE49-3/021Q              107   OFFICE             AUDIT DIVISION                                    
+NE49-3/021R              225   CONFERENCE ROOM    AUDIT DIVISION                                    
+NE49-3/021S              150   OFFICE             AUDIT DIVISION                                    
+NE49-3/021U              150   OFFICE SERVICE     AUDIT DIVISION                                    
+NE49-3/021V              150   OFFICE             AUDIT DIVISION                                    
+NE49-3/021W               72   OFFICE             AUDIT DIVISION                                    
+NE49-3/034               131   OFFICE SERVICE     VP-FINANCE                                        
+NE49-3/034A               81   OFFICE             VP-FINANCE                                        
+NE49-3/034B               90   OFFICE             VP-FINANCE                                        
+NE49-3/034C               71   OFFICE             VP-FINANCE                                        
+NE49-3/034D               94   OFFICE             VP-FINANCE                                        
+NE49-3/034F               99   OFFICE             AUDIT DIVISION                                    
+NE49-3/034G               64   OFFICE SERVICE     AUDIT DIVISION                                    
+NE49-3/034H               58   OFFICE             VP-FINANCE                                        
+NE49-3/037               583   PVT CIRCULATION    PROVOST                SOLVE                      
+NE49-3/037A              148   OFFICE             VP-FINANCE                                        
+NE49-3/037B               99   OFFICE SERVICE     PROVOST                SOLVE                      
+NE49-3/037C               64   OFFICE             PROVOST                SOLVE                      
+NE49-3/037D               97   OFFICE             PROVOST                SOLVE                      
+NE49-3/037DA              56   OFFICE SERVICE     PROVOST                SOLVE                      
+NE49-3/037DB              71   OFFICE SERVICE     PROVOST                SOLVE                      
+NE49-3/037F               93   OFFICE             PROVOST                SOLVE                      
+NE49-3/037G               93   OFFICE             PROVOST                SOLVE                      
+NE49-3/037H               96   OFFICE             PROVOST                SOLVE                      
+NE49-3/037K               66   OFFICE SERVICE     PROVOST                SOLVE                      
+NE49-3/037L               64   OFFICE SERVICE     PROVOST                SOLVE                      
+NE49-3/037M               64   OFFICE             PROVOST                SOLVE                      
+NE49-3/037N              237   OFFICE SERVICE     PROVOST                SOLVE                      
+NE49-3/037P              149   OFFICE             EXEC VICE PRES                                    
+NE49-3/037Q              195   CONFERENCE ROOM    EXEC VICE PRES                                    
+NE49-3/053                36   OFFICE SERVICE     EXEC VICE PRES                                    
+NE49-3/055                36   OFFICE SERVICE     DP OF FACIL ADM                                   
+NE49-3/057               250   PVT CIRCULATION    DP OF FACIL ADM                                   
+NE49-3/057D               98   OFFICE SERVICE     DP OF FACIL ADM                                   
+NE49-3/057F              151   OFFICE SERVICE     DP OF FACIL ADM                                   
+NE49-3/057T              120   TELECOM CLOSET     DP OF FACILITIES                                  
+NE49-3/064A               93   OFFICE             VP-FINANCE                                        
+NE49-3/064B               96   OFFICE             VP-FINANCE                                        
+NE49-3/064C               60   OFFICE             VP-FINANCE                                        
+NE49-3/064D               84   OFFICE             VP-FINANCE                                        
+NE49-3/064F               59   OFFICE             VP-FINANCE                                        
+NE49-3/064G               84   OFFICE             VP-FINANCE                                        
+NE49-3/074               202   OFFICE SERVICE     VP-FINANCE                                        
+NE49-3/074A               97   OFFICE             VP-FINANCE                                        
+NE49-3/074B              100   OFFICE             VP-FINANCE                                        
+NE49-3/074C               99   OFFICE             VP-FINANCE                                        
+NE49-3/074D               96   OFFICE             VP-FINANCE                                        
+NE49-3/087               157   OFFICE             VP-FINANCE                                        
+NE49-3/095               201   OFFICE SERVICE     VP-FINANCE                                        
+NE49-3/097                39   OFFICE SERVICE     VP-FINANCE                                        
+NE49-3/098               350   OFFICE SERVICE     EXEC VICE PRES                                    
+NE49-3/100               871   CONFERENCE ROOM    EXEC VICE PRES                                    
+NE49-3/101               239   OFFICE SERVICE     VP-FINANCE                                        
+NE49-3/101A              121   SECY/RECEPTION     VP-FINANCE                                        
+NE49-3/105               147   OFFICE SERVICE     EXEC VICE PRES                                    
+NE49-3/117               742   PVT CIRCULATION    DP OF FACIL ADM                                   
+NE49-3/121               120   OFFICE             VP-FINANCE                                        
+NE49-3/122A               25   OFFICE SERVICE     VP-FINANCE                                        
+NE49-3/122B              219   OFFICE SERVICE     VP-FINANCE                                        
+NE49-3/125               181   OFFICE SERVICE     VP-FINANCE                                        
+NE49-3/127               188   OFFICE SERVICE     VP-FINANCE                                        
+NE49-3/131               263   PVT CIRCULATION    PROVOST                SOLVE                      
+NE49-3/131A               80   OFFICE             EXEC VICE PRES                                    
+NE49-3/131B               80   OFFICE             EXEC VICE PRES                                    
+NE49-3/131C               80   OFFICE             PROVOST                SOLVE                      
+NE49-3/131D               80   OFFICE             PROVOST                SOLVE                      
+NE49-3/131F              141   OFFICE             EXEC VICE PRES                                    
+NE49-3/131G              141   OFFICE             PROVOST                SOLVE                      
+NE49-3/131H              100   OFFICE             PROVOST                SOLVE                      
+NE49-3/131K               98   OFFICE             PROVOST                SOLVE                      
+NE49-3/131L              100   OFFICE             PROVOST                SOLVE                      
+NE49-3/131N              100   OFFICE             PROVOST                SOLVE                      
+NE49-3/131P              163   OFFICE SERVICE     PROVOST                SOLVE                      
+NE49-3/131Q               84   OFFICE             EXEC VICE PRES                                    
+NE49-3/137               180   OFFICE             VP-FINANCE                                        
+NE49-3/139               120   OFFICE             VP-FINANCE                                        
+NE49-3/141               125   OFFICE             VP-FINANCE                                        
+NE49-3/142               756   PVT CIRCULATION    VP-FINANCE                                        
+NE49-3/142A              180   OFFICE             VP-FINANCE                                        
+NE49-3/142B              137   CONFERENCE ROOM    VP-FINANCE                                        
+NE49-3/142C              103   OFFICE             VP-FINANCE                                        
+NE49-3/142D               68   OFFICE             VP-FINANCE                                        
+NE49-3/142F               68   OFFICE             VP-FINANCE                                        
+NE49-3/142G               70   OFFICE             VP-FINANCE                                        
+NE49-3/142H               70   OFFICE             VP-FINANCE                                        
+NE49-3/142K              106   OFFICE             VP-FINANCE                                        
+NE49-3/142L              106   OFFICE             VP-FINANCE                                        
+NE49-3/142M              120   OFFICE             VP-FINANCE                                        
+NE49-3/142N              180   OFFICE             VP-FINANCE                                        
+NE49-3/143               337   PVT CIRCULATION    VP-FINANCE                                        
+NE49-3/143A              129   OFFICE SERVICE     VP-FINANCE                                        
+NE49-3/143B              237   CONFERENCE ROOM    VP-FINANCE                                        
+NE49-3/161               510   PVT CIRCULATION    EXEC VICE PRES                                    
+NE49-3/161A               90   CONFERENCE ROOM    EXEC VICE PRES                                    
+NE49-3/161B               90   CONFERENCE ROOM    EXEC VICE PRES                                    
+NE49-3/161C               83   OFFICE             EXEC VICE PRES                                    
+NE49-3/161D               83   OFFICE             EXEC VICE PRES                                    
+NE49-3/161F               80   OFFICE             EXEC VICE PRES                                    
+NE49-3/161G               98   OFFICE             EXEC VICE PRES                                    
+NE49-3/161H              100   OFFICE             EXEC VICE PRES                                    
+NE49-3/161K               57   OFFICE             EXEC VICE PRES                                    
+NE49-3/161L               57   OFFICE             EXEC VICE PRES                                    
+NE49-3/161N               84   OFFICE             EXEC VICE PRES                                    
+NE49-3/161P              109   OFFICE             EXEC VICE PRES                                    
+NE49-3/161Q               71   OFFICE             VP-FINANCE                                        
+NE49-3/161R               80   OFFICE             VP-FINANCE                                        
+NE49-3/161S              109   OFFICE             VP-FINANCE                                        
+NE49-3/161U               27   OFFICE SERVICE     VP-FINANCE                                        
+NE49-3/172               679   PVT CIRCULATION    VP-FINANCE                                        
+NE49-3/172A              104   OFFICE             VP-FINANCE                                        
+NE49-3/172B              104   OFFICE             VP-FINANCE                                        
+NE49-3/172C               70   OFFICE             VP-FINANCE                                        
+NE49-3/172D               70   OFFICE             VP-FINANCE                                        
+NE49-3/181A              162   CONFERENCE ROOM    VP-FINANCE                                        
+NE49-3/181B              120   OFFICE             VP-FINANCE                                        
+NE49-3/181C              103   OFFICE             VP-FINANCE                                        
+NE49-3/181D              106   OFFICE             VP-FINANCE                                        
+NE49-3/181FA              69   OFFICE             VP-FINANCE                                        
+NE49-3/181FB              56   OFFICE             VP-FINANCE                                        
+NE49-3/181FC              57   OFFICE             VP-FINANCE                                        
+NE49-3/181FD              72   OFFICE             VP-FINANCE                                        
+NE49-3/181G              102   OFFICE             VP-FINANCE                                        
+NE49-3/181H               64   OFFICE             VP-FINANCE                                        
+NE49-3/181K               64   OFFICE             VP-FINANCE                                        
+NE49-3/181L              104   OFFICE             VP-FINANCE                                        
+NE49-3/181N              106   OFFICE             VP-FINANCE                                        
+NE49-3/182               758   PVT CIRCULATION    VP-FINANCE                                        
+NE49-3/182A              120   OFFICE             VP-FINANCE                                        
+NE49-3/182B              119   OFFICE             VP-FINANCE                                        
+NE49-3/182C               72   OFFICE             VP-FINANCE                                        
+NE49-3/182CA              60   OFFICE             VP-FINANCE                                        
+NE49-3/182D               72   OFFICE             VP-FINANCE                                        
+NE49-3/182F              103   OFFICE             VP-FINANCE                                        
+NE49-3/182G               67   OFFICE             VP-FINANCE                                        
+NE49-3/182H               68   OFFICE             VP-FINANCE                                        
+NE49-3/191               153   PVT CIRCULATION    VP-FINANCE                                        
+NE49-3/191A              160   CONFERENCE ROOM    VP-FINANCE                                        
+NE49-321C                 95   OFFICE             AUDIT DIVISION                                    
+NE49-321G              1,157   PVT CIRCULATION    AUDIT DIVISION                                    
+                    --------                                                                        
+                      23,442                                                                        
+                                                                                                    
+NE49-4/002               735   PVT CIRCULATION    VP-FINANCE                                        
+NE49-4/021               539   PVT CIRCULATION    VP-FINANCE                                        
+NE49-4/021A              107   OFFICE             VP-FINANCE                                        
+NE49-4/021B              108   OFFICE             VP-FINANCE                                        
+NE49-4/021C               61   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/021D               70   OFFICE             VP-FINANCE                                        
+NE49-4/021F              104   OFFICE             VP-FINANCE                                        
+NE49-4/021G              106   OFFICE             VP-FINANCE                                        
+NE49-4/021H               68   OFFICE             VP-FINANCE                                        
+NE49-4/021K               70   OFFICE             VP-FINANCE                                        
+NE49-4/021L               72   OFFICE             VP-FINANCE                                        
+NE49-4/021M               70   OFFICE             VP-FINANCE                                        
+NE49-4/021N              111   OFFICE             VP-FINANCE                                        
+NE49-4/021P              154   OFFICE             VP-FINANCE                                        
+NE49-4/021Q              180   OFFICE             VP-FINANCE                                        
+NE49-4/021R              129   OFFICE             VP-FINANCE                                        
+NE49-4/034               381   PVT CIRCULATION    VP-FINANCE                                        
+NE49-4/034A              103   OFFICE             VP-FINANCE                                        
+NE49-4/034B              103   OFFICE             VP-FINANCE                                        
+NE49-4/034C              103   OFFICE             VP-FINANCE                                        
+NE49-4/034D              103   OFFICE             VP-FINANCE                                        
+NE49-4/034F               50   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/034K               90   OFFICE             VP-FINANCE                                        
+NE49-4/034L               70   OFFICE             VP-FINANCE                                        
+NE49-4/034M               70   OFFICE             VP-FINANCE                                        
+NE49-4/037               447   PVT CIRCULATION    VP-FINANCE                                        
+NE49-4/037A              120   OFFICE             VP-FINANCE                                        
+NE49-4/037B              180   OFFICE             VP-FINANCE                                        
+NE49-4/037C              154   OFFICE             VP-FINANCE                                        
+NE49-4/037D               68   OFFICE             VP-FINANCE                                        
+NE49-4/037F               68   OFFICE             VP-FINANCE                                        
+NE49-4/037G               70   OFFICE             VP-FINANCE                                        
+NE49-4/037H              106   OFFICE             VP-FINANCE                                        
+NE49-4/037K               70   OFFICE             VP-FINANCE                                        
+NE49-4/037L               26   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/037N               70   OFFICE             VP-FINANCE                                        
+NE49-4/053               327   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/055                23   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/057               499   PVT CIRCULATION    VP-FINANCE                                        
+NE49-4/057A              104   OFFICE             VP-FINANCE                                        
+NE49-4/057B               70   OFFICE             VP-FINANCE                                        
+NE49-4/057C              106   OFFICE             VP-FINANCE                                        
+NE49-4/057D              120   OFFICE             VP-FINANCE                                        
+NE49-4/057F              120   OFFICE             VP-FINANCE                                        
+NE49-4/057G               56   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/057H              100   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/057T              111   TELECOM CLOSET     DP OF FACILITIES                                  
+NE49-4/064               741   PVT CIRCULATION    VP-FINANCE                                        
+NE49-4/064A               68   OFFICE             VP-FINANCE                                        
+NE49-4/064B               68   OFFICE             VP-FINANCE                                        
+NE49-4/064C               67   OFFICE             VP-FINANCE                                        
+NE49-4/064D               68   OFFICE             VP-FINANCE                                        
+NE49-4/064F               68   OFFICE             VP-FINANCE                                        
+NE49-4/064G               68   OFFICE             VP-FINANCE                                        
+NE49-4/064H               67   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/064K               68   OFFICE             VP-FINANCE                                        
+NE49-4/064L               31   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/064M              102   OFFICE             VP-FINANCE                                        
+NE49-4/064N              106   OFFICE             VP-FINANCE                                        
+NE49-4/064P              107   OFFICE             VP-FINANCE                                        
+NE49-4/064Q               70   OFFICE             VP-FINANCE                                        
+NE49-4/064R               70   OFFICE             VP-FINANCE                                        
+NE49-4/064S               70   OFFICE             VP-FINANCE                                        
+NE49-4/064U               70   OFFICE             VP-FINANCE                                        
+NE49-4/064V               70   OFFICE             VP-FINANCE                                        
+NE49-4/064W               70   OFFICE             VP-FINANCE                                        
+NE49-4/064X               70   OFFICE             VP-FINANCE                                        
+NE49-4/064Y               70   OFFICE             VP-FINANCE                                        
+NE49-4/071                17   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/077               370   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/077A               67   OFFICE             VP-FINANCE                                        
+NE49-4/077B               68   OFFICE             VP-FINANCE                                        
+NE49-4/077C               35   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/077F               70   OFFICE             VP-FINANCE                                        
+NE49-4/077G               99   OFFICE             VP-FINANCE                                        
+NE49-4/077H              102   OFFICE             VP-FINANCE                                        
+NE49-4/093                50   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/095               119   SECY/RECEPTION     VP-FINANCE                                        
+NE49-4/097                87   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/100               103   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/100A               76   SECY/RECEPTION     VP-FINANCE                                        
+NE49-4/100AA              19   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/100B              230   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/100C              131   OFFICE             VP-FINANCE                                        
+NE49-4/101               120   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/117                73   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/120                11   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/121               159   CONFERENCE ROOM    VP-FINANCE                                        
+NE49-4/122               795   PVT CIRCULATION    VP-FINANCE                                        
+NE49-4/122A               62   OFFICE             VP-FINANCE                                        
+NE49-4/122B               68   OFFICE             VP-FINANCE                                        
+NE49-4/122BA              68   OFFICE             VP-FINANCE                                        
+NE49-4/122C               68   OFFICE             VP-FINANCE                                        
+NE49-4/122D               68   OFFICE             VP-FINANCE                                        
+NE49-4/122F               68   OFFICE             VP-FINANCE                                        
+NE49-4/122G               70   OFFICE             VP-FINANCE                                        
+NE49-4/122H              106   OFFICE             VP-FINANCE                                        
+NE49-4/122K              103   OFFICE             VP-FINANCE                                        
+NE49-4/122L              103   OFFICE             VP-FINANCE                                        
+NE49-4/122M              103   OFFICE             VP-FINANCE                                        
+NE49-4/122N               70   OFFICE             VP-FINANCE                                        
+NE49-4/122P               70   OFFICE             VP-FINANCE                                        
+NE49-4/122Q               68   OFFICE             VP-FINANCE                                        
+NE49-4/123                44   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/131               371   PVT CIRCULATION    VP-FINANCE                                        
+NE49-4/131A              105   OFFICE             VP-FINANCE                                        
+NE49-4/131B              120   OFFICE             VP-FINANCE                                        
+NE49-4/131C               68   OFFICE             VP-FINANCE                                        
+NE49-4/131D              100   OFFICE             VP-FINANCE                                        
+NE49-4/131F               39   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/131G              106   OFFICE             VP-FINANCE                                        
+NE49-4/131H              103   OFFICE             VP-FINANCE                                        
+NE49-4/131K              103   OFFICE             VP-FINANCE                                        
+NE49-4/143               487   PVT CIRCULATION    VP-FINANCE                                        
+NE49-4/143A               16   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/143B              144   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/143C              166   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/143D               11   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/143F              187   OFFICE             VP-FINANCE                                        
+NE49-4/143H              136   OFFICE             VP-FINANCE                                        
+NE49-4/143K              112   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/158               107   OFFICE             VP-FINANCE                                        
+NE49-4/160               113   OFFICE             VP-FINANCE                                        
+NE49-4/161               427   PVT CIRCULATION    VP-FINANCE                                        
+NE49-4/161A              103   OFFICE             VP-FINANCE                                        
+NE49-4/161B              103   OFFICE             VP-FINANCE                                        
+NE49-4/161C              103   OFFICE             VP-FINANCE                                        
+NE49-4/161D              106   OFFICE             VP-FINANCE                                        
+NE49-4/161F              101   OFFICE             VP-FINANCE                                        
+NE49-4/161G               68   OFFICE             VP-FINANCE                                        
+NE49-4/161H              100   OFFICE             VP-FINANCE                                        
+NE49-4/170               178   OFFICE             VP-FINANCE                                        
+NE49-4/172               640   PVT CIRCULATION    VP-FINANCE                                        
+NE49-4/172A               68   OFFICE             VP-FINANCE                                        
+NE49-4/172B               68   OFFICE             VP-FINANCE                                        
+NE49-4/172C               68   OFFICE             VP-FINANCE                                        
+NE49-4/172D              103   OFFICE             VP-FINANCE                                        
+NE49-4/172F              106   OFFICE             VP-FINANCE                                        
+NE49-4/172G               70   OFFICE             VP-FINANCE                                        
+NE49-4/172H               70   OFFICE             VP-FINANCE                                        
+NE49-4/172K               70   OFFICE             VP-FINANCE                                        
+NE49-4/172L              256   CONFERENCE ROOM    VP-FINANCE                                        
+NE49-4/172M              103   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/182               366   PVT CIRCULATION    VP-FINANCE                                        
+NE49-4/182A               45   OFFICE SERVICE     VP-FINANCE                                        
+NE49-4/182B              117   OFFICE             VP-FINANCE                                        
+NE49-4/182C               99   OFFICE             VP-FINANCE                                        
+NE49-4/182D               96   OFFICE             VP-FINANCE                                        
+NE49-4/182F              104   OFFICE             VP-FINANCE                                        
+NE49-4/182G              102   OFFICE             VP-FINANCE                                        
+NE49-4/191               295   PVT CIRCULATION    VP-FINANCE                                        
+NE49-4/191A              160   OFFICE             VP-FINANCE                                        
+NE49-4/191B              142   OFFICE             VP-FINANCE                                        
+                    --------                                                                        
+                      19,940                                                                        
+                                                                                                    
+NE49-5/000             3,240   PVT CIRCULATION    HUMAN RESOURCES                                   
+NE49-5/003               105   SECY/RECEPTION     HUMAN RESOURCES                                   
+NE49-5/005               216   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/005A               82   OFFICE             HUMAN RESOURCES                                   
+NE49-5/005B               82   OFFICE             HUMAN RESOURCES                                   
+NE49-5/005C               79   OFFICE             HUMAN RESOURCES                                   
+NE49-5/008               174   CONFERENCE ROOM    HUMAN RESOURCES                                   
+NE49-5/009                99   OFFICE             HUMAN RESOURCES                                   
+NE49-5/011               104   OFFICE             HUMAN RESOURCES                                   
+NE49-5/012               125   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/013               101   OFFICE             HUMAN RESOURCES                                   
+NE49-5/015                99   OFFICE             HUMAN RESOURCES                                   
+NE49-5/016               120   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/016A              212   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/017               104   OFFICE             HUMAN RESOURCES                                   
+NE49-5/020T              208   TELECOM CLOSET     DP OF FACILITIES                                  
+NE49-5/024               732   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/025               205   CONFERENCE ROOM    HUMAN RESOURCES                                   
+NE49-5/027               104   OFFICE             HUMAN RESOURCES                                   
+NE49-5/028                51   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/029               101   OFFICE             HUMAN RESOURCES                                   
+NE49-5/030                31   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/031               103   OFFICE             HUMAN RESOURCES                                   
+NE49-5/035               126   OFFICE             HUMAN RESOURCES                                   
+NE49-5/036               112   OFFICE             HUMAN RESOURCES                                   
+NE49-5/037               145   OFFICE             HUMAN RESOURCES                                   
+NE49-5/038               106   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/042               422   CONFERENCE ROOM    HUMAN RESOURCES                                   
+NE49-5/044               157   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/044A               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/044B               44   OFFICE             HUMAN RESOURCES                                   
+NE49-5/044C               92   OFFICE             HUMAN RESOURCES                                   
+NE49-5/044D               94   OFFICE             HUMAN RESOURCES                                   
+NE49-5/045               371   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/061                46   OFFICE             HUMAN RESOURCES                                   
+NE49-5/061A               21   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/063A               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/063B               89   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/063C               44   OFFICE             HUMAN RESOURCES                                   
+NE49-5/067                45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/069                86   OFFICE             HUMAN RESOURCES                                   
+NE49-5/071                86   OFFICE             HUMAN RESOURCES                                   
+NE49-5/074               368   CONFERENCE ROOM    HUMAN RESOURCES                                   
+NE49-5/075                86   OFFICE             HUMAN RESOURCES                                   
+NE49-5/077                86   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/079A               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/079B               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/081A               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/081B               43   OFFICE             HUMAN RESOURCES                                   
+NE49-5/081C               46   OFFICE             HUMAN RESOURCES                                   
+NE49-5/081D               46   OFFICE             HUMAN RESOURCES                                   
+NE49-5/085A               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/085B               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/086               107   CONFERENCE ROOM    HUMAN RESOURCES                                   
+NE49-5/087A               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/087B               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/087C               44   OFFICE             HUMAN RESOURCES                                   
+NE49-5/087D               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/088               106   OFFICE             HUMAN RESOURCES                                   
+NE49-5/090               108   OFFICE             HUMAN RESOURCES                                   
+NE49-5/091A               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/091B               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/091C               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/091D               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/095A               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/095B               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/095C               46   OFFICE             HUMAN RESOURCES                                   
+NE49-5/095D               46   OFFICE             HUMAN RESOURCES                                   
+NE49-5/096                97   OFFICE             HUMAN RESOURCES                                   
+NE49-5/098                97   CONFERENCE ROOM    HUMAN RESOURCES                                   
+NE49-5/100             2,850   PVT CIRCULATION    HUMAN RESOURCES                                   
+NE49-5/103               163   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/105A               46   OFFICE             HUMAN RESOURCES                                   
+NE49-5/105B               47   OFFICE             HUMAN RESOURCES                                   
+NE49-5/105C               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/105D               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/106                97   CONFERENCE ROOM    HUMAN RESOURCES                                   
+NE49-5/108                97   OFFICE             HUMAN RESOURCES                                   
+NE49-5/109A               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/109B               46   OFFICE             HUMAN RESOURCES                                   
+NE49-5/109C               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/109D               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/110                98   OFFICE             HUMAN RESOURCES                                   
+NE49-5/112                97   OFFICE             HUMAN RESOURCES                                   
+NE49-5/113A               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/113B               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/113C               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/113D               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/116                97   OFFICE             HUMAN RESOURCES                                   
+NE49-5/117A               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/117B               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/117C               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/117D               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/118                97   OFFICE             HUMAN RESOURCES                                   
+NE49-5/120               100   OFFICE             HUMAN RESOURCES                                   
+NE49-5/121A               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/121B               43   OFFICE             HUMAN RESOURCES                                   
+NE49-5/121C               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/121D               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/127A               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/127B               45   OFFICE             HUMAN RESOURCES                                   
+NE49-5/129                41   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/131                40   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/135               117   OFFICE             HUMAN RESOURCES                                   
+NE49-5/136                98   OFFICE             HUMAN RESOURCES                                   
+NE49-5/137               120   OFFICE             HUMAN RESOURCES                                   
+NE49-5/141                34   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/145             1,189   CONFERENCE ROOM    HUMAN RESOURCES                                   
+NE49-5/145A              536   CONFERENCE ROOM    HUMAN RESOURCES                                   
+NE49-5/145B               59   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/147                47   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/148                21   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/150                21   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/152               124   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/153               101   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/157               117   OFFICE             HUMAN RESOURCES                                   
+NE49-5/158A               47   OFFICE             HUMAN RESOURCES                                   
+NE49-5/158B               47   OFFICE             HUMAN RESOURCES                                   
+NE49-5/158C               47   OFFICE             HUMAN RESOURCES                                   
+NE49-5/159               181   CONFERENCE ROOM    HUMAN RESOURCES                                   
+NE49-5/163               115   OFFICE             HUMAN RESOURCES                                   
+NE49-5/164A               47   OFFICE             HUMAN RESOURCES                                   
+NE49-5/164B               47   OFFICE             HUMAN RESOURCES                                   
+NE49-5/164C               47   OFFICE             HUMAN RESOURCES                                   
+NE49-5/165               122   OFFICE             HUMAN RESOURCES                                   
+NE49-5/166A               47   OFFICE             HUMAN RESOURCES                                   
+NE49-5/167               120   OFFICE             HUMAN RESOURCES                                   
+NE49-5/168               106   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/169               106   OFFICE             HUMAN RESOURCES                                   
+NE49-5/171               119   OFFICE             HUMAN RESOURCES                                   
+NE49-5/173               253   OFFICE             HUMAN RESOURCES                                   
+NE49-5/175                69   SECY/RECEPTION     HUMAN RESOURCES                                   
+NE49-5/177               233   CONFERENCE ROOM    HUMAN RESOURCES                                   
+NE49-5/178               147   OFFICE             HUMAN RESOURCES                                   
+NE49-5/180               352   OFFICE SERVICE     HUMAN RESOURCES                                   
+NE49-5/180A               36   OFFICE SERVICE     HUMAN RESOURCES      

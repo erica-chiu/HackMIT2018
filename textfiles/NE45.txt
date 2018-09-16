@@ -1,0 +1,25 @@
+NE45-201               1,110   RESEARCH LAB       LINCOLN LAB                                       
+NE45-201A                  9   LABORATORY SVC     LINCOLN LAB                                       
+NE45-201B                 15   LABORATORY SVC     LINCOLN LAB                                       
+NE45-201C                 55   LABORATORY SVC     LINCOLN LAB                                       
+NE45-201D                 42   RSCH LAB-OFFICE    LINCOLN LAB                                       
+NE45-201F                 63   RSCH LAB-OFFICE    LINCOLN LAB                                       
+NE45-201G                 25   LABORATORY SVC     LINCOLN LAB                                       
+NE45-201H                111   LABORATORY SVC     LINCOLN LAB                                       
+NE45-201L                128   LABORATORY SVC     LINCOLN LAB                                       
+NE45-201N                 58   LABORATORY SVC     LINCOLN LAB                                       
+NE45-201P                 53   RSCH LAB-OFFICE    LINCOLN LAB                                       
+NE45-201T                138   TELECOM CLOSET     DP OF FACILITIES                                  
+NE45-202                 522   LABORATORY SVC     SCH OF ENGINEER                                   
+NE45-202A                 17   LABORATORY SVC     SCH OF ENGINEER                                   
+NE45-202B                 16   LABORATORY SVC     SCH OF ENGINEER                                   
+NE45-202C                363   CONFERENCE ROOM    SCH OF ENGINEER                                   
+NE45-202CB                70   OFFICE SERVICE     SCH OF ENGINEER                                   
+NE45-202D                567   CONFERENCE ROOM    SCH OF ENGINEER                                   
+NE45-202F                 18   LABORATORY SVC     SCH OF ENGINEER                                   
+NE45-202G                166   LABORATORY SVC     SCH OF ENGINEER                                   
+NE45-203A                  8   LABORATORY SVC     LINCOLN LAB                                       
+NE45-203B                  8   LABORATORY SVC     SCH OF ENGINEER                                   
+NE45-205                 835   LAB SUPPORT SHOP   LINCOLN LAB                                       
+NE45-205A                 75   LABORATORY SVC     LINCOLN LAB                                       
+NE45-205B                111   LABORATORY SVC     LINCOLN LAB  

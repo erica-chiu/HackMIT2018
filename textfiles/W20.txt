@@ -1,0 +1,437 @@
+W20-000CA              2,239   CORRIDOR           DP OF FACILITIES                                  
+W20-000CB                244   CORRIDOR           DP OF FACILITIES                                  
+W20-000CC                600   CORRIDOR           DP OF FACILITIES                                  
+W20-000CD                291   CORRIDOR           DP OF FACILITIES                                  
+W20-000CE                 68   CORRIDOR           DP OF FACILITIES                                  
+W20-000CF              1,283   CORRIDOR           DP OF FACILITIES                                  
+W20-000E1                 56   ELEVATOR           DP OF FACILITIES                                  
+W20-000E2                 54   ELEVATOR           DP OF FACILITIES                                  
+W20-000E3                 63   ELEVATOR           DP OF FACILITIES                                  
+W20-000E4                 53   ELEVATOR           DP OF FACILITIES                                  
+W20-000E5                 32   ELEVATOR           DP OF FACILITIES                                  
+W20-000SA                167   STAIRWAY           DP OF FACILITIES                                  
+W20-000SD                159   STAIRWAY           DP OF FACILITIES                                  
+W20-000SE                168   STAIRWAY           DP OF FACILITIES                                  
+W20-000SF                169   STAIRWAY           DP OF FACILITIES                                  
+W20-000SG                 39   STAIRWAY           DP OF FACILITIES                                  
+W20-000SH                120   STAIRWAY           DP OF FACILITIES                                  
+W20-000SJ                 35   STAIRWAY           DP OF FACILITIES                                  
+W20-000SK                 11   STAIRWAY           DP OF FACILITIES                                  
+W20-000SKM                11   STAIRWAY           DP OF FACILITIES                                  
+W20-000Z                 416   SHAFT SPACE        DP OF FACILITIES                                  
+W20-001                  682   RECREATION FACIL   CAMP ACTIV COMPL                                  
+W20-002                  518   MERCHAND SVC       CAMP ACTIV COMPL       LEASED TENANT              
+W20-003                1,141   MERCHAND FACIL     CAMP ACTIV COMPL       LEASED TENANT              
+W20-003J                  54   JANITOR CLOSET     DP OF FACILITIES                                  
+W20-004                  806   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-004A                 134   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-004B                 122   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-004T                  37   TELECOM CLOSET     DP OF FACILITIES                                  
+W20-005                3,973   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-005A                 502   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-005B                 608   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-006                  593   MERCHAND FACIL     CAMP ACTIV COMPL       LEASED TENANT              
+W20-007                  282   FEMALE LAVATORY    DP OF FACILITIES                                  
+W20-008                  104   PUBLIC LAVATORY    DP OF FACILITIES                                  
+W20-008Z                  30   SHAFT SPACE        DP OF FACILITIES                                  
+W20-009                   57   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-010                  590   MERCHAND SVC       CAMP ACTIV COMPL                                  
+W20-011                   65   MERCHAND SVC       DP OF FACIL ADM                                   
+W20-012                   65   NON-ATH LOCKR RM   CAMP ACTIV COMPL                                  
+W20-013                  134   MERCHAND SVC       CAMP ACTIV COMPL                                  
+W20-014T                  59   TELECOM CLOSET     DP OF FACILITIES                                  
+W20-015                  723   MERCHAND SVC       CAMP ACTIV COMPL                                  
+W20-015A                 113   MERCHAND SVC       CAMP ACTIV COMPL                                  
+W20-015AA                203   MERCHAND SVC       CAMP ACTIV COMPL                                  
+W20-016                  391   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-016A                  85   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-018                  169   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-018J                  35   JANITOR CLOSET     DP OF FACILITIES                                  
+W20-019A                 784   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-019AA                131   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-019AB                395   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-019AC                242   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-019AD                234   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-019AF                230   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-019AG                150   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-019AH                220   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-019AK                109   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-019AL                422   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-019AN                180   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-019AP                108   OFFICE             CAMP ACTIV COMPL                                  
+W20-019AQ                 32   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-019B                 752   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-019BA                 54   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-019BB                 55   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-019BC                 82   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-019BD                 89   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-019D                  15   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-019F                 156   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-019G                  82   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-020                   46   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-020A                 420   OFFICE             DEAN-STU LIFE          FSILG                      
+W20-020AA                155   OFFICE SERVICE     DEAN-STU LIFE          FSILG                      
+W20-020M                  60   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-021                  316   OFFICE SERVICE     DP OF FACIL ADM                                   
+W20-021A                 178   SECY/RECEPTION     DP OF FACIL ADM                                   
+W20-021B                 193   CONFERENCE ROOM    DP OF FACIL ADM                                   
+W20-021C                 107   OFFICE SERVICE     DP OF FACIL ADM                                   
+W20-021D                 188   OFFICE             DP OF FACIL ADM                                   
+W20-021DA                  5   OFFICE SERVICE     DP OF FACIL ADM                                   
+W20-021F                 136   OFFICE             DP OF FACIL ADM                                   
+W20-021H                  71   NON-ATH LOCKR RM   DP OF FACIL ADM                                   
+W20-021HA                 49   OFFICE SERVICE     DP OF FACIL ADM                                   
+W20-021K                   5   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-021X                 267   ALTER/CONVERSION   PROVOST RESERVE                                   
+W20-021XA                239   ALTER/CONVERSION   PROVOST RESERVE                                   
+W20-021XB                103   ALTER/CONVERSION   PROVOST RESERVE                                   
+W20-022                1,160   OFFICE             ALUMNI/AE ASSOC        TECH CALLERS               
+W20-022A                 280   CONFERENCE ROOM    ALUMNI/AE ASSOC        TECH CALLERS               
+W20-022B                 110   OFFICE SERVICE     ALUMNI/AE ASSOC        TECH CALLERS               
+W20-022C                  96   OFFICE SERVICE     ALUMNI/AE ASSOC        TECH CALLERS               
+W20-022CE                  2   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W20-022D                 117   OFFICE             ALUMNI/AE ASSOC        TECH CALLERS               
+W20-022F                 128   OFFICE             ALUMNI/AE ASSOC        TECH CALLERS               
+W20-022G                  93   OFFICE             ALUMNI/AE ASSOC        TECH CALLERS               
+W20-023                  385   MERCHAND FACIL     CAMP ACTIV COMPL       LEASED TENANT              
+W20-024                  516   MERCHAND FACIL     CAMP ACTIV COMPL       LEASED TENANT              
+W20-025                  478   MERCHAND FACIL     CAMP ACTIV COMPL       LEASED TENANT              
+W20-026                  265   MALE LAVATORY      DP OF FACILITIES                                  
+W20-027                  357   MERCHAND FACIL     CAMP ACTIV COMPL       LEASED TENANT              
+W20-028                  951   MERCHAND FACIL     CAMP ACTIV COMPL       LEASED TENANT              
+W20-030                   65   MERCHAND SVC       CAMP ACTIV COMPL       GRAPHIC ARTS               
+                    --------                                                                        
+                      30,615                                                                        
+                                                                                                    
+W20-100                1,819   MERCHAND FACIL     CAMP ACTIV COMPL       LEASED TENANT              
+W20-100CA              2,392   CORRIDOR           DP OF FACILITIES                                  
+W20-100CB                278   CORRIDOR           DP OF FACILITIES                                  
+W20-100CC                178   CORRIDOR           DP OF FACILITIES                                  
+W20-100E1                 52   ELEVATOR           DP OF FACILITIES                                  
+W20-100E2                 53   ELEVATOR           DP OF FACILITIES                                  
+W20-100E3                 63   ELEVATOR           DP OF FACILITIES                                  
+W20-100E4                 52   ELEVATOR           DP OF FACILITIES                                  
+W20-100LA                775   LOBBY              DP OF FACILITIES                                  
+W20-100LB                755   LOBBY              DP OF FACILITIES                                  
+W20-100LC              3,993   LOBBY              DP OF FACILITIES                                  
+W20-100LD                 98   LOBBY              DP OF FACILITIES                                  
+W20-100LE                 85   LOBBY              DP OF FACILITIES                                  
+W20-100SA                177   STAIRWAY           DP OF FACILITIES                                  
+W20-100SC                233   STAIRWAY           DP OF FACILITIES                                  
+W20-100SD                181   STAIRWAY           DP OF FACILITIES                                  
+W20-100SE                 97   STAIRWAY           DP OF FACILITIES                                  
+W20-100SF                 96   STAIRWAY           DP OF FACILITIES                                  
+W20-100SG                 64   STAIRWAY           DP OF FACILITIES                                  
+W20-100SH                120   STAIRWAY           DP OF FACILITIES                                  
+W20-100SJ                144   STAIRWAY           DP OF FACILITIES                                  
+W20-100Z                 670   SHAFT SPACE        DP OF FACILITIES                                  
+W20-101                3,148   MERCHAND FACIL     CAMP ACTIV COMPL       LEASED TENANT              
+W20-102                  662   MERCHAND FACIL     CAMP ACTIV COMPL       LEASED TENANT              
+W20-103                4,399   MERCHAND FACIL     CAMP ACTIV COMPL       LEASED TENANT              
+W20-104                  851   MERCHAND FACIL     CAMP ACTIV COMPL       LEASED TENANT              
+W20-104A                 145   MERCHAND FACIL     CAMP ACTIV COMPL                                  
+W20-104T                  18   TELECOM CLOSET     DP OF FACILITIES                                  
+W20-105                5,307   MERCHAND FACIL     CAMP ACTIV COMPL       LEASED TENANT              
+W20-106                  776   MERCHAND FACIL     CAMP ACTIV COMPL       LEASED TENANT              
+W20-107A                   5   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-107B                   5   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-108                  162   MERCHAND FACIL     CAMP ACTIV COMPL                                  
+W20-109A                   6   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-109B                   5   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-110                  797   LOUNGE             CAMP ACTIV COMPL                                  
+W20-116                  180   MERCHAND FACIL     CAMP ACTIV COMPL       LEASED TENANT              
+W20-116A                 459   MERCHAND FACIL     CAMP ACTIV COMPL       LEASED TENANT              
+W20-116B                 166   MERCHAND FACIL     CAMP ACTIV COMPL       LEASED TENANT              
+W20-116C                 169   MERCHAND FACIL     CAMP ACTIV COMPL       LEASED TENANT              
+W20-116D                  62   MERCHAND SVC       CAMP ACTIV COMPL       LEASED TENANT              
+W20-116F                 194   MERCHAND SVC       CAMP ACTIV COMPL       LEASED TENANT              
+W20-120                  383   RECEIVING ROOM     CAMP ACTIV COMPL                                  
+W20-121                   26   JANITOR STORAGE    DP OF FACILITIES                                  
+                    --------                                                                        
+                      30,297                                                                        
+                                                                                                    
+W20-200                2,164   LOUNGE             CAMP ACTIV COMPL                                  
+W20-200CA              1,124   CORRIDOR           DP OF FACILITIES                                  
+W20-200CB              1,028   CORRIDOR           DP OF FACILITIES                                  
+W20-200CC              1,260   CORRIDOR           DP OF FACILITIES                                  
+W20-200CD              1,074   CORRIDOR           DP OF FACILITIES                                  
+W20-200E1                 72   ELEVATOR           DP OF FACILITIES                                  
+W20-200E2                 69   ELEVATOR           DP OF FACILITIES                                  
+W20-200E3                 69   ELEVATOR           DP OF FACILITIES                                  
+W20-200E5                 42   ELEVATOR           DP OF FACILITIES                                  
+W20-200LA                 84   LOBBY              DP OF FACILITIES                                  
+W20-200LB                 73   LOBBY              DP OF FACILITIES                                  
+W20-200SA                195   STAIRWAY           DP OF FACILITIES                                  
+W20-200SB                193   STAIRWAY           DP OF FACILITIES                                  
+W20-200SC                390   STAIRWAY           DP OF FACILITIES                                  
+W20-200SD                190   STAIRWAY           DP OF FACILITIES                                  
+W20-200SL                134   STAIRWAY           DP OF FACILITIES                                  
+W20-200SM                132   STAIRWAY           DP OF FACILITIES                                  
+W20-200Z                 492   SHAFT SPACE        DP OF FACILITIES                                  
+W20-201                1,014   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+W20-201AE                  6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W20-201E                   8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W20-201T                   5   TELECOM CLOSET     DP OF FACILITIES                                  
+W20-202                5,948   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+W20-202A                 356   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-202AE                 14   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W20-202B                  10   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-202C                 296   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-202E                  14   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W20-203                  412   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-204                  269   FEMALE LAVATORY    DP OF FACILITIES                                  
+W20-204A                  86   PUBLIC LAVATORY    DP OF FACILITIES                                  
+W20-205                  235   MALE LAVATORY      DP OF FACILITIES                                  
+W20-205E                   8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W20-205EE                  6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W20-205T                   5   TELECOM CLOSET     DP OF FACILITIES                                  
+W20-206                3,045   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-206A                 566   MERCHAND FACIL     CAMP ACTIV COMPL                                  
+W20-206B                 453   MERCHAND FACIL     CAMP ACTIV COMPL                                  
+W20-206C                 282   MERCHAND FACIL     CAMP ACTIV COMPL                                  
+W20-206D                 414   MERCHAND FACIL     CAMP ACTIV COMPL                                  
+W20-206Z                   8   SHAFT SPACE        DP OF FACILITIES                                  
+W20-207                   62   PVT CIRCULATION    CAMP ACTIV COMPL                                  
+W20-207A                 232   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-207B                 641   FOOD FACIL SVC     CAMP ACTIV COMPL                                  
+W20-208                2,870   FOOD FACILITY      CAMP ACTIV COMPL                                  
+W20-208A               2,876   FOOD FACILITY      CAMP ACTIV COMPL                                  
+W20-209                1,108   EXHIBITION FACIL   ASSOC PROV ARTS                                   
+                    --------                                                                        
+                      30,033                                                                        
+                                                                                                    
+W20-300                  498   LOUNGE             CAMP ACTIV COMPL                                  
+W20-300CA                468   CORRIDOR           DP OF FACILITIES                                  
+W20-300CB                537   CORRIDOR           DP OF FACILITIES                                  
+W20-300CC                169   CORRIDOR           DP OF FACILITIES                                  
+W20-300CD                752   CORRIDOR           DP OF FACILITIES                                  
+W20-300E1                 54   ELEVATOR           DP OF FACILITIES                                  
+W20-300E2                 57   ELEVATOR           DP OF FACILITIES                                  
+W20-300E3                 63   ELEVATOR           DP OF FACILITIES                                  
+W20-300E5                 33   ELEVATOR           DP OF FACILITIES                                  
+W20-300LA              1,428   LOBBY              DP OF FACILITIES                                  
+W20-300SA                168   STAIRWAY           DP OF FACILITIES                                  
+W20-300SB                243   STAIRWAY           DP OF FACILITIES                                  
+W20-300SD                172   STAIRWAY           DP OF FACILITIES                                  
+W20-300SL                 94   STAIRWAY           DP OF FACILITIES                                  
+W20-300SM                 93   STAIRWAY           DP OF FACILITIES                                  
+W20-300Z               1,032   SHAFT SPACE        DP OF FACILITIES                                  
+W20-301                  389   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+W20-302                  393   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+W20-303                  385   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+W20-304                  651   FOOD FACIL SVC     CAMP ACTIV COMPL       FOOD SERVICES              
+W20-304Z                 238   SHAFT SPACE        DP OF FACILITIES                                  
+W20-305                1,488   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+W20-305A               1,480   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+W20-306                1,888   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+W20-306A                   6   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-306E                   7   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W20-306T                   4   TELECOM CLOSET     DP OF FACILITIES                                  
+W20-307                1,880   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+W20-307A                   5   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-307AE                  8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W20-307E                   5   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W20-307T                   6   TELECOM CLOSET     DP OF FACILITIES                                  
+W20-308                1,851   LOUNGE             CAMP ACTIV COMPL                                  
+W20-308B                  25   MERCHAND SVC       CAMP ACTIV COMPL                                  
+W20-308C                  42   MERCHAND SVC       CAMP ACTIV COMPL                                  
+W20-308D                  77   MERCHAND SVC       CAMP ACTIV COMPL                                  
+W20-308F                 138   MERCHAND SVC       CAMP ACTIV COMPL                                  
+W20-310                   59   MEDIA PRODUCTION   CAMP ACTIV COMPL                                  
+W20-310A                 377   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+W20-312                  198   OFFICE             CAMP ACTIV COMPL       FOOD SERVICES              
+W20-313                  209   MEDIA PRODUCTION   CAMP ACTIV COMPL                                  
+W20-314                  255   FEMALE LAVATORY    DP OF FACILITIES                                  
+W20-314J                  26   JANITOR CLOSET     DP OF FACILITIES                                  
+W20-315                  298   MALE LAVATORY      DP OF FACILITIES                                  
+                    --------                                                                        
+                      18,246                                                                        
+                                                                                                    
+W20-400                  789   CONFERENCE ROOM    CAMP ACTIV COMPL                                  
+W20-400CA              1,022   CORRIDOR           DP OF FACILITIES                                  
+W20-400CB              1,239   CORRIDOR           DP OF FACILITIES                                  
+W20-400CC                522   CORRIDOR           DP OF FACILITIES                                  
+W20-400CD                868   CORRIDOR           DP OF FACILITIES                                  
+W20-400CE              1,122   CORRIDOR           DP OF FACILITIES                                  
+W20-400CF                521   CORRIDOR           DP OF FACILITIES                                  
+W20-400E1                 56   ELEVATOR           DP OF FACILITIES                                  
+W20-400E2                 51   ELEVATOR           DP OF FACILITIES                                  
+W20-400E3                 72   ELEVATOR           DP OF FACILITIES                                  
+W20-400LA              1,150   LOBBY              DP OF FACILITIES                                  
+W20-400SA                152   STAIRWAY           DP OF FACILITIES                                  
+W20-400SD                146   STAIRWAY           DP OF FACILITIES                                  
+W20-400Z                 572   SHAFT SPACE        DP OF FACILITIES                                  
+W20-401                  427   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-401A                 207   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-401B                 199   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-401C                 200   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-401D                 135   OFFICE SERVICE     CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-407                1,301   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+W20-408                  304   FEMALE LAVATORY    DP OF FACILITIES                                  
+W20-410                1,865   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-410E                   6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W20-410T                  12   TELECOM CLOSET     DP OF FACILITIES                                  
+W20-413                  432   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-414                   90   MUSIC PRACTICE     CAMP ACTIV COMPL                                  
+W20-415                  673   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-415A                 324   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-416                   92   MUSIC PRACTICE     CAMP ACTIV COMPL                                  
+W20-421                  569   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-423                  475   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-424                  163   MUSIC PRACTICE     ASSOC PROV ARTS                                   
+W20-425                  945   STUDIO             ASSOC PROV ARTS                                   
+W20-426                   47   LABORATORY SVC     ASSOC PROV ARTS                                   
+W20-426A                 280   LABORATORY SVC     ASSOC PROV ARTS                                   
+W20-426B                  52   LABORATORY SVC     ASSOC PROV ARTS                                   
+W20-426C                  15   PVT CIRCULATION    ASSOC PROV ARTS                                   
+W20-428                  181   STUDIO             ASSOC PROV ARTS                                   
+W20-429                  470   STUDIO             ASSOC PROV ARTS                                   
+W20-431                  571   STUDIO             ASSOC PROV ARTS                                   
+W20-433                  321   STUDIO             ASSOC PROV ARTS                                   
+W20-437                  702   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-438                   88   MUSIC PRACTICE     CAMP ACTIV COMPL                                  
+W20-439                  450   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-440                   83   MUSIC PRACTICE     CAMP ACTIV COMPL                                  
+W20-441                  457   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-443                  433   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-445                  282   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-445A                 171   PVT CIRCULATION    CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-446J                  75   JANITOR CLOSET     DP OF FACILITIES                                  
+W20-446T                  66   TELECOM CLOSET     DP OF FACILITIES                                  
+W20-447                  448   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-449                  225   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-450                  921   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-451                  428   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-451A                 208   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-453                  674   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-454                  310   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-454Z                 311   SHAFT SPACE        DP OF FACILITIES                                  
+W20-456                  225   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-457                  854   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-458                1,117   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-459                  266   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-461                  870   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-463                  253   OFFICE SERVICE     CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-467                  471   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-469                  475   OFFICE SERVICE     CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-470                   51   LABORATORY SVC     CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-470A                 125   LABORATORY SVC     CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-470B                  55   LABORATORY SVC     CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-473                  986   OFFICE SERVICE     CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-474                   83   LABORATORY SVC     CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-474*                  12   PVT CIRCULATION    CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-474A                  79   LABORATORY SVC     CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-474B                 252   LABORATORY SVC     CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-475                  471   OFFICE SERVICE     CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-476*                  23   PVT CIRCULATION    CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-476A                 254   LABORATORY SVC     CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-476B                  28   LABORATORY SVC     CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-476C                  59   OFFICE SERVICE     CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-476D                  77   OFFICE SERVICE     CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-477                  452   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-481                  255   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-483                  816   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-483A                  65   OFFICE SERVICE     CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-485                  260   OFFICE             CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-485A                 146   OFFICE SERVICE     CAMP ACTIV COMPL       STU ACTIVITIES             
+W20-490                  463   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W20-490E                   6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W20-490T                  10   TELECOM CLOSET     DP OF FACILITIES                                  
+W20-491                1,292   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+W20-492                  274   MALE LAVATORY      DP OF FACILITIES                                  
+                    --------                                                                        
+                      36,092                                                                        
+                                                                                                    
+W20-500                1,212   PVT CIRCULATION    CAMP ACTIV COMPL                                  
+W20-500A                   6   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-500AA                 64   OFFICE             CAMP ACTIV COMPL                                  
+W20-500AB                 67   OFFICE             CAMP ACTIV COMPL                                  
+W20-500AC                 57   OFFICE             CAMP ACTIV COMPL                                  
+W20-500AD                 64   OFFICE             CAMP ACTIV COMPL                                  
+W20-500AF                 56   OFFICE             CAMP ACTIV COMPL                                  
+W20-500AG                 57   OFFICE             CAMP ACTIV COMPL                                  
+W20-500AH                 64   OFFICE             CAMP ACTIV COMPL                                  
+W20-500AK                 56   OFFICE             CAMP ACTIV COMPL                                  
+W20-500AL                 58   OFFICE             CAMP ACTIV COMPL                                  
+W20-500AN                 58   OFFICE             CAMP ACTIV COMPL                                  
+W20-500AP                 68   OFFICE             CAMP ACTIV COMPL                                  
+W20-500AQ                 67   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W20-500B                 109   OFFICE             CAMP ACTIV COMPL                                  
+W20-500C                 109   OFFICE             CAMP ACTIV COMPL                                  
+W20-500CA                955   CORRIDOR           DP OF FACILITIES                                  
+W20-500D                 109   OFFICE             CAMP ACTIV COMPL                                  
+W20-500E1                 71   ELEVATOR           DP OF FACILITIES                                  
+W20-500E2                 72   ELEVATOR           DP OF FACILITIES                                  
+W20-500E3                 73   ELEVATOR           DP OF FACILITIES                                  
+W20-500F                 114   OFFICE             CAMP ACTIV COMPL                                  
+W20-500G                 144   OFFICE             CAMP ACTIV COMPL                                  
+W20-500H                 145   OFFICE             CAMP ACTIV COMPL                                  
+W20-500K                  89   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W20-500L                   5   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W20-500LA                558   LOBBY              DP OF FACILITIES                                  
+W20-500N                 128   OFFICE             CAMP ACTIV COMPL                                  
+W20-500P                 119   OFFICE             CAMP ACTIV COMPL                                  
+W20-500Q                 101   OFFICE             CAMP ACTIV COMPL                                  
+W20-500R                 109   OFFICE             CAMP ACTIV COMPL                                  
+W20-500SA                182   STAIRWAY           DP OF FACILITIES                                  
+W20-500SD                182   STAIRWAY           DP OF FACILITIES                                  
+W20-500Z                 861   SHAFT SPACE        DP OF FACILITIES                                  
+W20-502                  777   LOUNGE             CAMP ACTIV COMPL                                  
+W20-507                  616   PVT CIRCULATION    CAMP ACTIV COMPL                                  
+W20-507A                  54   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W20-507B                 112   OFFICE             CAMP ACTIV COMPL                                  
+W20-507C                  91   OFFICE             CAMP ACTIV COMPL                                  
+W20-507D                 130   OFFICE             CAMP ACTIV COMPL                                  
+W20-507F                 160   OFFICE             CAMP ACTIV COMPL                                  
+W20-507G                 183   OFFICE             CAMP ACTIV COMPL                                  
+W20-507K                 192   OFFICE             CAMP ACTIV COMPL                                  
+W20-507L                 109   OFFICE             CAMP ACTIV COMPL                                  
+W20-507N                  34   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W20-507P                  26   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W20-507Q                  41   OFFICE             CAMP ACTIV COMPL                                  
+W20-507R                  46   OFFICE             CAMP ACTIV COMPL                                  
+W20-525                1,083   STUDY ROOM         CAMP ACTIV COMPL                                  
+W20-525A               3,228   STUDY ROOM         CAMP ACTIV COMPL                                  
+W20-525B                  99   STUDY ROOM         CAMP ACTIV COMPL                                  
+W20-525C                  95   STUDY ROOM         CAMP ACTIV COMPL                                  
+W20-525D                  95   STUDY ROOM         CAMP ACTIV COMPL                                  
+W20-525F                 120   STUDY ROOM         CAMP ACTIV COMPL                                  
+W20-525G                 111   STUDY ROOM         CAMP ACTIV COMPL                                  
+W20-525H                 110   STUDY ROOM         CAMP ACTIV COMPL                                  
+W20-525K                 194   STUDY ROOM         CAMP ACTIV COMPL                                  
+W20-540                  303   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W20-540E                  10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W20-541                   18   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W20-543                   18   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W20-544                  203   FEMALE LAVATORY    DP OF FACILITIES                                  
+W20-545                   18   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W20-546                  614   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-546E                   6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W20-547                  191   SECY/RECEPTION     CAMP ACTIV COMPL                                  
+W20-547A                 128   OFFICE             CAMP ACTIV COMPL                                  
+W20-547B                  81   OFFICE             CAMP ACTIV COMPL                                  
+W20-547C                  81   OFFICE             CAMP ACTIV COMPL                                  
+W20-549                  502   PVT CIRCULATION    CAMP ACTIV COMPL                                  
+W20-549A                 143   OFFICE             CAMP ACTIV COMPL                                  
+W20-549B                 128   OFFICE             CAMP ACTIV COMPL                                  
+W20-549C                 131   OFFICE             CAMP ACTIV COMPL                                  
+W20-549D                 136   OFFICE             CAMP ACTIV COMPL                                  
+W20-549F                 149   OFFICE             CAMP ACTIV COMPL                                  
+W20-549G                  71   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W20-549H                  90   OFFICE             CAMP ACTIV COMPL                                  
+W20-549K                  99   OFFICE             CAMP ACTIV COMPL                                  
+W20-549L                  48   OFFICE             CAMP ACTIV COMPL                                  
+W20-549N                  77   OFFICE             CAMP ACTIV COMPL                                  
+W20-555                  251   OFFICE             CAMP ACTIV COMPL                                  
+W20-557                  620   OFFICE             CAMP ACTIV COMPL       SIPB                       
+W20-572                  185   MALE LAVATORY      DP OF FACILITIES                                  
+W20-572A                  63   PUBLIC LAVATORY    DP OF FACILITIES                                  
+W20-574                  592   UTILITY/MECH RM    DP OF FACILITIES                                  
+W20-575                2,107   STUDY ROOM         CAMP ACTIV COMPL       ATHENA                     
+W20-575A                 742   COMPUTER FACIL     CAMP ACTIV COMPL       ATHENA                     
+W20-575AA                 80   COMPUTER SERVICE   CAMP ACTIV COMPL                                  
+W20-575B                 485   COMPUTER FACIL     CAMP ACTIV COMPL       ATHENA                     
+W20-575C                 486   OFFICE SERVICE     CAMP ACTIV COMPL       ATHENA                     
+W20-575F                 795   STUDY ROOM         CAMP ACTIV COMPL       ATHENA                     
+W20-575G                 782   STUDY ROOM         CAMP ACTIV COMPL       ATHENA                     
+W20-575H                  53   UTILITY/MECH RM    DP OF FACILITIES      

@@ -1,0 +1,596 @@
+10-000CA               1,613   CORRIDOR           DP OF FACILITIES                                  
+10-000CB               1,500   CORRIDOR           DP OF FACILITIES                                  
+10-000E1                  48   ELEVATOR           DP OF FACILITIES                                  
+10-000E2                  47   ELEVATOR           DP OF FACILITIES                                  
+10-000LA                 256   LOBBY              DP OF FACILITIES                                  
+10-000SA                  92   STAIRWAY           DP OF FACILITIES                                  
+10-000SB                  63   STAIRWAY           DP OF FACILITIES                                  
+10-000SE                 188   STAIRWAY           DP OF FACILITIES                                  
+10-000Z                  538   SHAFT SPACE        DP OF FACILITIES                                  
+10-002                   312   UTILITY/MECH RM    DP OF FACILITIES                                  
+10-003                    83   OFFICE SERVICE     ADMISSIONS                                        
+10-003A                  228   VAULT              ADMISSIONS                                        
+10-006                 1,338   UTILITY/MECH RM    DP OF FACILITIES                                  
+10-006E                   21   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-022                   546   LABORATORY SVC     RES LAB OF ELEC        LEES                       
+10-022A                  137   LABORATORY SVC     RES LAB OF ELEC        LEES                       
+10-023                   311   JANITOR STORAGE    DP OF FACILITIES                                  
+10-023A                   33   JANITOR STORAGE    DP OF FACILITIES                                  
+10-023B                  140   JANITOR STORAGE    DP OF FACILITIES                                  
+10-024                   224   OFFICE             RES LAB OF ELEC                                   
+10-025                   123   OFFICE SERVICE     RES LAB OF ELEC                                   
+10-026                   231   OFFICE             RES LAB OF ELEC                                   
+10-028                   228   OFFICE             RES LAB OF ELEC                                   
+10-030                   231   OFFICE             RES LAB OF ELEC                                   
+10-032                   228   OFFICE             RES LAB OF ELEC                                   
+10-034                   230   OFFICE             RES LAB OF ELEC                                   
+10-038                   105   OFFICE             RES LAB OF ELEC                                   
+10-039                   170   OFFICE             RES LAB OF ELEC                                   
+10-044AE                 462   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-044E                  952   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-046                   200   RESEARCH LAB       RES LAB OF ELEC                                   
+10-047                    26   OFFICE SERVICE     RES LAB OF ELEC                                   
+10-047A                   20   UTILITY/MECH RM    DP OF FACILITIES                                  
+10-047B                   26   OFFICE SERVICE     RES LAB OF ELEC                                   
+10-050                 4,063   RESEARCH LAB       RES LAB OF ELEC                                   
+10-050E                   68   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-059                   241   OFFICE             RES LAB OF ELEC                                   
+10-061                 1,011   OFFICE SERVICE     RES LAB OF ELEC        LEES                       
+10-061A                   15   OFFICE             RES LAB OF ELEC        LEES                       
+10-061AA                  15   OFFICE             RES LAB OF ELEC        LEES                       
+10-061AB                  15   OFFICE             RES LAB OF ELEC        LEES                       
+10-061AC                  15   OFFICE SERVICE     RES LAB OF ELEC        LEES                       
+10-061AD                  15   OFFICE             RES LAB OF ELEC        LEES                       
+10-061AF                  14   OFFICE             RES LAB OF ELEC        LEES                       
+10-061AG                  15   OFFICE             RES LAB OF ELEC        LEES                       
+10-061AH                  15   OFFICE             RES LAB OF ELEC        LEES                       
+10-061AY               1,238   UTILITY/MECH RM    DP OF FACILITIES                                  
+10-061B                   15   OFFICE             RES LAB OF ELEC        LEES                       
+10-061BA                  15   OFFICE             PROVOST RESERVE                                   
+10-061BB                  15   OFFICE             PROVOST RESERVE                                   
+10-061BC                  15   OFFICE             RES LAB OF ELEC        LEES                       
+10-061BD                  16   OFFICE             RES LAB OF ELEC        LEES                       
+10-061BF                  16   OFFICE             RES LAB OF ELEC        LEES                       
+10-061BG                   9   OFFICE SERVICE     PROVOST RESERVE                                   
+10-061BH                  14   OFFICE             PROVOST RESERVE                                   
+10-061BK                  14   OFFICE             PROVOST RESERVE                                   
+10-061C                   21   OFFICE             RES LAB OF ELEC        LEES                       
+10-061D                   21   OFFICE             RES LAB OF ELEC        LEES                       
+10-061E                   35   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-061F                   21   OFFICE             RES LAB OF ELEC        LEES                       
+10-061G                   22   OFFICE             RES LAB OF ELEC        LEES                       
+10-061H                   18   OFFICE             RES LAB OF ELEC        LEES                       
+10-061K                   15   OFFICE             RES LAB OF ELEC        LEES                       
+10-061L                   15   OFFICE             RES LAB OF ELEC        LEES                       
+10-061N                   18   OFFICE             RES LAB OF ELEC        LEES                       
+10-061P                   17   OFFICE             RES LAB OF ELEC        LEES                       
+10-063                   895   OFFICE SERVICE     ENERGY INITIATIV       ENERGY COMMONS             
+10-063A                    5   OFFICE SERVICE     ENERGY INITIATIV       ENERGY COMMONS             
+10-063B                   32   OFFICE SERVICE     ENERGY INITIATIV       ENERGY COMMONS             
+10-063C                   69   OFFICE SERVICE     ENERGY INITIATIV       ENERGY COMMONS             
+10-063D                   78   STUDY ROOM         ENERGY INITIATIV       ENERGY COMMONS             
+10-063DA                  18   OFFICE SERVICE     ENERGY INITIATIV       ENERGY COMMONS             
+10-063F                   78   STUDY ROOM         ENERGY INITIATIV       ENERGY COMMONS             
+10-063G                   67   STUDY ROOM         ENERGY INITIATIV       ENERGY COMMONS             
+10-067                   648   SHOP SERVICE       RES LAB OF ELEC                                   
+10-067A                  603   RESEARCH LAB       RES LAB OF ELEC                                   
+10-069                   295   OFFICE             RES LAB OF ELEC                                   
+10-085                   251   ALTER/CONVERSION   DP OF FACIL ADM                                   
+10-085A                  252   ALTER/CONVERSION   DP OF FACIL ADM                                   
+10-086                   230   VAULT              VP-FINANCE                                        
+10-086T                  106   TELECOM CLOSET     DP OF FACILITIES                                  
+10-089T                   62   TELECOM CLOSET     DP OF FACILITIES                                  
+10-090                   123   RESEARCH LAB       RES LAB OF ELEC                                   
+10-090A                   12   LABORATORY SVC     RES LAB OF ELEC                                   
+10-094                   699   RESEARCH LAB       RES LAB OF ELEC                                   
+10-094A                   10   LABORATORY SVC     RES LAB OF ELEC                                   
+10-094B                   10   LABORATORY SVC     RES LAB OF ELEC                                   
+10-097                   223   OFFICE             RES LAB OF ELEC                                   
+10-098                   230   OFFICE             RES LAB OF ELEC                                   
+                    --------                                                                        
+                      23,018                                                                        
+                                                                                                    
+10-100                   516   OFFICE             ADMISSIONS                                        
+10-100A                   62   OFFICE SERVICE     ADMISSIONS                                        
+10-100B                   49   VAULT              ADMISSIONS                                        
+10-100C                   13   OFFICE SERVICE     ADMISSIONS                                        
+10-100CA                 524   CORRIDOR           DP OF FACILITIES                                  
+10-100CB                 534   CORRIDOR           DP OF FACILITIES                                  
+10-100CC                 685   CORRIDOR           DP OF FACILITIES                                  
+10-100CD                 343   CORRIDOR           DP OF FACILITIES                                  
+10-100CE                 417   CORRIDOR           DP OF FACILITIES                                  
+10-100D                   10   OFFICE SERVICE     ADMISSIONS                                        
+10-100E1                  44   ELEVATOR           DP OF FACILITIES                                  
+10-100E2                  44   ELEVATOR           DP OF FACILITIES                                  
+10-100F                   71   OFFICE             ADMISSIONS                                        
+10-100LA               2,086   LOBBY              DP OF FACILITIES                                  
+10-100LB                 600   LOBBY              DP OF FACILITIES                                  
+10-100SA                 288   STAIRWAY           DP OF FACILITIES                                  
+10-100SB                 297   STAIRWAY           DP OF FACILITIES                                  
+10-100SE                  82   STAIRWAY           DP OF FACILITIES                                  
+10-100Z                  829   SHAFT SPACE        DP OF FACILITIES                                  
+10-101                    11   LIBRARY PROCESS    LIBRARIES                                         
+10-101E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-101Z                    8   SHAFT SPACE        DP OF FACILITIES                                  
+10-105                 1,679   CONFERENCE ROOM    ALUMNI/AE ASSOC                                   
+10-105A                   10   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+10-105B                   10   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+10-105C                   10   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+10-105D                  139   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+10-105E                   16   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-105F                  206   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+10-105G                   83   PVT CIRCULATION    ALUMNI/AE ASSOC                                   
+10-110                   424   OFFICE SERVICE     PROVOST RESERVE                                   
+10-110A                   29   OFFICE SERVICE     PROVOST RESERVE                                   
+10-110B                   10   OFFICE SERVICE     PROVOST RESERVE                                   
+10-110C                   21   SECY/RECEPTION     PROVOST RESERVE                                   
+10-110D                   22   SECY/RECEPTION     PROVOST RESERVE                                   
+10-110F                   30   OFFICE SERVICE     PROVOST RESERVE                                   
+10-112                   206   OFFICE             PROVOST RESERVE                                   
+10-114                   128   OFFICE             PROVOST RESERVE                                   
+10-115                   330   OFFICE SERVICE     PROVOST RESERVE                                   
+10-115A                    5   OFFICE SERVICE     PROVOST RESERVE                                   
+10-115AM                 111   OFFICE             PROVOST RESERVE                                   
+10-115B                   14   OFFICE SERVICE     PROVOST RESERVE                                   
+10-115BM                 102   OFFICE             PROVOST RESERVE                                   
+10-115C                    3   OFFICE SERVICE     PROVOST RESERVE                                   
+10-115CM                 123   OFFICE SERVICE     PROVOST RESERVE                                   
+10-115D                   64   OFFICE             PROVOST RESERVE                                   
+10-115DM                 117   OFFICE             PROVOST RESERVE                                   
+10-115M                  182   OFFICE SERVICE     PROVOST RESERVE                                   
+10-115S                   14   PVT CIRCULATION    PROVOST RESERVE                                   
+10-115SM                  33   PVT CIRCULATION    PROVOST RESERVE                                   
+10-116                   129   OFFICE             PROVOST RESERVE                                   
+10-118                   100   OFFICE             PROVOST RESERVE                                   
+10-119                   298   CONFERENCE ROOM    PROVOST RESERVE                                   
+10-120                   117   OFFICE             PROVOST RESERVE                                   
+10-121                   102   OFFICE             PROVOST RESERVE                                   
+10-122                   117   OFFICE             PROVOST RESERVE                                   
+10-123                   117   OFFICE             PROVOST RESERVE                                   
+10-140                   452   PVT CIRCULATION    RES LAB OF ELEC        LEES                       
+10-140A                   32   OFFICE SERVICE     RES LAB OF ELEC        LEES                       
+10-140B                   75   OFFICE SERVICE     RES LAB OF ELEC        LEES                       
+10-140C                  157   CONFERENCE ROOM    RES LAB OF ELEC        LEES                       
+10-140D                   69   OFFICE SERVICE     RES LAB OF ELEC        LEES                       
+10-140F                   10   OFFICE SERVICE     RES LAB OF ELEC        LEES                       
+10-140G                  214   OFFICE             RES LAB OF ELEC        LEES                       
+10-140H                  207   OFFICE             RES LAB OF ELEC        LEES                       
+10-140K                  308   OFFICE             RES LAB OF ELEC        LEES                       
+10-140L                  190   OFFICE             RES LAB OF ELEC        LEES                       
+10-140N                  132   OFFICE SERVICE     RES LAB OF ELEC        LEES                       
+10-140P                  169   RESEARCH LAB       RES LAB OF ELEC        LEES                       
+10-145                    35   EXHIBITION FACIL   PROVOST RESERVE                                   
+10-146                    94   UTILITY/MECH RM    DP OF FACILITIES                                  
+10-150                 1,444   EXHIBITION FACIL   ALUMNI/AE ASSOC                                   
+10-150T                    6   TELECOM CLOSET     DP OF FACILITIES                                  
+10-151E                    6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-151T                    5   TELECOM CLOSET     DP OF FACILITIES                                  
+10-152T                    8   TELECOM CLOSET     DP OF FACILITIES                                  
+10-156                    94   OFFICE SERVICE     PROVOST RESERVE                                   
+10-156A                   85   OFFICE SERVICE     PROVOST RESERVE                                   
+10-157                    26   OFFICE SERVICE     PROVOST RESERVE                                   
+10-171                   364   OFFICE SERVICE     RES LAB OF ELEC        LEES                       
+10-171A                   29   OFFICE SERVICE     RES LAB OF ELEC        LEES                       
+10-171B                    8   OFFICE SERVICE     RES LAB OF ELEC        LEES                       
+10-171C                   51   SECY/RECEPTION     RES LAB OF ELEC        LEES                       
+10-171D                   14   OFFICE SERVICE     RES LAB OF ELEC        LEES                       
+10-171F                   83   SECY/RECEPTION     RES LAB OF ELEC        LEES                       
+10-172                   303   OFFICE             RES LAB OF ELEC        LEES                       
+10-173                   169   OFFICE             RES LAB OF ELEC        LEES                       
+10-174                   152   OFFICE             RES LAB OF ELEC        LEES                       
+10-174A                   12   OFFICE SERVICE     RES LAB OF ELEC        LEES                       
+10-175                    26   OFFICE SERVICE     RES LAB OF ELEC        LEES                       
+10-175A                   37   OFFICE SERVICE     RES LAB OF ELEC        LEES                       
+10-175B                   32   OFFICE SERVICE     RES LAB OF ELEC        LEES                       
+10-176                   247   OFFICE             RES LAB OF ELEC        LEES                       
+10-177                   122   OFFICE             RES LAB OF ELEC        LEES                       
+10-178                   283   CONFERENCE ROOM    RES LAB OF ELEC        LEES                       
+10-179                   156   UTILITY/MECH RM    DP OF FACILITIES                                  
+10-180                   606   LOUNGE             CAMP ACTIV COMPL                                  
+10-180B                   61   OFFICE SERVICE     PROVOST RESERVE                                   
+10-180C                   63   VAULT              PROVOST RESERVE                                   
+10-182                   180   MERCHAND FACIL     VP-FINANCE                                        
+10-182A                   22   MERCHAND FACIL     VP-FINANCE                                        
+10-182B                   65   MERCHAND FACIL     VP-FINANCE                                        
+10-182C                   61   MERCHAND FACIL     VP-FINANCE                                        
+10-183                   121   OFFICE             ASSOC PROV ARTS        OFF OF THE ARTS            
+10-183A                  115   OFFICE             ASSOC PROV ARTS        OFF OF THE ARTS            
+10-183B                   79   OFFICE             ASSOC PROV ARTS        OFF OF THE ARTS            
+                    --------                                                                        
+                      19,900                                                                        
+                                                                                                    
+10-200                   271   SECY/RECEPTION     OFF OF PROVOST                                    
+10-200A                  334   OFFICE             OFF OF PROVOST                                    
+10-200B                    8   OFFICE SERVICE     OFF OF PROVOST                                    
+10-200C                   16   UTILITY/MECH RM    DP OF FACILITIES                                  
+10-200CA               2,611   CORRIDOR           DP OF FACILITIES                                  
+10-200CB                 662   CORRIDOR           DP OF FACILITIES                                  
+10-200CC                 715   CORRIDOR           DP OF FACILITIES                                  
+10-200D                    7   OFFICE SERVICE     OFF OF PROVOST                                    
+10-200E1                  41   ELEVATOR           DP OF FACILITIES                                  
+10-200E2                  47   ELEVATOR           DP OF FACILITIES                                  
+10-200LC                 585   LOBBY              DP OF FACILITIES                                  
+10-200SA                 320   STAIRWAY           DP OF FACILITIES                                  
+10-200SB                 292   STAIRWAY           DP OF FACILITIES                                  
+10-200SG                  53   STAIRWAY           DP OF FACILITIES                                  
+10-200Z                  453   SHAFT SPACE        DP OF FACILITIES                                  
+10-203                   143   OFFICE             PROVOST RESERVE                                   
+10-205                   170   OFFICE             OFF OF PROVOST                                    
+10-206                   104   OFFICE             CHANCELLOR                                        
+10-207                   109   OFFICE             ASSOC PROV ARTS                                   
+10-211                   192   OFFICE             OFF OF PROVOST         RES/DEV                    
+10-212                   192   OFFICE             OFF OF PRESIDENT                                  
+10-213                   181   SECY/RECEPTION     OFF OF PRESIDENT       MARY ROWE                  
+10-213A                   16   OFFICE SERVICE     OFF OF PRESIDENT                                  
+10-213B                    5   OFFICE SERVICE     OFF OF PRESIDENT                                  
+10-215                   191   OFFICE             OFF OF PRESIDENT       MARY ROWE                  
+10-219                   157   SECY/RECEPTION     VP-RSCH                                           
+10-219A                  242   OFFICE             VP-RSCH                                           
+10-219B                   89   OFFICE SERVICE     VP-RSCH                                           
+10-219C                   89   OFFICE             VP-RSCH                                           
+10-219D                   88   OFFICE             VP-RSCH                                           
+10-225                   102   OFFICE SERVICE     PROVOST RESERVE        DSGN SVC                   
+10-226AE                  16   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-226E                  339   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-229                   751   OFFICE SERVICE     OFF OF PRESIDENT                                  
+10-229E                   17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-229T                   34   TELECOM CLOSET     DP OF FACILITIES                                  
+10-237                   103   OFFICE             VP-RSCH                                           
+10-250                 2,142   LECTURE HALL       REGISTRAR                                         
+10-250A                   29   STORAGE FACILITY   DP OF FACIL ADM                                   
+10-250B                   10   UTILITY/MECH RM    DP OF FACILITIES                                  
+10-250C                   28   STORAGE FACILITY   DP OF FACIL ADM                                   
+10-250E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-250J                   19   JANITOR CLOSET     DP OF FACILITIES                                  
+10-256                    46   PVT CIRCULATION    EXEC VICE PRES                                    
+10-256A                  126   OFFICE             EXEC VICE PRES                                    
+10-256B                   13   OFFICE SERVICE     EXEC VICE PRES                                    
+10-256C                  109   OFFICE             EXEC VICE PRES                                    
+10-256D                  105   SECY/RECEPTION     EXEC VICE PRES                                    
+10-262                   628   PVT CIRCULATION    MUSIC & THEATER ART                               
+10-263                   154   OFFICE             MUSIC & THEATER ART                               
+10-264                   116   OFFICE             MUSIC & THEATER ART                               
+10-265                   107   OFFICE             MUSIC & THEATER ART                               
+10-266                   122   OFFICE             MUSIC & THEATER ART                               
+10-267                   120   OFFICE             MUSIC & THEATER ART                               
+10-268                   126   OFFICE             MUSIC & THEATER ART                               
+10-269                   106   OFFICE             MUSIC & THEATER ART                               
+10-270                   135   OFFICE             MUSIC & THEATER ART                               
+10-271                   118   OFFICE             MUSIC & THEATER ART                               
+10-271T                   48   TELECOM CLOSET     DP OF FACILITIES                                  
+10-272                   136   OFFICE             MUSIC & THEATER ART                               
+10-272E                   66   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-273                   153   OFFICE             MUSIC & THEATER ART                               
+10-274                   139   OFFICE             MUSIC & THEATER ART                               
+10-275                   144   OFFICE             MUSIC & THEATER ART                               
+10-276                   130   OFFICE             MUSIC & THEATER ART                               
+10-277                   144   OFFICE             MUSIC & THEATER ART                               
+10-278                   134   OFFICE             MUSIC & THEATER ART                               
+10-279                   159   OFFICE SERVICE     MUSIC & THEATER ART                               
+10-280                   293   SECY/RECEPTION     ASSOC PROV ARTS                                   
+10-280A                  347   OFFICE             ASSOC PROV ARTS                                   
+10-280B                  104   OFFICE SERVICE     EXEC VICE PRES                                    
+10-283                   153   OFFICE             MUSIC & THEATER ART                               
+10-294                   144   OFFICE             MUSIC & THEATER ART                               
+10-295                    67   OFFICE SERVICE     MUSIC & THEATER ART                               
+10-296                   142   OFFICE             MUSIC & THEATER ART                               
+10-297                   144   OFFICE             MUSIC & THEATER ART                               
+10-298                   109   OFFICE             MUSIC & THEATER ART                               
+10-298A                  176   OFFICE             MUSIC & THEATER ART                               
+                    --------                                                                        
+                      17,050                                                                        
+                                                                                                    
+10-300                   581   CONFERENCE ROOM    OFF OF PRESIDENT                                  
+10-300A                   10   OFFICE SERVICE     OFF OF PRESIDENT                                  
+10-300B                   21   OFFICE SERVICE     OFF OF PRESIDENT                                  
+10-300C                   76   PVT LAVATORY       OFF OF PRESIDENT                                  
+10-300CA               1,655   CORRIDOR           DP OF FACILITIES                                  
+10-300CB               1,365   CORRIDOR           DP OF FACILITIES                                  
+10-300D                   30   OFFICE SERVICE     OFF OF PRESIDENT                                  
+10-300E1                  44   ELEVATOR           DP OF FACILITIES                                  
+10-300E2                  45   ELEVATOR           DP OF FACILITIES                                  
+10-300SA                 332   STAIRWAY           DP OF FACILITIES                                  
+10-300SB                 343   STAIRWAY           DP OF FACILITIES                                  
+10-300SG                  37   STAIRWAY           DP OF FACILITIES                                  
+10-300Z                  423   SHAFT SPACE        DP OF FACILITIES                                  
+10-301Z                   21   SHAFT SPACE        DP OF FACILITIES                                  
+10-303                   298   OFFICE SERVICE     ARCHITECTURE                                      
+10-303A                  151   OFFICE             ARCHITECTURE                                      
+10-303B                  175   OFFICE             ARCHITECTURE                                      
+10-303C                  167   OFFICE             ARCHITECTURE                                      
+10-304                    17   STORAGE FACILITY   DP OF FACIL ADM                                   
+10-320                   229   OFFICE SERVICE     OFF OF PRESIDENT                                  
+10-322                   167   OFFICE SERVICE     ARCHITECTURE                                      
+10-322A                   85   OFFICE             ARCHITECTURE                                      
+10-322B                  125   OFFICE             ARCHITECTURE                                      
+10-335                   179   OFFICE             OFF OF PROVOST                                    
+10-336                   112   OFFICE             OFF OF PROVOST                                    
+10-337                   767   OFFICE SERVICE     OFF OF PROVOST                                    
+10-337A                   16   OFFICE SERVICE     OFF OF PROVOST                                    
+10-337B                   20   OFFICE SERVICE     OFF OF PROVOST                                    
+10-337C                   22   OFFICE SERVICE     OFF OF PROVOST                                    
+10-337D                   22   OFFICE SERVICE     OFF OF PROVOST                                    
+10-337F                  106   OFFICE SERVICE     OFF OF PROVOST                                    
+10-337G                   35   OFFICE             OFF OF PROVOST                                    
+10-337H                   35   OFFICE             OFF OF PROVOST                                    
+10-337K                   35   OFFICE             OFF OF PROVOST                                    
+10-337L                   37   OFFICE             OFF OF PROVOST                                    
+10-337N                   37   OFFICE             OFF OF PROVOST                                    
+10-337P                   37   OFFICE             OFF OF PROVOST                                    
+10-340                   795   CONFERENCE ROOM    OFF OF PRESIDENT                                  
+10-340A                    2   EXHIBITION FACIL   OFF OF PRESIDENT                                  
+10-342                   190   SECY/RECEPTION     OFF OF PRESIDENT                                  
+10-342A                   19   OFFICE SERVICE     OFF OF PRESIDENT                                  
+10-345                    72   OFFICE SERVICE     PROVOST RESERVE                                   
+10-350                   195   OFFICE SERVICE     OFF OF PROVOST                                    
+10-350A                  269   CLASSROOM SVC      REGISTRAR                                         
+10-350B                   24   PVT LAVATORY       REGISTRAR                                         
+10-350C                   10   CLASSROOM SVC      REGISTRAR                                         
+10-350D                2,336   LECTURE HALL       REGISTRAR                                         
+10-350E                   71   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-350T                   13   TELECOM CLOSET     DP OF FACILITIES                                  
+10-351T                   15   TELECOM CLOSET     DP OF FACILITIES                                  
+10-359                   111   SECY/RECEPTION     EXEC VICE PRES                                    
+10-359A                  100   OFFICE             EXEC VICE PRES                                    
+10-359B                  108   OFFICE             EXEC VICE PRES                                    
+10-359C                   93   OFFICE             EXEC VICE PRES                                    
+10-359D                   92   CONFERENCE ROOM    EXEC VICE PRES                                    
+10-363                   135   OFFICE             DP OF FACIL ADM                                   
+10-370                   583   OFFICE SERVICE     EXEC VICE PRES                                    
+10-370A                   88   OFFICE             EXEC VICE PRES                                    
+10-370B                   93   OFFICE             EXEC VICE PRES                                    
+10-370C                  123   OFFICE             EXEC VICE PRES                                    
+10-370D                  119   OFFICE             EXEC VICE PRES                                    
+10-370F                  111   OFFICE             EXEC VICE PRES                                    
+10-370G                  116   OFFICE             EXEC VICE PRES                                    
+10-370H                  110   OFFICE             EXEC VICE PRES                                    
+10-370K                  122   OFFICE             EXEC VICE PRES                                    
+10-370L                  101   OFFICE             EXEC VICE PRES                                    
+10-370N                  119   OFFICE             EXEC VICE PRES                                    
+10-370P                   88   OFFICE             EXEC VICE PRES                                    
+10-370Q                   96   OFFICE SERVICE     EXEC VICE PRES                                    
+10-370R                   11   OFFICE SERVICE     EXEC VICE PRES                                    
+10-370S                   83   SECY/RECEPTION     EXEC VICE PRES                                    
+10-370U                  270   CONFERENCE ROOM    EXEC VICE PRES                                    
+10-370V                   34   OFFICE             EXEC VICE PRES                                    
+10-370W                   45   OFFICE SERVICE     EXEC VICE PRES                                    
+10-382                    89   CONFERENCE ROOM    OFF OF PRESIDENT                                  
+10-382A                   96   OFFICE SERVICE     OFF OF PRESIDENT                                  
+10-382Z                   31   SHAFT SPACE        DP OF FACILITIES                                  
+10-382Z1                  12   SHAFT SPACE        DP OF FACILITIES                                  
+10-384                   304   OFFICE SERVICE     DP OF FACIL ADM                                   
+10-384A                   81   PVT LAVATORY       DP OF FACIL ADM                                   
+10-384B                   87   OFFICE SERVICE     DP OF FACIL ADM                                   
+10-384C                   57   OFFICE SERVICE     DP OF FACIL ADM                                   
+10-390                   177   SECY/RECEPTION     ARCHITECTURE                                      
+10-390A                  163   OFFICE             ARCHITECTURE                                      
+10-390B                  150   OFFICE             ARCHITECTURE                                      
+10-390C                    9   OFFICE SERVICE     ARCHITECTURE                                      
+10-390D                   41   OFFICE SERVICE     ARCHITECTURE                                      
+10-390E                  151   OFFICE             ARCHITECTURE                                      
+10-390F                  132   OFFICE             ARCHITECTURE                                      
+10-390G                  607   OFFICE             ARCHITECTURE                                      
+10-390H                  170   CONFERENCE ROOM    ARCHITECTURE                                      
+10-390K                   34   OFFICE SERVICE     ARCHITECTURE                                      
+10-390L                    5   EXHIBITION FACIL   ARCHITECTURE                                      
+10-390M                   50   OFFICE             ARCHITECTURE                                      
+10-390N                  130   OFFICE SERVICE     ARCHITECTURE                                      
+10-390P                   22   OFFICE SERVICE     ARCHITECTURE                                      
+10-391J                   19   JANITOR CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      17,434                                                                        
+                                                                                                    
+10-400                   236   OFFICE SERVICE     URBAN ST & PLAN                                   
+10-400A                  333   OFFICE SERVICE     URBAN ST & PLAN                                   
+10-400AM                 260   OFFICE SERVICE     URBAN ST & PLAN                                   
+10-400BM                 288   OFFICE SERVICE     SCH OF ARCH & PL                                  
+10-400CA               1,640   CORRIDOR           DP OF FACILITIES                                  
+10-400CC                 802   CORRIDOR           DP OF FACILITIES                                  
+10-400CM                 844   CORRIDOR           DP OF FACILITIES                                  
+10-400DM                 271   OFFICE SERVICE     ARCHITECTURE                                      
+10-400E1                  52   ELEVATOR           DP OF FACILITIES                                  
+10-400E2                  52   ELEVATOR           DP OF FACILITIES                                  
+10-400E3                  59   ELEVATOR           DP OF FACILITIES                                  
+10-400E4                  22   ELEVATOR           DP OF FACILITIES                                  
+10-400E4M                 34   ELEVATOR           DP OF FACILITIES                                  
+10-400SA                 434   STAIRWAY           DP OF FACILITIES                                  
+10-400SB                 416   STAIRWAY           DP OF FACILITIES                                  
+10-400SC                 111   STAIRWAY           DP OF FACILITIES                                  
+10-400SD                 123   STAIRWAY           DP OF FACILITIES                                  
+10-400TM                   8   TELECOM CLOSET     DP OF FACILITIES                                  
+10-400Z                  605   SHAFT SPACE        DP OF FACILITIES                                  
+10-401                   492   CLASSROOM          URBAN ST & PLAN                                   
+10-401AZ                  22   SHAFT SPACE        DP OF FACILITIES                                  
+10-401M                  301   UTILITY/MECH RM    DP OF FACILITIES                                  
+10-401Z                    3   SHAFT SPACE        DP OF FACILITIES                                  
+10-402                   204   OFFICE             URBAN ST & PLAN                                   
+10-403                   144   OFFICE             URBAN ST & PLAN                                   
+10-404                   125   OFFICE             URBAN ST & PLAN                                   
+10-405                   131   OFFICE             LIBRARIES                                         
+10-406                   129   OFFICE             LIBRARIES                                         
+10-406A                   58   SECY/RECEPTION     LIBRARIES                                         
+10-406B                  607   PVT CIRCULATION    LIBRARIES                                         
+10-407                   145   OFFICE             LIBRARIES                                         
+10-410                   325   OFFICE SERVICE     LIBRARIES                                         
+10-410A                   15   OFFICE SERVICE     LIBRARIES                                         
+10-410AM                  47   OFFICE SERVICE     ARCHITECTURE                                      
+10-410B                   52   OFFICE             LIBRARIES                                         
+10-410C                   56   OFFICE             LIBRARIES                                         
+10-410D                   58   OFFICE             LIBRARIES                                         
+10-410F                   70   OFFICE             LIBRARIES                                         
+10-410M                   27   OFFICE SERVICE     ARCHITECTURE                                      
+10-411                    31   OFFICE SERVICE     URBAN ST & PLAN                                   
+10-411EM                  18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-411M                  138   OFFICE             ARCHITECTURE                                      
+10-417                   105   OFFICE             ARCHITECTURE                                      
+10-419                   159   OFFICE             ARCHITECTURE                                      
+10-419A                    2   OFFICE SERVICE     ARCHITECTURE                                      
+10-421M                  138   OFFICE             ARCHITECTURE                                      
+10-422M                  154   OFFICE             ARCHITECTURE                                      
+10-423                   531   OFFICE             LIBRARIES                                         
+10-423A                   10   OFFICE SERVICE     LIBRARIES                                         
+10-424                    34   STORAGE FACILITY   DP OF FACIL ADM                                   
+10-424J                   20   JANITOR CLOSET     DP OF FACILITIES                                  
+10-428                   111   PVT CIRCULATION    LIBRARIES                                         
+10-428A                  108   OFFICE             LIBRARIES                                         
+10-428B                  138   OFFICE             LIBRARIES                                         
+10-428C                  107   OFFICE             LIBRARIES                                         
+10-428D                  127   OFFICE SERVICE     LIBRARIES                                         
+10-428E                   33   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-428F                  145   OFFICE SERVICE     LIBRARIES                                         
+10-428G                   99   OFFICE             LIBRARIES                                         
+10-431M                  153   OFFICE             ARCHITECTURE                                      
+10-432                   326   CONFERENCE ROOM    LIBRARIES                                         
+10-432M                  153   OFFICE             ARCHITECTURE                                      
+10-441M                  130   OFFICE             ARCHITECTURE                                      
+10-442J                   13   JANITOR CLOSET     DP OF FACILITIES                                  
+10-442M                  157   OFFICE SERVICE     ARCHITECTURE                                      
+10-450                   627   UTILITY/MECH RM    DP OF FACILITIES                                  
+10-455                   779   UTILITY/MECH RM    DP OF FACILITIES                                  
+10-455M                  314   UTILITY/MECH RM    DP OF FACILITIES                                  
+10-455T                   70   TELECOM CLOSET     DP OF FACILITIES                                  
+10-456                   108   OFFICE SERVICE     LIBRARIES                                         
+10-457                    79   FEMALE LAVATORY    DP OF FACILITIES                                  
+10-457A                  102   FEMALE LAVATORY    DP OF FACILITIES                                  
+10-457E                   20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-457T                   32   TELECOM CLOSET     DP OF FACILITIES                                  
+10-459                   180   MALE LAVATORY      DP OF FACILITIES                                  
+10-461                   121   OFFICE             URBAN ST & PLAN                                   
+10-461M                  152   OFFICE             ARCHITECTURE                                      
+10-462                    39   OFFICE SERVICE     URBAN ST & PLAN                                   
+10-462M                  158   CONFERENCE ROOM    ARCHITECTURE                                      
+10-463                   110   OFFICE             URBAN ST & PLAN                                   
+10-471M                  146   OFFICE             ARCHITECTURE                                      
+10-472M                  151   OFFICE             ARCHITECTURE                                      
+10-478T                   63   TELECOM CLOSET     DP OF FACILITIES                                  
+10-480M                  448   PVT CIRCULATION    URBAN ST & PLAN                                   
+10-481                   194   OFFICE             URBAN ST & PLAN                                   
+10-481M                  148   OFFICE             ARCHITECTURE                                      
+10-481Z                  247   SHAFT SPACE        DP OF FACILITIES                                  
+10-482M                  148   OFFICE             ARCHITECTURE                                      
+10-483                   113   OFFICE             URBAN ST & PLAN                                   
+10-483M                  171   OFFICE             ARCHITECTURE                                      
+10-485                   706   PVT CIRCULATION    URBAN ST & PLAN                                   
+10-485M                  152   OFFICE             URBAN ST & PLAN                                   
+10-486                   390   STUDIO             URBAN ST & PLAN                                   
+10-487                   354   STUDIO             URBAN ST & PLAN                                   
+10-487M                  161   OFFICE             URBAN ST & PLAN                                   
+10-488                   360   CONFERENCE ROOM    URBAN ST & PLAN                                   
+10-489                   333   STUDIO             URBAN ST & PLAN                                   
+10-491AM                  11   OFFICE SERVICE     ARCHITECTURE                                      
+10-491BM                  14   OFFICE SERVICE     ARCHITECTURE                                      
+10-491CM                  81   SECY/RECEPTION     ARCHITECTURE                                      
+10-491M                   88   SECY/RECEPTION     ARCHITECTURE                                      
+10-492                   397   STUDIO             URBAN ST & PLAN                                   
+10-493                   366   STUDIO             URBAN ST & PLAN                                   
+10-493M                  171   OFFICE             URBAN ST & PLAN                                   
+10-495M                  108   OFFICE             URBAN ST & PLAN                                   
+10-496                   419   OFFICE SERVICE     URBAN ST & PLAN                                   
+10-497                   153   OFFICE             URBAN ST & PLAN                                   
+10-497M                  153   OFFICE             URBAN ST & PLAN                                   
+10-499                   173   OFFICE             URBAN ST & PLAN                                   
+                    --------                                                                        
+                      22,045                                                                        
+                                                                                                    
+10-500E1                  46   ELEVATOR           DP OF FACILITIES                                  
+10-500E2                  45   ELEVATOR           DP OF FACILITIES                                  
+10-500E3                  57   ELEVATOR           DP OF FACILITIES                                  
+10-500LA                 422   LOBBY              DP OF FACILITIES                                  
+10-500LB                  54   LOBBY              DP OF FACILITIES                                  
+10-500LC                  56   LOBBY              DP OF FACILITIES                                  
+10-500SC                 193   STAIRWAY           DP OF FACILITIES                                  
+10-500SD                 115   STAIRWAY           DP OF FACILITIES                                  
+10-500SE                 120   STAIRWAY           DP OF FACILITIES                                  
+10-500Z                  332   SHAFT SPACE        DP OF FACILITIES                                  
+10-501                   780   LIBRARY PROCESS    LIBRARIES                                         
+10-501E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-504                   434   STACK/STUDY        LIBRARIES                                         
+10-504A                    5   OFFICE SERVICE     LIBRARIES                                         
+10-513                   449   STACK/STUDY        LIBRARIES                                         
+10-513A                   11   UTILITY/MECH RM    DP OF FACILITIES                                  
+10-516                   459   STACK/STUDY        LIBRARIES                                         
+10-516E                   15   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-519                   341   STACK/STUDY        LIBRARIES                                         
+10-519A                   59   PUBLIC LAVATORY    DP OF FACILITIES                                  
+10-519B                   52   PUBLIC LAVATORY    DP OF FACILITIES                                  
+10-525                   505   STACK/STUDY        LIBRARIES                                         
+10-525J                   68   JANITOR CLOSET     DP OF FACILITIES                                  
+10-528                   462   STACK/STUDY        LIBRARIES                                         
+10-528E                   14   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-531                   441   STUDY ROOM         LIBRARIES                                         
+10-537                   947   STUDY ROOM         LIBRARIES                                         
+10-537A                   16   UTILITY/MECH RM    DP OF FACILITIES                                  
+10-537E                   16   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-550                 3,949   STACK/STUDY        LIBRARIES                                         
+                    --------                                                                        
+                      10,476                                                                        
+                                                                                                    
+10-600E1                  46   ELEVATOR           DP OF FACILITIES                                  
+10-600E2                  45   ELEVATOR           DP OF FACILITIES                                  
+10-600E3                  57   ELEVATOR           DP OF FACILITIES                                  
+10-600SD                 115   STAIRWAY           DP OF FACILITIES                                  
+10-600SE                 120   STAIRWAY           DP OF FACILITIES                                  
+10-600Z                  443   SHAFT SPACE        DP OF FACILITIES                                  
+10-601                 1,013   STACK/STUDY        LIBRARIES                                         
+10-604                   434   STACK/STUDY        LIBRARIES                                         
+10-604E                   20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-607                   511   STACK/STUDY        LIBRARIES                                         
+10-613                   456   STACK/STUDY        LIBRARIES                                         
+10-616                   418   STACK/STUDY        LIBRARIES              ATHENA                     
+10-616E                   28   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-619                   485   STACK/STUDY        LIBRARIES                                         
+10-625                   486   STACK/STUDY        LIBRARIES                                         
+10-625A                   68   PUBLIC LAVATORY    DP OF FACILITIES                                  
+10-628                   435   STACK/STUDY        LIBRARIES                                         
+10-628E                   25   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-631                   527   STACK/STUDY        LIBRARIES                                         
+10-637                   443   STACK/STUDY        LIBRARIES                                         
+10-640                   420   STACK/STUDY        LIBRARIES                                         
+10-640E                   24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       6,619                                                                        
+                                                                                                    
+10-700E1                  46   ELEVATOR           DP OF FACILITIES                                  
+10-700E2                  45   ELEVATOR           DP OF FACILITIES                                  
+10-700E3                  57   ELEVATOR           DP OF FACILITIES                                  
+10-700SD                 115   STAIRWAY           DP OF FACILITIES                                  
+10-700SE                 120   STAIRWAY           DP OF FACILITIES                                  
+10-700Z                  446   SHAFT SPACE        DP OF FACILITIES                                  
+10-701                 1,013   STACK/STUDY        LIBRARIES                                         
+10-704                   434   STACK/STUDY        LIBRARIES                                         
+10-704E                   20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-707                   511   STACK/STUDY        LIBRARIES                                         
+10-713                   456   STACK/STUDY        LIBRARIES                                         
+10-716                   418   STACK/STUDY        LIBRARIES                                         
+10-716E                   28   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-719                   485   STACK/STUDY        LIBRARIES                                         
+10-725                   486   STACK/STUDY        LIBRARIES                                         
+10-725A                   62   PUBLIC LAVATORY    DP OF FACILITIES                                  
+10-728                   435   STACK/STUDY        LIBRARIES                                         
+10-728E                   25   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-731                   527   STACK/STUDY        LIBRARIES                                         
+10-737                   443   STACK/STUDY        LIBRARIES                                         
+10-740                   420   STACK/STUDY        LIBRARIES                                         
+10-740E                   24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       6,617                                                                        
+                                                                                                    
+10-800E1                  53   ELEVATOR           DP OF FACILITIES                                  
+10-800E2                  53   ELEVATOR           DP OF FACILITIES                                  
+10-800E3                  62   ELEVATOR           DP OF FACILITIES                                  
+10-800SD                 100   STAIRWAY           DP OF FACILITIES                                  
+10-800SE                  98   STAIRWAY           DP OF FACILITIES                                  
+10-800SH                  16   STAIRWAY           DP OF FACILITIES                                  
+10-800SHM                 36   STAIRWAY           DP OF FACILITIES                                  
+10-800Z                1,279   SHAFT SPACE        DP OF FACILITIES                                  
+10-801                 1,429   UTILITY/MECH RM    DP OF FACILITIES                                  
+10-802AE                  29   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-802E                   32   ELECTRIC CLOSET    DP OF FACILITIES                                  
+10-802M                  168   UTILITY/MECH RM    DP OF FACILITIES                                  
+10-810                   149   STACK/STUDY        LIBRARIES                                         
+10-813                   788   STACK/STUDY        LIBRARIES                                         
+10-820                    26   UTILITY/MECH RM    DP OF FACILITIES                                  
+10-825                   791   STACK/STUDY        LIBRARIES                                         
+10-825M                  181   UTILITY/MECH RM    DP OF FACILITIES                                  
+10-830                    52   PVT CIRCULATION    LIBRARIES                                         
+10-837                   136   OFFICE SERVICE     LIBRARIES 

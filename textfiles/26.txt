@@ -1,0 +1,399 @@
+26-000CA               3,194   CORRIDOR           DP OF FACILITIES                                  
+26-000CB                 188   CORRIDOR           DP OF FACILITIES                                  
+26-000CC                 235   CORRIDOR           DP OF FACILITIES                                  
+26-000CD                 888   CORRIDOR           DP OF FACILITIES                                  
+26-000E1                 121   ELEVATOR           DP OF FACILITIES                                  
+26-000SA                 206   STAIRWAY           DP OF FACILITIES                                  
+26-000SB                 237   STAIRWAY           DP OF FACILITIES                                  
+26-000SC                  62   STAIRWAY           DP OF FACILITIES                                  
+26-000SD                 134   STAIRWAY           DP OF FACILITIES                                  
+26-000Z                  453   SHAFT SPACE        DP OF FACILITIES                                  
+26-001                 1,135   CLASSROOM SVC      PHYSICS                                           
+26-001A                   74   CLASSROOM SVC      PHYSICS                                           
+26-001B                   89   CLASSROOM SVC      PHYSICS                                           
+26-001M                  296   CLASSROOM SVC      PHYSICS                                           
+26-001S                   14   PVT CIRCULATION    PHYSICS                                           
+26-001SM                  18   PVT CIRCULATION    PHYSICS                                           
+26-002                   213   LABORATORY SVC     PHYSICS                                           
+26-003                   407   LABORATORY SVC     PHYSICS                                           
+26-003A                  268   JANITOR STORAGE    DP OF FACILITIES                                  
+26-003B                  465   LABORATORY SVC     PHYSICS                                           
+26-003C                  108   UTILITY/MECH RM    DP OF FACILITIES                                  
+26-004                 2,689   UTILITY/MECH RM    DP OF FACILITIES                                  
+26-004Z                  668   SHAFT SPACE        DP OF FACILITIES                                  
+26-005                    47   UTILITY/MECH RM    DP OF FACILITIES                                  
+26-007                   933   OFFICE SERVICE     BIOENG DEPT                                       
+26-007C                   13   UTILITY/MECH RM    DP OF FACILITIES                                  
+26-009                   266   LABORATORY SVC     BIOENG DEPT                                       
+26-018E                  966   ELECTRIC CLOSET    DP OF FACILITIES                                  
+26-021                   170   LABORATORY SVC     BIOENG DEPT                                       
+26-023                   150   OFFICE             BIOENG DEPT                                       
+26-026                   232   LABORATORY SVC     RES LAB OF ELEC                                   
+26-027                   313   OFFICE             BIOENG DEPT                                       
+26-028                   174   MALE LAVATORY      DP OF FACILITIES                                  
+26-028A                   43   STORAGE FACILITY   DP OF FACIL ADM                                   
+26-029                   157   RESEARCH LAB       BIOENG DEPT                                       
+26-030                   154   FEMALE LAVATORY    DP OF FACILITIES                                  
+26-030J                   36   JANITOR CLOSET     DP OF FACILITIES                                  
+26-031                   147   RESEARCH LAB       BIOENG DEPT                                       
+26-033                   312   RESEARCH LAB       BIOENG DEPT                                       
+26-034                   269   UTILITY/MECH RM    DP OF FACILITIES                                  
+26-037                   162   UTILITY/MECH RM    DP OF FACILITIES                                  
+26-039                    37   UTILITY/MECH RM    DP OF FACILITIES                                  
+26-040                   615   RESEARCH LAB       BIOENG DEPT                                       
+26-040A                   81   LABORATORY SVC     BIOENG DEPT                                       
+26-040B                   54   LABORATORY SVC     BIOENG DEPT                                       
+26-041                    37   UTILITY/MECH RM    DP OF FACILITIES                                  
+26-042                   222   LABORATORY SVC     LAB FOR NUCL SCI                                  
+26-043                   452   LABORATORY SVC     BIOENG DEPT                                       
+26-043A                   14   LABORATORY SVC     BIOENG DEPT                                       
+26-044                   452   LABORATORY SVC     LAB FOR NUCL SCI                                  
+26-051                   322   UTILITY/MECH RM    DP OF FACILITIES                                  
+26-052                   664   LAB SUPPORT SHOP   LAB FOR NUCL SCI                                  
+26-054                    53   LABORATORY SVC     RES LAB OF ELEC                                   
+26-055                   460   OFFICE SERVICE     INFO SVCS & TECH                                  
+26-056                 1,487   UTILITY/MECH RM    DP OF FACILITIES                                  
+26-056Z                  150   SHAFT SPACE        DP OF FACILITIES                                  
+26-058                 1,171   LABORATORY SVC     PHYSICS                                           
+26-058A                  139   LABORATORY SVC     PHYSICS                                           
+26-058Z                  160   SHAFT SPACE        DP OF FACILITIES                                  
+26-060E                  412   ELECTRIC CLOSET    DP OF FACILITIES                                  
+26-061                   154   LABORATORY SVC     BIOENG DEPT                                       
+26-062A                  131   UTILITY/MECH RM    DP OF FACILITIES                                  
+26-062J                   80   JANITOR CLOSET     DP OF FACILITIES                                  
+26-063                   124   LABORATORY SVC     BIOENG DEPT                                       
+26-063A                  187   RESEARCH LAB       BIOENG DEPT                                       
+26-065                   276   OFFICE             RES LAB OF ELEC                                   
+26-065A                   33   UTILITY/MECH RM    DP OF FACILITIES                                  
+26-066                    21   UTILITY/MECH RM    DP OF FACILITIES                                  
+26-068                    42   LABORATORY SVC     RES LAB OF ELEC                                   
+26-068A                  407   RESEARCH LAB       RES LAB OF ELEC                                   
+26-069                   307   OFFICE SERVICE     OFF OF PROVOST                                    
+26-070                   443   OFFICE SERVICE     OFF OF PROVOST                                    
+                    --------                                                                        
+                      25,893                                                                        
+                                                                                                    
+26-100                 5,729   LECTURE HALL       REGISTRAR                                         
+26-100B                  225   CLASSROOM SVC      REGISTRAR                                         
+26-100CA               1,697   CORRIDOR           DP OF FACILITIES                                  
+26-100CB                 274   CORRIDOR           DP OF FACILITIES                                  
+26-100E1                 130   ELEVATOR           DP OF FACILITIES                                  
+26-100LA               1,477   LOBBY              DP OF FACILITIES                                  
+26-100SA                 185   STAIRWAY           DP OF FACILITIES                                  
+26-100SB                 164   STAIRWAY           DP OF FACILITIES                                  
+26-100SC                  54   STAIRWAY           DP OF FACILITIES                                  
+26-100Z                2,026   SHAFT SPACE        DP OF FACILITIES                                  
+26-104                   101   OFFICE SERVICE     PROVOST RESERVE                                   
+26-106J                   39   JANITOR CLOSET     DP OF FACILITIES                                  
+26-110                 1,354   CONFERENCE ROOM    PROVOST RESERVE                                   
+26-112                    73   PUBLIC LAVATORY    DP OF FACILITIES                                  
+26-114                    73   PUBLIC LAVATORY    DP OF FACILITIES                                  
+26-130J                   88   JANITOR CLOSET     DP OF FACILITIES                                  
+26-131                   178   OFFICE             SCH OF SCIENCE                                    
+26-134                   141   MALE LAVATORY      DP OF FACILITIES                                  
+26-135                   266   RESEARCH LAB       RES LAB OF ELEC        AMO                        
+26-136                   134   FEMALE LAVATORY    DP OF FACILITIES                                  
+26-139                   396   CLASSROOM          PROVOST RESERVE                                   
+26-140                   380   RECEIVING ROOM     LAB FOR NUCL SCI                                  
+26-142                   517   CLASSROOM          REGISTRAR                                         
+26-143                   120   OFFICE             PROVOST RESERVE                                   
+26-144E                   17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+26-145                   130   UTILITY/MECH RM    DP OF FACILITIES       DOFADM                     
+26-146                   402   CONFERENCE ROOM    PHYSICS                                           
+26-146A                   59   CLASSROOM SVC      REGISTRAR                                         
+26-147                   128   OFFICE             PROVOST RESERVE        OFPRES                     
+26-148E                   13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+26-149                   123   OFFICE             PROVOST RESERVE                                   
+26-151T                  131   TELECOM CLOSET     DP OF FACILITIES       DATA FACILITY              
+26-152                 3,377   CLASSROOM          REGISTRAR                                         
+26-153                   256   OFFICE             PROVOST RESERVE        CAO                        
+26-156Z                   20   SHAFT SPACE        DP OF FACILITIES                                  
+26-157                   127   OFFICE             RES LAB OF ELEC        SCH OF ARCH&PLAN           
+26-157A                  129   OFFICE             RES LAB OF ELEC        SCH OF ARCH&PLAN           
+26-160                   529   CLASSROOM SVC      REGISTRAR                                         
+26-161                   126   OFFICE             PROVOST RESERVE        DUE                        
+26-163                   129   OFFICE             PROVOST RESERVE        ALCH ED& COM DEV           
+26-164E                   15   ELECTRIC CLOSET    DP OF FACILITIES                                  
+26-167                   258   OFFICE             RES LAB OF ELEC        J. LETTVIN                 
+26-168                   679   CLASSROOM          REGISTRAR                                         
+26-168E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+26-169                   190   OFFICE             RES LAB OF ELEC        AMO                        
+                    --------                                                                        
+                      22,668                                                                        
+                                                                                                    
+26-200CA               2,753   CORRIDOR           DP OF FACILITIES                                  
+26-200CB                 144   CORRIDOR           DP OF FACILITIES                                  
+26-200CC                 223   CORRIDOR           DP OF FACILITIES                                  
+26-200E1                 128   ELEVATOR           DP OF FACILITIES                                  
+26-200SA                 180   STAIRWAY           DP OF FACILITIES                                  
+26-200SB                 167   STAIRWAY           DP OF FACILITIES                                  
+26-200Z                  479   SHAFT SPACE        DP OF FACILITIES                                  
+26-201                   450   LABORATORY SVC     RES LAB OF ELEC        PLA                        
+26-202                    14   OFFICE SERVICE     RES LAB OF ELEC                                   
+26-204                   673   CLASSROOM          REGISTRAR                                         
+26-209                   154   OFFICE             RES LAB OF ELEC        PLA                        
+26-209A                  152   OFFICE             RES LAB OF ELEC        PLA                        
+26-209B                  156   OFFICE             RES LAB OF ELEC        PLA                        
+26-210                   657   CLASSROOM          REGISTRAR                                         
+26-213                   157   OFFICE             RES LAB OF ELEC        PLA                        
+26-214                   674   CONFERENCE ROOM    RES LAB OF ELEC        AMO                        
+26-215                   150   LABORATORY SVC     RES LAB OF ELEC        PLA                        
+26-217                   319   OFFICE             RES LAB OF ELEC        PLA                        
+26-217A                  156   OFFICE             RES LAB OF ELEC        PLA                        
+26-222                   426   RESEARCH LAB       RES LAB OF ELEC        AMO                        
+26-222A                   29   LABORATORY SVC     RES LAB OF ELEC        AMO                        
+26-222T                   25   TELECOM CLOSET     DP OF FACILITIES                                  
+26-223                   147   OFFICE             RES LAB OF ELEC        PLA                        
+26-225                   150   OFFICE             RES LAB OF ELEC        PLA                        
+26-226Z                   19   SHAFT SPACE        DP OF FACILITIES                                  
+26-227                   153   OFFICE             RES LAB OF ELEC        PLA                        
+26-228                   142   LAB SUPPORT SHOP   RES LAB OF ELEC        AMO                        
+26-228A                  407   RESEARCH LAB       RES LAB OF ELEC        AMO                        
+26-228B                  279   RESEARCH LAB       RES LAB OF ELEC        AMO                        
+26-228BA                  12   LABORATORY SVC     RES LAB OF ELEC                                   
+26-231                   306   OFFICE             RES LAB OF ELEC        AMO                        
+26-234                   160   MALE LAVATORY      DP OF FACILITIES                                  
+26-235                   317   OFFICE             RES LAB OF ELEC        AMO                        
+26-236                   171   FEMALE LAVATORY    DP OF FACILITIES                                  
+26-237                   147   SECY/RECEPTION     RES LAB OF ELEC        AMO                        
+26-239                   147   SECY/RECEPTION     RES LAB OF ELEC        AMO                        
+26-240                   652   RESEARCH LAB       RES LAB OF ELEC        AMO                        
+26-240B                   99   LABORATORY SVC     RES LAB OF ELEC        AMO                        
+26-241                   317   OFFICE             RES LAB OF ELEC        AMO                        
+26-243                   317   OFFICE             RES LAB OF ELEC        AMO                        
+26-244                   355   RESEARCH LAB       RES LAB OF ELEC        AMO                        
+26-248A                  339   RESEARCH LAB       RES LAB OF ELEC        AMO                        
+26-248B                  558   RESEARCH LAB       RES LAB OF ELEC        AMO                        
+26-251                   317   OFFICE             RES LAB OF ELEC        AMO                        
+26-254Z                   23   SHAFT SPACE        DP OF FACILITIES                                  
+26-255                   300   OFFICE             RES LAB OF ELEC        AMO                        
+26-256                   668   RESEARCH LAB       RES LAB OF ELEC        AMO                        
+26-256A                  152   RESEARCH LAB       RES LAB OF ELEC        AMO                        
+26-256B                   10   LABORATORY SVC     RES LAB OF ELEC                                   
+26-256C                    9   LABORATORY SVC     RES LAB OF ELEC                                   
+26-256Z                   26   SHAFT SPACE        DP OF FACILITIES                                  
+26-259                   317   OFFICE             RES LAB OF ELEC        AMO                        
+26-261                   317   OFFICE             RES LAB OF ELEC        AMO                        
+26-262J                   68   JANITOR CLOSET     DP OF FACILITIES                                  
+26-262T                    9   TELECOM CLOSET     DP OF FACILITIES                                  
+26-264                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+26-265                   147   OFFICE             RES LAB OF ELEC        AMO                        
+26-267                   165   OFFICE             RES LAB OF ELEC                                   
+26-268                    48   LABORATORY SVC     RES LAB OF ELEC                                   
+26-268A                   12   LABORATORY SVC     RES LAB OF ELEC                                   
+26-268B                  797   RESEARCH LAB       RES LAB OF ELEC        AMO                        
+26-268C                   13   LABORATORY SVC     RES LAB OF ELEC                                   
+26-269                   300   OFFICE             RES LAB OF ELEC        AMO                        
+                    --------                                                                        
+                      17,183                                                                        
+                                                                                                    
+26-300CA               2,766   CORRIDOR           DP OF FACILITIES                                  
+26-300CB                 145   CORRIDOR           DP OF FACILITIES                                  
+26-300CC                 216   CORRIDOR           DP OF FACILITIES                                  
+26-300E1                 128   ELEVATOR           DP OF FACILITIES                                  
+26-300SA                 205   STAIRWAY           DP OF FACILITIES                                  
+26-300SB                 180   STAIRWAY           DP OF FACILITIES                                  
+26-300Z                  479   SHAFT SPACE        DP OF FACILITIES                                  
+26-302                   684   CLASSROOM          REGISTRAR                                         
+26-303                   302   OFFICE             RES LAB OF ELEC        ELE                        
+26-305                   319   RESEARCH LAB       RES LAB OF ELEC        ELE                        
+26-310                   657   CLASSROOM          REGISTRAR                                         
+26-311                   315   RESEARCH LAB       RES LAB OF ELEC        ELE                        
+26-313                   157   OFFICE             RES LAB OF ELEC        ELE                        
+26-314                   684   CLASSROOM          REGISTRAR                                         
+26-315                   149   OFFICE             RES LAB OF ELEC        ELE                        
+26-317                   149   OFFICE             RES LAB OF ELEC        ELE                        
+26-319                   152   OFFICE             RES LAB OF ELEC        RAD                        
+26-321                   316   OFFICE             RES LAB OF ELEC        RAD                        
+26-322                   663   CLASSROOM          REGISTRAR              RAD                        
+26-322T                   25   TELECOM CLOSET     DP OF FACILITIES                                  
+26-326Z                   14   SHAFT SPACE        DP OF FACILITIES                                  
+26-327                   313   OFFICE             RES LAB OF ELEC        RAD                        
+26-328                   666   CLASSROOM          REGISTRAR              RAD                        
+26-331                   305   OFFICE             RES LAB OF ELEC        RAD                        
+26-334                   159   MALE LAVATORY      DP OF FACILITIES                                  
+26-335                   310   OFFICE             RES LAB OF ELEC        RAD                        
+26-336                   173   FEMALE LAVATORY    DP OF FACILITIES                                  
+26-339                   312   OFFICE             RES LAB OF ELEC        RAD                        
+26-340                   398   RESEARCH LAB       RES LAB OF ELEC                                   
+26-340A                   18   LABORATORY SVC     RES LAB OF ELEC                                   
+26-340B                   10   LABORATORY SVC     RES LAB OF ELEC                                   
+26-341                   159   SECY/RECEPTION     RES LAB OF ELEC        RAD                        
+26-343                   313   OFFICE             RES LAB OF ELEC        RAD                        
+26-344                   195   OFFICE SERVICE     RES LAB OF ELEC        RAD                        
+26-344A                  127   OFFICE             RES LAB OF ELEC        RAD                        
+26-344B                  122   OFFICE             RES LAB OF ELEC        RAD                        
+26-347                   156   OFFICE             RES LAB OF ELEC        RAD                        
+26-348                   440   RESEARCH LAB       RES LAB OF ELEC        RAD                        
+26-349                   149   OFFICE             RES LAB OF ELEC        RAD                        
+26-351                   156   OFFICE             RES LAB OF ELEC        RAD                        
+26-352                   447   RESEARCH LAB       RES LAB OF ELEC        RAD                        
+26-353                   149   OFFICE             RES LAB OF ELEC        RAD                        
+26-355                   154   OFFICE             RES LAB OF ELEC        RAD                        
+26-356                    53   LABORATORY SVC     RES LAB OF ELEC                                   
+26-356A                  168   RESEARCH LAB       RES LAB OF ELEC        RAD                        
+26-356D                  835   RESEARCH LAB       RES LAB OF ELEC        RAD                        
+26-356Z                   22   SHAFT SPACE        DP OF FACILITIES                                  
+26-357                   154   OFFICE             RES LAB OF ELEC        RAD                        
+26-359                   156   OFFICE             RES LAB OF ELEC        RAD                        
+26-361                   312   RESEARCH LAB       RES LAB OF ELEC        AMO                        
+26-362J                   90   JANITOR CLOSET     DP OF FACILITIES                                  
+26-363                   323   RESEARCH LAB       RES LAB OF ELEC        AMO                        
+26-363A                  300   RESEARCH LAB       RES LAB OF ELEC        AMO                        
+26-364                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+26-368                   445   RESEARCH LAB       RES LAB OF ELEC        AMO                        
+26-370                   433   RESEARCH LAB       RES LAB OF ELEC                                   
+                    --------                                                                        
+                      17,240                                                                        
+                                                                                                    
+26-400CA               2,766   CORRIDOR           DP OF FACILITIES                                  
+26-400CB                 141   CORRIDOR           DP OF FACILITIES                                  
+26-400CC                 230   CORRIDOR           DP OF FACILITIES                                  
+26-400E1                 128   ELEVATOR           DP OF FACILITIES                                  
+26-400SA                 180   STAIRWAY           DP OF FACILITIES                                  
+26-400SB                 188   STAIRWAY           DP OF FACILITIES                                  
+26-400Z                  491   SHAFT SPACE        DP OF FACILITIES                                  
+26-402                   245   OFFICE             LAB FOR NUCL SCI                                  
+26-402A                   93   OFFICE             LAB FOR NUCL SCI                                  
+26-402B                  110   OFFICE             LAB FOR NUCL SCI                                  
+26-402C                  104   OFFICE             LAB FOR NUCL SCI                                  
+26-402D                   86   OFFICE             LAB FOR NUCL SCI                                  
+26-402E                  116   OFFICE             LAB FOR NUCL SCI                                  
+26-402F                   83   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+26-402G                  168   PVT CIRCULATION    LAB FOR NUCL SCI                                  
+26-403                   302   OFFICE             LAB FOR NUCL SCI                                  
+26-405                   163   OFFICE             LAB FOR NUCL SCI                                  
+26-407                   150   OFFICE             LAB FOR NUCL SCI                                  
+26-410                    92   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+26-411                   317   OFFICE             LAB FOR NUCL SCI                                  
+26-413                   153   OFFICE             LAB FOR NUCL SCI                                  
+26-414                 1,113   CONFERENCE ROOM    LAB FOR NUCL SCI                                  
+26-415                   156   OFFICE             LAB FOR NUCL SCI                                  
+26-419                   307   OFFICE             LAB FOR NUCL SCI                                  
+26-421                   316   OFFICE             LAB FOR NUCL SCI                                  
+26-422                   377   RESEARCH LAB       RES LAB OF ELEC                                   
+26-422T                   25   TELECOM CLOSET     DP OF FACILITIES                                  
+26-426Z                   14   SHAFT SPACE        DP OF FACILITIES                                  
+26-427                   307   OFFICE             LAB FOR NUCL SCI                                  
+26-428                   192   RESEARCH LAB       RES LAB OF ELEC                                   
+26-428A                  144   RESEARCH LAB       RES LAB OF ELEC        IND                        
+26-428B                  179   RESEARCH LAB       RES LAB OF ELEC        IND                        
+26-428C                  197   RSCH LAB-OFFICE    RES LAB OF ELEC                                   
+26-429                   154   OFFICE             LAB FOR NUCL SCI                                  
+26-431                   156   OFFICE             LAB FOR NUCL SCI                                  
+26-433                   309   OFFICE             LAB FOR NUCL SCI                                  
+26-434                   161   MALE LAVATORY      DP OF FACILITIES                                  
+26-436                   173   FEMALE LAVATORY    DP OF FACILITIES                                  
+26-437                   310   OFFICE             LAB FOR NUCL SCI                                  
+26-440                   439   RESEARCH LAB       RES LAB OF ELEC        ELE                        
+26-441                   156   OFFICE             LAB FOR NUCL SCI                                  
+26-443                   152   OFFICE             LAB FOR NUCL SCI                                  
+26-444                   232   RESEARCH LAB       RES LAB OF ELEC                                   
+26-444A                  217   RESEARCH LAB       RES LAB OF ELEC        ELE                        
+26-445                   152   OFFICE             LAB FOR NUCL SCI                                  
+26-447                   147   SECY/RECEPTION     LAB FOR NUCL SCI                                  
+26-448                   451   RESEARCH LAB       RES LAB OF ELEC        ELE                        
+26-449                   164   OFFICE             LAB FOR NUCL SCI                                  
+26-452                   441   LABORATORY SVC     LAB FOR NUCL SCI                                  
+26-453                   307   OFFICE             LAB FOR NUCL SCI                                  
+26-455                   153   OFFICE             RES LAB OF ELEC        IND                        
+26-456                   442   RESEARCH LAB       LAB FOR NUCL SCI                                  
+26-457                   153   OFFICE             RES LAB OF ELEC        IND                        
+26-459                   153   OFFICE             RES LAB OF ELEC        IND                        
+26-460                   441   RESEARCH LAB       RES LAB OF ELEC        HQC                        
+26-460A                  138   RSCH LAB-OFFICE    RES LAB OF ELEC        HQC                        
+26-460AA                 101   RSCH LAB-OFFICE    RES LAB OF ELEC                                   
+26-460B                    4   LABORATORY SVC     RES LAB OF ELEC                                   
+26-460Z                   26   SHAFT SPACE        DP OF FACILITIES                                  
+26-461                   153   OFFICE             RES LAB OF ELEC        OPT                        
+26-463                   157   OFFICE             RES LAB OF ELEC        COM                        
+26-464                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+26-465                   312   RESEARCH LAB       RES LAB OF ELEC        COM                        
+26-468                   444   RESEARCH LAB       RES LAB OF ELEC        OPT                        
+26-469                   150   OFFICE SERVICE     RES LAB OF ELEC        RAD                        
+26-469A                  149   LABORATORY SVC     RES LAB OF ELEC        RAD                        
+26-470                   436   RESEARCH LAB       RES LAB OF ELEC        OPT                        
+                    --------                                                                        
+                      17,186                                                                        
+                                                                                                    
+26-500CA               2,908   CORRIDOR           DP OF FACILITIES                                  
+26-500CB                 227   CORRIDOR           DP OF FACILITIES                                  
+26-500E1                 128   ELEVATOR           DP OF FACILITIES                                  
+26-500SA                 205   STAIRWAY           DP OF FACILITIES                                  
+26-500SB                 188   STAIRWAY           DP OF FACILITIES                                  
+26-500Z                  485   SHAFT SPACE        DP OF FACILITIES                                  
+26-502                   789   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+26-503                   302   OFFICE             LAB FOR NUCL SCI                                  
+26-505                   258   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+26-505A                  114   SECY/RECEPTION     LAB FOR NUCL SCI                                  
+26-505B                  185   SECY/RECEPTION     LAB FOR NUCL SCI                                  
+26-506                   314   RESEARCH LAB       LAB FOR NUCL SCI                                  
+26-506A                  200   RESEARCH LAB       LAB FOR NUCL SCI                                  
+26-515                   388   OFFICE             LAB FOR NUCL SCI                                  
+26-516                   366   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+26-516A                  129   OFFICE             LAB FOR NUCL SCI                                  
+26-516B                  123   OFFICE             LAB FOR NUCL SCI                                  
+26-516C                  126   OFFICE             LAB FOR NUCL SCI                                  
+26-516D                  126   OFFICE             LAB FOR NUCL SCI                                  
+26-519                   468   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+26-519A                  102   OFFICE             LAB FOR NUCL SCI                                  
+26-519B                  104   OFFICE             LAB FOR NUCL SCI                                  
+26-519C                  101   OFFICE             LAB FOR NUCL SCI                                  
+26-519D                  101   OFFICE             LAB FOR NUCL SCI                                  
+26-519F                   98   OFFICE             LAB FOR NUCL SCI                                  
+26-519G                   92   OFFICE             LAB FOR NUCL SCI                                  
+26-519H                   75   OFFICE             LAB FOR NUCL SCI                                  
+26-519K                   84   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+26-522E                   25   ELECTRIC CLOSET    DP OF FACILITIES                                  
+26-524                   578   RESEARCH LAB       LAB FOR NUCL SCI                                  
+26-524A                   78   RESEARCH LAB       LAB FOR NUCL SCI                                  
+26-526Z                   19   SHAFT SPACE        DP OF FACILITIES                                  
+26-528                   439   CONFERENCE ROOM    LAB FOR NUCL SCI                                  
+26-533                   150   OFFICE             LAB FOR NUCL SCI                                  
+26-534                   162   MALE LAVATORY      DP OF FACILITIES                                  
+26-536                   173   FEMALE LAVATORY    DP OF FACILITIES                                  
+26-537                   312   OFFICE             LAB FOR NUCL SCI                                  
+26-539                   142   OFFICE             LAB FOR NUCL SCI                                  
+26-540                   443   OFFICE             LAB FOR NUCL SCI                                  
+26-541                   317   OFFICE             LAB FOR NUCL SCI                                  
+26-544                   450   OFFICE             LAB FOR NUCL SCI                                  
+26-547                   317   OFFICE             LAB FOR NUCL SCI                                  
+26-548                   321   LABORATORY SVC     LAB FOR NUCL SCI                                  
+26-548A                  132   LABORATORY SVC     LAB FOR NUCL SCI                                  
+26-551                   309   OFFICE             LAB FOR NUCL SCI                                  
+26-551A                  159   OFFICE             LAB FOR NUCL SCI                                  
+26-552                   568   RESEARCH LAB       LAB FOR NUCL SCI                                  
+26-552A                   86   RSCH LAB-OFFICE    LAB FOR NUCL SCI                                  
+26-555                   152   OFFICE             LAB FOR NUCL SCI                                  
+26-556                   677   RESEARCH LAB       LAB FOR NUCL SCI                                  
+26-556B                  109   LABORATORY SVC     LAB FOR NUCL SCI                                  
+26-556Z                   26   SHAFT SPACE        DP OF FACILITIES                                  
+26-557                   153   OFFICE             LAB FOR NUCL SCI                                  
+26-559                   156   OFFICE             LAB FOR NUCL SCI                                  
+26-561                   313   OFFICE             LAB FOR NUCL SCI                                  
+26-562J                  123   JANITOR CLOSET     DP OF FACILITIES                                  
+26-564                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+26-565                   154   OFFICE             LAB FOR NUCL SCI                                  
+26-567                   153   OFFICE             LAB FOR NUCL SCI                                  
+26-568                   441   RESEARCH LAB       LAB FOR NUCL SCI                                  
+26-569                   305   OFFICE             LAB FOR NUCL SCI                                  
+26-570                   440   OFFICE             LAB FOR NUCL SCI                                  
+                    --------                                                                        
+                      17,183                                                                        
+                                                                                                    
+26-600CA                 135   CORRIDOR           DP OF FACILITIES                                  
+26-600CB                 682   CORRIDOR           DP OF FACILITIES                                  
+26-600E1                 127   ELEVATOR           DP OF FACILITIES                                  
+26-600SA                  86   STAIRWAY           DP OF FACILITIES                                  
+26-600SB                 171   STAIRWAY           DP OF FACILITIES                                  
+26-600Z                  389   SHAFT SPACE        DP OF FACILITIES                                  
+26-630                    92   UTILITY/MECH RM    DP OF FACILITIES                                  
+26-630A                  201   UTILITY/MECH RM    DP OF FACILITIES                                  
+26-640                 1,126   UTILITY/MECH RM    DP OF FACILITIES                                  
+26-648                 1,195   OFFICE             LAB FOR NUCL SCI                                  
+26-648A                  300   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+26-650                   106   OFFICE SERVICE     RES LAB OF ELEC        RAD                        
+26-650A                  298   LABORATORY SVC     RES LAB OF ELEC        RAD                        
+26-650B                  409   OFFICE             LAB FOR NUCL SCI                                  
+26-650C                  259   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+26-665                    54   OFFICE SERVICE     LAB FOR NUCL SCI

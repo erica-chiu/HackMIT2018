@@ -1,0 +1,718 @@
+54-0000CA                128   CORRIDOR           DP OF FACILITIES                                  
+54-0000CB                766   CORRIDOR           DP OF FACILITIES                                  
+54-0000CC              1,511   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+54-0000E1                 61   ELEVATOR           DP OF FACILITIES                                  
+54-0000E2                 63   ELEVATOR           DP OF FACILITIES                                  
+54-0000E3                 65   ELEVATOR           DP OF FACILITIES                                  
+54-0000LA                261   LOBBY              DP OF FACILITIES                                  
+54-0000SB                 97   STAIRWAY           DP OF FACILITIES                                  
+54-0000SC                 70   STAIRWAY           DP OF FACILITIES                                  
+54-0000Z                  82   SHAFT SPACE        DP OF FACILITIES                                  
+54-0001                   26   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-0001A                  17   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-0001B                  31   UTILITY/MECH RM    DP OF FACILITIES                                  
+54-0003                  102   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-0003A                 176   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-0003B                  35   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-0004                  184   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-0004A                 537   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-0005                   21   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-0005A                 117   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-0005B                  52   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-0005C                  47   UTILITY/MECH RM    DP OF FACILITIES                                  
+54-0006                1,100   UTILITY/MECH RM    DP OF FACILITIES                                  
+54-0008A                  36   UTILITY/MECH RM    DP OF FACILITIES                                  
+54-0008B                   9   UTILITY/MECH RM    DP OF FACILITIES                                  
+54-0008C                  40   UTILITY/MECH RM    DP OF FACILITIES                                  
+54-0008D                  34   UTILITY/MECH RM    DP OF FACILITIES                                  
+54-0008E                 618   ELECTRIC CLOSET    DP OF FACILITIES                                  
+54-0009Z                  15   SHAFT SPACE        DP OF FACILITIES                                  
+54-0010Z                  32   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                       6,333                                                                        
+                                                                                                    
+54-000E1                  63   ELEVATOR           DP OF FACILITIES                                  
+54-000E2                  67   ELEVATOR           DP OF FACILITIES                                  
+54-000E3                  67   ELEVATOR           DP OF FACILITIES                                  
+54-000LA                 479   LOBBY              DP OF FACILITIES                                  
+54-000LB                 476   LOBBY              DP OF FACILITIES                                  
+54-000SA                 136   STAIRWAY           DP OF FACILITIES                                  
+54-000SB                 106   STAIRWAY           DP OF FACILITIES                                  
+54-000SC                 143   STAIRWAY           DP OF FACILITIES                                  
+54-000Z                   61   SHAFT SPACE        DP OF FACILITIES                                  
+54-035                    23   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                       1,621                                                                        
+                                                                                                    
+54-100                 1,880   LECTURE HALL       REGISTRAR                                         
+54-100E1                  64   ELEVATOR           DP OF FACILITIES                                  
+54-100E2                  67   ELEVATOR           DP OF FACILITIES                                  
+54-100E3                  67   ELEVATOR           DP OF FACILITIES                                  
+54-100LA                 661   LOBBY              DP OF FACILITIES                                  
+54-100LB                 195   LOBBY              DP OF FACILITIES                                  
+54-100M                1,530   LECTURE HALL       REGISTRAR                                         
+54-100SA                 137   STAIRWAY           DP OF FACILITIES                                  
+54-100SAM                106   STAIRWAY           DP OF FACILITIES                                  
+54-100SB                 189   STAIRWAY           DP OF FACILITIES                                  
+54-100SBM                106   STAIRWAY           DP OF FACILITIES                                  
+54-100SC                 120   STAIRWAY           DP OF FACILITIES                                  
+54-100Z                  434   SHAFT SPACE        DP OF FACILITIES                                  
+54-103Z                    9   SHAFT SPACE        DP OF FACILITIES                                  
+54-110                   255   CLASSROOM SVC      REGISTRAR                                         
+54-110M                  541   CLASSROOM SVC      REGISTRAR                                         
+54-124                    88   FEMALE LAVATORY    DP OF FACILITIES                                  
+54-124J                   12   JANITOR CLOSET     DP OF FACILITIES                                  
+54-125                   128   MALE LAVATORY      DP OF FACILITIES                                  
+54-126ZM                   6   SHAFT SPACE        DP OF FACILITIES                                  
+54-127ZM                   7   SHAFT SPACE        DP OF FACILITIES                                  
+54-130TM                 201   TELECOM CLOSET     DP OF FACILITIES                                  
+54-135                   235   CLASSROOM SVC      REGISTRAR                                         
+54-135M                  275   CLASSROOM SVC      REGISTRAR                                         
+                    --------                                                                        
+                       7,313                                                                        
+                                                                                                    
+54-200E1                  64   ELEVATOR           DP OF FACILITIES                                  
+54-200E2                  66   ELEVATOR           DP OF FACILITIES                                  
+54-200E3                  66   ELEVATOR           DP OF FACILITIES                                  
+54-200LA                 177   LOBBY              DP OF FACILITIES                                  
+54-200SA                 111   STAIRWAY           DP OF FACILITIES                                  
+54-200SB                 122   STAIRWAY           DP OF FACILITIES                                  
+54-200Z                   39   SHAFT SPACE        DP OF FACILITIES                                  
+54-203                    48   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-205                 1,146   PVT CIRCULATION    EARTH ATMO&PL SC                                  
+54-209                   311   CONFERENCE ROOM    EARTH ATMO&PL SC                                  
+54-209A                  226   CONFERENCE ROOM    EARTH ATMO&PL SC                                  
+54-209B                  169   CONFERENCE ROOM    EARTH ATMO&PL SC                                  
+54-209C                  116   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-209D                  115   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-210                    85   SECY/RECEPTION     EARTH ATMO&PL SC                                  
+54-210A                   20   STORAGE FACILITY   DP OF FACIL ADM                                   
+54-210AZ                  32   SHAFT SPACE        DP OF FACILITIES                                  
+54-211                    84   OFFICE             EARTH ATMO&PL SC                                  
+54-211Z                    9   SHAFT SPACE        DP OF FACILITIES                                  
+54-212                    90   OFFICE             EARTH ATMO&PL SC                                  
+54-213                    90   OFFICE             EARTH ATMO&PL SC                                  
+54-216                   185   OFFICE             EARTH ATMO&PL SC                                  
+54-217                   185   OFFICE             EARTH ATMO&PL SC                                  
+54-218                    90   OFFICE             EARTH ATMO&PL SC                                  
+54-219                    90   OFFICE             EARTH ATMO&PL SC                                  
+54-222                   203   OFFICE             EARTH ATMO&PL SC                                  
+54-223                   205   OFFICE             EARTH ATMO&PL SC                                  
+54-224                   191   OFFICE             EARTH ATMO&PL SC                                  
+54-225                   205   OFFICE             EARTH ATMO&PL SC                                  
+54-226Z                   36   SHAFT SPACE        DP OF FACILITIES                                  
+54-227Z                    8   SHAFT SPACE        DP OF FACILITIES                                  
+54-228                    56   MALE LAVATORY      DP OF FACILITIES                                  
+54-229                    64   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-229A                   44   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-230                   187   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-231                    58   FEMALE LAVATORY    DP OF FACILITIES                                  
+54-232J                    8   JANITOR CLOSET     DP OF FACILITIES                                  
+54-233T                   13   TELECOM CLOSET     DP OF FACILITIES                                  
+54-234E                   19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,033                                                                        
+                                                                                                    
+54-300CA                 579   CORRIDOR           DP OF FACILITIES                                  
+54-300E1                  64   ELEVATOR           DP OF FACILITIES                                  
+54-300E2                  67   ELEVATOR           DP OF FACILITIES                                  
+54-300E3                  67   ELEVATOR           DP OF FACILITIES                                  
+54-300LA                 243   LOBBY              DP OF FACILITIES                                  
+54-300SA                 128   STAIRWAY           DP OF FACILITIES                                  
+54-300SB                 123   STAIRWAY           DP OF FACILITIES                                  
+54-300Z                   18   SHAFT SPACE        DP OF FACILITIES                                  
+54-303J                   50   JANITOR STORAGE    DP OF FACILITIES                                  
+54-303Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+54-304Z                   67   SHAFT SPACE        DP OF FACILITIES                                  
+54-310                   140   OFFICE             EARTH ATMO&PL SC                                  
+54-311                    54   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-311A                  151   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-311Z                    9   SHAFT SPACE        DP OF FACILITIES                                  
+54-312                   146   OFFICE             EARTH ATMO&PL SC                                  
+54-313                   213   OFFICE             EARTH ATMO&PL SC                                  
+54-314                   146   OFFICE             EARTH ATMO&PL SC                                  
+54-315                   217   OFFICE             EARTH ATMO&PL SC                                  
+54-316                   155   OFFICE             EARTH ATMO&PL SC                                  
+54-317                   224   OFFICE             EARTH ATMO&PL SC                                  
+54-318                   303   OFFICE             EARTH ATMO&PL SC                                  
+54-319                   453   OFFICE             EARTH ATMO&PL SC                                  
+54-322                   303   OFFICE             EARTH ATMO&PL SC                                  
+54-323                   216   OFFICE             EARTH ATMO&PL SC                                  
+54-325                   595   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-326                   141   OFFICE             EARTH ATMO&PL SC                                  
+54-326Z                   43   SHAFT SPACE        DP OF FACILITIES                                  
+54-327Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+54-328                    81   FEMALE LAVATORY    DP OF FACILITIES                                  
+54-331                    51   MALE LAVATORY      DP OF FACILITIES                                  
+54-332J                    9   JANITOR CLOSET     DP OF FACILITIES                                  
+54-333T                   16   TELECOM CLOSET     DP OF FACILITIES                                  
+54-334E                   20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,116                                                                        
+                                                                                                    
+54-400CA                 585   CORRIDOR           DP OF FACILITIES                                  
+54-400E1                  64   ELEVATOR           DP OF FACILITIES                                  
+54-400E2                  67   ELEVATOR           DP OF FACILITIES                                  
+54-400E3                  67   ELEVATOR           DP OF FACILITIES                                  
+54-400LA                 238   LOBBY              DP OF FACILITIES                                  
+54-400SA                 128   STAIRWAY           DP OF FACILITIES                                  
+54-400SB                 123   STAIRWAY           DP OF FACILITIES                                  
+54-400Z                   45   SHAFT SPACE        DP OF FACILITIES                                  
+54-403Z                    5   SHAFT SPACE        DP OF FACILITIES                                  
+54-404Z                   67   SHAFT SPACE        DP OF FACILITIES                                  
+54-410                   141   OFFICE             EARTH ATMO&PL SC                                  
+54-411                   430   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-411A                   50   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-411Z                    9   SHAFT SPACE        DP OF FACILITIES                                  
+54-414                   300   OFFICE             EARTH ATMO&PL SC                                  
+54-415                   222   OFFICE             EARTH ATMO&PL SC                                  
+54-416                   152   OFFICE             EARTH ATMO&PL SC                                  
+54-418                   146   OFFICE             EARTH ATMO&PL SC                                  
+54-419                    40   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-419A                  112   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-419B                  289   CONFERENCE ROOM    EARTH ATMO&PL SC                                  
+54-420                   153   OFFICE             EARTH ATMO&PL SC                                  
+54-422                   149   OFFICE             EARTH ATMO&PL SC                                  
+54-424                   147   OFFICE             EARTH ATMO&PL SC                                  
+54-425                   680   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-426                   240   OFFICE             EARTH ATMO&PL SC                                  
+54-426Z                    8   SHAFT SPACE        DP OF FACILITIES                                  
+54-427                   369   OFFICE             EARTH ATMO&PL SC                                  
+54-427Z                    8   SHAFT SPACE        DP OF FACILITIES                                  
+54-431                    52   PUBLIC LAVATORY    DP OF FACILITIES                                  
+54-432J                   10   JANITOR CLOSET     DP OF FACILITIES                                  
+54-433T                   16   TELECOM CLOSET     DP OF FACILITIES                                  
+54-434E                   20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,130                                                                        
+                                                                                                    
+54-500CA                 585   CORRIDOR           DP OF FACILITIES                                  
+54-500E1                  64   ELEVATOR           DP OF FACILITIES                                  
+54-500E2                  67   ELEVATOR           DP OF FACILITIES                                  
+54-500E3                  67   ELEVATOR           DP OF FACILITIES                                  
+54-500LA                 238   LOBBY              DP OF FACILITIES                                  
+54-500SA                 128   STAIRWAY           DP OF FACILITIES                                  
+54-500SB                 123   STAIRWAY           DP OF FACILITIES                                  
+54-500Z                   46   SHAFT SPACE        DP OF FACILITIES                                  
+54-503J                   50   JANITOR STORAGE    DP OF FACILITIES                                  
+54-503Z                    5   SHAFT SPACE        DP OF FACILITIES                                  
+54-504Z                   67   SHAFT SPACE        DP OF FACILITIES                                  
+54-510                   142   OFFICE             EARTH ATMO&PL SC                                  
+54-511                   212   OFFICE             EARTH ATMO&PL SC                                  
+54-511A                  214   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-511Z                    9   SHAFT SPACE        DP OF FACILITIES                                  
+54-512                   143   OFFICE             EARTH ATMO&PL SC                                  
+54-514                   150   OFFICE             EARTH ATMO&PL SC                                  
+54-517                   633   CONFERENCE ROOM    EARTH ATMO&PL SC                                  
+54-517A                   50   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-518                   303   OFFICE             EARTH ATMO&PL SC                                  
+54-520                   153   OFFICE             EARTH ATMO&PL SC                                  
+54-521                   105   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-521A                  104   OFFICE             EARTH ATMO&PL SC                                  
+54-523                   230   OFFICE             EARTH ATMO&PL SC                                  
+54-524                   300   OFFICE             EARTH ATMO&PL SC                                  
+54-526                   240   OFFICE             EARTH ATMO&PL SC                                  
+54-526Z                    8   SHAFT SPACE        DP OF FACILITIES                                  
+54-527                   432   OFFICE             EARTH ATMO&PL SC                                  
+54-527Z                    8   SHAFT SPACE        DP OF FACILITIES                                  
+54-529                   148   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-531                    51   PUBLIC LAVATORY    DP OF FACILITIES                                  
+54-532J                   10   JANITOR CLOSET     DP OF FACILITIES                                  
+54-533T                   16   TELECOM CLOSET     DP OF FACILITIES                                  
+54-534E                   20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,121                                                                        
+                                                                                                    
+54-600CA                 585   CORRIDOR           DP OF FACILITIES                                  
+54-600E1                  64   ELEVATOR           DP OF FACILITIES                                  
+54-600E2                  67   ELEVATOR           DP OF FACILITIES                                  
+54-600E3                  67   ELEVATOR           DP OF FACILITIES                                  
+54-600LA                 238   LOBBY              DP OF FACILITIES                                  
+54-600SA                 128   STAIRWAY           DP OF FACILITIES                                  
+54-600SB                 123   STAIRWAY           DP OF FACILITIES                                  
+54-600Z                   46   SHAFT SPACE        DP OF FACILITIES                                  
+54-603Z                    5   SHAFT SPACE        DP OF FACILITIES                                  
+54-604Z                   67   SHAFT SPACE        DP OF FACILITIES                                  
+54-610                   142   OFFICE             EARTH ATMO&PL SC                                  
+54-611                   111   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-611A                  310   CONFERENCE ROOM    EARTH ATMO&PL SC                                  
+54-611AA                  50   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-611Z                    9   SHAFT SPACE        DP OF FACILITIES                                  
+54-612                   143   OFFICE             EARTH ATMO&PL SC                                  
+54-614                   150   OFFICE             EARTH ATMO&PL SC                                  
+54-615                   228   OFFICE             EARTH ATMO&PL SC                                  
+54-616                   152   OFFICE             EARTH ATMO&PL SC                                  
+54-617                   224   OFFICE             EARTH ATMO&PL SC                                  
+54-618                   147   OFFICE             EARTH ATMO&PL SC                                  
+54-620                   153   OFFICE             EARTH ATMO&PL SC                                  
+54-621                   449   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-622                   302   OFFICE             EARTH ATMO&PL SC                                  
+54-625                   451   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-626                   240   OFFICE             EARTH ATMO&PL SC                                  
+54-626Z                    8   SHAFT SPACE        DP OF FACILITIES                                  
+54-627                   357   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-627Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+54-631                    51   FEMALE LAVATORY    DP OF FACILITIES                                  
+54-632J                   10   JANITOR CLOSET     DP OF FACILITIES                                  
+54-633T                   16   TELECOM CLOSET     DP OF FACILITIES                                  
+54-634E                   20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,124                                                                        
+                                                                                                    
+54-700CA                 585   CORRIDOR           DP OF FACILITIES                                  
+54-700E1                  64   ELEVATOR           DP OF FACILITIES                                  
+54-700E2                  67   ELEVATOR           DP OF FACILITIES                                  
+54-700E3                  67   ELEVATOR           DP OF FACILITIES                                  
+54-700LA                 238   LOBBY              DP OF FACILITIES                                  
+54-700SA                 128   STAIRWAY           DP OF FACILITIES                                  
+54-700SB                 123   STAIRWAY           DP OF FACILITIES                                  
+54-700Z                   72   SHAFT SPACE        DP OF FACILITIES                                  
+54-703Z                    5   SHAFT SPACE        DP OF FACILITIES                                  
+54-704Z                   67   SHAFT SPACE        DP OF FACILITIES                                  
+54-710                   142   OFFICE             EARTH ATMO&PL SC                                  
+54-712                   143   OFFICE             EARTH ATMO&PL SC                                  
+54-714                   240   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-715                 1,135   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-715A                  435   LAB SUPPORT SHOP   EARTH ATMO&PL SC                                  
+54-715AA                  50   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-718                   210   OFFICE             EARTH ATMO&PL SC                                  
+54-720                   153   OFFICE             EARTH ATMO&PL SC                                  
+54-722                   149   OFFICE             EARTH ATMO&PL SC                                  
+54-724                   147   OFFICE             EARTH ATMO&PL SC                                  
+54-725                   332   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-725A                  154   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-725B                   83   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-726                   240   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-731                    51   PUBLIC LAVATORY    DP OF FACILITIES                                  
+54-732J                   10   JANITOR CLOSET     DP OF FACILITIES                                  
+54-733T                   16   TELECOM CLOSET     DP OF FACILITIES                                  
+54-734E                   20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,125                                                                        
+                                                                                                    
+54-800CA                 585   CORRIDOR           DP OF FACILITIES                                  
+54-800E1                  64   ELEVATOR           DP OF FACILITIES                                  
+54-800E2                  67   ELEVATOR           DP OF FACILITIES                                  
+54-800E3                  67   ELEVATOR           DP OF FACILITIES                                  
+54-800LA                 238   LOBBY              DP OF FACILITIES                                  
+54-800SA                 128   STAIRWAY           DP OF FACILITIES                                  
+54-800SB                 123   STAIRWAY           DP OF FACILITIES                                  
+54-800Z                   46   SHAFT SPACE        DP OF FACILITIES                                  
+54-803                    50   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-803Z                    5   SHAFT SPACE        DP OF FACILITIES                                  
+54-804Z                   67   SHAFT SPACE        DP OF FACILITIES                                  
+54-810                   142   OFFICE             EARTH ATMO&PL SC                                  
+54-811                   211   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-811Z                    9   SHAFT SPACE        DP OF FACILITIES                                  
+54-812                   143   OFFICE             EARTH ATMO&PL SC                                  
+54-813                   209   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-814                   457   OFFICE             EARTH ATMO&PL SC                                  
+54-819                   680   CLASSROOM          EARTH ATMO&PL SC                                  
+54-820                   153   OFFICE             EARTH ATMO&PL SC                                  
+54-823                   652   CLASSROOM          EARTH ATMO&PL SC                                  
+54-824                   302   CLASSROOM          EARTH ATMO&PL SC                                  
+54-826                   240   CLASSROOM SVC      EARTH ATMO&PL SC                                  
+54-826Z                    8   SHAFT SPACE        DP OF FACILITIES                                  
+54-827                   323   CONFERENCE ROOM    EARTH ATMO&PL SC                                  
+54-827A                   65   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-827Z                    8   SHAFT SPACE        DP OF FACILITIES                                  
+54-831                    51   PUBLIC LAVATORY    DP OF FACILITIES                                  
+54-832J                   10   JANITOR CLOSET     DP OF FACILITIES                                  
+54-833T                   16   TELECOM CLOSET     DP OF FACILITIES                                  
+54-834E                   20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,138                                                                        
+                                                                                                    
+54-900CA                 585   CORRIDOR           DP OF FACILITIES                                  
+54-900E1                  64   ELEVATOR           DP OF FACILITIES                                  
+54-900E2                  67   ELEVATOR           DP OF FACILITIES                                  
+54-900E3                  67   ELEVATOR           DP OF FACILITIES                                  
+54-900LA                 238   LOBBY              DP OF FACILITIES                                  
+54-900SA                 138   STAIRWAY           DP OF FACILITIES                                  
+54-900SB                 123   STAIRWAY           DP OF FACILITIES                                  
+54-900Z                   58   SHAFT SPACE        DP OF FACILITIES                                  
+54-903                    50   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-903Z                    5   SHAFT SPACE        DP OF FACILITIES                                  
+54-904Z                   67   SHAFT SPACE        DP OF FACILITIES                                  
+54-910                   142   OFFICE             EARTH ATMO&PL SC                                  
+54-911                   228   SECY/RECEPTION     EARTH ATMO&PL SC                                  
+54-911A                  101   OFFICE             EARTH ATMO&PL SC                                  
+54-911B                   95   OFFICE             EARTH ATMO&PL SC                                  
+54-911Z                    9   SHAFT SPACE        DP OF FACILITIES                                  
+54-912                   143   SECY/RECEPTION     EARTH ATMO&PL SC                                  
+54-915                   678   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-918                   128   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-918A                  150   OFFICE             EARTH ATMO&PL SC                                  
+54-918B                   86   SECY/RECEPTION     EARTH ATMO&PL SC                                  
+54-918C                   87   SECY/RECEPTION     EARTH ATMO&PL SC                                  
+54-918D                  308   OFFICE             EARTH ATMO&PL SC                                  
+54-923                   919   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-924                   147   OFFICE             EARTH ATMO&PL SC                                  
+54-926                   141   OFFICE             EARTH ATMO&PL SC                                  
+54-926Z                    9   SHAFT SPACE        DP OF FACILITIES                                  
+54-927Z                    8   SHAFT SPACE        DP OF FACILITIES                                  
+54-928                    80   FEMALE LAVATORY    DP OF FACILITIES                                  
+54-929A                   62   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-929B                   60   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-931                    51   MALE LAVATORY      DP OF FACILITIES                                  
+54-932J                   10   JANITOR CLOSET     DP OF FACILITIES                                  
+54-933T                   16   TELECOM CLOSET     DP OF FACILITIES                                  
+54-934E                   20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,139                                                                        
+                                                                                                    
+54-1000CA                585   CORRIDOR           DP OF FACILITIES                                  
+54-1000E1                 64   ELEVATOR           DP OF FACILITIES                                  
+54-1000E2                 67   ELEVATOR           DP OF FACILITIES                                  
+54-1000E3                 67   ELEVATOR           DP OF FACILITIES                                  
+54-1000LA                238   LOBBY              DP OF FACILITIES                                  
+54-1000SA                128   STAIRWAY           DP OF FACILITIES                                  
+54-1000SB                123   STAIRWAY           DP OF FACILITIES                                  
+54-1000Z                  46   SHAFT SPACE        DP OF FACILITIES                                  
+54-1003                   46   OFFICE SERVICE     DP OF FACIL ADM                                   
+54-1003Z                   5   SHAFT SPACE        DP OF FACILITIES                                  
+54-1004Z                  67   SHAFT SPACE        DP OF FACILITIES                                  
+54-1010                  291   OFFICE             EARTH ATMO&PL SC                                  
+54-1011                  358   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1011A                 100   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1011B                 166   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1011Z                  12   SHAFT SPACE        DP OF FACILITIES                                  
+54-1013                   20   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-1014                  150   OFFICE             EARTH ATMO&PL SC                                  
+54-1016                  152   OFFICE             EARTH ATMO&PL SC                                  
+54-1017                  414   CONFERENCE ROOM    EARTH ATMO&PL SC                                  
+54-1017A                  38   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-1018                  146   OFFICE             EARTH ATMO&PL SC                                  
+54-1020                  153   OFFICE             EARTH ATMO&PL SC                                  
+54-1021                  220   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-1022                  302   OFFICE             EARTH ATMO&PL SC                                  
+54-1025                  211   OFFICE             EARTH ATMO&PL SC                                  
+54-1026                  239   OFFICE             EARTH ATMO&PL SC                                  
+54-1026Z                   8   SHAFT SPACE        DP OF FACILITIES                                  
+54-1027                  224   OFFICE             EARTH ATMO&PL SC                                  
+54-1029                  366   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1029Z                   8   SHAFT SPACE        DP OF FACILITIES                                  
+54-1031                   51   PUBLIC LAVATORY    DP OF FACILITIES                                  
+54-1032J                  10   JANITOR CLOSET     DP OF FACILITIES                                  
+54-1033T                  16   TELECOM CLOSET     DP OF FACILITIES                                  
+54-1034E                  20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,110                                                                        
+                                                                                                    
+54-1100CA                585   CORRIDOR           DP OF FACILITIES                                  
+54-1100E1                 64   ELEVATOR           DP OF FACILITIES                                  
+54-1100E2                 67   ELEVATOR           DP OF FACILITIES                                  
+54-1100E3                 67   ELEVATOR           DP OF FACILITIES                                  
+54-1100LA                238   LOBBY              DP OF FACILITIES                                  
+54-1100SA                128   STAIRWAY           DP OF FACILITIES                                  
+54-1100SB                123   STAIRWAY           DP OF FACILITIES                                  
+54-1100Z                  64   SHAFT SPACE        DP OF FACILITIES                                  
+54-1103Z                   5   SHAFT SPACE        DP OF FACILITIES                                  
+54-1104Z                  67   SHAFT SPACE        DP OF FACILITIES                                  
+54-1111                   29   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-1112                   92   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-1113                   81   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-1113A                 284   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1113B                  52   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1113C                  50   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1113D                  90   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1113E                  88   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1113F                  89   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1114                  349   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1116                  152   OFFICE             EARTH ATMO&PL SC                                  
+54-1117                  731   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1117A                 152   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1117B                 154   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1118                  146   OFFICE             EARTH ATMO&PL SC                                  
+54-1120                  308   OFFICE             EARTH ATMO&PL SC       ESI/TERR                   
+54-1124                  147   OFFICE             EARTH ATMO&PL SC                                  
+54-1126                  240   OFFICE             EARTH ATMO&PL SC                                  
+54-1126Z                   8   SHAFT SPACE        DP OF FACILITIES                                  
+54-1127                   61   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-1127A                 300   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-1131                   51   PUBLIC LAVATORY    DP OF FACILITIES                                  
+54-1132J                  10   JANITOR CLOSET     DP OF FACILITIES                                  
+54-1133T                  16   TELECOM CLOSET     DP OF FACILITIES                                  
+54-1134E                  20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,107                                                                        
+                                                                                                    
+54-1200CA                585   CORRIDOR           DP OF FACILITIES                                  
+54-1200E1                 64   ELEVATOR           DP OF FACILITIES                                  
+54-1200E2                 67   ELEVATOR           DP OF FACILITIES                                  
+54-1200E3                 67   ELEVATOR           DP OF FACILITIES                                  
+54-1200LA                238   LOBBY              DP OF FACILITIES                                  
+54-1200SA                128   STAIRWAY           DP OF FACILITIES                                  
+54-1200SB                123   STAIRWAY           DP OF FACILITIES                                  
+54-1200Z                  46   SHAFT SPACE        DP OF FACILITIES                                  
+54-1203J                  50   JANITOR STORAGE    DP OF FACILITIES                                  
+54-1203Z                   5   SHAFT SPACE        DP OF FACILITIES                                  
+54-1204Z                  67   SHAFT SPACE        DP OF FACILITIES                                  
+54-1210                  142   SECY/RECEPTION     EARTH ATMO&PL SC                                  
+54-1211Z                   9   SHAFT SPACE        DP OF FACILITIES                                  
+54-1212                  143   OFFICE             EARTH ATMO&PL SC                                  
+54-1213                  426   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1214                  150   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1216                  152   OFFICE             EARTH ATMO&PL SC                                  
+54-1217                  453   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1218                  146   OFFICE             EARTH ATMO&PL SC                                  
+54-1220                  306   OFFICE             EARTH ATMO&PL SC                                  
+54-1221                  288   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1221A                 161   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-1224                  147   OFFICE             EARTH ATMO&PL SC                                  
+54-1225                  451   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1226                  240   OFFICE             EARTH ATMO&PL SC                                  
+54-1226Z                   8   SHAFT SPACE        DP OF FACILITIES                                  
+54-1227                  365   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1227Z                   8   SHAFT SPACE        DP OF FACILITIES                                  
+54-1231                   51   FEMALE LAVATORY    DP OF FACILITIES                                  
+54-1232J                  10   JANITOR CLOSET     DP OF FACILITIES                                  
+54-1233T                  16   TELECOM CLOSET     DP OF FACILITIES                                  
+54-1234E                  20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,133                                                                        
+                                                                                                    
+54-1300CA                585   CORRIDOR           DP OF FACILITIES                                  
+54-1300E1                 64   ELEVATOR           DP OF FACILITIES                                  
+54-1300E2                 68   ELEVATOR           DP OF FACILITIES                                  
+54-1300E3                 66   ELEVATOR           DP OF FACILITIES                                  
+54-1300LA                238   LOBBY              DP OF FACILITIES                                  
+54-1300SA                128   STAIRWAY           DP OF FACILITIES                                  
+54-1300SB                123   STAIRWAY           DP OF FACILITIES                                  
+54-1300Z                  55   SHAFT SPACE        DP OF FACILITIES                                  
+54-1303                   50   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-1303Z                   5   SHAFT SPACE        DP OF FACILITIES                                  
+54-1304Z                  67   SHAFT SPACE        DP OF FACILITIES                                  
+54-1310                  142   OFFICE             EARTH ATMO&PL SC                                  
+54-1311                  657   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1312                  143   SECY/RECEPTION     EARTH ATMO&PL SC                                  
+54-1314                  308   OFFICE             EARTH ATMO&PL SC                                  
+54-1318                  146   OFFICE             EARTH ATMO&PL SC                                  
+54-1319                  472   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-1319A                  89   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-1319B                 112   OFFICE             EARTH ATMO&PL SC                                  
+54-1320                  308   OFFICE             EARTH ATMO&PL SC                                  
+54-1323                  827   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1324                  147   OFFICE             EARTH ATMO&PL SC                                  
+54-1326                  240   OFFICE             EARTH ATMO&PL SC                                  
+54-1326Z                   8   SHAFT SPACE        DP OF FACILITIES                                  
+54-1327Z                   8   SHAFT SPACE        DP OF FACILITIES                                  
+54-1331                   51   PUBLIC LAVATORY    DP OF FACILITIES                                  
+54-1332J                  10   JANITOR CLOSET     DP OF FACILITIES                                  
+54-1333T                  16   TELECOM CLOSET     DP OF FACILITIES                                  
+54-1334E                  20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,152                                                                        
+                                                                                                    
+54-1400CA                585   CORRIDOR           DP OF FACILITIES                                  
+54-1400E1                 64   ELEVATOR           DP OF FACILITIES                                  
+54-1400E2                 68   ELEVATOR           DP OF FACILITIES                                  
+54-1400E3                 66   ELEVATOR           DP OF FACILITIES                                  
+54-1400LA                238   LOBBY              DP OF FACILITIES                                  
+54-1400SA                128   STAIRWAY           DP OF FACILITIES                                  
+54-1400SB                123   STAIRWAY           DP OF FACILITIES                                  
+54-1400Z                  46   SHAFT SPACE        DP OF FACILITIES                                  
+54-1403                   50   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-1403Z                   5   SHAFT SPACE        DP OF FACILITIES                                  
+54-1404Z                  67   SHAFT SPACE        DP OF FACILITIES                                  
+54-1410                  142   OFFICE             EARTH ATMO&PL SC                                  
+54-1411                  212   OFFICE             EARTH ATMO&PL SC                                  
+54-1411Z                   9   SHAFT SPACE        DP OF FACILITIES                                  
+54-1412                  143   OFFICE             EARTH ATMO&PL SC                                  
+54-1413                  214   OFFICE             EARTH ATMO&PL SC                                  
+54-1414                  150   OFFICE             EARTH ATMO&PL SC                                  
+54-1415                  220   OFFICE             EARTH ATMO&PL SC                                  
+54-1416                  303   OFFICE             EARTH ATMO&PL SC                                  
+54-1417                  231   OFFICE             EARTH ATMO&PL SC                                  
+54-1419                  216   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-1420                  153   OFFICE             EARTH ATMO&PL SC                                  
+54-1421                  222   OFFICE             EARTH ATMO&PL SC                                  
+54-1422                  149   OFFICE             EARTH ATMO&PL SC                                  
+54-1423                  222   OFFICE             EARTH ATMO&PL SC                                  
+54-1424                  147   OFFICE             EARTH ATMO&PL SC                                  
+54-1425                  222   OFFICE             EARTH ATMO&PL SC                                  
+54-1426                  240   OFFICE             EARTH ATMO&PL SC                                  
+54-1426Z                   8   SHAFT SPACE        DP OF FACILITIES                                  
+54-1427                  357   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-1427Z                   8   SHAFT SPACE        DP OF FACILITIES                                  
+54-1431                   51   PUBLIC LAVATORY    DP OF FACILITIES                                  
+54-1432J                  10   JANITOR CLOSET     DP OF FACILITIES                                  
+54-1433T                  16   TELECOM CLOSET     DP OF FACILITIES                                  
+54-1434E                  20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,107                                                                        
+                                                                                                    
+54-1500CA                585   CORRIDOR           DP OF FACILITIES                                  
+54-1500E1                 64   ELEVATOR           DP OF FACILITIES                                  
+54-1500E2                 68   ELEVATOR           DP OF FACILITIES                                  
+54-1500E3                 66   ELEVATOR           DP OF FACILITIES                                  
+54-1500LA                238   LOBBY              DP OF FACILITIES                                  
+54-1500SA                128   STAIRWAY           DP OF FACILITIES                                  
+54-1500SB                123   STAIRWAY           DP OF FACILITIES                                  
+54-1500Z                  46   SHAFT SPACE        DP OF FACILITIES                                  
+54-1503                   50   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-1503Z                   5   SHAFT SPACE        DP OF FACILITIES                                  
+54-1504Z                  67   SHAFT SPACE        DP OF FACILITIES                                  
+54-1510                  291   OFFICE             EARTH ATMO&PL SC                                  
+54-1511                  212   OFFICE             EARTH ATMO&PL SC                                  
+54-1511A                 214   OFFICE             EARTH ATMO&PL SC                                  
+54-1511Z                   9   SHAFT SPACE        DP OF FACILITIES                                  
+54-1514                  150   OFFICE             EARTH ATMO&PL SC                                  
+54-1515                  220   OFFICE             EARTH ATMO&PL SC                                  
+54-1516                  152   OFFICE             EARTH ATMO&PL SC                                  
+54-1517                  231   OFFICE             EARTH ATMO&PL SC                                  
+54-1518                  146   OFFICE             EARTH ATMO&PL SC                                  
+54-1519                  432   OFFICE             EARTH ATMO&PL SC                                  
+54-1520                  308   OFFICE             EARTH ATMO&PL SC                                  
+54-1523                  113   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-1524                  147   OFFICE             EARTH ATMO&PL SC                                  
+54-1526                  240   OFFICE             EARTH ATMO&PL SC                                  
+54-1526Z                   8   SHAFT SPACE        DP OF FACILITIES                                  
+54-1527                  589   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1527A                 118   LAB SUPPORT SHOP   EARTH ATMO&PL SC                                  
+54-1527Z                   8   SHAFT SPACE        DP OF FACILITIES                                  
+54-1531                   51   PUBLIC LAVATORY    DP OF FACILITIES                                  
+54-1532J                  10   JANITOR CLOSET     DP OF FACILITIES                                  
+54-1533T                  16   TELECOM CLOSET     DP OF FACILITIES                                  
+54-1534E                  20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,124                                                                        
+                                                                                                    
+54-1600CA                585   CORRIDOR           DP OF FACILITIES                                  
+54-1600E1                 64   ELEVATOR           DP OF FACILITIES                                  
+54-1600E2                 68   ELEVATOR           DP OF FACILITIES                                  
+54-1600E3                 66   ELEVATOR           DP OF FACILITIES                                  
+54-1600LA                238   LOBBY              DP OF FACILITIES                                  
+54-1600SA                128   STAIRWAY           DP OF FACILITIES                                  
+54-1600SB                123   STAIRWAY           DP OF FACILITIES                                  
+54-1600Z                  46   SHAFT SPACE        DP OF FACILITIES                                  
+54-1603                   50   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-1603Z                   5   SHAFT SPACE        DP OF FACILITIES                                  
+54-1604Z                  67   SHAFT SPACE        DP OF FACILITIES                                  
+54-1610                  142   OFFICE             EARTH ATMO&PL SC                                  
+54-1611                  426   OFFICE             EARTH ATMO&PL SC                                  
+54-1611Z                   9   SHAFT SPACE        DP OF FACILITIES                                  
+54-1612                  143   OFFICE             EARTH ATMO&PL SC                                  
+54-1614                  150   SECY/RECEPTION     EARTH ATMO&PL SC                                  
+54-1615                  455   OFFICE             EARTH ATMO&PL SC                                  
+54-1616                  152   OFFICE             EARTH ATMO&PL SC                                  
+54-1620                  305   OFFICE             EARTH ATMO&PL SC                                  
+54-1621                  451   OFFICE             EARTH ATMO&PL SC                                  
+54-1622                  149   OFFICE             EARTH ATMO&PL SC                                  
+54-1623                  671   CLASSROOM          EARTH ATMO&PL SC                                  
+54-1623A                 148   CLASSROOM SVC      EARTH ATMO&PL SC                                  
+54-1624                  147   OFFICE             EARTH ATMO&PL SC                                  
+54-1626                  240   OFFICE             EARTH ATMO&PL SC                                  
+54-1626Z                   8   SHAFT SPACE        DP OF FACILITIES                                  
+54-1627Z                   8   SHAFT SPACE        DP OF FACILITIES                                  
+54-1631                   51   PUBLIC LAVATORY    DP OF FACILITIES                                  
+54-1632J                  10   JANITOR CLOSET     DP OF FACILITIES                                  
+54-1633T                  16   TELECOM CLOSET     DP OF FACILITIES                                  
+54-1634E                  20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,141                                                                        
+                                                                                                    
+54-1700CA                585   CORRIDOR           DP OF FACILITIES                                  
+54-1700E1                 64   ELEVATOR           DP OF FACILITIES                                  
+54-1700E2                 67   ELEVATOR           DP OF FACILITIES                                  
+54-1700E3                 67   ELEVATOR           DP OF FACILITIES                                  
+54-1700LA                238   LOBBY              DP OF FACILITIES                                  
+54-1700SA                128   STAIRWAY           DP OF FACILITIES                                  
+54-1700SB                123   STAIRWAY           DP OF FACILITIES                                  
+54-1700Z                  54   SHAFT SPACE        DP OF FACILITIES                                  
+54-1703                   50   UTILITY/MECH RM    DP OF FACILITIES                                  
+54-1703Z                   5   SHAFT SPACE        DP OF FACILITIES                                  
+54-1704Z                  67   SHAFT SPACE        DP OF FACILITIES                                  
+54-1710                  142   OFFICE             EARTH ATMO&PL SC                                  
+54-1711                  212   OFFICE             EARTH ATMO&PL SC                                  
+54-1711Z                   9   SHAFT SPACE        DP OF FACILITIES                                  
+54-1712                  299   OFFICE             EARTH ATMO&PL SC                                  
+54-1713                  214   OFFICE             EARTH ATMO&PL SC                                  
+54-1715                  227   OFFICE             EARTH ATMO&PL SC                                  
+54-1717                  225   OFFICE             EARTH ATMO&PL SC                                  
+54-1718                  303   OFFICE             EARTH ATMO&PL SC                                  
+54-1719                  216   OFFICE             EARTH ATMO&PL SC                                  
+54-1720                  308   OFFICE             EARTH ATMO&PL SC                                  
+54-1721                  222   OFFICE             EARTH ATMO&PL SC                                  
+54-1724                  147   OFFICE             EARTH ATMO&PL SC                                  
+54-1725                  340   OFFICE             EARTH ATMO&PL SC                                  
+54-1725A                 106   OFFICE             EARTH ATMO&PL SC                                  
+54-1726                  240   OFFICE             EARTH ATMO&PL SC                                  
+54-1726Z                   8   SHAFT SPACE        DP OF FACILITIES                                  
+54-1727                  357   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-1731                   51   PUBLIC LAVATORY    DP OF FACILITIES                                  
+54-1732J                  10   JANITOR CLOSET     DP OF FACILITIES                                  
+54-1733T                  16   TELECOM CLOSET     DP OF FACILITIES                                  
+54-1734E                  20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,120                                                                        
+                                                                                                    
+54-1800CA                585   CORRIDOR           DP OF FACILITIES                                  
+54-1800E1                 64   ELEVATOR           DP OF FACILITIES                                  
+54-1800E2                 67   ELEVATOR           DP OF FACILITIES                                  
+54-1800E3                 67   ELEVATOR           DP OF FACILITIES                                  
+54-1800E4                 34   ELEVATOR           DP OF FACILITIES                                  
+54-1800LA                256   LOBBY              DP OF FACILITIES                                  
+54-1800SA                128   STAIRWAY           DP OF FACILITIES                                  
+54-1800SB                114   STAIRWAY           DP OF FACILITIES                                  
+54-1800Z                  39   SHAFT SPACE        DP OF FACILITIES                                  
+54-1804Z                  67   SHAFT SPACE        DP OF FACILITIES                                  
+54-1810                  142   OFFICE             EARTH ATMO&PL SC                                  
+54-1811                  810   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-1811A                  51   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-1811Z                  29   SHAFT SPACE        DP OF FACILITIES                                  
+54-1812                  143   OFFICE             EARTH ATMO&PL SC                                  
+54-1814                  308   OFFICE             EARTH ATMO&PL SC                                  
+54-1815                   20   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-1818                  144   OFFICE             EARTH ATMO&PL SC                                  
+54-1819                  231   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-1820                  154   OFFICE             EARTH ATMO&PL SC                                  
+54-1821                  222   OFFICE             EARTH ATMO&PL SC                                  
+54-1822                  149   OFFICE             EARTH ATMO&PL SC                                  
+54-1823                  222   OFFICE             EARTH ATMO&PL SC                                  
+54-1824                  287   OFFICE             EARTH ATMO&PL SC                                  
+54-1826Z                   8   SHAFT SPACE        DP OF FACILITIES                                  
+54-1827                  439   CONFERENCE ROOM    EARTH ATMO&PL SC                                  
+54-1827A                  24   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-1827B                  30   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-1827C                  83   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-1827Z                   8   SHAFT SPACE        DP OF FACILITIES                                  
+54-1828T                 101   TELECOM CLOSET     DP OF FACILITIES                                  
+54-1831                   51   PUBLIC LAVATORY    DP OF FACILITIES                                  
+54-1832J                  10   JANITOR CLOSET     DP OF FACILITIES                                  
+54-1833T                  16   TELECOM CLOSET     DP OF FACILITIES                                  
+54-1834E                  20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,125                                                                        
+                                                                                                    
+54-1900                3,080   UTILITY/MECH RM    DP OF FACILITIES                                  
+54-1900E4                 34   ELEVATOR           DP OF FACILITIES                                  
+54-1900LA                 14   LOBBY              DP OF FACILITIES                                  
+54-1900LB                 17   LOBBY              DP OF FACILITIES                                  
+54-1900SA                138   STAIRWAY           DP OF FACILITIES                                  
+54-1900SB                114   STAIRWAY           DP OF FACILITIES                                  
+54-1900SC                 49   STAIRWAY           DP OF FACILITIES                                  
+54-1900Z                 242   SHAFT SPACE        DP OF FACILITIES                                  
+54-1911                  530   LABORATORY SVC     EARTH ATMO&PL SC                                  
+54-1920                  797   UTILITY/MECH RM    DP OF FACILITIES                                  
+54-1925                  154   UTILITY/MECH RM    DP OF FACILITIES                                  
+54-1931Z                  54   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,223                                                                        
+                                                                                                    
+54-2000CA                 89   CORRIDOR           DP OF FACILITIES                                  
+54-2000E4                 66   ELEVATOR           DP OF FACILITIES                                  
+54-2000SA                 87   STAIRWAY           DP OF FACILITIES                                  
+54-2000SB                104   STAIRWAY           DP OF FACILITIES                                  
+54-2000SC                111   STAIRWAY           DP OF FACILITIES                                  
+54-2000Z                 393   SHAFT SPACE        DP OF FACILITIES                                  
+54-2010                  502   UTILITY/MECH RM    DP OF FACILITIES                                  
+54-2012                  433   UTILITY/MECH RM    DP OF FACILITIES                                  
+54-2013                  110   OFFICE SERVICE     EARTH ATMO&PL SC                                  
+54-2035E                 599   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       2,494                                                                        
+                                                                                                    
+54-2100E4                 33   ELEVATOR           DP OF FACILITIES                                  
+54-2101                  247   RESEARCH LAB       EARTH ATMO&PL SC                                  
+54-2127                  459   RESEARCH LAB       EARTH ATMO&PL SC   

@@ -1,0 +1,106 @@
+E94-1501               4,818   PVT CIRCULATION    SCH OF MANAGEMNT                                  
+E94-1502A                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1502B                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1502C                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1502D                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1503                 122   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E94-1504A                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1504B                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1504C                 61   OFFICE             SCH OF MANAGEMNT                                  
+E94-1504D                 61   OFFICE             SCH OF MANAGEMNT                                  
+E94-1504F                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1504G                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1504H                 24   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E94-1504T                186   TELECOM CLOSET     DP OF FACILITIES                                  
+E94-1505                 134   OFFICE             SCH OF MANAGEMNT                                  
+E94-1507                 116   OFFICE             SCH OF MANAGEMNT                                  
+E94-1508A                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1508B                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1508C                 61   OFFICE             SCH OF MANAGEMNT                                  
+E94-1508D                 61   OFFICE             SCH OF MANAGEMNT                                  
+E94-1508F                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1508G                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1509                 110   OFFICE             SCH OF MANAGEMNT                                  
+E94-1510                 103   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E94-1511                 111   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E94-1512                 123   OFFICE             SCH OF MANAGEMNT                                  
+E94-1513                 112   OFFICE             SCH OF MANAGEMNT                                  
+E94-1514                 123   OFFICE             SCH OF MANAGEMNT                                  
+E94-1515                 112   OFFICE             SCH OF MANAGEMNT                                  
+E94-1516                 104   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E94-1517                 106   OFFICE             SCH OF MANAGEMNT                                  
+E94-1518A                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1518C                 61   OFFICE             SCH OF MANAGEMNT                                  
+E94-1518D                 61   OFFICE             SCH OF MANAGEMNT                                  
+E94-1518F                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1518G                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1519                 116   OFFICE             SCH OF MANAGEMNT                                  
+E94-1521                 115   OFFICE             SCH OF MANAGEMNT                                  
+E94-1522A                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1522B                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1522C                 61   OFFICE             SCH OF MANAGEMNT                                  
+E94-1522D                 61   OFFICE             SCH OF MANAGEMNT                                  
+E94-1522F                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1522G                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1523                 242   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E94-1524                  68   PVT LAVATORY       SCH OF MANAGEMNT                                  
+E94-1526A                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1526B                 64   OFFICE             SCH OF MANAGEMNT                                  
+E94-1526C                 64   OFFICE             SCH OF MANAGEMNT                                  
+E94-1526D                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1526F                 39   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E94-1526G                 16   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E94-1529                 217   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E94-1530                  77   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E94-1531                 437   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E94-1537                 435   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E94-1541                 114   OFFICE             SCH OF MANAGEMNT                                  
+E94-1543                 112   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E94-1543A                 71   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E94-1546A                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1546B                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1546C                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1546D                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1546F                 31   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E94-1547                 119   OFFICE             SCH OF MANAGEMNT                                  
+E94-1548A                 61   OFFICE             SCH OF MANAGEMNT                                  
+E94-1548B                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1548C                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1548D                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1548F                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1548G                 61   OFFICE             SCH OF MANAGEMNT                                  
+E94-1549                 116   OFFICE             SCH OF MANAGEMNT                                  
+E94-1550                 122   OFFICE             SCH OF MANAGEMNT                                  
+E94-1551                 111   OFFICE             SCH OF MANAGEMNT                                  
+E94-1552                 100   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E94-1553                 117   OFFICE             SCH OF MANAGEMNT                                  
+E94-1554                 101   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E94-1555                 118   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E94-1556                 121   OFFICE             SCH OF MANAGEMNT                                  
+E94-1557                 119   OFFICE             SCH OF MANAGEMNT                                  
+E94-1558A                 61   OFFICE             SCH OF MANAGEMNT                                  
+E94-1558B                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1558C                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1558D                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1558F                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1558G                 61   OFFICE             SCH OF MANAGEMNT                                  
+E94-1559                 110   OFFICE             SCH OF MANAGEMNT                                  
+E94-1561                 113   OFFICE             SCH OF MANAGEMNT                                  
+E94-1562A                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1562B                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1562C                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1562D                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1565                 115   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E94-1565A                 72   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E94-1567                 112   OFFICE             SCH OF MANAGEMNT                                  
+E94-1568A                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1568B                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1568C                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1568D                 62   OFFICE             SCH OF MANAGEMNT                                  
+E94-1574                 114   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E94-1574E                 19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E94-1576                  47   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E94-1578                 121   OFFICE             SCH OF MANAGEMNT                                  
+E94-1579                 274   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E94-1580                 122   OFFICE             SCH OF MANAGEMNT                                  
+E94-1586B                 62   OFFICE             SCH OF MANAGEMNT   

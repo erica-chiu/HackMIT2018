@@ -1,0 +1,17 @@
+17-000CA                  98   CORRIDOR           DP OF FACILITIES                                  
+17-000SA                  26   STAIRWAY           DP OF FACILITIES                                  
+17-004                   453   LABORATORY SVC     AERO & ASTRO                                      
+17-004A                  112   LABORATORY SVC     AERO & ASTRO                                      
+17-006                    30   PUBLIC LAVATORY    DP OF FACILITIES                                  
+17-010                   369   RESEARCH LAB       AERO & ASTRO                                      
+17-010A                  127   LABORATORY SVC     AERO & ASTRO                                      
+17-010B                   12   LABORATORY SVC     AERO & ASTRO                                      
+                    --------                                                                        
+                       1,227                                                                        
+                                                                                                    
+17-1/000SA               108   STAIRWAY           DP OF FACILITIES                                  
+17-100Z                    1   SHAFT SPACE        DP OF FACILITIES                                  
+17-104                   621   RESEARCH LAB       AERO & ASTRO                                      
+17-104A                2,587   RESEARCH LAB       AERO & ASTRO                                      
+17-104B                   33   RSCH LAB-OFFICE    AERO & ASTRO                                      
+17-110                   547   LAB SUPPORT SHOP   AERO & ASTRO

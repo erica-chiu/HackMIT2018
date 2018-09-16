@@ -1,0 +1,335 @@
+66-0000CC              2,566   CORRIDOR           DP OF FACILITIES                                  
+66-0000E1                 80   ELEVATOR           DP OF FACILITIES                                  
+66-0000E2                 89   ELEVATOR           DP OF FACILITIES                                  
+66-0000E3                 70   ELEVATOR           DP OF FACILITIES                                  
+66-0000SC                115   STAIRWAY           DP OF FACILITIES                                  
+66-0000SD                162   STAIRWAY           DP OF FACILITIES                                  
+66-0000SE                135   STAIRWAY           DP OF FACILITIES                                  
+66-0000Z                  65   SHAFT SPACE        DP OF FACILITIES                                  
+66-0001                   98   LABORATORY SVC     CHEMICAL ENG                                      
+66-0002                  174   JANITOR STORAGE    DP OF FACILITIES                                  
+66-0003                  234   OFFICE             CHEMICAL ENG                                      
+66-0004                   76   UTILITY/MECH RM    DP OF FACILITIES                                  
+66-0005                  220   OFFICE             CHEMICAL ENG                                      
+66-0006                  207   OFFICE             CHEMICAL ENG                                      
+66-0008                  455   LABORATORY SVC     CHEMICAL ENG                                      
+66-0008A                 270   LAB SUPPORT SHOP   CHEMICAL ENG                                      
+66-0011                   94   UTILITY/MECH RM    DP OF FACILITIES                                  
+66-0013                  249   LABORATORY SVC     CHEMICAL ENG                                      
+66-0039                  284   TEACHING LAB       CHEMICAL ENG                                      
+66-0039E                  84   ELECTRIC CLOSET    DP OF FACILITIES                                  
+66-0040                  345   LABORATORY SVC     CHEMICAL ENG                                      
+66-0042                  463   TEACHING LAB       CHEMICAL ENG                                      
+66-0043                    5   UTILITY/MECH RM    DP OF FACILITIES                                  
+66-0044                1,690   TEACHING LAB       CHEMICAL ENG                                      
+66-0045                  188   FEMALE LAVATORY    DP OF FACILITIES                                  
+66-0047                  109   MALE LAVATORY      DP OF FACILITIES                                  
+66-0051                6,294   UTILITY/MECH RM    DP OF FACILITIES                                  
+66-0051A                 116   UTILITY/MECH RM    DP OF FACILITIES                                  
+66-0051B                 139   UTILITY/MECH RM    DP OF FACILITIES                                  
+66-0064                  748   TEACHING LAB       CHEMICAL ENG                                      
+66-0064A                 305   TEACHING LAB       CHEMICAL ENG                                      
+66-0069                  324   LABORATORY SVC     CHEMICAL ENG                                      
+66-0076                  474   LABORATORY SVC     CHEMICAL ENG                                      
+                    --------                                                                        
+                      16,927                                                                        
+                                                                                                    
+66-000CA                 484   CORRIDOR           DP OF FACILITIES                                  
+66-000CB                 446   CORRIDOR           DP OF FACILITIES                                  
+66-000CC               1,206   CORRIDOR           DP OF FACILITIES                                  
+66-000CD                  82   CORRIDOR           DP OF FACILITIES                                  
+66-000CE                 351   CORRIDOR           DP OF FACILITIES                                  
+66-000E1                  74   ELEVATOR           DP OF FACILITIES                                  
+66-000E2                  51   ELEVATOR           DP OF FACILITIES                                  
+66-000E3                  68   ELEVATOR           DP OF FACILITIES                                  
+66-000LA                 803   LOBBY              DP OF FACILITIES                                  
+66-000SA                  36   STAIRWAY           DP OF FACILITIES                                  
+66-000SB                 141   STAIRWAY           DP OF FACILITIES                                  
+66-000SC                 122   STAIRWAY           DP OF FACILITIES                                  
+66-000SD                 160   STAIRWAY           DP OF FACILITIES                                  
+66-000SE                 135   STAIRWAY           DP OF FACILITIES                                  
+66-000Z                  468   SHAFT SPACE        DP OF FACILITIES                                  
+66-001                   128   OFFICE SERVICE     DP OF FACIL ADM                                   
+66-004AE                   8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+66-004E                  120   ELECTRIC CLOSET    DP OF FACILITIES                                  
+66-007                   289   JANITOR STORAGE    DP OF FACILITIES                                  
+66-008                   465   OFFICE             CHEMICAL ENG                                      
+66-008Z                   59   SHAFT SPACE        DP OF FACILITIES                                  
+66-011                   378   RESEARCH LAB       CHEMICAL ENG                                      
+66-011E                   10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+66-017                    57   LABORATORY SVC     CHEMICAL ENG                                      
+66-019                   480   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+66-021                   359   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+66-025                 1,450   RESEARCH LAB       CHEMICAL ENG                                      
+66-025A                  922   RESEARCH LAB       CHEMICAL ENG                                      
+66-025AAZ                 23   SHAFT SPACE        DP OF FACILITIES                                  
+66-025AZ                  23   SHAFT SPACE        DP OF FACILITIES                                  
+66-025Z                   23   SHAFT SPACE        DP OF FACILITIES                                  
+66-038                   232   OFFICE             CHEMICAL ENG                                      
+66-039                   207   OFFICE             CHEMICAL ENG                                      
+66-039A                   23   OFFICE SERVICE     CHEMICAL ENG                                      
+66-040E                  963   ELECTRIC CLOSET    DP OF FACILITIES                                  
+66-043                   159   FEMALE LAVATORY    DP OF FACILITIES                                  
+66-045J                   29   JANITOR CLOSET     DP OF FACILITIES                                  
+66-047                    79   PUBLIC LAVATORY    DP OF FACILITIES                                  
+66-048E                  370   ELECTRIC CLOSET    DP OF FACILITIES                                  
+66-050T                  137   TELECOM CLOSET     DP OF FACILITIES                                  
+66-050Z                   71   SHAFT SPACE        DP OF FACILITIES                                  
+66-051T                   16   TELECOM CLOSET     DP OF FACILITIES                                  
+66-053                   492   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+66-056                   155   UTILITY/MECH RM    DP OF FACILITIES                                  
+66-057                 1,097   RESEARCH LAB       CHEMICAL ENG                                      
+66-057AZ                  23   SHAFT SPACE        DP OF FACILITIES                                  
+66-057Z                   23   SHAFT SPACE        DP OF FACILITIES                                  
+66-058                   183   OFFICE             CHEMICAL ENG                                      
+66-060                   643   OFFICE             CHEMICAL ENG                                      
+66-063                   392   RESEARCH LAB       CHEMICAL ENG                                      
+66-065                   437   RESEARCH LAB       CHEMICAL ENG                                      
+66-065A                  121   LABORATORY SVC     CHEMICAL ENG                                      
+66-070                 1,109   LABORATORY SVC     CHEMICAL ENG                                      
+66-080                   679   COMPUTER FACIL     INFO SVCS & TECH       ATHENA                     
+                    --------                                                                        
+                      17,061                                                                        
+                                                                                                    
+66-100CA                 395   CORRIDOR           DP OF FACILITIES                                  
+66-100CC                 770   CORRIDOR           DP OF FACILITIES                                  
+66-100E1                  70   ELEVATOR           DP OF FACILITIES                                  
+66-100E2                  50   ELEVATOR           DP OF FACILITIES                                  
+66-100E3                  76   ELEVATOR           DP OF FACILITIES                                  
+66-100LA               1,706   LOBBY              DP OF FACILITIES                                  
+66-100LB                 599   LOBBY              DP OF FACILITIES                                  
+66-100SA                  79   STAIRWAY           DP OF FACILITIES                                  
+66-100SB                 100   STAIRWAY           DP OF FACILITIES                                  
+66-100SC                 123   STAIRWAY           DP OF FACILITIES                                  
+66-100SD                 166   STAIRWAY           DP OF FACILITIES                                  
+66-100Z                  556   SHAFT SPACE        DP OF FACILITIES                                  
+66-101                   428   CLASSROOM SVC      CHEMICAL ENG                                      
+66-110                 1,406   LECTURE HALL       CHEMICAL ENG                                      
+66-111                   623   UTILITY/MECH RM    DP OF FACILITIES                                  
+66-117E                   41   ELECTRIC CLOSET    DP OF FACILITIES                                  
+66-125                   336   LABORATORY SVC     CHEMICAL ENG                                      
+66-125A                  506   RESEARCH LAB       CHEMICAL ENG                                      
+66-125AA                 384   RESEARCH LAB       CHEMICAL ENG                                      
+66-125B                  301   RESEARCH LAB       CHEMICAL ENG                                      
+66-143                   147   FEMALE LAVATORY    DP OF FACILITIES                                  
+66-144                   682   CLASSROOM          REGISTRAR                                         
+66-145                   126   MALE LAVATORY      DP OF FACILITIES                                  
+66-145J                   29   JANITOR CLOSET     DP OF FACILITIES                                  
+66-147                    81   PUBLIC LAVATORY    DP OF FACILITIES                                  
+66-148                   409   CLASSROOM          REGISTRAR                                         
+66-151T                    3   TELECOM CLOSET     DP OF FACILITIES                                  
+66-153                   840   RESEARCH LAB       CHEMICAL ENG                                      
+66-153A                  226   RESEARCH LAB       CHEMICAL ENG                                      
+66-153B                  328   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+66-154                   617   CLASSROOM          REGISTRAR                                         
+66-156                   409   CLASSROOM          REGISTRAR                                         
+66-157                 1,074   RESEARCH LAB       CHEMICAL ENG                                      
+66-160                   617   CLASSROOM          REGISTRAR                                         
+66-163                   349   RESEARCH LAB       CHEMICAL ENG                                      
+66-165                   452   OFFICE             CHEMICAL ENG                                      
+66-168                   830   CLASSROOM          REGISTRAR                                         
+                    --------                                                                        
+                      15,936                                                                        
+                                                                                                    
+66-200CA                 404   CORRIDOR           DP OF FACILITIES                                  
+66-200CC               1,088   CORRIDOR           DP OF FACILITIES                                  
+66-200E1                  75   ELEVATOR           DP OF FACILITIES                                  
+66-200E2                  50   ELEVATOR           DP OF FACILITIES                                  
+66-200LA               1,018   LOBBY              DP OF FACILITIES                                  
+66-200SA                  36   STAIRWAY           DP OF FACILITIES                                  
+66-200SB                 125   STAIRWAY           DP OF FACILITIES                                  
+66-200SC                 122   STAIRWAY           DP OF FACILITIES                                  
+66-200SD                 159   STAIRWAY           DP OF FACILITIES                                  
+66-200Z                  560   SHAFT SPACE        DP OF FACILITIES                                  
+66-201                 1,218   LOUNGE             CHEMICAL ENG           WALKER STUDENT             
+66-201A                   99   OFFICE SERVICE     CHEMICAL ENG                                      
+66-204E                   57   ELECTRIC CLOSET    DP OF FACILITIES                                  
+66-216                   517   OFFICE             CHEMICAL ENG                                      
+66-217                   105   LABORATORY SVC     CHEMICAL ENG                                      
+66-218                    90   LABORATORY SVC     CHEMICAL ENG                                      
+66-219                   505   RESEARCH LAB       CHEMICAL ENG                                      
+66-221                   783   RESEARCH LAB       CHEMICAL ENG                                      
+66-225                   847   RESEARCH LAB       CHEMICAL ENG                                      
+66-225A                   23   LABORATORY SVC     CHEMICAL ENG                                      
+66-225AA                  13   LABORATORY SVC     CHEMICAL ENG                                      
+66-225B                  129   LABORATORY SVC     CHEMICAL ENG                                      
+66-240                   285   OFFICE             CHEMICAL ENG                                      
+66-243                   164   FEMALE LAVATORY    DP OF FACILITIES                                  
+66-244                   604   OFFICE             CHEMICAL ENG                                      
+66-245J                   29   JANITOR CLOSET     DP OF FACILITIES                                  
+66-247                   158   MALE LAVATORY      DP OF FACILITIES                                  
+66-251T                   14   TELECOM CLOSET     DP OF FACILITIES                                  
+66-252                   604   OFFICE             CHEMICAL ENG                                      
+66-253                   424   OFFICE             CHEMICAL ENG                                      
+66-256T                   57   TELECOM CLOSET     DP OF FACILITIES                                  
+66-257                   585   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+66-257A                  884   RESEARCH LAB       CHEMICAL ENG                                      
+66-258                   513   OFFICE             CHEMICAL ENG                                      
+66-259                   487   RESEARCH LAB       CHEMICAL ENG                                      
+66-260                   217   OFFICE             CHEMICAL ENG                                      
+66-262                   199   OFFICE             CHEMICAL ENG                                      
+66-263                   204   OFFICE             CHEMICAL ENG                                      
+66-264                   397   OFFICE             CHEMICAL ENG                                      
+66-265                   145   OFFICE SERVICE     CHEMICAL ENG                                      
+66-265A                  176   OFFICE             CHEMICAL ENG                                      
+66-265AA                 139   OFFICE             CHEMICAL ENG                                      
+66-265AB                 124   OFFICE             CHEMICAL ENG                                      
+66-269                   156   CONFERENCE ROOM    CHEMICAL ENG                                      
+66-270                   598   OFFICE             CHEMICAL ENG                                      
+                    --------                                                                        
+                      15,190                                                                        
+                                                                                                    
+66-300CA                 464   CORRIDOR           DP OF FACILITIES                                  
+66-300CB                 500   CORRIDOR           DP OF FACILITIES                                  
+66-300CC               1,520   CORRIDOR           DP OF FACILITIES                                  
+66-300E1                  74   ELEVATOR           DP OF FACILITIES                                  
+66-300E2                  51   ELEVATOR           DP OF FACILITIES                                  
+66-300LA               1,418   LOBBY              DP OF FACILITIES                                  
+66-300SC                 128   STAIRWAY           DP OF FACILITIES                                  
+66-300SD                 157   STAIRWAY           DP OF FACILITIES                                  
+66-300SG                  21   STAIRWAY           DP OF FACILITIES                                  
+66-300Z                  522   SHAFT SPACE        DP OF FACILITIES                                  
+66-301                   139   OFFICE SERVICE     CHEMICAL ENG                                      
+66-303                   189   OFFICE             CHEMICAL ENG                                      
+66-304E                   57   ELECTRIC CLOSET    DP OF FACILITIES                                  
+66-307                   189   OFFICE             CHEMICAL ENG                                      
+66-311                   236   OFFICE             CHEMICAL ENG                                      
+66-317                   440   RESEARCH LAB       CHEMICAL ENG                                      
+66-318                   132   PVT CIRCULATION    CHEMICAL ENG                                      
+66-318E                    9   ELECTRIC CLOSET    DP OF FACILITIES                                  
+66-319                   438   CONFERENCE ROOM    CHEMICAL ENG                                      
+66-321                   366   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+66-321A                  216   RESEARCH LAB       CHEMICAL ENG                                      
+66-325                 1,440   RESEARCH LAB       CHEMICAL ENG                                      
+66-342                   644   OFFICE             CHEMICAL ENG                                      
+66-343                   159   FEMALE LAVATORY    DP OF FACILITIES                                  
+66-345J                   28   JANITOR CLOSET     DP OF FACILITIES                                  
+66-346                    52   PVT LAVATORY       CHEMICAL ENG                                      
+66-347                    79   PUBLIC LAVATORY    DP OF FACILITIES                                  
+66-350                   561   SECY/RECEPTION     CHEMICAL ENG                                      
+66-350A                   67   OFFICE SERVICE     CHEMICAL ENG                                      
+66-351T                   35   TELECOM CLOSET     DP OF FACILITIES                                  
+66-352                   315   OFFICE             CHEMICAL ENG                                      
+66-353                 1,416   RESEARCH LAB       CHEMICAL ENG                                      
+66-354                    49   OFFICE SERVICE     CHEMICAL ENG                                      
+66-357                 1,081   RESEARCH LAB       CHEMICAL ENG                                      
+66-360                   797   CONFERENCE ROOM    CHEMICAL ENG                                      
+66-365                   492   OFFICE             CHEMICAL ENG                                      
+66-366                   229   OFFICE             CHEMICAL ENG                                      
+66-366A                  117   OFFICE             CHEMICAL ENG                                      
+66-366B                   50   OFFICE SERVICE     CHEMICAL ENG                                      
+66-367                   203   OFFICE             CHEMICAL ENG                                      
+66-368                   200   OFFICE             CHEMICAL ENG                                      
+66-369                   235   OFFICE             CHEMICAL ENG                                      
+66-370                   200   SECY/RECEPTION     CHEMICAL ENG                                      
+66-370A                  291   OFFICE             CHEMICAL ENG                                      
+66-371                   105   OFFICE             CHEMICAL ENG                                      
+66-380                   370   CONFERENCE ROOM    CHEMICAL ENG                                      
+                    --------                                                                        
+                      16,483                                                                        
+                                                                                                    
+66-400CA                 474   CORRIDOR           DP OF FACILITIES                                  
+66-400CB                 499   CORRIDOR           DP OF FACILITIES                                  
+66-400CC               1,547   CORRIDOR           DP OF FACILITIES                                  
+66-400E1                  75   ELEVATOR           DP OF FACILITIES                                  
+66-400E2                  50   ELEVATOR           DP OF FACILITIES                                  
+66-400LA               1,106   LOBBY              DP OF FACILITIES                                  
+66-400SC                 122   STAIRWAY           DP OF FACILITIES                                  
+66-400SD                 169   STAIRWAY           DP OF FACILITIES                                  
+66-400SG                  77   STAIRWAY           DP OF FACILITIES                                  
+66-400Z                  526   SHAFT SPACE        DP OF FACILITIES                                  
+66-401                   146   OFFICE SERVICE     CHEMICAL ENG                                      
+66-403                   189   OFFICE             CHEMICAL ENG                                      
+66-404E                   57   ELECTRIC CLOSET    DP OF FACILITIES                                  
+66-407                   189   OFFICE             CHEMICAL ENG                                      
+66-408                   372   RESEARCH LAB       CHEMICAL ENG                                      
+66-411                   236   OFFICE             CHEMICAL ENG                                      
+66-418                   183   LABORATORY SVC     CHEMICAL ENG                                      
+66-419                   438   RESEARCH LAB       CHEMICAL ENG                                      
+66-421                   650   RESEARCH LAB       CHEMICAL ENG                                      
+66-425                 1,094   RESEARCH LAB       CHEMICAL ENG                                      
+66-425A                  321   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+66-442                   198   SECY/RECEPTION     CHEMICAL ENG                                      
+66-442A                  266   OFFICE             CHEMICAL ENG                                      
+66-442B                  198   OFFICE             CHEMICAL ENG                                      
+66-443                   160   MALE LAVATORY      DP OF FACILITIES                                  
+66-445J                   29   JANITOR CLOSET     DP OF FACILITIES                                  
+66-446                   198   OFFICE             CHEMICAL ENG                                      
+66-447                    79   PUBLIC LAVATORY    DP OF FACILITIES                                  
+66-448                   198   OFFICE             CHEMICAL ENG                                      
+66-450                   198   OFFICE             CHEMICAL ENG                                      
+66-451T                   15   TELECOM CLOSET     DP OF FACILITIES                                  
+66-452T                   72   TELECOM CLOSET     DP OF FACILITIES                                  
+66-453                   965   RESEARCH LAB       CHEMICAL ENG                                      
+66-453A                  144   LABORATORY SVC     CHEMICAL ENG                                      
+66-453B                  293   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+66-454                   325   OFFICE             CHEMICAL ENG                                      
+66-455                   291   LABORATORY SVC     CHEMICAL ENG                                      
+66-457                   779   RESEARCH LAB       CHEMICAL ENG                                      
+66-458                   198   SECY/RECEPTION     CHEMICAL ENG                                      
+66-458A                  198   OFFICE             CHEMICAL ENG                                      
+66-458B                  198   OFFICE             CHEMICAL ENG                                      
+66-462                   198   OFFICE             CHEMICAL ENG                                      
+66-463                   110   RESEARCH LAB       CHEMICAL ENG                                      
+66-464                   198   OFFICE             CHEMICAL ENG                                      
+66-465                   822   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+66-466                   198   OFFICE             CHEMICAL ENG                                      
+66-470                   198   SECY/RECEPTION     CHEMICAL ENG                                      
+66-470A                  198   OFFICE             CHEMICAL ENG                                      
+66-470B                  290   OFFICE             CHEMICAL ENG                                      
+66-471                   104   OFFICE             CHEMICAL ENG                                      
+66-480                   370   CONFERENCE ROOM    CHEMICAL ENG                                      
+                    --------                                                                        
+                      16,211                                                                        
+                                                                                                    
+66-500A                   86   OFFICE SERVICE     CHEMICAL ENG                                      
+66-500CB                 499   CORRIDOR           DP OF FACILITIES                                  
+66-500CC               1,525   CORRIDOR           DP OF FACILITIES                                  
+66-500E1                  73   ELEVATOR           DP OF FACILITIES                                  
+66-500E2                  52   ELEVATOR           DP OF FACILITIES                                  
+66-500LA                 915   LOBBY              DP OF FACILITIES                                  
+66-500SC                 128   STAIRWAY           DP OF FACILITIES                                  
+66-500SD                 164   STAIRWAY           DP OF FACILITIES                                  
+66-500SF                  65   STAIRWAY           DP OF FACILITIES                                  
+66-500SG                  77   STAIRWAY           DP OF FACILITIES                                  
+66-500Z                  505   SHAFT SPACE        DP OF FACILITIES                                  
+66-501                   141   OFFICE             CHEMICAL ENG                                      
+66-503                   189   OFFICE             CHEMICAL ENG                                      
+66-504E                   57   ELECTRIC CLOSET    DP OF FACILITIES                                  
+66-507                   189   OFFICE             CHEMICAL ENG                                      
+66-508                   482   RESEARCH LAB       CHEMICAL ENG                                      
+66-511                   236   OFFICE             CHEMICAL ENG                                      
+66-518                   183   LABORATORY SVC     CHEMICAL ENG                                      
+66-519                   446   RESEARCH LAB       CHEMICAL ENG                                      
+66-521                   431   RESEARCH LAB       CHEMICAL ENG                                      
+66-521C                  103   LABORATORY SVC     CHEMICAL ENG                                      
+66-525                 1,132   RESEARCH LAB       CHEMICAL ENG                                      
+66-525A                  287   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+66-542                   198   SECY/RECEPTION     CHEMICAL ENG                                      
+66-542A                  266   OFFICE             CHEMICAL ENG                                      
+66-542B                  198   OFFICE             CHEMICAL ENG                                      
+66-543                   159   FEMALE LAVATORY    DP OF FACILITIES                                  
+66-545J                   29   JANITOR CLOSET     DP OF FACILITIES                                  
+66-546                   198   OFFICE             CHEMICAL ENG                                      
+66-547                    79   PUBLIC LAVATORY    DP OF FACILITIES                                  
+66-548                   198   OFFICE             CHEMICAL ENG                                      
+66-550                   198   OFFICE             CHEMICAL ENG                                      
+66-551T                   34   TELECOM CLOSET     DP OF FACILITIES                                  
+66-552                   198   SECY/RECEPTION     CHEMICAL ENG                                      
+66-553                   989   RESEARCH LAB       CHEMICAL ENG                                      
+66-553A                  150   RESEARCH LAB       CHEMICAL ENG                                      
+66-553B                  131   RESEARCH LAB       CHEMICAL ENG                                      
+66-553BA                 119   RESEARCH LAB       CHEMICAL ENG                                      
+66-554                   198   OFFICE             CHEMICAL ENG                                      
+66-557                   950   RESEARCH LAB       CHEMICAL ENG                                      
+66-557B                  141   RESEARCH LAB       CHEMICAL ENG                                      
+66-558                   198   SECY/RECEPTION     CHEMICAL ENG                                      
+66-558A                  198   OFFICE             CHEMICAL ENG                                      
+66-558B                  198   OFFICE             CHEMICAL ENG                                      
+66-564                   611   OFFICE             CHEMICAL ENG                                      
+66-565                   624   RESEARCH LAB       CHEMICAL ENG                                      
+66-569                   352   OFFICE             CHEMICAL ENG                                      
+66-570                   198   SECY/RECEPTION     CHEMICAL ENG                                      
+66-570A                  198   OFFICE             CHEMICAL ENG                                      
+66-570B                  290   OFFICE             CHEMICAL ENG                                      
+66-580                   379   OFFICE             CHEMICAL ENG 

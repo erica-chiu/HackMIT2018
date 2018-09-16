@@ -1,0 +1,55 @@
+NW98-100CB               485   PVT CIRCULATION    SEA GRANT                                         
+NW98-100LC                68   LOBBY              DP OF FACILITIES                                  
+NW98-100SB                95   STAIRWAY           DP OF FACILITIES                                  
+NW98-147               1,327   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW98-148J                 90   JANITOR CLOSET     DP OF FACILITIES                                  
+NW98-148T                128   TELECOM CLOSET     DP OF FACILITIES                                  
+NW98-149                 134   OFFICE SERVICE     SEA GRANT                                         
+NW98-150               1,298   PVT CIRCULATION    SEA GRANT                                         
+NW98-150CA               187   PVT CIRCULATION    SEA GRANT                                         
+NW98-151                 522   SECY/RECEPTION     SEA GRANT                                         
+NW98-151A                 67   OFFICE SERVICE     SEA GRANT                                         
+NW98-151B                 26   OFFICE SERVICE     SEA GRANT                                         
+NW98-152                 544   CONFERENCE ROOM    SEA GRANT                                         
+NW98-157                 236   OFFICE             SEA GRANT                                         
+NW98-159                 115   OFFICE             SEA GRANT                                         
+NW98-159A                 13   OFFICE SERVICE     SEA GRANT                                         
+NW98-160                 128   OFFICE             SEA GRANT                                         
+NW98-161                  22   OFFICE SERVICE     SEA GRANT                                         
+NW98-162                 128   OFFICE             SEA GRANT                                         
+NW98-163                 146   OFFICE             SEA GRANT                                         
+NW98-164                 120   OFFICE             SEA GRANT                                         
+NW98-165                 115   OFFICE             SEA GRANT                                         
+NW98-166                 128   OFFICE             SEA GRANT                                         
+NW98-167                 120   OFFICE             SEA GRANT                                         
+NW98-168                 124   OFFICE             SEA GRANT                                         
+NW98-169                 114   OFFICE             SEA GRANT                                         
+NW98-170                 173   FEMALE LAVATORY    DP OF FACILITIES                                  
+NW98-171                  73   TOILET OR BATH     DP OF FACILITIES                                  
+NW98-173                 317   OFFICE SERVICE     SEA GRANT                                         
+NW98-174                 173   MALE LAVATORY      DP OF FACILITIES                                  
+NW98-175                  21   OFFICE SERVICE     SEA GRANT                                         
+NW98-178                 131   OFFICE             SEA GRANT                                         
+NW98-179                 122   OFFICE             SEA GRANT                                         
+NW98-180                 469   LAB SUPPORT SHOP   SEA GRANT                                         
+NW98-180E                 80   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NW98-181                 124   OFFICE             SEA GRANT                                         
+NW98-183                 156   OFFICE             SEA GRANT                                         
+NW98-186                 376   LAB SUPPORT SHOP   SEA GRANT                                         
+NW98-186A                780   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW98-186AA                76   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW98-187                 411   LAB SUPPORT SHOP   SEA GRANT                                         
+NW98-187A                715   LAB SUPPORT SHOP   SEA GRANT                                         
+NW98-187AA               432   LABORATORY SVC     SEA GRANT                                         
+NW98-187B                192   LAB SUPPORT SHOP   SEA GRANT                                         
+NW98-188                 619   LAB SUPPORT SHOP   SEA GRANT                                         
+NW98-191                 255   LAB SUPPORT SHOP   SEA GRANT                                         
+NW98-194                 281   LABORATORY SVC     SEA GRANT                                         
+NW98-194A                228   LAB SUPPORT SHOP   SEA GRANT                                         
+NW98-194B                 93   LABORATORY SVC     SEA GRANT                                         
+NW98-194C                219   LABORATORY SVC     SEA GRANT                                         
+NW98-194D                345   LAB SUPPORT SHOP   SEA GRANT                                         
+NW98-195E                253   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NW98-197                  38   OFFICE SERVICE     SEA GRANT                                         
+NW98-197A                135   OFFICE SERVICE     SEA GRANT                                         
+NW98-199                  73   OFFICE SERVICE     SEA GRANT    

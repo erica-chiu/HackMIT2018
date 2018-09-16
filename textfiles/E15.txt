@@ -1,0 +1,538 @@
+E15-000CA                226   CORRIDOR           DP OF FACILITIES                                  
+E15-000CB                200   CORRIDOR           DP OF FACILITIES                                  
+E15-000CD              1,179   CORRIDOR           DP OF FACILITIES                                  
+E15-000E1                 54   ELEVATOR           DP OF FACILITIES                                  
+E15-000E2                 54   ELEVATOR           DP OF FACILITIES                                  
+E15-000E3                 72   ELEVATOR           DP OF FACILITIES                                  
+E15-000LA              3,614   LOBBY              DP OF FACILITIES                                  
+E15-000LB                471   LOBBY              DP OF FACILITIES                                  
+E15-000SA                155   STAIRWAY           DP OF FACILITIES                                  
+E15-000SB                151   STAIRWAY           DP OF FACILITIES                                  
+E15-000SC                273   STAIRWAY           DP OF FACILITIES                                  
+E15-000SD                242   STAIRWAY           DP OF FACILITIES                                  
+E15-000SE                 46   STAIRWAY           DP OF FACILITIES                                  
+E15-000SF                 67   OFFICE SERVICE     ART CULT & TECH                                   
+E15-000SG                 32   OFFICE SERVICE     ART CULT & TECH                                   
+E15-000Z                 488   SHAFT SPACE        DP OF FACILITIES                                  
+E15-001                2,387   CLASSROOM          ART CULT & TECH                                   
+E15-002                1,190   UTILITY/MECH RM    DP OF FACILITIES                                  
+E15-002A                 492   UTILITY/MECH RM    DP OF FACILITIES                                  
+E15-002B                 251   UTILITY/MECH RM    DP OF FACILITIES                                  
+E15-002C                 198   STORAGE FACILITY   DP OF FACIL ADM                                   
+E15-003                  104   UTILITY/MECH RM    DP OF FACILITIES                                  
+E15-004                  841   UTILITY/MECH RM    DP OF FACILITIES                                  
+E15-004A                 162   UTILITY/MECH RM    DP OF FACILITIES                                  
+E15-015                1,292   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-015A                 161   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-015C                 114   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-016                  629   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-020                  416   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-020A                 250   OFFICE SERVICE     ART CULT & TECH                                   
+E15-020AA                146   OFFICE             ART CULT & TECH                                   
+E15-020AC                 95   OFFICE             ART CULT & TECH                                   
+E15-020B                 152   OFFICE SERVICE     ART CULT & TECH                                   
+E15-020C                 197   OFFICE SERVICE     ART CULT & TECH                                   
+E15-020D                 104   OFFICE SERVICE     ART CULT & TECH                                   
+E15-020F                 104   OFFICE SERVICE     ART CULT & TECH                                   
+E15-020G                 178   OFFICE SERVICE     ART CULT & TECH                                   
+E15-023                  640   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-023A               1,308   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-039                  323   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-040                  281   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-040A                  15   UTILITY/MECH RM    DP OF FACILITIES                                  
+E15-040B                  15   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-040C                  15   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-040E                  59   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E15-040J                  28   JANITOR CLOSET     DP OF FACILITIES                                  
+E15-040T                  38   TELECOM CLOSET     DP OF FACILITIES                                  
+E15-041                  101   UTILITY/MECH RM    DP OF FACILITIES                                  
+E15-042                   58   UTILITY/MECH RM    DP OF FACILITIES                                  
+E15-043                  310   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-044                  477   TEACHING LAB       MEDIA LABORATORY                                  
+E15-044A                 590   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-044B                 289   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-045A                  12   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-045B                  12   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-045C                  12   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-045D                  12   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-048                   75   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-054                  813   CLASSROOM          ART CULT & TECH                                   
+E15-056                  158   OFFICE SERVICE     ART CULT & TECH                                   
+E15-056A                  45   OFFICE SERVICE     ART CULT & TECH                                   
+E15-060                  198   OFFICE SERVICE     ART CULT & TECH                                   
+E15-064                  598   OFFICE SERVICE     ART CULT & TECH                                   
+E15-066E                  25   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E15-068                  282   RESEARCH LAB       ART CULT & TECH                                   
+E15-068A                 372   DARK ROOM          ART CULT & TECH                                   
+E15-068B                  58   OFFICE SERVICE     ART CULT & TECH                                   
+E15-070                2,335   LECTURE HALL       ART CULT & TECH                                   
+E15-095                  524   CLASSROOM          ART CULT & TECH                                   
+E15-095A                  64   CLASSROOM SVC      ART CULT & TECH                                   
+E15-096                  602   UTILITY/MECH RM    DP OF FACILITIES                                  
+E15-096E                  36   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E15-097                  144   UTILITY/MECH RM    DP OF FACILITIES                                  
+E15-097J                  28   JANITOR CLOSET     DP OF FACILITIES                                  
+E15-098                  213   FEMALE LAVATORY    DP OF FACILITIES                                  
+E15-099                  214   MALE LAVATORY      DP OF FACILITIES                                  
+                    --------                                                                        
+                      28,168                                                                        
+                                                                                                    
+E15-100CA                119   CORRIDOR           DP OF FACILITIES                                  
+E15-100CB                654   CORRIDOR           DP OF FACILITIES                                  
+E15-100CD                117   CORRIDOR           DP OF FACILITIES                                  
+E15-100E1                 49   ELEVATOR           DP OF FACILITIES                                  
+E15-100E2                 50   ELEVATOR           DP OF FACILITIES                                  
+E15-100E3                 68   ELEVATOR           DP OF FACILITIES                                  
+E15-100LA              3,567   LOBBY              DP OF FACILITIES                                  
+E15-100LB                431   PVT CIRCULATION    LIST VIS ART CTR                                  
+E15-100SA                219   STAIRWAY           DP OF FACILITIES                                  
+E15-100SB                159   STAIRWAY           DP OF FACILITIES                                  
+E15-100SC                153   STAIRWAY           DP OF FACILITIES                                  
+E15-100SD                247   STAIRWAY           DP OF FACILITIES                                  
+E15-100SF                110   OFFICE SERVICE     ART CULT & TECH                                   
+E15-100SG                 77   OFFICE SERVICE     ART CULT & TECH                                   
+E15-100Z                 608   SHAFT SPACE        DP OF FACILITIES                                  
+E15-109                  395   OFFICE SERVICE     LIST VIS ART CTR                                  
+E15-109A                 230   OFFICE SERVICE     LIST VIS ART CTR                                  
+E15-109C                  87   PVT CIRCULATION    LIST VIS ART CTR                                  
+E15-109D                 155   SECY/RECEPTION     LIST VIS ART CTR                                  
+E15-110                   82   OFFICE             LIST VIS ART CTR                                  
+E15-111                   88   OFFICE             LIST VIS ART CTR                                  
+E15-112                   92   OFFICE             LIST VIS ART CTR                                  
+E15-113                  125   OFFICE             LIST VIS ART CTR                                  
+E15-120                  467   PVT CIRCULATION    ART CULT & TECH                                   
+E15-120A                 106   OFFICE             ART CULT & TECH                                   
+E15-120B                  98   OFFICE             ART CULT & TECH                                   
+E15-120C                  98   OFFICE             ART CULT & TECH                                   
+E15-120D                  98   OFFICE             ART CULT & TECH                                   
+E15-120F                  98   OFFICE             ART CULT & TECH                                   
+E15-120G                 110   OFFICE             ART CULT & TECH                                   
+E15-120H                  98   OFFICE             ART CULT & TECH                                   
+E15-120K                  95   OFFICE             ART CULT & TECH                                   
+E15-126                  486   OFFICE SERVICE     LIST VIS ART CTR                                  
+E15-126A                 588   OFFICE             LIST VIS ART CTR                                  
+E15-135                  477   CONFERENCE ROOM    LIST VIS ART CTR                                  
+E15-139                  594   OFFICE SERVICE     LIST VIS ART CTR                                  
+E15-140                  409   OFFICE SERVICE     LIST VIS ART CTR                                  
+E15-140E                  35   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E15-140J                  14   JANITOR CLOSET     DP OF FACILITIES                                  
+E15-140T                  39   TELECOM CLOSET     DP OF FACILITIES                                  
+E15-141                  244   OFFICE SERVICE     ART CULT & TECH                                   
+E15-141A                 185   OFFICE SERVICE     LIST VIS ART CTR                                  
+E15-142                   25   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-143                  781   EXHIBITION SVC     LIST VIS ART CTR                                  
+E15-143A                 296   EXHIBITION SVC     LIST VIS ART CTR                                  
+E15-143AM                138   UTILITY/MECH RM    DP OF FACILITIES                                  
+E15-143M                 304   EXHIBITION SVC     LIST VIS ART CTR                                  
+E15-163                1,443   EXHIBITION FACIL   LIST VIS ART CTR                                  
+E15-163E                  56   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E15-172                3,063   EXHIBITION FACIL   LIST VIS ART CTR                                  
+E15-183                  746   EXHIBITION FACIL   LIST VIS ART CTR                                  
+E15-195J                  29   JANITOR CLOSET     DP OF FACILITIES                                  
+E15-196E                  34   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E15-198                  149   FEMALE LAVATORY    DP OF FACILITIES                                  
+E15-199                  150   MALE LAVATORY      DP OF FACILITIES                                  
+                    --------                                                                        
+                      19,432                                                                        
+                                                                                                    
+E15-200CA                120   CORRIDOR           DP OF FACILITIES                                  
+E15-200CB                358   CORRIDOR           DP OF FACILITIES                                  
+E15-200E1                 50   ELEVATOR           DP OF FACILITIES                                  
+E15-200E2                 50   ELEVATOR           DP OF FACILITIES                                  
+E15-200E3                 68   ELEVATOR           DP OF FACILITIES                                  
+E15-200LA                646   LOBBY              DP OF FACILITIES                                  
+E15-200M                 983   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-200SB                159   STAIRWAY           DP OF FACILITIES                                  
+E15-200SD                182   STAIRWAY           DP OF FACILITIES                                  
+E15-200Z                 364   SHAFT SPACE        DP OF FACILITIES                                  
+E15-205                  155   PVT CIRCULATION    ASSOC PROV ARTS        COUNCIL FOR ARTS           
+E15-205A                  75   OFFICE SERVICE     ASSOC PROV ARTS        COUNCIL FOR ARTS           
+E15-205B                 110   OFFICE             ASSOC PROV ARTS                                   
+E15-205BA                 39   OFFICE             ASSOC PROV ARTS        COUNCIL FOR ARTS           
+E15-205C                  89   OFFICE             ASSOC PROV ARTS                                   
+E15-205D                  90   OFFICE             ASSOC PROV ARTS                                   
+E15-205F                 116   OFFICE             ASSOC PROV ARTS                                   
+E15-205G                  97   OFFICE             ASSOC PROV ARTS                                   
+E15-205H                 109   OFFICE             ASSOC PROV ARTS                                   
+E15-205K                 119   OFFICE             ASSOC PROV ARTS                                   
+E15-207                  710   CONFERENCE ROOM    ART CULT & TECH                                   
+E15-209                  197   OFFICE             ART CULT & TECH                                   
+E15-211                  125   OFFICE             ART CULT & TECH                                   
+E15-212                1,651   OFFICE SERVICE     ART CULT & TECH                                   
+E15-213                  196   OFFICE             ART CULT & TECH                                   
+E15-215                  289   OFFICE             ART CULT & TECH                                   
+E15-215A                  18   OFFICE SERVICE     ART CULT & TECH                                   
+E15-215B                   8   OFFICE SERVICE     ART CULT & TECH                                   
+E15-215C                   8   OFFICE SERVICE     ART CULT & TECH                                   
+E15-215D                  11   OFFICE SERVICE     ART CULT & TECH                                   
+E15-215E                  10   OFFICE SERVICE     ART CULT & TECH                                   
+E15-215F                   9   OFFICE SERVICE     ART CULT & TECH                                   
+E15-215G                   9   OFFICE SERVICE     ART CULT & TECH                                   
+E15-215H                  13   OFFICE SERVICE     ART CULT & TECH                                   
+E15-215K                   8   OFFICE SERVICE     ART CULT & TECH                                   
+E15-215M                  59   UTILITY/MECH RM    DP OF FACILITIES                                  
+E15-221                   86   OFFICE SERVICE     ART CULT & TECH                                   
+E15-222                  245   OFFICE             ART CULT & TECH                                   
+E15-223                  175   OFFICE             ART CULT & TECH                                   
+E15-224                  196   OFFICE             ART CULT & TECH                                   
+E15-225                  234   OFFICE             ART CULT & TECH                                   
+E15-231                  237   OFFICE             ART CULT & TECH                                   
+E15-232                  290   OFFICE             ART CULT & TECH                                   
+E15-235                  429   OFFICE SERVICE     ART CULT & TECH                                   
+E15-237                  236   OFFICE             ART CULT & TECH                                   
+E15-238                  273   OFFICE             ART CULT & TECH                                   
+E15-239A                  13   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-239G                  21   UTILITY/MECH RM    DP OF FACILITIES                                  
+E15-239K                  14   OFFICE SERVICE     ART CULT & TECH                                   
+E15-239KA                  5   OFFICE SERVICE     ART CULT & TECH                                   
+E15-240E                  35   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E15-240J                  40   JANITOR CLOSET     DP OF FACILITIES                                  
+E15-240T                  39   TELECOM CLOSET     DP OF FACILITIES                                  
+E15-241A                  60   PVT LAVATORY       MEDIA LABORATORY                                  
+E15-241E                  39   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E15-242                  185   JANITOR STORAGE    DP OF FACILITIES                                  
+E15-243                   65   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-283                   54   PVT CIRCULATION    ART CULT & TECH                                   
+E15-283A                 656   CONFERENCE ROOM    ART CULT & TECH                                   
+E15-283B                 200   FOOD FACIL SVC     ART CULT & TECH                                   
+E15-283D                  18   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-296E                  34   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E15-298                  151   FEMALE LAVATORY    DP OF FACILITIES                                  
+E15-299                  150   MALE LAVATORY      DP OF FACILITIES                                  
+                    --------                                                                        
+                      11,477                                                                        
+                                                                                                    
+E15-300CA                120   CORRIDOR           DP OF FACILITIES                                  
+E15-300CB                513   CORRIDOR           DP OF FACILITIES                                  
+E15-300E1                 50   ELEVATOR           DP OF FACILITIES                                  
+E15-300E2                 50   ELEVATOR           DP OF FACILITIES                                  
+E15-300E3                 68   ELEVATOR           DP OF FACILITIES                                  
+E15-300LA                645   LOBBY              DP OF FACILITIES                                  
+E15-300SB                159   STAIRWAY           DP OF FACILITIES                                  
+E15-300SD                182   STAIRWAY           DP OF FACILITIES                                  
+E15-300Z                 358   SHAFT SPACE        DP OF FACILITIES                                  
+E15-301                  762   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-305                  327   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-305A                  98   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-305B                 167   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-305C                  93   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-305D                  93   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-305F                  93   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-305G                 115   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-306                1,118   OFFICE SERVICE     COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-306A                   9   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-306AA                 63   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-306AB                 22   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-306AC                 16   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-306B                   8   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-306F                   9   OFFICE SERVICE     COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-306G                   8   OFFICE SERVICE     COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-306H                   9   OFFICE SERVICE     COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-306L                  18   OFFICE SERVICE     COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-309                  160   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-310                   98   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-311                  145   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-313                  152   RSCH LAB-OFFICE    COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-314                  284   RSCH LAB-OFFICE    COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-315                  145   RSCH LAB-OFFICE    COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-317                  102   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-318                  504   OFFICE SERVICE     COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-319                  103   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-320                  485   OFFICE SERVICE     COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-320A                  98   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-320B                  98   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-320C                  98   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-320N                 490   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-320P                 104   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-320Q                  96   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-320R                  96   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-320T                  98   TELECOM CLOSET     DP OF FACILITIES                                  
+E15-321                  103   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-322                  145   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-323                   85   LAB SUPPORT SHOP   COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-324                  149   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-325                  100   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-326                  108   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-327                  139   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-328                  170   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-329                  110   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-331                  159   OFFICE SERVICE     COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-331A                 106   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-331AA                 65   OFFICE SERVICE     COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-331B                  58   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-335                  431   CONFERENCE ROOM    COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-339AA                 17   OFFICE SERVICE     COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-339AB                 20   OFFICE SERVICE     COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E15-339AC                 26   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-339AD                 24   UTILITY/MECH RM    DP OF FACILITIES                                  
+E15-339B                  28   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-339C                  31   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-339F                  23   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-340E                  35   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E15-340J                  40   JANITOR CLOSET     DP OF FACILITIES                                  
+E15-340T                  39   TELECOM CLOSET     DP OF FACILITIES                                  
+E15-341                  975   CONFERENCE ROOM    MEDIA LABORATORY                                  
+E15-341A                  22   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-341B                   9   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-343                  200   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-344                2,215   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-345                   98   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-348                  106   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-349                  103   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-350                  219   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-351                  152   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-352                  102   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-353                   95   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-354                   99   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-355                  153   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-357                  289   OFFICE             MEDIA LABORATORY                                  
+E15-358                  199   OFFICE             MEDIA LABORATORY                                  
+E15-359                  513   CONFERENCE ROOM    MEDIA LABORATORY                                  
+E15-359A                   7   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-368                2,237   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-368A                 151   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-368D                 136   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-368F                  86   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-370                1,007   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-370A                  11   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-370B                   7   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-370C                   7   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-370D                   8   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-379                   86   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-380                   80   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-381                   80   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-384                1,485   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-384A                 101   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-384B                 146   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-384C                 147   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-385                   96   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-386                   93   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-387                  164   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-388                  100   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-389                  107   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-390                  102   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-391                   97   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-392                  149   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-394                  251   OFFICE             MEDIA LABORATORY                                  
+E15-396E                  34   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E15-398                  151   FEMALE LAVATORY    DP OF FACILITIES                                  
+E15-399                  150   MALE LAVATORY      DP OF FACILITIES                                  
+                    --------                                                                        
+                      23,557                                                                        
+                                                                                                    
+E15-400CA                120   CORRIDOR           DP OF FACILITIES                                  
+E15-400CB                285   CORRIDOR           DP OF FACILITIES                                  
+E15-400E1                 50   ELEVATOR           DP OF FACILITIES                                  
+E15-400E2                 50   ELEVATOR           DP OF FACILITIES                                  
+E15-400E3                 68   ELEVATOR           DP OF FACILITIES                                  
+E15-400LA                661   LOBBY              DP OF FACILITIES                                  
+E15-400SB                159   STAIRWAY           DP OF FACILITIES                                  
+E15-400SD                182   STAIRWAY           DP OF FACILITIES                                  
+E15-400Z                 792   SHAFT SPACE        DP OF FACILITIES                                  
+E15-401                  222   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-401A                 132   OFFICE             MEDIA LABORATORY                                  
+E15-401B                 238   OFFICE             MEDIA LABORATORY                                  
+E15-401C                  99   OFFICE             MEDIA LABORATORY                                  
+E15-401D                  99   OFFICE             MEDIA LABORATORY                                  
+E15-401F                 149   OFFICE             MEDIA LABORATORY                                  
+E15-401G                 100   OFFICE             MEDIA LABORATORY                                  
+E15-401H                 142   OFFICE             MEDIA LABORATORY                                  
+E15-401K                  60   OFFICE             MEDIA LABORATORY                                  
+E15-401L                  51   OFFICE             MEDIA LABORATORY                                  
+E15-401P                  58   OFFICE             MEDIA LABORATORY                                  
+E15-401R                  49   OFFICE             MEDIA LABORATORY                                  
+E15-411                  383   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-412                  180   OFFICE             MEDIA LABORATORY                                  
+E15-413                  132   OFFICE             MEDIA LABORATORY                                  
+E15-414                   89   OFFICE             MEDIA LABORATORY                                  
+E15-415                1,378   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-415A                  17   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-415AA                 10   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-415AB                 15   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-415B                   8   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-415C                   9   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-415D                   8   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-415F                   9   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-415G                   8   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-415H                   9   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-415J                  10   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-415K                  10   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-415L                   8   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-415M                   8   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-415N                   9   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-415P                   9   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-415Q                   9   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-415R                  12   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-415S                  17   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-416                  116   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-416A                 257   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-417                   86   OFFICE             MEDIA LABORATORY                                  
+E15-418                  179   OFFICE             MEDIA LABORATORY                                  
+E15-419                   87   OFFICE             MEDIA LABORATORY                                  
+E15-420                  749   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-420B                  78   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-420C                  78   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-420D                  78   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-421                   88   OFFICE             MEDIA LABORATORY                                  
+E15-422                  135   OFFICE             MEDIA LABORATORY                                  
+E15-424                  131   OFFICE             MEDIA LABORATORY                                  
+E15-425                   81   OFFICE             MEDIA LABORATORY                                  
+E15-426                   87   OFFICE             MEDIA LABORATORY                                  
+E15-427                  793   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-427A                 238   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-428                   81   OFFICE             MEDIA LABORATORY                                  
+E15-429                   87   OFFICE             MEDIA LABORATORY                                  
+E15-430                   87   OFFICE             MEDIA LABORATORY                                  
+E15-431                   84   OFFICE             MEDIA LABORATORY                                  
+E15-432                   92   OFFICE             MEDIA LABORATORY                                  
+E15-433                  157   OFFICE             MEDIA LABORATORY                                  
+E15-434                  131   OFFICE             MEDIA LABORATORY                                  
+E15-435                  329   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-435A                  75   SECY/RECEPTION     MEDIA LABORATORY                                  
+E15-435B                  71   OFFICE             MEDIA LABORATORY                                  
+E15-439A                  17   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-439B                  18   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-439C                  16   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-439D                  24   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-439F                  17   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-440E                  35   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E15-440J                  40   JANITOR CLOSET     DP OF FACILITIES                                  
+E15-440T                  39   TELECOM CLOSET     DP OF FACILITIES                                  
+E15-441B                 397   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-441C                  28   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-443                  548   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-443A                 102   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-443AA                286   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-443AB                392   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-443G                 823   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-447                  124   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-448                  144   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-449                  146   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-450                  100   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-460A                  60   STUDY ROOM         MEDIA LABORATORY                                  
+E15-460B                  58   STUDY ROOM         MEDIA LABORATORY                                  
+E15-460C                  58   STUDY ROOM         MEDIA LABORATORY                                  
+E15-463                  188   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-463A                   8   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-463B                 102   OFFICE             MEDIA LABORATORY                                  
+E15-463C                 102   OFFICE             MEDIA LABORATORY                                  
+E15-463D                 138   OFFICE             MEDIA LABORATORY                                  
+E15-463F                 101   OFFICE             MEDIA LABORATORY                                  
+E15-463G                 225   OFFICE             MEDIA LABORATORY                                  
+E15-465                  117   OFFICE             MEDIA LABORATORY                                  
+E15-466                  369   CONFERENCE ROOM    MEDIA LABORATORY                                  
+E15-468                1,233   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-468A                  92   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-468B                 309   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-468G                 121   LAB SUPPORT SHOP   MEDIA LABORATORY                                  
+E15-469                  102   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-470                1,265   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-470A                   8   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-470B                   9   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-470C                   8   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-470D                   8   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-470F                   7   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-470G                   8   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-470H                   7   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-470L                   7   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-470M                   7   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-470N                   6   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-470P                   6   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-470Q                   7   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-470R                  88   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-470S                   6   OFFICE SERVICE     MEDIA LABORATORY                                  
+E15-473                  478   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-473A                 141   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-473B                  75   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-473T                  81   TELECOM CLOSET     DP OF FACILITIES                                  
+E15-483                1,168   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-483A                 183   CONFERENCE ROOM    MEDIA LABORATORY                                  
+E15-483C                 243   LABORATORY SVC     MEDIA LABORATORY                                  
+E15-484                  352   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-485                   99   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-485A                 245   RESEARCH LAB       MEDIA LABORATORY                                  
+E15-486                   93   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-487                   85   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-488                   94   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-488A                 103   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-489                   94   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-490                  165   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-491                  107   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-492                  102   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-493                   97   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-494                  149   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-495                  151   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-496B                  48   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E15-496E                  34   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E15-498                  151   FEMALE LAVATORY    DP OF FACILITIES                                  
+E15-499                  150   MALE LAVATORY      DP OF FACILITIES   

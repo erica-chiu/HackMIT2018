@@ -1,0 +1,297 @@
+9-0000CA                 142   CORRIDOR           DP OF FACILITIES                                  
+9-0000CB               1,330   CORRIDOR           DP OF FACILITIES                                  
+9-0000CD                 134   CORRIDOR           DP OF FACILITIES                                  
+9-0000E1                  48   ELEVATOR           DP OF FACILITIES                                  
+9-0000SA                 136   STAIRWAY           DP OF FACILITIES                                  
+9-0000SC                 214   STAIRWAY           DP OF FACILITIES                                  
+9-0000Z                   59   SHAFT SPACE        DP OF FACILITIES                                  
+9-0014E                   28   ELECTRIC CLOSET    DP OF FACILITIES                                  
+9-0030AE                   6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+9-0030BE                  20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+9-0030E                  862   ELECTRIC CLOSET    DP OF FACILITIES                                  
+9-0050                 2,191   UTILITY/MECH RM    DP OF FACILITIES                                  
+9-0050A                  286   OFFICE SERVICE     OFF OF PROVOST                                    
+9-0050B                1,093   OFFICE SERVICE     OFF OF PROVOST                                    
+9-0052                   138   OFFICE SERVICE     OFF OF PROVOST                                    
+9-0053                   194   OFFICE SERVICE     OFF OF PROVOST         SHARED                     
+9-0054                   202   JANITOR STORAGE    DP OF FACILITIES                                  
+9-0055                 1,012   UTILITY/MECH RM    DP OF FACILITIES                                  
+9-0061A                   76   UTILITY/MECH RM    DP OF FACILITIES                                  
+9-0062A                   77   UTILITY/MECH RM    DP OF FACILITIES                                  
+9-0068                   864   OFFICE SERVICE     OFF OF PROVOST         SHARED                     
+9-0070                   434   OFFICE SERVICE     OFF OF PROVOST                                    
+9-0070A                1,487   OFFICE SERVICE     OFF OF PROVOST         SHARED                     
+                    --------                                                                        
+                      11,033                                                                        
+                                                                                                    
+9-000CA                  435   CORRIDOR           DP OF FACILITIES                                  
+9-000CB                  848   CORRIDOR           DP OF FACILITIES                                  
+9-000CC                  351   CORRIDOR           DP OF FACILITIES                                  
+9-000E1                   47   ELEVATOR           DP OF FACILITIES                                  
+9-000E2                   47   ELEVATOR           DP OF FACILITIES                                  
+9-000SA                  135   STAIRWAY           DP OF FACILITIES                                  
+9-000SB                  164   STAIRWAY           DP OF FACILITIES                                  
+9-000SC                  186   STAIRWAY           DP OF FACILITIES                                  
+9-000Z                   188   SHAFT SPACE        DP OF FACILITIES                                  
+9-020                     52   JANITOR STORAGE    DP OF FACILITIES                                  
+9-022                    178   MEDIA SERVICE      OFF OF PRESIDENT                                  
+9-024                    340   MEDIA SERVICE      OFF OF PROVOST         ACAD MED PROD SV           
+9-034                    213   OFFICE             INFO SVCS & TECH       STU CABLE OFF              
+9-034A                    13   STORAGE FACILITY   INFO SVCS & TECH                                  
+9-034E                    19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+9-036                    122   UTILITY/MECH RM    DP OF FACILITIES       ACAD MED PROD SV           
+9-038T                    77   TELECOM CLOSET     DP OF FACILITIES                                  
+9-045                    479   OFFICE SERVICE     OFF OF PROVOST         SHARED                     
+9-050                    176   OFFICE             INFO SVCS & TECH       CABLE TV                   
+9-057                    901   LECTURE HALL       OFF OF PROVOST         ACAD MED PROD SV           
+9-057A                   143   CLASSROOM SVC      OFF OF PROVOST         ACAD MED PROD SV           
+9-057AA                   65   CLASSROOM SVC      OFF OF PROVOST         ACAD MED PROD SV           
+9-057B                    64   CLASSROOM SVC      OFF OF PROVOST         ACAD MED PROD SV           
+9-057C                    14   CLASSROOM SVC      OFF OF PROVOST         ACAD MED PROD SV           
+9-057D                    10   CLASSROOM SVC      OFF OF PROVOST         ACAD MED PROD SV           
+9-057Z                   230   SHAFT SPACE        DP OF FACILITIES                                  
+9-058                    389   MEDIA SERVICE      INFO SVCS & TECH       CABLE TV CTRL RM           
+                    --------                                                                        
+                       5,887                                                                        
+                                                                                                    
+9-100CA                1,727   CORRIDOR           DP OF FACILITIES                                  
+9-100CB                1,605   CORRIDOR           DP OF FACILITIES                                  
+9-100E1                   48   ELEVATOR           DP OF FACILITIES                                  
+9-100E2                   48   ELEVATOR           DP OF FACILITIES                                  
+9-100SA                  145   STAIRWAY           DP OF FACILITIES                                  
+9-100SB                  157   STAIRWAY           DP OF FACILITIES                                  
+9-100Z                   359   SHAFT SPACE        DP OF FACILITIES                                  
+9-101                    148   MALE LAVATORY      DP OF FACILITIES                                  
+9-105                     59   PUBLIC LAVATORY    DP OF FACILITIES                                  
+9-107                    120   FEMALE LAVATORY    DP OF FACILITIES                                  
+9-108J                    86   JANITOR CLOSET     DP OF FACILITIES                                  
+9-114                    175   OFFICE             DP OF FACIL ADM        CUSTOD TEAM RM             
+9-136                     86   UTILITY/MECH RM    DP OF FACILITIES                                  
+9-138                     60   MAIL ROOM          DP OF FACIL ADM                                   
+9-150                    160   CLASSROOM SVC      OFF OF PROVOST         ACAD MED PROD SV           
+9-151                    925   CLASSROOM          OFF OF PROVOST         ACAD MED PROD SV           
+9-152                  1,025   CLASSROOM SVC      OFF OF PROVOST         ACAD MED PROD SV           
+9-155                    132   CLASSROOM SVC      OFF OF PROVOST         ACAD MED PROD SV           
+                    --------                                                                        
+                       7,063                                                                        
+                                                                                                    
+9-200CA                  354   CORRIDOR           DP OF FACILITIES                                  
+9-200CB                  772   CORRIDOR           DP OF FACILITIES                                  
+9-200CC                  946   CORRIDOR           DP OF FACILITIES                                  
+9-200CD                  172   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+9-200E1                   50   ELEVATOR           DP OF FACILITIES                                  
+9-200E2                   50   ELEVATOR           DP OF FACILITIES                                  
+9-200SA                  415   STAIRWAY           DP OF FACILITIES                                  
+9-200SB                  163   STAIRWAY           DP OF FACILITIES                                  
+9-200Z                   234   SHAFT SPACE        DP OF FACILITIES                                  
+9-201                    165   MALE LAVATORY      DP OF FACILITIES                                  
+9-211                    350   LOUNGE             URBAN ST & PLAN                                   
+9-214                    145   FEMALE LAVATORY    DP OF FACILITIES                                  
+9-214J                    12   JANITOR CLOSET     DP OF FACILITIES                                  
+9-216                    144   OFFICE             URBAN ST & PLAN                                   
+9-217                    433   CONFERENCE ROOM    URBAN ST & PLAN                                   
+9-218                    276   OFFICE             URBAN ST & PLAN                                   
+9-219                    100   OFFICE             URBAN ST & PLAN                                   
+9-225                    100   OFFICE             URBAN ST & PLAN                                   
+9-235                    293   OFFICE SERVICE     URBAN ST & PLAN                                   
+9-235A                   654   LOUNGE             URBAN ST & PLAN                                   
+9-235B                     9   OFFICE SERVICE     URBAN ST & PLAN                                   
+9-238                    564   STUDIO             URBAN ST & PLAN                                   
+9-238A                   134   OFFICE             URBAN ST & PLAN                                   
+9-238B                   114   OFFICE             URBAN ST & PLAN                                   
+9-240E                    15   ELECTRIC CLOSET    DP OF FACILITIES                                  
+9-250                    682   STUDIO             URBAN ST & PLAN                                   
+9-250A                   428   STUDIO             URBAN ST & PLAN                                   
+9-250B                   263   CONFERENCE ROOM    URBAN ST & PLAN                                   
+9-250E                    15   ELECTRIC CLOSET    DP OF FACILITIES                                  
+9-250T                    19   TELECOM CLOSET     DP OF FACILITIES                                  
+9-255                  1,193   LECTURE HALL       URBAN ST & PLAN                                   
+9-255A                   399   CONFERENCE ROOM    URBAN ST & PLAN                                   
+9-255B                    43   CLASSROOM SVC      URBAN ST & PLAN                                   
+9-255C                    13   CLASSROOM SVC      URBAN ST & PLAN                                   
+9-263                     19   OFFICE SERVICE     URBAN ST & PLAN                                   
+9-264J                    18   JANITOR CLOSET     DP OF FACILITIES                                  
+9-265                    322   OFFICE             URBAN ST & PLAN                                   
+9-266                    317   OFFICE             URBAN ST & PLAN                                   
+                    --------                                                                        
+                      10,395                                                                        
+                                                                                                    
+9-300CA                  757   CORRIDOR           DP OF FACILITIES                                  
+9-300CB                  302   CORRIDOR           DP OF FACILITIES                                  
+9-300CC                  720   CORRIDOR           DP OF FACILITIES                                  
+9-300CL                  171   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+9-300E1                   50   ELEVATOR           DP OF FACILITIES                                  
+9-300E2                   50   ELEVATOR           DP OF FACILITIES                                  
+9-300SA                  129   STAIRWAY           DP OF FACILITIES                                  
+9-300SB                  163   STAIRWAY           DP OF FACILITIES                                  
+9-300Z                   261   SHAFT SPACE        DP OF FACILITIES                                  
+9-301                    165   FEMALE LAVATORY    DP OF FACILITIES                                  
+9-301J                    24   JANITOR CLOSET     DP OF FACILITIES                                  
+9-302                     47   OFFICE SERVICE     URBAN ST & PLAN                                   
+9-305                     56   MALE LAVATORY      DP OF FACILITIES                                  
+9-306                    108   COMPUTER FACIL     INFO SVCS & TECH                                  
+9-310                    122   OFFICE SERVICE     C FOR RL ESTATE                                   
+9-311                    116   CONFERENCE ROOM    C FOR RL ESTATE                                   
+9-312                    108   OFFICE             C FOR RL ESTATE                                   
+9-313                    120   CONFERENCE ROOM    C FOR RL ESTATE                                   
+9-314                    106   OFFICE             C FOR RL ESTATE                                   
+9-316                    136   OFFICE             URBAN ST & PLAN                                   
+9-317                    449   LOUNGE             C FOR RL ESTATE                                   
+9-320                    136   OFFICE             URBAN ST & PLAN                                   
+9-321                    105   OFFICE             C FOR RL ESTATE        C FOR EDU CMP IN           
+9-323                    115   OFFICE             C FOR RL ESTATE        C FOR EDU CMP IN           
+9-324                    104   OFFICE             URBAN ST & PLAN                                   
+9-325                    138   OFFICE             C FOR RL ESTATE        C FOR EDU CMP IN           
+9-326                    363   CLASSROOM          URBAN ST & PLAN                                   
+9-327                    544   SECY/RECEPTION     C FOR RL ESTATE                                   
+9-328                    104   OFFICE             URBAN ST & PLAN                                   
+9-329                    136   OFFICE             C FOR RL ESTATE                                   
+9-329A                    10   OFFICE SERVICE     C FOR RL ESTATE                                   
+9-330                     72   OFFICE             URBAN ST & PLAN                                   
+9-331                    202   OFFICE             C FOR RL ESTATE                                   
+9-332                    160   OFFICE             URBAN ST & PLAN                                   
+9-333                    173   OFFICE             C FOR RL ESTATE                                   
+9-334                    136   OFFICE             URBAN ST & PLAN                                   
+9-335                    129   OFFICE             C FOR RL ESTATE                                   
+9-338                    227   OFFICE SERVICE     URBAN ST & PLAN                                   
+9-342E                    26   ELECTRIC CLOSET    DP OF FACILITIES                                  
+9-343                    411   PVT CIRCULATION    C FOR RL ESTATE                                   
+9-347                    189   OFFICE             C FOR RL ESTATE        C FOR EDU CMP IN           
+9-350E                    19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+9-350T                    17   TELECOM CLOSET     DP OF FACILITIES                                  
+9-352E                     8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+9-354                  1,290   LECTURE HALL       C FOR RL ESTATE                                   
+9-355                    203   CONFERENCE ROOM    C FOR RL ESTATE                                   
+9-357                    357   CONFERENCE ROOM    C FOR RL ESTATE                                   
+9-363                     19   OFFICE SERVICE     URBAN ST & PLAN                                   
+9-364                     18   UTILITY/MECH RM    DP OF FACILITIES                                  
+9-365                    322   OFFICE             URBAN ST & PLAN                                   
+9-366                    317   OFFICE             URBAN ST & PLAN                                   
+                    --------                                                                        
+                      10,209                                                                        
+                                                                                                    
+9-400CA                  405   CORRIDOR           DP OF FACILITIES                                  
+9-400CB                1,148   CORRIDOR           DP OF FACILITIES                                  
+9-400CC                1,192   CORRIDOR           DP OF FACILITIES                                  
+9-400CD                  171   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+9-400E1                   50   ELEVATOR           DP OF FACILITIES                                  
+9-400E2                   50   ELEVATOR           DP OF FACILITIES                                  
+9-400SA                  129   STAIRWAY           DP OF FACILITIES                                  
+9-400SB                  163   STAIRWAY           DP OF FACILITIES                                  
+9-400Z                   134   SHAFT SPACE        DP OF FACILITIES                                  
+9-401                    165   MALE LAVATORY      DP OF FACILITIES                                  
+9-405J                    49   JANITOR CLOSET     DP OF FACILITIES                                  
+9-406                     61   FEMALE LAVATORY    DP OF FACILITIES                                  
+9-407                     65   LOUNGE             URBAN ST & PLAN                                   
+9-408                     47   LOUNGE             URBAN ST & PLAN        PROF ED                    
+9-412                    108   OFFICE             URBAN ST & PLAN        PROF ED                    
+9-413                    206   OFFICE             URBAN ST & PLAN                                   
+9-414                    106   OFFICE             URBAN ST & PLAN                                   
+9-415                    309   CONFERENCE ROOM    URBAN ST & PLAN                                   
+9-416                    268   OFFICE SERVICE     URBAN ST & PLAN                                   
+9-418                     10   OFFICE SERVICE     URBAN ST & PLAN                                   
+9-419                    116   OFFICE             URBAN ST & PLAN                                   
+9-421                    101   OFFICE             URBAN ST & PLAN                                   
+9-422                    117   OFFICE             URBAN ST & PLAN                                   
+9-424                    132   OFFICE             URBAN ST & PLAN        PROF ED                    
+9-425                    459   CONFERENCE ROOM    URBAN ST & PLAN                                   
+9-426                    133   OFFICE             URBAN ST & PLAN        PROF ED                    
+9-427                     99   OFFICE             URBAN ST & PLAN                                   
+9-428                    114   OFFICE             URBAN ST & PLAN        PROF ED                    
+9-429                    102   OFFICE             URBAN ST & PLAN                                   
+9-430                     72   OFFICE             URBAN ST & PLAN        PROF ED                    
+9-431                    117   OFFICE             URBAN ST & PLAN                                   
+9-432                    160   OFFICE             URBAN ST & PLAN        PROF ED                    
+9-434                    136   OFFICE             URBAN ST & PLAN        PROF ED                    
+9-435                    221   SECY/RECEPTION     URBAN ST & PLAN        PROF ED                    
+9-435A                   210   OFFICE             URBAN ST & PLAN        PROF ED                    
+9-435B                   149   OFFICE             URBAN ST & PLAN        PROF ED                    
+9-436                    227   OFFICE             URBAN ST & PLAN                                   
+9-440                     27   UTILITY/MECH RM    DP OF FACILITIES                                  
+9-446                    215   OFFICE SERVICE     URBAN ST & PLAN                                   
+9-450                    459   CLASSROOM          URBAN ST & PLAN                                   
+9-450A                   460   CLASSROOM          URBAN ST & PLAN                                   
+9-450E                     9   ELECTRIC CLOSET    DP OF FACILITIES                                  
+9-450T                    10   TELECOM CLOSET     DP OF FACILITIES                                  
+9-451                    451   CLASSROOM          URBAN ST & PLAN                                   
+9-451A                   453   CLASSROOM          URBAN ST & PLAN                                   
+9-463                     19   OFFICE SERVICE     URBAN ST & PLAN        PROF ED                    
+9-464                     18   STORAGE FACILITY   DP OF FACIL ADM                                   
+9-465                    601   OFFICE             URBAN ST & PLAN                                   
+                    --------                                                                        
+                      10,221                                                                        
+                                                                                                    
+9-500CA                  130   CORRIDOR           DP OF FACILITIES                                  
+9-500CB                  848   CORRIDOR           DP OF FACILITIES                                  
+9-500CC                  367   CORRIDOR           DP OF FACILITIES                                  
+9-500E1                   50   ELEVATOR           DP OF FACILITIES                                  
+9-500E2                   50   ELEVATOR           DP OF FACILITIES                                  
+9-500E3                   38   ELEVATOR           DP OF FACILITIES                                  
+9-500SA                  129   STAIRWAY           DP OF FACILITIES                                  
+9-500SB                  163   STAIRWAY           DP OF FACILITIES                                  
+9-500Z                   242   SHAFT SPACE        DP OF FACILITIES                                  
+9-501                    165   FEMALE LAVATORY    DP OF FACILITIES                                  
+9-504                     53   MALE LAVATORY      DP OF FACILITIES                                  
+9-505                    105   LOUNGE             URBAN ST & PLAN                                   
+9-506J                    12   JANITOR CLOSET     DP OF FACILITIES                                  
+9-508                     15   OFFICE SERVICE     URBAN ST & PLAN                                   
+9-509                    113   OFFICE SERVICE     URBAN ST & PLAN                                   
+9-510                    208   OFFICE SERVICE     URBAN ST & PLAN                                   
+9-511                    115   OFFICE             URBAN ST & PLAN                                   
+9-512                    127   OFFICE             URBAN ST & PLAN                                   
+9-513                    121   OFFICE             URBAN ST & PLAN                                   
+9-514                    129   OFFICE             URBAN ST & PLAN                                   
+9-515                    104   OFFICE             URBAN ST & PLAN                                   
+9-516                     93   OFFICE             URBAN ST & PLAN                                   
+9-517                    165   OFFICE             URBAN ST & PLAN                                   
+9-518                    163   OFFICE             URBAN ST & PLAN                                   
+9-519                     96   OFFICE             URBAN ST & PLAN                                   
+9-520                    108   OFFICE             URBAN ST & PLAN                                   
+9-521                    163   OFFICE             URBAN ST & PLAN                                   
+9-522                    118   OFFICE             URBAN ST & PLAN                                   
+9-523                    176   OFFICE             URBAN ST & PLAN                                   
+9-524                    445   TEACHING LAB       URBAN ST & PLAN                                   
+9-525                    180   OFFICE             URBAN ST & PLAN                                   
+9-527                    169   OFFICE             URBAN ST & PLAN                                   
+9-528                    105   OFFICE             URBAN ST & PLAN                                   
+9-530                     86   OFFICE             URBAN ST & PLAN                                   
+9-532                    166   OFFICE             URBAN ST & PLAN                                   
+9-534                     94   OFFICE             URBAN ST & PLAN                                   
+9-535                    124   OFFICE             URBAN ST & PLAN                                   
+9-536                    262   OFFICE             URBAN ST & PLAN                                   
+9-537                    126   OFFICE             URBAN ST & PLAN                                   
+9-538                    207   OFFICE SERVICE     URBAN ST & PLAN                                   
+9-539                    136   OFFICE             URBAN ST & PLAN                                   
+9-540                     84   STORAGE FACILITY   URBAN ST & PLAN                                   
+9-545                    114   OFFICE             URBAN ST & PLAN                                   
+9-547                    129   OFFICE             URBAN ST & PLAN                                   
+9-549                    249   OFFICE             URBAN ST & PLAN                                   
+9-550                    112   CONFERENCE ROOM    URBAN ST & PLAN                                   
+9-550E                    14   ELECTRIC CLOSET    DP OF FACILITIES                                  
+9-552AT                   67   TELECOM CLOSET     DP OF FACILITIES       DATA FACILITY              
+9-552T                    10   TELECOM CLOSET     DP OF FACILITIES                                  
+9-554                    660   TEACHING LAB       URBAN ST & PLAN                                   
+9-555                  1,148   OFFICE SERVICE     URBAN ST & PLAN                                   
+9-556                     93   CONFERENCE ROOM    URBAN ST & PLAN                                   
+9-561                     22   OFFICE SERVICE     URBAN ST & PLAN                                   
+9-562                     20   OFFICE SERVICE     INFO SVCS & TECH                                  
+9-563E                    22   ELECTRIC CLOSET    DP OF FACILITIES                                  
+9-564                     21   UTILITY/MECH RM    DP OF FACILITIES                                  
+9-569                    196   OFFICE             URBAN ST & PLAN                                   
+9-569A                    98   OFFICE             URBAN ST & PLAN                                   
+9-569B                    87   OFFICE             URBAN ST & PLAN                                   
+9-569C                   211   OFFICE             URBAN ST & PLAN                                   
+9-569D                    87   OFFICE             URBAN ST & PLAN                                   
+9-569F                    97   OFFICE             URBAN ST & PLAN                                   
+9-569G                   123   OFFICE SERVICE     URBAN ST & PLAN                                   
+                    --------                                                                        
+                      10,134                                                                        
+                                                                                                    
+9-600E1                   38   ELEVATOR           DP OF FACILITIES                                  
+9-600SA                  123   STAIRWAY           DP OF FACILITIES                                  
+9-600Z                    10   SHAFT SPACE        DP OF FACILITIES                                  
+9-635                    505   LOUNGE             URBAN ST & PLAN                                   
+9-635A                    32   UTILITY/MECH RM    DP OF FACILITIES                                  
+9-650                  1,451   UTILITY/MECH RM    DP OF FACILITIES                                  
+9-663                     62   UTILITY/MECH RM    DP OF FACILITIES                                  
+9-664                     62   UTILITY/MECH RM    DP OF FACILITIES   

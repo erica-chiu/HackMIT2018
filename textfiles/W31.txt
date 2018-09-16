@@ -1,0 +1,155 @@
+W31-000CA                324   CORRIDOR           DP OF FACILITIES                                  
+W31-000CC                362   CORRIDOR           DP OF FACILITIES                                  
+W31-000CE                525   CORRIDOR           DP OF FACILITIES                                  
+W31-000CF                151   CORRIDOR           DP OF FACILITIES                                  
+W31-000CG                749   CORRIDOR           DP OF FACILITIES                                  
+W31-000E1                 36   ELEVATOR           DP OF FACILITIES                                  
+W31-000LA                572   LOBBY              DP OF FACILITIES                                  
+W31-000SA                274   STAIRWAY           DP OF FACILITIES                                  
+W31-000Z                 344   SHAFT SPACE        DP OF FACILITIES                                  
+W31-001J                 134   JANITOR CLOSET     DP OF FACILITIES                                  
+W31-004                  403   ATHLETIC SERVICE   ATHLETICS                                         
+W31-005                  232   ATHLETIC SERVICE   ATHLETICS                                         
+W31-007                  239   OFFICE SERVICE     PROVOST RESERVE                                   
+W31-016                   55   ATHLETIC SERVICE   ATHLETICS                                         
+W31-016A                 226   FEMALE LAVATORY    DP OF FACILITIES                                  
+W31-016B                 107   ATHLETIC SERVICE   ATHLETICS                                         
+W31-016C                 168   ATH SHOWER ROOM    ATHLETICS                                         
+W31-016D                 261   ATH LOCKER ROOM    ATHLETICS                                         
+W31-018                   53   ATHLETIC SERVICE   ATHLETICS                                         
+W31-018A                 225   MALE LAVATORY      DP OF FACILITIES                                  
+W31-018B                 156   ATHLETIC SERVICE   ATHLETICS                                         
+W31-018C                 160   ATH SHOWER ROOM    ATHLETICS                                         
+W31-018D                 268   ATH LOCKER ROOM    ATHLETICS                                         
+W31-018F                 287   ATH LOCKER ROOM    ATHLETICS                                         
+W31-019                   57   UTILITY/MECH RM    DP OF FACILITIES                                  
+W31-021                  220   ATHLETIC SERVICE   ATHLETICS                                         
+W31-021A                 242   ATHLETIC FACIL     ATHLETICS                                         
+W31-021B                 165   ATHLETIC FACIL     ATHLETICS                                         
+W31-031                3,392   RECREATION FACIL   STU ACTIVITIES                                    
+W31-031A                 110   OFFICE SERVICE     STU ACTIVITIES                                    
+W31-031B                 145   OFFICE             STU ACTIVITIES                                    
+W31-031C                 136   OFFICE SERVICE     STU ACTIVITIES                                    
+W31-032                   34   UTILITY/MECH RM    DP OF FACILITIES                                  
+W31-033                  242   ATHLETIC SERVICE   ATHLETICS                                         
+W31-033A                  42   STORAGE FACILITY   DP OF FACIL ADM                                   
+W31-034                  583   UTILITY/MECH RM    DP OF FACILITIES                                  
+W31-034A                 361   UTILITY/MECH RM    DP OF FACILITIES                                  
+W31-034B                 183   UTILITY/MECH RM    DP OF FACILITIES                                  
+W31-035                   25   STORAGE FACILITY   ROTC-MILITARY SC                                  
+W31-040                2,611   ATHLETIC FACIL     ATHLETICS                                         
+W31-041A                 102   UTILITY/MECH RM    DP OF FACILITIES                                  
+W31-041B                 388   OFFICE SERVICE     STU ACTIVITIES                                    
+W31-041BA                 43   OFFICE SERVICE     STU ACTIVITIES                                    
+W31-045                1,377   ATHLETIC FACIL     ATHLETICS                                         
+W31-045A                  43   UTILITY/MECH RM    DP OF FACILITIES                                  
+W31-049                4,281   ATHLETIC FACIL     ATHLETICS                                         
+W31-051                  108   OFFICE             ATHLETICS                                         
+W31-051A                  83   ATHLETIC SERVICE   ATHLETICS                                         
+W31-055                3,157   ATHLETIC FACIL     ATHLETICS                                         
+W31-057                  455   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      24,897                                                                        
+                                                                                                    
+W31-100E1                 45   ELEVATOR           DP OF FACILITIES                                  
+W31-100LA                433   LOBBY              DP OF FACILITIES                                  
+W31-100LB                 51   LOBBY              DP OF FACILITIES                                  
+W31-100SB                529   STAIRWAY           DP OF FACILITIES                                  
+W31-100SC                235   STAIRWAY           DP OF FACILITIES                                  
+W31-100SD                 35   STAIRWAY           DP OF FACILITIES                                  
+W31-100Z                  21   SHAFT SPACE        DP OF FACILITIES                                  
+W31-110                  420   PVT CIRCULATION    CAMP ACTIV COMPL                                  
+W31-111                  499   CONFERENCE ROOM    CAMP ACTIV COMPL                                  
+W31-111A                   5   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W31-111B                  10   UTILITY/MECH RM    DP OF FACILITIES                                  
+W31-111E                   6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W31-113                  351   OFFICE             CAMP ACTIV COMPL                                  
+W31-114A                  46   PVT LAVATORY       CAMP ACTIV COMPL                                  
+W31-116A                 184   OFFICE             CAMP ACTIV COMPL                                  
+W31-116B                 116   OFFICE             CAMP ACTIV COMPL                                  
+W31-118                  626   OFFICE             CAMP ACTIV COMPL                                  
+W31-119                  227   OFFICE             CAMP ACTIV COMPL                                  
+W31-119A                   8   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W31-120                  216   OFFICE             PROVOST RESERVE        DAPER                      
+W31-121                  129   ATHLETIC SERVICE   ATHLETICS                                         
+W31-125                1,956   ATHLETIC FACIL     ATHLETICS                                         
+W31-140               19,559   ATHLETIC FACIL     ATHLETICS                                         
+W31-140A                  26   ATHLETIC SERVICE   ATHLETICS                                         
+                    --------                                                                        
+                      25,733                                                                        
+                                                                                                    
+W31-200CA                152   CORRIDOR           DP OF FACILITIES                                  
+W31-200CB                107   CORRIDOR           DP OF FACILITIES                                  
+W31-200CC                 24   CORRIDOR           DP OF FACILITIES                                  
+W31-200E1                 29   ELEVATOR           DP OF FACILITIES                                  
+W31-200LA                316   LOBBY              DP OF FACILITIES                                  
+W31-200SA                634   STAIRWAY           DP OF FACILITIES                                  
+W31-200SB                 35   STAIRWAY           DP OF FACILITIES                                  
+W31-200Z                  46   SHAFT SPACE        DP OF FACILITIES                                  
+W31-210                  185   PVT CIRCULATION    PROVOST RESERVE                                   
+W31-210A                  32   OFFICE SERVICE     PROVOST RESERVE                                   
+W31-212                  164   NON-ATH LOCKR RM   PROVOST RESERVE                                   
+W31-213                  536   OFFICE             PROVOST RESERVE                                   
+W31-213T                  76   TELECOM CLOSET     DP OF FACILITIES                                  
+W31-214                  289   NON-ATH LOCKR RM   PROVOST RESERVE                                   
+W31-215                  259   OFFICE SERVICE     PROVOST RESERVE                                   
+W31-216                  104   PVT CIRCULATION    PROVOST RESERVE                                   
+W31-216A                 207   OFFICE             PROVOST RESERVE                                   
+W31-217                  111   OFFICE SERVICE     PROVOST RESERVE                                   
+W31-218                  222   OFFICE             PROVOST RESERVE                                   
+W31-219                  297   OFFICE             PROVOST RESERVE        CRE                        
+W31-219A                  37   PUBLIC LAVATORY    DP OF FACILITIES                                  
+W31-219B                  40   PUBLIC LAVATORY    DP OF FACILITIES                                  
+W31-219C                  26   PVT CIRCULATION    PROVOST RESERVE                                   
+W31-220                   60   OFFICE SERVICE     PROVOST RESERVE        CRE                        
+W31-220A                  33   OFFICE SERVICE     PROVOST RESERVE                                   
+W31-220AA                 36   OFFICE SERVICE     PROVOST RESERVE                                   
+W31-220B                  40   FEMALE LAVATORY    DP OF FACILITIES                                  
+W31-220C                  39   MALE LAVATORY      DP OF FACILITIES                                  
+W31-221                  179   OFFICE             PROVOST RESERVE        CRIME PREV                 
+W31-221A                  11   OFFICE SERVICE     PROVOST RESERVE                                   
+W31-222                  128   NON-ATH LOCKR RM   PROVOST RESERVE        STAFF LOCKER RM            
+W31-223                  199   OFFICE SERVICE     PROVOST RESERVE        SPECIAL SVC DIV            
+W31-224                   55   OFFICE SERVICE     PROVOST RESERVE                                   
+W31-225                1,041   ATHLETIC FACIL     ATHLETICS                                         
+W31-225A                  83   ATHLETIC SERVICE   ATHLETICS                                         
+W31-225B                  21   JANITOR STORAGE    DP OF FACILITIES                                  
+W31-230                  811   PVT CIRCULATION    ATHLETICS                                         
+                    --------                                                                        
+                       6,662                                                                        
+                                                                                                    
+W31-300CA                136   CORRIDOR           DP OF FACILITIES                                  
+W31-300E1                 38   ELEVATOR           DP OF FACILITIES                                  
+W31-300LA                314   LOBBY              DP OF FACILITIES                                  
+W31-300SA                140   STAIRWAY           DP OF FACILITIES                                  
+W31-300SB                 41   STAIRWAY           DP OF FACILITIES                                  
+W31-300Z                  82   SHAFT SPACE        DP OF FACILITIES                                  
+W31-301                1,494   LECTURE HALL       PROVOST RESERVE                                   
+W31-302                  123   OFFICE             PROVOST RESERVE                                   
+W31-302A                 225   PVT CIRCULATION    PROVOST RESERVE                                   
+W31-304                  160   OFFICE             PROVOST RESERVE                                   
+W31-305                  306   CONFERENCE ROOM    PROVOST RESERVE                                   
+W31-305A                  31   OFFICE SERVICE     PROVOST RESERVE                                   
+W31-305B                  30   OFFICE SERVICE     PROVOST RESERVE                                   
+W31-306                  200   OFFICE             PROVOST RESERVE                                   
+W31-308                  132   MALE LAVATORY      DP OF FACILITIES                                  
+W31-308A                 148   FEMALE LAVATORY    DP OF FACILITIES                                  
+W31-308J                  14   JANITOR CLOSET     DP OF FACILITIES                                  
+W31-309                  282   OFFICE             PROVOST RESERVE                                   
+W31-310                  596   SECY/RECEPTION     PROVOST RESERVE                                   
+W31-310A                 140   OFFICE             PROVOST RESERVE                                   
+W31-310AA                 70   OFFICE SERVICE     PROVOST RESERVE                                   
+W31-310B                 150   OFFICE             PROVOST RESERVE                                   
+W31-310BA                  9   OFFICE SERVICE     PROVOST RESERVE                                   
+W31-310C                 273   OFFICE             PROVOST RESERVE                                   
+W31-310CA                  9   OFFICE SERVICE     PROVOST RESERVE                                   
+W31-310D                  50   OFFICE SERVICE     PROVOST RESERVE                                   
+W31-310DA                 54   OFFICE SERVICE     PROVOST RESERVE                                   
+W31-310E                  29   OFFICE SERVICE     PROVOST RESERVE                                   
+W31-310F                  95   OFFICE             PROVOST RESERVE                                   
+W31-310G                 138   OFFICE             PROVOST RESERVE                                   
+W31-310H                  84   OFFICE             PROVOST RESERVE                                   
+W31-310K                 131   OFFICE             PROVOST RESERVE                                   
+W31-310L                  90   OFFICE             PROVOST RESERVE                                   
+W31-310M                  31   OFFICE SERVICE     PROVOST RESERVE                                   
+W31-310N                   9   OFFICE SERVICE     PROVOST RESERVE 
