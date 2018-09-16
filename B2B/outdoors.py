@@ -8,12 +8,14 @@ foot_traffic = []  # the foot traffic, for distance purposes (based on time). De
 
 VERBS = ["Head", "Walk", "Travel", "Go",  "Move", "Grapevine"]  # to reduce redundancy
 
-OUTSIDE = -1
+OUTSIDE = 0
 ILLEGAL = -2
 rows, cols = -1, -1
 INF = 1e9  # very large
 TO_MIN = 1 / 6000  # from pure units to minutes  TODO: fix this scaling
 CHANGE_DIRECTION_STEP = 2  # the number of steps to check if overall path direction changed (to get around curvy paths)  TODO: fix this scaling
+
+STAIR_LIM = INF
 
 # directional displacements (N, W, S, E, NW, SW, SE, NE)
 root2 = math.sqrt(2)/2
@@ -50,11 +52,13 @@ def generate_instructions(coords):
     i, n = 0, len(coords)
     ret = "This path should take you at most {0:.3f} minutes.\nStart at building {1}".format(coords[-1][2] * TO_MIN,
                                                                                              building_map[coords[i][0]][coords[i][1]])
+    # TODO: Descending step
     while i < n-1:  # shouldn't do directions for last building
         j = i+1
         building_i = building_map[coords[i][0]][coords[i][1]]
         building_j = building_map[coords[j][0]][coords[j][1]]
         cds = CHANGE_DIRECTION_STEP
+        # TODO: refactor this, buildings are now all one step
         while j < n and building_i == building_j and (
                 building_i != OUTSIDE or
                 j - i < 2 * cds or
@@ -74,6 +78,7 @@ def generate_instructions(coords):
                                                           to_building=to_building,
                                                           time=(coords[j][2]-coords[j][1]) * TO_MIN)
         i = j  # update current position
+    # TODO: Ascending step
     ret += "\nYou have arrived at building {}!".format(building_map[coords[-1][0]][coords[-1][1]])
     return ret
 
@@ -92,6 +97,44 @@ def find_xy_cluster(building_id):
     return -1, -1
 
 
+def get_building_extrema(building_id):
+    """
+    Gets building extrema
+    :param building_id: the building
+    :return: tuple of 4 (minx, maxx, miny, maxy)
+    """
+    min_x, min_y, max_x, max_y = INF, INF, 0, 0
+    for i in range(rows):
+        for j in range(cols):
+            if building_map[i][j] == building_id:
+                if i < min_x:
+                    min_x = i
+                if i > max_x:
+                    max_x = i
+                if j < min_y:
+                    min_y = j
+                if j > max_y:
+                    max_y = j
+    return min_x, max_x, min_y, max_y
+
+
+def get_closest_door(cur_x, cur_y, building_id, floor):
+    """
+    Finds closest door to building by testing proportions
+    :param cur_x: loc x
+    :param cur_y: loc y
+    :param building_id: id of building
+    :param floor: floor number
+    :return: closest door's coordinates as a tuple (approximately)
+    """
+    min_x, max_x, min_y, max_y = get_building_extrema(building_id)
+    cur_x -= min_x
+    cur_y -= min_y
+    cd = indoors.closest_door(building_id, floor, cur_x / (max_x - min_x), cur_y / (max_y - min_y))[0:1]
+    prop_x, prop_y = cd[0:1]
+    return int(prop_x * (max_x - min_x) + min_x), int(prop_y * (max_y - min_y) + min_y), cd[2]
+
+
 def shortest_path(start_building, end_building, start_floor=1, end_floor=1):
     """
     Finds detailed shortest path between two buildings.
@@ -102,12 +145,17 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1):
     :return: a list of coordinates for the user to go with times
     """
     startx, starty = find_xy_cluster(start_building)
+    startx, starty, startd = get_closest_door(startx, starty, start_building, start_floor)
     endx, endy = find_xy_cluster(end_building)
+    endx, endy, end = get_closest_door(endx, endy, end_building, end_floor)
     dist = [[INF] * cols for _ in range(rows)]
     prev = [[None] * cols for _ in range(rows)]
-    dist[startx][starty] = indoors.traverse(building_map[startx][starty], start_floor)
+    starting_doors = indoors.get_scaled_door_locs(start_building, start_floor, get_building_extrema(start_building))
+    door_dists = indoors.traverse(start_building, startd, start_floor, stair_limit=STAIR_LIM)
     q = Q.PriorityQueue()
-    q.put((dist[startx][starty], startx, starty))
+    for ind, (door_x, door_y) in enumerate(starting_doors):
+        dist[door_x][door_y] = door_dists[ind]
+        q.put((dist[door_x][door_y], door_x, door_y))
     while not q.empty():
         cdist, cx, cy = q.get()
         if cdist > dist[cx][cy]:  # lol we don't do decrease-key in these parts
@@ -117,7 +165,9 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1):
             break  # we found it!
         for k in range(4):
             nx, ny = cx + dx[k], cy + dy[k]
-            if nx < 0 or ny < 0 or nx >= rows or ny >= cols or building_map[nx][ny] == ILLEGAL:  # no illegal steps
+            if nx < 0 or ny < 0 or nx >= rows or ny >= cols or building_map[nx][ny] == ILLEGAL or (
+                building_map[nx][ny] == building_map[cx][cy] and building_map[cx][cy] != OUTSIDE
+            ):  # no illegal steps or steps within the same building (those are handled by indoors)
                 continue
             ndist = cdist
             if building_map[nx][ny] == OUTSIDE:
@@ -138,20 +188,22 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1):
     return list(reversed(ret))
 
 
-def build_vals(buildings, traffic=None):
+def build_vals(buildings, traffic=None, stair_lim=None):
     """
     Builds globals
     :param buildings: map of buildings
     :param traffic: map of foot traffic
     :return: None
     """
-    global building_map, foot_traffic, rows, cols
+    global building_map, foot_traffic, STAIR_LIM, rows, cols
     building_map = buildings
     rows, cols = len(buildings), len(buildings[0])
     if traffic is None:
         foot_traffic = [[100] * cols for _ in range(rows)]
     else:
         foot_traffic = traffic
+    if stair_lim is not None:
+        STAIR_LIM = stair_lim
 
 
 # debugging
