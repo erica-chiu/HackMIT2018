@@ -283,18 +283,20 @@ def map_parse():
                     map[x][y] = '-2'
                 if red[x][y] == 255:
                     neighbors = [(x + 1, y), (x - 1, y), (x, y + 1),
-                                 (x, y - 1)]
+                                 (x, y - 1),(x + 1, y + 1), (x + 1, y - 1),
+                         (x - 1, y + 1), (x - 1, y - 1)]
                     for px,py in neighbors:
                         if 0<=px<len(map) and 0<=py<len(map[0]):
-                            if map[px][py] != '0' or map[px][py] != '-2':
+                            if map[px][py] != '0' and map[px][py] != '-2':
                                 map[x][y] = map[px][py]
                                 break
-                    
 
-        hello = 255*(np.array(map) == '-2')
+
+        hello = np.int32(np.array(map) == '-2') +np.int32(np.array(map) == '0')
+        hello = 255*(hello==0)
         out = PILImage.new(mode='L', size=img.size)
         out.putdata(np.reshape(hello, [-1]))
-        out.save('no.png')
+        out.save('ok.png')
 
 
 
