@@ -1,0 +1,310 @@
+E51-000CA                666   CORRIDOR           DP OF FACILITIES                                  
+E51-000CB                611   CORRIDOR           DP OF FACILITIES                                  
+E51-000CC                699   CORRIDOR           DP OF FACILITIES                                  
+E51-000CD                606   CORRIDOR           DP OF FACILITIES                                  
+E51-000E1                 70   ELEVATOR           DP OF FACILITIES                                  
+E51-000E2                134   ELEVATOR           DP OF FACILITIES                                  
+E51-000LA              1,221   LOBBY              DP OF FACILITIES                                  
+E51-000LB                707   LOBBY              DP OF FACILITIES                                  
+E51-000SA                328   STAIRWAY           DP OF FACILITIES                                  
+E51-000SB                136   STAIRWAY           DP OF FACILITIES                                  
+E51-000SD                148   STAIRWAY           DP OF FACILITIES                                  
+E51-000SE                 30   STAIRWAY           DP OF FACILITIES                                  
+E51-000SG                 85   STAIRWAY           DP OF FACILITIES                                  
+E51-000Z               1,878   SHAFT SPACE        DP OF FACILITIES                                  
+E51-012                   77   UTILITY/MECH RM    DP OF FACILITIES                                  
+E51-014                   79   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-015                1,982   LOUNGE             SCH OF MANAGEMNT                                  
+E51-015A                  28   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-017T                  16   TELECOM CLOSET     DP OF FACILITIES                                  
+E51-019                  514   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-019A                 303   UTILITY/MECH RM    DP OF FACILITIES                                  
+E51-021E                  17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E51-022                  235   MALE LAVATORY      DP OF FACILITIES                                  
+E51-023E                   6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E51-024                  270   FEMALE LAVATORY    DP OF FACILITIES                                  
+E51-027E                   8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E51-033                    6   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-034AT                 44   TELECOM CLOSET     DP OF FACILITIES                                  
+E51-034T                  19   TELECOM CLOSET     DP OF FACILITIES                                  
+E51-036                  186   UTILITY/MECH RM    DP OF FACILITIES                                  
+E51-038E                 245   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E51-041                   42   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-041J                  35   JANITOR CLOSET     DP OF FACILITIES                                  
+E51-042                   94   UTILITY/MECH RM    DP OF FACILITIES                                  
+E51-043                  376   RECEIVING ROOM     DP OF FACIL ADM                                   
+E51-044                  196   JANITOR STORAGE    DP OF FACILITIES                                  
+E51-045                  547   UTILITY/MECH RM    DP OF FACILITIES                                  
+E51-045A                  25   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-045B                  11   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-046                  200   JANITOR STORAGE    DP OF FACILITIES                                  
+E51-047                  635   UTILITY/MECH RM    DP OF FACILITIES                                  
+E51-050                  156   OFFICE SERVICE     SCI TECH&SOCIETY                                  
+E51-051                  341   OFFICE             SCH OF HUM & S S                                  
+E51-053                  329   OFFICE SERVICE     SCI TECH&SOCIETY                                  
+E51-057                  854   CLASSROOM          REGISTRAR                                         
+E51-061                  581   CLASSROOM          REGISTRAR                                         
+E51-063                  602   CLASSROOM          REGISTRAR                                         
+E51-064                  146   MALE LAVATORY      DP OF FACILITIES                                  
+E51-066J                  57   JANITOR CLOSET     DP OF FACILITIES                                  
+E51-068                   99   FEMALE LAVATORY    DP OF FACILITIES                                  
+E51-070                  746   OFFICE             SCI TECH&SOCIETY                                  
+E51-070A                 112   OFFICE             SCI TECH&SOCIETY                                  
+E51-070B                  99   OFFICE             SCI TECH&SOCIETY                                  
+E51-070BA                  9   UTILITY/MECH RM    DP OF FACILITIES                                  
+E51-070C                 125   OFFICE SERVICE     SCI TECH&SOCIETY                                  
+E51-073                  378   COMPUTER FACIL     INFO SVCS & TECH       ATHENA                     
+E51-075                  378   OFFICE             SCI TECH&SOCIETY       ATHENA                     
+E51-078                  693   UTILITY/MECH RM    DP OF FACILITIES                                  
+E51-078A                 118   UTILITY/MECH RM    DP OF FACILITIES                                  
+E51-085                  767   CLASSROOM          REGISTRAR                                         
+E51-085A                  94   UTILITY/MECH RM    DP OF FACILITIES                                  
+E51-090                  607   OFFICE             SCH OF HUM & S S                                  
+E51-091                  242   OFFICE             HISTORY                HISTORY                    
+E51-093                  316   OFFICE             SCH OF HUM & S S                                  
+E51-094                  138   OFFICE SERVICE     SCI TECH&SOCIETY                                  
+E51-095                  650   CONFERENCE ROOM    SCH OF HUM & S S                                  
+E51-095A                  15   OFFICE SERVICE     SCH OF HUM & S S                                  
+E51-095B                  15   OFFICE SERVICE     SCH OF HUM & S S                                  
+E51-096                  142   OFFICE SERVICE     SCH OF HUM & S S                                  
+E51-096A                  20   UTILITY/MECH RM    DP OF FACILITIES                                  
+E51-098                  299   OFFICE             SCI TECH&SOCIETY                                  
+                    --------                                                                        
+                      22,640                                                                        
+                                                                                                    
+E51-100CA              3,404   CORRIDOR           DP OF FACILITIES                                  
+E51-100CB                626   CORRIDOR           DP OF FACILITIES                                  
+E51-100CC              1,277   CORRIDOR           DP OF FACILITIES                                  
+E51-100E1                 66   ELEVATOR           DP OF FACILITIES                                  
+E51-100E2                115   ELEVATOR           DP OF FACILITIES                                  
+E51-100SA                268   STAIRWAY           DP OF FACILITIES                                  
+E51-100SB                154   STAIRWAY           DP OF FACILITIES                                  
+E51-100SD                177   STAIRWAY           DP OF FACILITIES                                  
+E51-100SE                118   STAIRWAY           DP OF FACILITIES                                  
+E51-100SF                132   STAIRWAY           DP OF FACILITIES                                  
+E51-100SG                167   STAIRWAY           DP OF FACILITIES                                  
+E51-100Z                 307   SHAFT SPACE        DP OF FACILITIES                                  
+E51-115                3,387   LECTURE HALL       CAMP ACTIV COMPL                                  
+E51-115A                 172   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-117T                  18   TELECOM CLOSET     DP OF FACILITIES                                  
+E51-121T                  13   ELEC/TEL CLOSET    DP OF FACILITIES                                  
+E51-127E                   8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E51-141                   71   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-143                   57   OFFICE             SCH OF MANAGEMNT                                  
+E51-145                1,167   CLASSROOM          REGISTRAR                                         
+E51-145A                   9   CLASSROOM SVC      REGISTRAR                                         
+E51-149                1,105   CLASSROOM          REGISTRAR                                         
+E51-149A                  11   CLASSROOM SVC      REGISTRAR                                         
+E51-151                1,136   CLASSROOM          REGISTRAR                                         
+E51-151A                   5   CLASSROOM SVC      REGISTRAR                                         
+E51-153                   26   FEMALE LAVATORY    DP OF FACILITIES                                  
+E51-155                   57   MALE LAVATORY      DP OF FACILITIES                                  
+E51-157J                  19   JANITOR CLOSET     DP OF FACILITIES                                  
+E51-159                   39   PUBLIC LAVATORY    DP OF FACILITIES                                  
+E51-159E                   9   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E51-163                  305   OFFICE SERVICE     SCI TECH&SOCIETY                                  
+E51-163A                 118   OFFICE SERVICE     SCI TECH&SOCIETY                                  
+E51-163B                 168   OFFICE             SCI TECH&SOCIETY                                  
+E51-163C                 191   OFFICE             SCI TECH&SOCIETY                                  
+E51-163D                 114   SECY/RECEPTION     SCI TECH&SOCIETY                                  
+E51-163E                   5   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E51-163F                 185   OFFICE             SCI TECH&SOCIETY                                  
+E51-163T                  10   TELECOM CLOSET     DP OF FACILITIES                                  
+E51-165                  378   CONFERENCE ROOM    SCI TECH&SOCIETY                                  
+E51-165A                   7   OFFICE SERVICE     SCI TECH&SOCIETY                                  
+E51-166                   70   FEMALE LAVATORY    DP OF FACILITIES                                  
+E51-168                   64   MALE LAVATORY      DP OF FACILITIES                                  
+E51-171                  162   OFFICE SERVICE     SCI TECH&SOCIETY                                  
+E51-173                  163   OFFICE             SCI TECH&SOCIETY                                  
+E51-178                  126   OFFICE             SCI TECH&SOCIETY                                  
+E51-179                   65   OFFICE SERVICE     SCI TECH&SOCIETY                                  
+E51-179A                 266   OFFICE             SCI TECH&SOCIETY                                  
+E51-179B                 119   OFFICE             SCI TECH&SOCIETY                                  
+E51-180                  173   OFFICE             SCI TECH&SOCIETY                                  
+E51-181E                   2   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E51-181T                   5   TELECOM CLOSET     DP OF FACILITIES                                  
+E51-182                  228   OFFICE SERVICE     SCI TECH&SOCIETY                                  
+E51-184                  109   OFFICE SERVICE     SCI TECH&SOCIETY                                  
+E51-185                  254   OFFICE SERVICE     SCI TECH&SOCIETY                                  
+E51-185A                  84   OFFICE SERVICE     SCI TECH&SOCIETY                                  
+E51-185AA                 53   OFFICE             SCI TECH&SOCIETY                                  
+E51-185B                 129   OFFICE             SCI TECH&SOCIETY                                  
+E51-185C                 147   OFFICE             SCI TECH&SOCIETY                                  
+E51-185D                  71   OFFICE             SCI TECH&SOCIETY                                  
+E51-185F                 312   OFFICE             SCI TECH&SOCIETY                                  
+E51-186                  149   OFFICE             SCI TECH&SOCIETY                                  
+E51-188                  164   OFFICE             SCI TECH&SOCIETY                                  
+E51-191                  284   OFFICE SERVICE     SCI TECH&SOCIETY                                  
+E51-194                  238   SECY/RECEPTION     SCI TECH&SOCIETY                                  
+E51-194A                 128   OFFICE             SCI TECH&SOCIETY                                  
+E51-194B                 213   OFFICE             SCI TECH&SOCIETY                                  
+E51-194C                 141   OFFICE             SCI TECH&SOCIETY                                  
+                    --------                                                                        
+                      19,518                                                                        
+                                                                                                    
+E51-200CA              1,017   CORRIDOR           DP OF FACILITIES                                  
+E51-200CB              1,057   CORRIDOR           DP OF FACILITIES                                  
+E51-200CC              1,366   CORRIDOR           DP OF FACILITIES                                  
+E51-200E1                 66   ELEVATOR           DP OF FACILITIES                                  
+E51-200E2                121   ELEVATOR           DP OF FACILITIES                                  
+E51-200LA                331   LOBBY              DP OF FACILITIES                                  
+E51-200SA                246   STAIRWAY           DP OF FACILITIES                                  
+E51-200SC                120   STAIRWAY           DP OF FACILITIES                                  
+E51-200SD                152   STAIRWAY           DP OF FACILITIES                                  
+E51-200SF                145   STAIRWAY           DP OF FACILITIES                                  
+E51-200SG                159   STAIRWAY           DP OF FACILITIES                                  
+E51-200Z               2,998   SHAFT SPACE        DP OF FACILITIES                                  
+E51-201                  108   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-201E                  19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E51-203                  135   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-203A                 153   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-203B                 227   OFFICE             SCH OF MANAGEMNT                                  
+E51-203C                 109   OFFICE             SCH OF MANAGEMNT                                  
+E51-203D                 105   OFFICE             SCH OF MANAGEMNT                                  
+E51-203F                 187   OFFICE             SCH OF MANAGEMNT                                  
+E51-205                  198   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E51-205A                  16   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-207                  129   OFFICE             SCH OF MANAGEMNT                                  
+E51-207A                  60   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-209                  115   OFFICE             SCH OF MANAGEMNT                                  
+E51-210                1,026   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-210A                  14   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-210B                  54   SECY/RECEPTION     SCH OF MANAGEMNT                                  
+E51-211                  118   OFFICE             SCH OF MANAGEMNT                                  
+E51-214                  122   OFFICE             SCH OF MANAGEMNT                                  
+E51-216                  120   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-217T                  13   TELECOM CLOSET     DP OF FACILITIES                                  
+E51-218                  116   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-220                  118   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-221                  258   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-221A                 202   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-222                  116   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-223                  115   OFFICE             SCH OF MANAGEMNT                                  
+E51-225                  117   OFFICE             SCH OF MANAGEMNT                                  
+E51-227                  116   OFFICE             SCH OF MANAGEMNT                                  
+E51-229                  117   OFFICE             SCH OF MANAGEMNT                                  
+E51-231                  122   OFFICE             SCH OF MANAGEMNT                                  
+E51-234                  117   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-235                  451   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-236                  114   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-237                  164   MALE LAVATORY      DP OF FACILITIES                                  
+E51-238                  119   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-239                  196   FEMALE LAVATORY    DP OF FACILITIES                                  
+E51-239E                   8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E51-241J                  48   JANITOR CLOSET     DP OF FACILITIES                                  
+E51-242                  243   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-246                  257   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E51-247                  494   UTILITY/MECH RM    DP OF FACILITIES                                  
+E51-249                  141   UTILITY/MECH RM    DP OF FACILITIES                                  
+E51-255                  505   OFFICE SERVICE     HISTORY                                           
+E51-255A                  67   SECY/RECEPTION     HISTORY                                           
+E51-255BB                 59   OFFICE SERVICE     HISTORY                                           
+E51-255C                 238   OFFICE             HISTORY                                           
+E51-255D                 176   OFFICE             HISTORY                                           
+E51-255E                   3   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E51-255F                 103   OFFICE             HISTORY                                           
+E51-255G                 187   OFFICE             HISTORY                                           
+E51-255H                   9   OFFICE SERVICE     HISTORY                                           
+E51-255T                  11   TELECOM CLOSET     DP OF FACILITIES                                  
+E51-261                  138   OFFICE SERVICE     HISTORY                                           
+E51-261A                 165   OFFICE             HISTORY                                           
+E51-263                  129   OFFICE             HISTORY                                           
+E51-263B                 179   OFFICE             HISTORY                                           
+E51-265                  120   OFFICE             HISTORY                                           
+E51-265A                  46   OFFICE SERVICE     DP OF FACIL ADM                                   
+E51-266                  177   MALE LAVATORY      DP OF FACILITIES                                  
+E51-266J                  25   JANITOR CLOSET     DP OF FACILITIES                                  
+E51-268                  141   FEMALE LAVATORY    DP OF FACILITIES                                  
+E51-268A                  66   OFFICE SERVICE     SCH OF HUM & S S                                  
+E51-273                  155   OFFICE             HISTORY                                           
+E51-273A                   9   OFFICE SERVICE     HISTORY                                           
+E51-273B                  10   OFFICE SERVICE     HISTORY                                           
+E51-275                  433   OFFICE SERVICE     SCH OF HUM & S S                                  
+E51-278                  325   OFFICE             SCI TECH&SOCIETY                                  
+E51-279                  198   OFFICE             HISTORY                HISTORY                    
+E51-282                  197   OFFICE             HISTORY                                           
+E51-283E                   7   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E51-283T                  15   TELECOM CLOSET     DP OF FACILITIES                                  
+E51-284                  233   OFFICE             HISTORY                HISTORY                    
+E51-285                  427   CONFERENCE ROOM    HISTORY                HISTORY                    
+E51-287                  226   OFFICE             HISTORY                HISTORY                    
+E51-288                  184   OFFICE             HISTORY                HISTORY                    
+E51-290                  184   OFFICE             HISTORY                                           
+E51-291                  197   OFFICE             HISTORY                HISTORY                    
+E51-293                  181   OFFICE             HISTORY                HISTORY                    
+E51-296                  287   OFFICE SERVICE     HISTORY                                           
+E51-296A                 202   OFFICE             SCI TECH&SOCIETY                                  
+E51-296B                 192   OFFICE             SCI TECH&SOCIETY                                  
+E51-296C                 188   OFFICE             SCI TECH&SOCIETY                                  
+E51-296D                 151   OFFICE             SCI TECH&SOCIETY                                  
+E51-296F                 112   OFFICE             HISTORY                                           
+E51-296G                 143   OFFICE             HISTORY                                           
+E51-296H                  97   SECY/RECEPTION     HISTORY                                           
+                    --------                                                                        
+                      21,455                                                                        
+                                                                                                    
+E51-300CA              1,619   CORRIDOR           DP OF FACILITIES                                  
+E51-300CB                909   CORRIDOR           DP OF FACILITIES                                  
+E51-300CD                320   CORRIDOR           DP OF FACILITIES                                  
+E51-300CE                426   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+E51-300CF                520   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+E51-300E1                 66   ELEVATOR           DP OF FACILITIES                                  
+E51-300E2                122   ELEVATOR           DP OF FACILITIES                                  
+E51-300SA                245   STAIRWAY           DP OF FACILITIES                                  
+E51-300SC                126   STAIRWAY           DP OF FACILITIES                                  
+E51-300SD                145   STAIRWAY           DP OF FACILITIES                                  
+E51-300SG                152   STAIRWAY           DP OF FACILITIES                                  
+E51-300Z                 444   SHAFT SPACE        DP OF FACILITIES                                  
+E51-315                1,967   CLASSROOM          REGISTRAR                                         
+E51-315A                   3   CLASSROOM SVC      REGISTRAR                                         
+E51-315B                   3   CLASSROOM SVC      REGISTRAR                                         
+E51-317                    7   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-317E                  31   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E51-319                    6   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-320                  440   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-325                1,899   CLASSROOM          REGISTRAR                                         
+E51-325A                   3   CLASSROOM SVC      REGISTRAR                                         
+E51-325B                   3   CLASSROOM SVC      REGISTRAR                                         
+E51-327                    7   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-327T                  21   TELECOM CLOSET     DP OF FACILITIES                                  
+E51-329                    6   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-330                  401   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-335                1,638   CLASSROOM          REGISTRAR                                         
+E51-335A                   3   CLASSROOM SVC      REGISTRAR                                         
+E51-335B                   3   CLASSROOM SVC      REGISTRAR                                         
+E51-337                    7   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-337E                  11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E51-339                    6   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-340                  407   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-345                2,460   CLASSROOM          REGISTRAR                                         
+E51-345A                   6   CLASSROOM SVC      REGISTRAR                                         
+E51-347                    7   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-350                  113   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-353                  350   FEMALE LAVATORY    DP OF FACILITIES                                  
+E51-353J                  72   JANITOR CLOSET     DP OF FACILITIES                                  
+E51-355                  349   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-355A                  69   STUDY ROOM         SCH OF MANAGEMNT                                  
+E51-355B                 220   STUDY ROOM         SCH OF MANAGEMNT                                  
+E51-355C                  72   STUDY ROOM         SCH OF MANAGEMNT                                  
+E51-355D                  69   STUDY ROOM         SCH OF MANAGEMNT                                  
+E51-355F                  97   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-355G                  98   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-355H                  98   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-355T                  75   TELECOM CLOSET     DP OF FACILITIES                                  
+E51-357E                  13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E51-357T                  17   TELECOM CLOSET     DP OF FACILITIES                                  
+E51-359                   85   TELECOM CLOSET     DP OF FACILITIES                                  
+E51-361                  580   CLASSROOM          REGISTRAR                                         
+E51-366                  323   MALE LAVATORY      DP OF FACILITIES                                  
+E51-366E                  11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E51-371                1,276   CLASSROOM SVC      SCH OF MANAGEMNT                                  
+E51-372                  804   CLASSROOM          REGISTRAR                                         
+E51-372A                   5   OFFICE SERVICE     REGISTRAR                                         
+E51-376                  897   CLASSROOM          REGISTRAR                                         
+E51-376A                   7   CLASSROOM SVC      REGISTRAR                                         
+E51-378E                   3   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E51-378T                   6   TELECOM CLOSET     DP OF FACILITIES                                  
+E51-385                  495   CLASSROOM          REGISTRAR                                         
+E51-390                  477   CLASSROOM          REGISTRAR                                         
+E51-393                  375   CLASSROOM          REGISTRAR                                         
+E51-395                1,345   CLASSROOM          REGISTRAR  

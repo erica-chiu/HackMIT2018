@@ -1,0 +1,66 @@
+W11-000CB                391   CORRIDOR           DP OF FACILITIES                                  
+W11-000E1                 46   ELEVATOR           DP OF FACILITIES                                  
+W11-000LA                107   LOBBY              DP OF FACILITIES                                  
+W11-000SB                130   STAIRWAY           DP OF FACILITIES                                  
+W11-000SC                 86   STAIRWAY           DP OF FACILITIES                                  
+W11-002                   97   UTILITY/MECH RM    DP OF FACILITIES                                  
+W11-003E                 116   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W11-004                  160   OFFICE             CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-007                  155   OFFICE             CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-010                  357   SECY/RECEPTION     CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-011                  173   OFFICE             CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-012                  197   OFFICE             CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-016                   75   OFFICE SERVICE     CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-018                   23   OFFICE SERVICE     CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-020                  455   OFFICE SERVICE     CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-025                  153   OFFICE SERVICE     CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-029                   79   OFFICE             CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-031                   94   OFFICE             CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-035                  187   OFFICE             CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-039                  161   OFFICE             CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-040                  394   SECY/RECEPTION     CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-051                  308   UTILITY/MECH RM    DP OF FACILITIES                                  
+W11-051A                  39   UTILITY/MECH RM    DP OF FACILITIES                                  
+W11-058                   96   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+W11-063                  169   OFFICE             CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-068                   81   MULTI-PURPOSE RM   CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-071                  173   OFFICE             CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-074                   85   MULTI-PURPOSE RM   CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-079                   17   OFFICE SERVICE     CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-080                  378   MULTI-PURPOSE RM   CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-080A                  23   UTILITY/MECH RM    DP OF FACILITIES                                  
+W11-080T                  19   TELECOM CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,023                                                                        
+                                                                                                    
+W11-100CA                153   CORRIDOR           DP OF FACILITIES                                  
+W11-100CB                441   CORRIDOR           DP OF FACILITIES                                  
+W11-100CC                181   CORRIDOR           DP OF FACILITIES                                  
+W11-100E1                 46   ELEVATOR           DP OF FACILITIES                                  
+W11-100LA                767   LOBBY              DP OF FACILITIES                                  
+W11-100LB                138   LOBBY              DP OF FACILITIES                                  
+W11-100SA                 80   STAIRWAY           DP OF FACILITIES                                  
+W11-100SB                133   STAIRWAY           DP OF FACILITIES                                  
+W11-100SC                 66   STAIRWAY           DP OF FACILITIES                                  
+W11-100Z                 244   SHAFT SPACE        DP OF FACILITIES                                  
+W11-110                  739   MULTI-PURPOSE RM   CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-110A                  54   PVT LAVATORY       CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-110B                  39   MULTI-PURPOSE RM   CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-110C                  55   PVT LAVATORY       CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-128                  230   CONFERENCE ROOM    CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-140                  694   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+W11-140A                  29   MULTI-PURPOSE RM   CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-140B                   5   MULTI-PURPOSE RM   CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-140C                   8   MULTI-PURPOSE RM   CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-140D                  30   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+W11-155                  402   CONFERENCE ROOM    CAMP ACTIV COMPL                                  
+W11-165                  149   FOOD FACIL SVC     CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-167                   91   FOOD FACIL SVC     CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-169                  147   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+W11-169J                  12   JANITOR CLOSET     DP OF FACILITIES                                  
+W11-171                   72   JANITOR STORAGE    DP OF FACILITIES                                  
+W11-175                  291   FOOD FACIL SVC     CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-180                  320   FOOD FACILITY      CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-190                  980   FOOD FACILITY      CAMP ACTIV COMPL       RELIGIOUS CNSL             
+W11-197                  217   MALE LAVATORY      DP OF FACILITIES                                  
+W11-199                  238   FEMALE LAVATORY    DP OF FACILITIES  

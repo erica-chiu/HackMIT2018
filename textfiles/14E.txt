@@ -1,0 +1,93 @@
+14E-100E3                 20   ELEVATOR           DP OF FACILITIES                                  
+14E-100E6                 24   ELEVATOR           DP OF FACILITIES                                  
+14E-100E6M                23   ELEVATOR           DP OF FACILITIES                                  
+14E-100SH                 71   STAIRWAY           DP OF FACILITIES                                  
+14E-100SK                 66   PVT CIRCULATION    LIBRARIES                                         
+14E-100SKM                81   STAIRWAY           DP OF FACILITIES                                  
+14E-100SLM                63   PVT CIRCULATION    LIBRARIES                                         
+14E-100Z                 230   SHAFT SPACE        DP OF FACILITIES                                  
+14E-101                  315   STACK/STUDY        LIBRARIES                                         
+14E-102                  610   RECEIVING ROOM     DP OF FACIL ADM                                   
+14E-102A                  16   UTILITY/MECH RM    DP OF FACILITIES                                  
+14E-102M               1,133   STUDY ROOM         LIBRARIES                                         
+14E-104M                 102   OFFICE SERVICE     LIBRARIES                                         
+14E-106                  217   LIBRARY PROCESS    LIBRARIES                                         
+14E-106M                 246   CONFERENCE ROOM    LIBRARIES                                         
+14E-108                  376   STACK/STUDY        LIBRARIES                                         
+14E-108A                 133   OFFICE             LIBRARIES                                         
+14E-108B                 133   OFFICE             LIBRARIES                                         
+14E-108M                 125   STUDY ROOM         LIBRARIES                                         
+14E-109                1,616   STUDY ROOM         LIBRARIES                                         
+14E-109E                   6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14E-110                  887   STACK/STUDY        LIBRARIES                                         
+14E-110M                 232   OFFICE             LIBRARIES                                         
+14E-112M                  80   OFFICE SERVICE     LIBRARIES                                         
+14E-114                   46   OFFICE SERVICE     LIBRARIES                                         
+14E-114M                 129   STUDY ROOM         LIBRARIES                                         
+14E-114Z                 156   SHAFT SPACE        DP OF FACILITIES                                  
+14E-115                  186   LIBRARY PROCESS    LIBRARIES                                         
+14E-115M                 275   STUDY ROOM         LIBRARIES                                         
+14E-116M                  11   OFFICE SERVICE     LIBRARIES                                         
+                    --------                                                                        
+                       7,606                                                                        
+                                                                                                    
+14E-200E3                 21   ELEVATOR           DP OF FACILITIES                                  
+14E-200Z                   6   SHAFT SPACE        DP OF FACILITIES                                  
+14E-201                  164   FEMALE LAVATORY    DP OF FACILITIES                                  
+14E-210                1,249   PVT CIRCULATION    LIBRARIES                                         
+14E-210A                  70   OFFICE             LIBRARIES                                         
+14E-210B                  59   OFFICE SERVICE     LIBRARIES                                         
+14E-210C                  63   OFFICE             LIBRARIES                                         
+14E-210D                 113   OFFICE             LIBRARIES                                         
+14E-210E                   1   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14E-210F                 973   OFFICE             LIBRARIES                                         
+14E-210G                  17   OFFICE SERVICE     LIBRARIES                                         
+14E-210H                  73   OFFICE SERVICE     LIBRARIES                                         
+14E-210KA                 64   OFFICE             LIBRARIES                                         
+14E-210KB                 64   OFFICE             LIBRARIES                                         
+14E-210L                 136   OFFICE             LIBRARIES                                         
+14E-210M               1,043   OFFICE             LIBRARIES                                         
+14E-210N                 804   OFFICE             LIBRARIES                                         
+14E-210P                  47   OFFICE SERVICE     LIBRARIES                                         
+14E-210Q                  48   OFFICE SERVICE     LIBRARIES                                         
+14E-210S                 112   OFFICE             LIBRARIES                                         
+14E-210T                   4   TELECOM CLOSET     DP OF FACILITIES                                  
+14E-218                   68   OFFICE SERVICE     LIBRARIES                                         
+14E-218Z                 175   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                       5,375                                                                        
+                                                                                                    
+14E-300CB                490   CORRIDOR           DP OF FACILITIES                                  
+14E-300LA                343   LOBBY              DP OF FACILITIES                                  
+14E-300Z                 320   SHAFT SPACE        DP OF FACILITIES                                  
+14E-301T                  36   TELECOM CLOSET     DP OF FACILITIES                                  
+14E-303                  382   OFFICE             COMPARATIVE MEDIA ST   WRITING & HUM ST           
+                                                  UDIES                                             
+                                                                                                    
+14E-303A                 150   OFFICE             COMPARATIVE MEDIA ST   WRITING & HUM ST           
+                                                  UDIES                                             
+                                                                                                    
+14E-303AA                 40   OFFICE SERVICE     COMPARATIVE MEDIA ST   WRITING & HUM ST           
+                                                  UDIES                                             
+                                                                                                    
+14E-303AB                 28   PVT CIRCULATION    COMPARATIVE MEDIA ST   WRITING & HUM ST           
+                                                  UDIES                                             
+                                                                                                    
+14E-303B                 200   OFFICE             COMPARATIVE MEDIA ST   WRITING & HUM ST           
+                                                  UDIES                                             
+                                                                                                    
+14E-304                  602   CONFERENCE ROOM    SCH OF HUM & S S                                  
+14E-304A                 125   OFFICE SERVICE     SCH OF HUM & S S                                  
+14E-304B                  27   UTILITY/MECH RM    DP OF FACILITIES                                  
+14E-304E                  21   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14E-306                   87   OFFICE SERVICE     COMPARATIVE MEDIA ST   WRITING & HUM ST           
+                                                  UDIES                                             
+                                                                                                    
+14E-309                  230   CONFERENCE ROOM    WOMEN & GENDER STUDI                              
+                                                  ES                                                
+                                                                                                    
+14E-310                  845   CLASSROOM          REGISTRAR                                         
+14E-316                  141   OFFICE SERVICE     SCH OF HUM & S S                                  
+14E-316A                 120   OFFICE             SCH OF HUM & S S                                  
+14E-316B                 118   OFFICE             SCH OF HUM & S S                                  
+14E-316C                 145   OFFICE             SCH OF HUM & S S 

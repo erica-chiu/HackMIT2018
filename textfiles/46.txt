@@ -1,0 +1,1413 @@
+46-1/000CA               514   CORRIDOR           DP OF FACILITIES                                  
+46-1/000CD               457   CORRIDOR           DP OF FACILITIES                                  
+46-1/000CE               802   CORRIDOR           DP OF FACILITIES                                  
+46-1/000CG               553   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-1/000E1                76   ELEVATOR           DP OF FACILITIES                                  
+46-1/000E1M               48   ELEVATOR           DP OF FACILITIES                                  
+46-1/000E2                76   ELEVATOR           DP OF FACILITIES                                  
+46-1/000E3               107   ELEVATOR           DP OF FACILITIES                                  
+46-1/000E4               100   ELEVATOR           DP OF FACILITIES                                  
+46-1/000E5                76   ELEVATOR           DP OF FACILITIES                                  
+46-1/000E7                67   ELEVATOR           DP OF FACILITIES                                  
+46-1/000LA             1,164   LOBBY              DP OF FACILITIES                                  
+46-1/000LAB              376   LOBBY              DP OF FACILITIES                                  
+46-1/000LB             1,006   LOBBY              DP OF FACILITIES                                  
+46-1/000LC             1,304   LOBBY              DP OF FACILITIES                                  
+46-1/000SA                71   STAIRWAY           DP OF FACILITIES                                  
+46-1/000SB                48   STAIRWAY           DP OF FACILITIES                                  
+46-1/000SC               241   STAIRWAY           DP OF FACILITIES                                  
+46-1/000SD               142   STAIRWAY           DP OF FACILITIES                                  
+46-1/000SE               290   STAIRWAY           DP OF FACILITIES                                  
+46-1/000SF               148   STAIRWAY           DP OF FACILITIES                                  
+46-1/000SG               360   STAIRWAY           DP OF FACILITIES                                  
+46-1/000SGM              219   STAIRWAY           DP OF FACILITIES                                  
+46-1/000SH               275   STAIRWAY           DP OF FACILITIES                                  
+46-1/000SJ                57   STAIRWAY           DP OF FACILITIES                                  
+46-1/000SK               154   STAIRWAY           DP OF FACILITIES                                  
+46-1/000SL               153   STAIRWAY           DP OF FACILITIES                                  
+46-1/001                 124   MALE LAVATORY      DP OF FACILITIES                                  
+46-1/002                 125   FEMALE LAVATORY    DP OF FACILITIES                                  
+46-1/004                 321   LAB SUPPORT SHOP   BRAIN & COG SCI                                   
+46-1/004AE                62   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-1/004E              2,309   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-1/012J                 32   JANITOR CLOSET     DP OF FACILITIES                                  
+46-1/013                 144   UTILITY/MECH RM    DP OF FACILITIES                                  
+46-1/015                 980   TEACHING LAB       BRAIN & COG SCI                                   
+46-1/021               1,116   LAB SUPPORT SHOP   BRAIN & COG SCI                                   
+46-1/021A                 94   OFFICE             BRAIN & COG SCI                                   
+46-1/024               1,036   TEACHING LAB       BRAIN & COG SCI                                   
+46-1/024A                 87   LABORATORY SVC     BRAIN & COG SCI                                   
+46-1/026                 118   LABORATORY SVC     BRAIN & COG SCI                                   
+46-1/026A                120   UTILITY/MECH RM    DP OF FACILITIES                                  
+46-1/033                 395   UTILITY/MECH RM    DP OF FACILITIES                                  
+46-1/037                  69   UTILITY/MECH RM    DP OF FACILITIES                                  
+46-1/037A                217   UTILITY/MECH RM    DP OF FACILITIES                                  
+46-1/100                 363   RECEIVING ROOM     DP OF FACIL ADM                                   
+46-1/101                  79   STORAGE FACILITY   DP OF FACIL ADM                                   
+46-1/103                 112   STORAGE FACILITY   DP OF FACIL ADM                                   
+46-1/107E                120   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-1/108                 828   RECEIVING ROOM     DP OF FACIL ADM                                   
+46-1/110                 180   RECEIVING ROOM     DP OF FACIL ADM                                   
+46-1/110A                 31   JANITOR STORAGE    DP OF FACILITIES                                  
+46-1/117                 983   RECEIVING ROOM     DP OF FACIL ADM                                   
+46-1/123               1,063   RECEIVING ROOM     DP OF FACIL ADM                                   
+46-1/129                 226   STORAGE FACILITY   DP OF FACIL ADM                                   
+46-1/130E                 82   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-1/131                 226   STORAGE FACILITY   DP OF FACIL ADM                                   
+46-1/132T                 75   TELECOM CLOSET     DP OF FACILITIES                                  
+46-1/133                 223   STORAGE FACILITY   DP OF FACIL ADM                                   
+46-1/134                  75   MAIL ROOM          DP OF FACIL ADM                                   
+46-1/135                 262   JANITOR STORAGE    DP OF FACILITIES                                  
+46-1/137                 326   OFFICE SERVICE     DP OF FACIL ADM                                   
+46-1/138                 127   LABORATORY SVC     DIV OF COMP MED                                   
+46-1/139                 149   UTILITY/MECH RM    DP OF FACILITIES                                  
+46-1/139A                 26   UTILITY/MECH RM    DP OF FACILITIES                                  
+46-1/139B                 72   UTILITY/MECH RM    DP OF FACILITIES                                  
+46-1/144                  63   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-1/145                 121   SECY/RECEPTION     BRAIN & COG SCI                                   
+46-1/145A                147   OFFICE             BRAIN & COG SCI                                   
+46-1/146                 483   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-1/146A                125   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-1/146B                205   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-1/147                 681   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-1/147A                151   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-1/148                 290   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-1/149                  23   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-1/150                 205   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-1/150A                315   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-1/150AA                 3   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-1/150B                678   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-1/151                 119   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-1/154                 143   LABORATORY SVC     BRAIN & COG SCI                                   
+46-1/155                 340   LABORATORY SVC     BRAIN & COG SCI                                   
+46-1/158                 216   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-1/158A                451   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-1/158AA               261   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-1/158AB                 3   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-1/159                 374   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-1/161                 282   LABORATORY SVC     BRAIN & COG SCI                                   
+46-1/164                 391   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-1/164A                 77   FEMALE LAVATORY    DP OF FACILITIES                                  
+46-1/164B                 72   MALE LAVATORY      DP OF FACILITIES                                  
+46-1/164C                 37   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-1/165                 184   OFFICE             MCGOVERN INSTITUTE                                
+46-1/171                 526   OFFICE             MCGOVERN INSTITUTE                                
+46-1/171A                 14   OFFICE SERVICE     MCGOVERN INSTITUTE                                
+46-1/172                  41   UTILITY/MECH RM    DP OF FACILITIES                                  
+46-1/184                 127   MALE LAVATORY      DP OF FACILITIES                                  
+46-1/184J                 32   JANITOR CLOSET     DP OF FACILITIES                                  
+46-1/186                 132   FEMALE LAVATORY    DP OF FACILITIES                                  
+46-1/213                 137   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-1/213A                 32   UTILITY/MECH RM    DP OF FACILITIES                                  
+46-1/213B                470   STORAGE FACILITY   DP OF FACIL ADM                                   
+46-1/213BA               854   UTILITY/MECH RM    DP OF FACILITIES                                  
+46-1/229                 497   STORAGE FACILITY   DP OF FACIL ADM                                   
+46-1/303                 534   OFFICE SERVICE     PICOWER INSTITUTE                                 
+46-1/303A                  5   OFFICE SERVICE     PICOWER INSTITUTE                                 
+46-1/303B                 81   OFFICE SERVICE     PICOWER INSTITUTE                                 
+46-1/303C                 53   PVT LAVATORY       PICOWER INSTITUTE                                 
+46-1/303D                168   OFFICE SERVICE     PICOWER INSTITUTE                                 
+46-1/303F                 77   OFFICE SERVICE     PICOWER INSTITUTE                                 
+46-1/303G                327   OFFICE             PICOWER INSTITUTE                                 
+46-1/303H                116   OFFICE             PICOWER INSTITUTE                                 
+46-1/303K                268   OFFICE             PICOWER INSTITUTE                                 
+46-1/303L                 47   SECY/RECEPTION     PICOWER INSTITUTE                                 
+46-1/303N                116   OFFICE SERVICE     PICOWER INSTITUTE                                 
+46-1/303P                169   OFFICE             PICOWER INSTITUTE                                 
+46-1/305Z                379   SHAFT SPACE        DP OF FACILITIES                                  
+46-100Z                  303   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      33,808                                                                        
+                                                                                                    
+46-2/000CC               640   CORRIDOR           DP OF FACILITIES                                  
+46-2/000CE             1,172   CORRIDOR           DP OF FACILITIES                                  
+46-2/000E1                72   ELEVATOR           DP OF FACILITIES                                  
+46-2/000E2                77   ELEVATOR           DP OF FACILITIES                                  
+46-2/000E3               107   ELEVATOR           DP OF FACILITIES                                  
+46-2/000E4               100   ELEVATOR           DP OF FACILITIES                                  
+46-2/000E5                76   ELEVATOR           DP OF FACILITIES                                  
+46-2/000E7                67   ELEVATOR           DP OF FACILITIES                                  
+46-2/000LA               407   LOBBY              DP OF FACILITIES                                  
+46-2/000LB               398   LOBBY              DP OF FACILITIES                                  
+46-2/000SA               205   STAIRWAY           DP OF FACILITIES                                  
+46-2/000SB               199   STAIRWAY           DP OF FACILITIES                                  
+46-2/000SC               262   STAIRWAY           DP OF FACILITIES                                  
+46-2/000SD               211   STAIRWAY           DP OF FACILITIES                                  
+46-2/000SE               278   STAIRWAY           DP OF FACILITIES                                  
+46-2/000SFM              198   STAIRWAY           DP OF FACILITIES                                  
+46-2/000SG               219   STAIRWAY           DP OF FACILITIES                                  
+46-2/000SGM              145   STAIRWAY           DP OF FACILITIES                                  
+46-2/000SH               119   STAIRWAY           DP OF FACILITIES                                  
+46-2/000SK               146   STAIRWAY           DP OF FACILITIES                                  
+46-2/000SL               374   STAIRWAY           DP OF FACILITIES                                  
+46-2/002                 154   MALE LAVATORY      DP OF FACILITIES                                  
+46-2/004                 152   FEMALE LAVATORY    DP OF FACILITIES                                  
+46-2/005               1,000   PVT CIRCULATION    BRAIN & COG SCI                                   
+46-2/005A                177   OFFICE             BRAIN & COG SCI                                   
+46-2/005B                209   OFFICE             BRAIN & COG SCI                                   
+46-2/005C                238   OFFICE             BRAIN & COG SCI                                   
+46-2/005D                110   OFFICE             BRAIN & COG SCI                                   
+46-2/005F                111   OFFICE             BRAIN & COG SCI                                   
+46-2/005G                 21   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-2/005H                 44   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-2/005K                201   OFFICE             BRAIN & COG SCI                                   
+46-2/005L                160   OFFICE             BRAIN & COG SCI                                   
+46-2/005N                160   OFFICE             BRAIN & COG SCI                                   
+46-2/005P                248   OFFICE             BRAIN & COG SCI                                   
+46-2/005Q                295   CONFERENCE ROOM    BRAIN & COG SCI                                   
+46-2/005R                171   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-2/005S                 98   OFFICE             BRAIN & COG SCI                                   
+46-2/005T                129   TELECOM CLOSET     DP OF FACILITIES                                  
+46-2/005U                105   OFFICE             BRAIN & COG SCI                                   
+46-2/005V                 76   OFFICE             BRAIN & COG SCI                                   
+46-2/005W                 76   OFFICE             BRAIN & COG SCI                                   
+46-2/005X                147   SECY/RECEPTION     BRAIN & COG SCI                                   
+46-2/006J                 51   JANITOR CLOSET     DP OF FACILITIES                                  
+46-2/033                 673   OFFICE             BRAIN & COG SCI                                   
+46-2/033A                249   OFFICE             BRAIN & COG SCI                                   
+46-2/033B                248   OFFICE             BRAIN & COG SCI                                   
+46-2/033C                263   OFFICE             BRAIN & COG SCI                                   
+46-2/033D                 41   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-2/033F                 56   OFFICE             BRAIN & COG SCI                                   
+46-2/033G                 58   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-2/033H                 61   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-2/034Z                 24   SHAFT SPACE        DP OF FACILITIES                                  
+46-2/037                 208   OFFICE             BRAIN & COG SCI                                   
+46-2/039                 193   OFFICE             BRAIN & COG SCI                                   
+46-2/041                 194   OFFICE             BRAIN & COG SCI                                   
+46-2/043                 194   OFFICE             BRAIN & COG SCI                                   
+46-2/045                 194   OFFICE             BRAIN & COG SCI                                   
+46-2/047                 194   OFFICE             BRAIN & COG SCI                                   
+46-2/049                 194   OFFICE             BRAIN & COG SCI                                   
+46-2/050                 101   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-2/050E                 98   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-2/051                 193   OFFICE             BRAIN & COG SCI                                   
+46-2/052                 726   PVT CIRCULATION    BRAIN & COG SCI                                   
+46-2/092                 296   LABORATORY SVC     DIV OF COMP MED                                   
+46-2/102                  10   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-2/104                 351   UTILITY/MECH RM    DP OF FACILITIES                                  
+46-2/106                  97   STORAGE FACILITY   DP OF FACIL ADM                                   
+46-2/107                  64   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-2/108                 105   STORAGE FACILITY   DP OF FACIL ADM                                   
+46-2/108E                 24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-2/117                 248   RECEIVING ROOM     DP OF FACIL ADM                                   
+46-2/123                 287   RECEIVING ROOM     DP OF FACIL ADM                                   
+46-2/127                 508   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-2/133                 133   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-2/133A                275   LAB SUPPORT SHOP   MCGOVERN INSTITUTE                                
+46-2/133AA                93   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-2/133AB                93   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-2/133B                 93   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-2/135                 245   OFFICE             MCGOVERN INSTITUTE                                
+46-2/137                 109   OFFICE             MCGOVERN INSTITUTE                                
+46-2/139                 132   SECY/RECEPTION     MCGOVERN INSTITUTE                                
+46-2/139A                246   OFFICE             MCGOVERN INSTITUTE                                
+46-2/140                 131   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-2/140A                156   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-2/143                  81   ANIMAL SERVICE     MCGOVERN INSTITUTE                                
+46-2/143A                 73   ANIMAL RSCH LAB    MCGOVERN INSTITUTE                                
+46-2/143B                 74   ANIMAL RSCH LAB    MCGOVERN INSTITUTE                                
+46-2/144                  41   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-2/145                  82   ANIMAL SERVICE     MCGOVERN INSTITUTE                                
+46-2/145A                 68   ANIMAL RSCH LAB    MCGOVERN INSTITUTE                                
+46-2/145B                 74   ANIMAL RSCH LAB    MCGOVERN INSTITUTE                                
+46-2/146T                182   TELECOM CLOSET     DP OF FACILITIES                                  
+46-2/147                 479   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-2/148E                203   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-2/149                 242   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-2/149A                 81   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-2/149B                 78   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-2/149C                 79   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-2/150                 184   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-2/152                 184   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-2/154                 186   LAB SUPPORT SHOP   MCGOVERN INSTITUTE                                
+46-2/155                 242   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-2/155B                160   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-2/155C                 81   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-2/156                 198   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-2/157                 239   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-2/157A                104   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-2/157B                113   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-2/161                 222   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-2/165                 421   CONFERENCE ROOM    MCGOVERN INSTITUTE                                
+46-2/165A                 32   OFFICE SERVICE     MCGOVERN INSTITUTE                                
+46-2/166                 237   OFFICE             MCGOVERN INSTITUTE                                
+46-2/171                 142   OFFICE             MCGOVERN INSTITUTE                                
+46-2/171A                151   OFFICE             MCGOVERN INSTITUTE                                
+46-2/171B                222   OFFICE             MCGOVERN INSTITUTE                                
+46-2/171C                232   OFFICE             MCGOVERN INSTITUTE                                
+46-2/176                 125   MALE LAVATORY      DP OF FACILITIES                                  
+46-2/176J                 34   JANITOR CLOSET     DP OF FACILITIES                                  
+46-2/180                 134   FEMALE LAVATORY    DP OF FACILITIES                                  
+46-2/201               5,467   UTILITY/MECH RM    DP OF FACILITIES                                  
+46-2/201T                155   TELECOM CLOSET     DP OF FACILITIES                                  
+46-2/303                 473   OFFICE SERVICE     PICOWER INSTITUTE                                 
+46-2/303A                 66   OFFICE SERVICE     PICOWER INSTITUTE                                 
+46-2/303AA                 5   OFFICE SERVICE     PICOWER INSTITUTE                                 
+46-2/303B                 53   PVT LAVATORY       PICOWER INSTITUTE                                 
+46-2/303C                167   OFFICE SERVICE     PICOWER INSTITUTE                                 
+46-2/303D                161   OFFICE             PICOWER INSTITUTE                                 
+46-2/303DA               143   OFFICE             PICOWER INSTITUTE                                 
+46-2/303F                166   OFFICE             PICOWER INSTITUTE                                 
+46-2/303G                305   CONFERENCE ROOM    PICOWER INSTITUTE                                 
+46-2/303GA                38   OFFICE SERVICE     PICOWER INSTITUTE                                 
+46-2/303H                148   OFFICE             PICOWER INSTITUTE                                 
+46-2/303K                 91   SECY/RECEPTION     PICOWER INSTITUTE                                 
+46-2/303L                121   OFFICE             PICOWER INSTITUTE                                 
+46-2/303N                242   OFFICE             PICOWER INSTITUTE                                 
+46-2/303P                 54   OFFICE SERVICE     PICOWER INSTITUTE                                 
+46-2/305Z                171   SHAFT SPACE        DP OF FACILITIES                                  
+46-200Z                  709   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      31,683                                                                        
+                                                                                                    
+46-3/000CA               283   CORRIDOR           DP OF FACILITIES                                  
+46-3/000CB               154   CORRIDOR           DP OF FACILITIES                                  
+46-3/000CC               407   CORRIDOR           DP OF FACILITIES                                  
+46-3/000CE               808   CORRIDOR           DP OF FACILITIES                                  
+46-3/000CF             1,149   CORRIDOR           DP OF FACILITIES                                  
+46-3/000CH               850   CORRIDOR           DP OF FACILITIES                                  
+46-3/000CJ             1,129   CORRIDOR           DP OF FACILITIES                                  
+46-3/000CK               113   CORRIDOR           DP OF FACILITIES                                  
+46-3/000CL               442   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/000CN               374   CORRIDOR           DP OF FACILITIES                                  
+46-3/000E1                72   ELEVATOR           DP OF FACILITIES                                  
+46-3/000E2                76   ELEVATOR           DP OF FACILITIES                                  
+46-3/000E3               107   ELEVATOR           DP OF FACILITIES                                  
+46-3/000E4               100   ELEVATOR           DP OF FACILITIES                                  
+46-3/000E5                76   ELEVATOR           DP OF FACILITIES                                  
+46-3/000E6                84   ELEVATOR           DP OF FACILITIES                                  
+46-3/000E7                67   ELEVATOR           DP OF FACILITIES                                  
+46-3/000LA             1,084   LOBBY              DP OF FACILITIES                                  
+46-3/000LB             1,449   LOBBY              DP OF FACILITIES                                  
+46-3/000LC               388   LOBBY              DP OF FACILITIES                                  
+46-3/000SA               205   STAIRWAY           DP OF FACILITIES                                  
+46-3/000SB               231   STAIRWAY           DP OF FACILITIES                                  
+46-3/000SC               213   STAIRWAY           DP OF FACILITIES                                  
+46-3/000SD               204   STAIRWAY           DP OF FACILITIES                                  
+46-3/000SE               247   STAIRWAY           DP OF FACILITIES                                  
+46-3/000SF               192   STAIRWAY           DP OF FACILITIES                                  
+46-3/000SH               498   STAIRWAY           DP OF FACILITIES                                  
+46-3/002               1,990   LECTURE HALL       BRAIN & COG SCI                                   
+46-3/002A                  8   CLASSROOM SVC      BRAIN & COG SCI                                   
+46-3/002B                  7   CLASSROOM SVC      BRAIN & COG SCI                                   
+46-3/004                 210   CLASSROOM SVC      BRAIN & COG SCI                                   
+46-3/005                  16   UTILITY/MECH RM    DP OF FACILITIES                                  
+46-3/009                 131   MALE LAVATORY      DP OF FACILITIES                                  
+46-3/011                 188   FEMALE LAVATORY    DP OF FACILITIES                                  
+46-3/015                 967   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-3/023                 259   LABORATORY SVC     BRAIN & COG SCI                                   
+46-3/025                  59   RESEARCH LAB       BRAIN & COG SCI                                   
+46-3/025A                 59   RESEARCH LAB       BRAIN & COG SCI                                   
+46-3/027                 362   OFFICE             BRAIN & COG SCI                                   
+46-3/027A                116   OFFICE             BRAIN & COG SCI                                   
+46-3/027B                 76   OFFICE             BRAIN & COG SCI                                   
+46-3/027C                 78   OFFICE             BRAIN & COG SCI                                   
+46-3/027D                123   OFFICE             BRAIN & COG SCI                                   
+46-3/027F                111   OFFICE             BRAIN & COG SCI                                   
+46-3/027G                117   OFFICE             BRAIN & COG SCI                                   
+46-3/029                  69   RESEARCH LAB       BRAIN & COG SCI                                   
+46-3/033                 225   SECY/RECEPTION     BRAIN & COG SCI                                   
+46-3/035                 211   OFFICE             BRAIN & COG SCI                                   
+46-3/037                 578   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-3/037A                 69   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-3/037B                 66   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-3/037C                 86   OFFICE             BRAIN & COG SCI                                   
+46-3/037D                 94   OFFICE             BRAIN & COG SCI                                   
+46-3/037F                 94   OFFICE             BRAIN & COG SCI                                   
+46-3/037G                118   OFFICE             BRAIN & COG SCI                                   
+46-3/037H                 46   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-3/037K                 49   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-3/105                 421   FOOD FACIL SVC     CAMPUS DINING                                     
+46-3/105A                114   FOOD FACIL SVC     CAMPUS DINING                                     
+46-3/106                  47   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-3/108                 125   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-3/111                 324   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-3/112                 142   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-3/115               1,051   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-3/118                 191   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-3/120                 109   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-3/121                 228   SECY/RECEPTION     MCGOVERN INSTITUTE                                
+46-3/121A                239   OFFICE             MCGOVERN INSTITUTE                                
+46-3/123                  63   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-3/125                 138   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-3/125A                208   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-3/127                 231   OFFICE             MCGOVERN INSTITUTE                                
+46-3/133                 983   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-3/137                 479   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-3/138                 285   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-3/141                 108   OFFICE             MCGOVERN INSTITUTE                                
+46-3/142                 249   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-3/143                 133   SECY/RECEPTION     MCGOVERN INSTITUTE                                
+46-3/143A                246   OFFICE             MCGOVERN INSTITUTE                                
+46-3/144                  45   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-3/144Z                 11   SHAFT SPACE        DP OF FACILITIES                                  
+46-3/145                 479   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-3/146T                142   TELECOM CLOSET     DP OF FACILITIES                                  
+46-3/147                 498   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-3/148E                142   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-3/149                 105   OFFICE             MCGOVERN INSTITUTE                                
+46-3/150                 280   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-3/150A                179   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-3/151                 105   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-3/152                  13   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-3/153                 130   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-3/155                 108   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-3/157J                 38   JANITOR CLOSET     DP OF FACILITIES                                  
+46-3/159                  52   PUBLIC LAVATORY    DP OF FACILITIES                                  
+46-3/160                 640   OFFICE SERVICE     MCGOVERN INSTITUTE                                
+46-3/160A                 96   OFFICE             MCGOVERN INSTITUTE                                
+46-3/160AA               124   SECY/RECEPTION     MCGOVERN INSTITUTE                                
+46-3/160AB                79   OFFICE             MCGOVERN INSTITUTE                                
+46-3/160AC                80   OFFICE             MCGOVERN INSTITUTE                                
+46-3/160B                 96   OFFICE             MCGOVERN INSTITUTE                                
+46-3/160C                141   OFFICE             MCGOVERN INSTITUTE                                
+46-3/160D                125   OFFICE             MCGOVERN INSTITUTE                                
+46-3/160F                 95   OFFICE             MCGOVERN INSTITUTE                                
+46-3/160G                 43   OFFICE SERVICE     MCGOVERN INSTITUTE                                
+46-3/160H                228   OFFICE             MCGOVERN INSTITUTE                                
+46-3/160K                287   OFFICE             MCGOVERN INSTITUTE                                
+46-3/160L                 79   OFFICE SERVICE     MCGOVERN INSTITUTE                                
+46-3/160N                169   OFFICE SERVICE     MCGOVERN INSTITUTE                                
+46-3/160P                224   OFFICE             MCGOVERN INSTITUTE                                
+46-3/160Q                491   CONFERENCE ROOM    MCGOVERN INSTITUTE                                
+46-3/160R                159   OFFICE SERVICE     MCGOVERN INSTITUTE                                
+46-3/160RA                 6   OFFICE SERVICE     MCGOVERN INSTITUTE                                
+46-3/160RB                95   OFFICE SERVICE     MCGOVERN INSTITUTE                                
+46-3/160S                  6   OFFICE SERVICE     MCGOVERN INSTITUTE                                
+46-3/164                 256   FEMALE LAVATORY    DP OF FACILITIES                                  
+46-3/168                 163   MALE LAVATORY      DP OF FACILITIES                                  
+46-3/177                 322   TERRACE            MCGOVERN INSTITUTE                                
+46-3/179                  67   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/180QA                 6   OFFICE SERVICE     MCGOVERN INSTITUTE                                
+46-3/189               1,488   CONFERENCE ROOM    MCGOVERN INSTITUTE                                
+46-3/189A                 22   OFFICE SERVICE     MCGOVERN INSTITUTE                                
+46-3/200Z                 12   SHAFT SPACE        DP OF FACILITIES                                  
+46-3/201A                 48   UTILITY/MECH RM    DP OF FACILITIES                                  
+46-3/201LD             7,239   LOBBY              DP OF FACILITIES                                  
+46-3/213                 253   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/217                  40   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/219Z                 14   SHAFT SPACE        DP OF FACILITIES                                  
+46-3/220E                121   ELEVATOR           DP OF FACILITIES                                  
+46-3/222                 328   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-3/222A                192   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-3/222B                192   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-3/222C                177   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-3/222D                308   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/225               1,495   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-3/225A                 84   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/225B                250   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/225C                155   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/225D                256   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/226                  75   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/228                 337   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/228A                101   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/228B                 76   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/230                 118   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/232                 121   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-3/237                 222   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/238                  99   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/239                 223   OFFICE             PICOWER INSTITUTE                                 
+46-3/240                  68   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/241                 219   OFFICE             PICOWER INSTITUTE                                 
+46-3/243                 234   OFFICE             PICOWER INSTITUTE                                 
+46-3/244                 115   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-3/247                 333   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-3/251               1,465   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-3/261                 496   CONFERENCE ROOM    PICOWER INSTITUTE                                 
+46-3/264                 136   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/265                 244   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/266                 242   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/268                 140   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/270                  26   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/271                 742   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-3/272                 176   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/273                  96   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/275                  91   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-3/281                 143   FEMALE LAVATORY    DP OF FACILITIES                                  
+46-3/283                 135   MALE LAVATORY      DP OF FACILITIES                                  
+46-3/286T                126   TELECOM CLOSET     DP OF FACILITIES                                  
+46-3/293                 872   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-3/295                 118   RSCH LAB-OFFICE    PICOWER INSTITUTE                                 
+46-3/296                 160   RSCH LAB-OFFICE    PICOWER INSTITUTE                                 
+46-3/297                 119   RSCH LAB-OFFICE    PICOWER INSTITUTE                                 
+46-3/298                 164   RSCH LAB-OFFICE    PICOWER INSTITUTE                                 
+46-3/299                 119   RSCH LAB-OFFICE    PICOWER INSTITUTE                                 
+46-3/301                 119   RSCH LAB-OFFICE    PICOWER INSTITUTE                                 
+46-3/303                 274   RSCH LAB-OFFICE    PICOWER INSTITUTE                                 
+46-3/310               1,629   CONFERENCE ROOM    PICOWER INSTITUTE                                 
+46-3/310A                 17   OFFICE SERVICE     PICOWER INSTITUTE                                 
+46-3/312                  62   OFFICE SERVICE     PICOWER INSTITUTE                                 
+46-300SL                  53   STAIRWAY           DP OF FACILITIES                                  
+46-300Z                  829   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      53,909                                                                        
+                                                                                                    
+46-4/000CA               660   CORRIDOR           DP OF FACILITIES                                  
+46-4/000CB               600   CORRIDOR           DP OF FACILITIES                                  
+46-4/000CC               759   CORRIDOR           DP OF FACILITIES                                  
+46-4/000CD               567   CORRIDOR           DP OF FACILITIES                                  
+46-4/000CE             1,178   CORRIDOR           DP OF FACILITIES                                  
+46-4/000CF             1,146   CORRIDOR           DP OF FACILITIES                                  
+46-4/000CG               438   CORRIDOR           DP OF FACILITIES                                  
+46-4/000CH               943   CORRIDOR           DP OF FACILITIES                                  
+46-4/000CJ             1,277   CORRIDOR           DP OF FACILITIES                                  
+46-4/000CK               386   CORRIDOR           DP OF FACILITIES                                  
+46-4/000CL               250   CORRIDOR           DP OF FACILITIES                                  
+46-4/000CM               852   CORRIDOR           DP OF FACILITIES                                  
+46-4/000CN               245   CORRIDOR           DP OF FACILITIES                                  
+46-4/000E1                72   ELEVATOR           DP OF FACILITIES                                  
+46-4/000E2                76   ELEVATOR           DP OF FACILITIES                                  
+46-4/000E3               107   ELEVATOR           DP OF FACILITIES                                  
+46-4/000E4               100   ELEVATOR           DP OF FACILITIES                                  
+46-4/000E5                76   ELEVATOR           DP OF FACILITIES                                  
+46-4/000E6                71   ELEVATOR           DP OF FACILITIES                                  
+46-4/000E7                67   ELEVATOR           DP OF FACILITIES                                  
+46-4/000LA               617   LOBBY              DP OF FACILITIES                                  
+46-4/000LB               540   LOBBY              DP OF FACILITIES                                  
+46-4/000LC               514   LOBBY              DP OF FACILITIES                                  
+46-4/000SA               206   STAIRWAY           DP OF FACILITIES                                  
+46-4/000SB               231   STAIRWAY           DP OF FACILITIES                                  
+46-4/000SC               180   STAIRWAY           DP OF FACILITIES                                  
+46-4/000SD               204   STAIRWAY           DP OF FACILITIES                                  
+46-4/000SE               223   STAIRWAY           DP OF FACILITIES                                  
+46-4/000SF               195   STAIRWAY           DP OF FACILITIES                                  
+46-4/000SN                49   STAIRWAY           DP OF FACILITIES                                  
+46-4/002                 140   MALE LAVATORY      DP OF FACILITIES                                  
+46-4/004                 145   FEMALE LAVATORY    DP OF FACILITIES                                  
+46-4/005                 191   OFFICE             BRAIN & COG SCI                                   
+46-4/006Z                 16   SHAFT SPACE        DP OF FACILITIES                                  
+46-4/009                  83   OFFICE             BRAIN & COG SCI                                   
+46-4/011                 137   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-4/011A                 96   LABORATORY SVC     BRAIN & COG SCI                                   
+46-4/011AA                64   LABORATORY SVC     BRAIN & COG SCI                                   
+46-4/011AB                48   RESEARCH LAB       BRAIN & COG SCI                                   
+46-4/011B                219   OFFICE             BRAIN & COG SCI                                   
+46-4/013                 245   OFFICE             BRAIN & COG SCI                                   
+46-4/015                 245   OFFICE             BRAIN & COG SCI                                   
+46-4/017                 244   OFFICE             BRAIN & COG SCI                                   
+46-4/018T                123   TELECOM CLOSET     DP OF FACILITIES                                  
+46-4/019                 245   OFFICE             BRAIN & COG SCI                                   
+46-4/020                  73   LABORATORY SVC     BRAIN & COG SCI                                   
+46-4/021                 365   OFFICE             BRAIN & COG SCI                                   
+46-4/021A                 82   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-4/021B                 65   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-4/021C                 93   OFFICE             BRAIN & COG SCI                                   
+46-4/021D                129   RESEARCH LAB       BRAIN & COG SCI                                   
+46-4/022                 427   RESEARCH LAB       BRAIN & COG SCI                                   
+46-4/022A                 58   RESEARCH LAB       BRAIN & COG SCI                                   
+46-4/022B                 20   RESEARCH LAB       BRAIN & COG SCI                                   
+46-4/022C                 23   RESEARCH LAB       BRAIN & COG SCI                                   
+46-4/022D                 23   RESEARCH LAB       BRAIN & COG SCI                                   
+46-4/033                 266   OFFICE SERVICE     MCGOVERN INSTITUTE                                
+46-4/033A                 79   OFFICE SERVICE     MCGOVERN INSTITUTE                                
+46-4/033AA               162   OFFICE             MCGOVERN INSTITUTE                                
+46-4/033B                273   OFFICE             MCGOVERN INSTITUTE                                
+46-4/033C                114   OFFICE             MCGOVERN INSTITUTE                                
+46-4/033D                 98   OFFICE             MCGOVERN INSTITUTE                                
+46-4/033F                122   OFFICE             MCGOVERN INSTITUTE                                
+46-4/035                  72   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-4/037                 373   OFFICE             MCGOVERN INSTITUTE                                
+46-4/037A                 81   OFFICE             MCGOVERN INSTITUTE                                
+46-4/037B                 91   OFFICE             MCGOVERN INSTITUTE                                
+46-4/037C                111   OFFICE             MCGOVERN INSTITUTE                                
+46-4/037D                 87   OFFICE             MCGOVERN INSTITUTE                                
+46-4/041                 215   OFFICE             MCGOVERN INSTITUTE                                
+46-4/043                 219   OFFICE             BRAIN & COG SCI                                   
+46-4/045                  50   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-4/048                  60   LABORATORY SVC     BRAIN & COG SCI                                   
+46-4/048E                125   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-4/053                 323   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-4/053A                 90   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-4/053B                 62   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-4/053C                 53   RESEARCH LAB       BRAIN & COG SCI                                   
+46-4/053D                 53   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-4/053F                118   OFFICE             BRAIN & COG SCI                                   
+46-4/053G                132   OFFICE             BRAIN & COG SCI                                   
+46-4/053H                131   OFFICE             BRAIN & COG SCI                                   
+46-4/053K                102   OFFICE             BRAIN & COG SCI                                   
+46-4/054                 196   LABORATORY SVC     BRAIN & COG SCI                                   
+46-4/062                 444   CONFERENCE ROOM    BRAIN & COG SCI                                   
+46-4/065                 261   OFFICE             BRAIN & COG SCI                                   
+46-4/066                 358   OFFICE             BRAIN & COG SCI                                   
+46-4/077                 264   OFFICE             BRAIN & COG SCI                                   
+46-4/078                 455   LABORATORY SVC     BRAIN & COG SCI                                   
+46-4/078A                319   LABORATORY SVC     BRAIN & COG SCI                                   
+46-4/078B                165   RSCH LAB-OFFICE    BRAIN & COG SCI                                   
+46-4/078C                130   RSCH LAB-OFFICE    BRAIN & COG SCI                                   
+46-4/078CA               127   RSCH LAB-OFFICE    BRAIN & COG SCI                                   
+46-4/078D                106   RESEARCH LAB       BRAIN & COG SCI                                   
+46-4/078F                107   RESEARCH LAB       BRAIN & COG SCI                                   
+46-4/079                 263   OFFICE             BRAIN & COG SCI                                   
+46-4/089                 489   OFFICE             BRAIN & COG SCI                                   
+46-4/094                 293   LABORATORY SVC     BRAIN & COG SCI                                   
+46-4/094A                117   RESEARCH LAB       BRAIN & COG SCI                                   
+46-4/094B                126   RESEARCH LAB       BRAIN & COG SCI                                   
+46-4/107                 269   RESEARCH LAB       BRAIN & COG SCI                                   
+46-4/107A                 59   RESEARCH LAB       BRAIN & COG SCI                                   
+46-4/107B                223   LAB SUPPORT SHOP   BRAIN & COG SCI                                   
+46-4/107C                 67   RESEARCH LAB       BRAIN & COG SCI                                   
+46-4/107D                 62   RESEARCH LAB       BRAIN & COG SCI                                   
+46-4/108                  45   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-4/110                  82   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-4/110A                 41   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-4/110B                 35   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-4/110C                 35   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-4/110D                 45   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-4/110F                 99   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-4/115                 359   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-4/115A                269   CONFERENCE ROOM    BRAIN & COG SCI                                   
+46-4/115B                117   OFFICE             BRAIN & COG SCI                                   
+46-4/115C                153   OFFICE             BRAIN & COG SCI                                   
+46-4/115D                173   OFFICE             BRAIN & COG SCI                                   
+46-4/116                 194   LABORATORY SVC     BRAIN & COG SCI                                   
+46-4/118                 123   OFFICE             BRAIN & COG SCI                                   
+46-4/121                 232   OFFICE             BRAIN & COG SCI                                   
+46-4/123                 166   RSCH LAB-OFFICE    BRAIN & COG SCI                                   
+46-4/123A                 67   RESEARCH LAB       BRAIN & COG SCI                                   
+46-4/123B                 63   RESEARCH LAB       BRAIN & COG SCI                                   
+46-4/125                 229   OFFICE             BRAIN & COG SCI                                   
+46-4/127                 414   OFFICE             BRAIN & COG SCI                                   
+46-4/127A                209   OFFICE             BRAIN & COG SCI                                   
+46-4/133                 367   OFFICE             MCGOVERN INSTITUTE                                
+46-4/135                 312   OFFICE             MCGOVERN INSTITUTE                                
+46-4/137                  77   OFFICE             MCGOVERN INSTITUTE                                
+46-4/138                 237   OFFICE             MCGOVERN INSTITUTE                                
+46-4/141                 396   OFFICE             MCGOVERN INSTITUTE                                
+46-4/141A                 77   OFFICE             MCGOVERN INSTITUTE                                
+46-4/141B                355   OFFICE SERVICE     MCGOVERN INSTITUTE                                
+46-4/141C                113   OFFICE             MCGOVERN INSTITUTE                                
+46-4/141D                114   OFFICE             MCGOVERN INSTITUTE                                
+46-4/141F                114   OFFICE             MCGOVERN INSTITUTE                                
+46-4/141G                245   OFFICE             MCGOVERN INSTITUTE                                
+46-4/144                  41   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-4/144Z                 12   SHAFT SPACE        DP OF FACILITIES                                  
+46-4/146T                142   TELECOM CLOSET     DP OF FACILITIES                                  
+46-4/148E                141   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-4/150                  75   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-4/151               1,211   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-4/152                 294   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-4/152A                 79   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-4/152AA               101   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-4/152AB               190   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-4/152B                 50   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-4/152C                 76   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-4/154                 156   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-4/154A                106   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-4/154B                104   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-4/159                 239   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-4/162                 156   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-4/163                 193   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-4/163A                194   OFFICE SERVICE     MCGOVERN INSTITUTE                                
+46-4/165                 140   SECY/RECEPTION     MCGOVERN INSTITUTE                                
+46-4/165A                219   OFFICE             MCGOVERN INSTITUTE                                
+46-4/169                  26   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-4/169A                 17   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-4/170                  60   LABORATORY SVC     SCH OF SCIENCE                                    
+46-4/170A                418   RESEARCH LAB       SCH OF SCIENCE                                    
+46-4/170AA                89   RESEARCH LAB       SCH OF SCIENCE                                    
+46-4/171                 496   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-4/171A                202   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-4/171B                120   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-4/179                  48   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/181                 735   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/181A                164   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/181B                149   OFFICE             PICOWER INSTITUTE                                 
+46-4/196                  98   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-4/198                 171   MALE LAVATORY      DP OF FACILITIES                                  
+46-4/198J                 51   JANITOR CLOSET     DP OF FACILITIES                                  
+46-4/199                 465   CONFERENCE ROOM    MCGOVERN INSTITUTE                                
+46-4/200                 193   FEMALE LAVATORY    DP OF FACILITIES                                  
+46-4/200Z                 13   SHAFT SPACE        DP OF FACILITIES                                  
+46-4/201                 310   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-4/214                 451   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-4/217                  35   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/219                 240   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/219Z                 12   SHAFT SPACE        DP OF FACILITIES                                  
+46-4/220E                156   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-4/222                 239   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/223               1,485   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-4/223A                112   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-4/224                 282   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/224A                115   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-4/224B                 10   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/226                 117   OFFICE             PICOWER INSTITUTE                                 
+46-4/228                  92   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/235                 133   SECY/RECEPTION     PICOWER INSTITUTE                                 
+46-4/235A                255   OFFICE             PICOWER INSTITUTE                                 
+46-4/237                 144   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/239                 152   SECY/RECEPTION     PICOWER INSTITUTE                                 
+46-4/239A                245   OFFICE             PICOWER INSTITUTE                                 
+46-4/240                  81   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/241                 128   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/242                 129   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/243                 206   OFFICE             PICOWER INSTITUTE                                 
+46-4/243A                113   OFFICE             PICOWER INSTITUTE                                 
+46-4/245                 112   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/247                 228   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/249                 230   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-4/257               1,271   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-4/261                 201   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/261A                142   OFFICE             PICOWER INSTITUTE                                 
+46-4/261B                146   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-4/264                 122   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/267                 737   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-4/267A                134   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-4/267B                119   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-4/268                 132   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/268A                120   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/268B                142   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-4/268C                 90   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/268D                109   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/268F                111   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/268G                131   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/272                 105   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/273                 120   ANIMAL RSCH LAB    PICOWER INSTITUTE                                 
+46-4/275                  64   ANIMAL QUARTERS    PICOWER INSTITUTE                                 
+46-4/276                 204   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-4/277                 425   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-4/281                 142   FEMALE LAVATORY    DP OF FACILITIES                                  
+46-4/282                 221   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-4/283                 135   MALE LAVATORY      DP OF FACILITIES                                  
+46-4/285               1,412   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-4/286T                116   TELECOM CLOSET     DP OF FACILITIES                                  
+46-4/290                 301   OFFICE             PICOWER INSTITUTE                                 
+46-4/290A                 58   OFFICE             PICOWER INSTITUTE                                 
+46-4/296                  89   OFFICE SERVICE     PICOWER INSTITUTE                                 
+46-4/300                 450   CONFERENCE ROOM    PICOWER INSTITUTE                                 
+46-4/300A                438   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-4/301                  88   OFFICE             PICOWER INSTITUTE                                 
+46-4/303                 147   OFFICE             PICOWER INSTITUTE                                 
+46-4/303A                225   OFFICE             PICOWER INSTITUTE                                 
+46-400Z                1,384   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      53,622                                                                        
+                                                                                                    
+46-5/000CA               686   CORRIDOR           DP OF FACILITIES                                  
+46-5/000CB               615   CORRIDOR           DP OF FACILITIES                                  
+46-5/000CC               618   CORRIDOR           DP OF FACILITIES                                  
+46-5/000CD               723   CORRIDOR           DP OF FACILITIES                                  
+46-5/000CDA              308   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-5/000CE               811   CORRIDOR           DP OF FACILITIES                                  
+46-5/000CF               395   CORRIDOR           DP OF FACILITIES                                  
+46-5/000CG               796   CORRIDOR           DP OF FACILITIES                                  
+46-5/000CH               857   CORRIDOR           DP OF FACILITIES                                  
+46-5/000CJ             1,289   CORRIDOR           DP OF FACILITIES                                  
+46-5/000CK               335   CORRIDOR           DP OF FACILITIES                                  
+46-5/000CL               351   CORRIDOR           DP OF FACILITIES                                  
+46-5/000CN               984   CORRIDOR           DP OF FACILITIES                                  
+46-5/000CP               352   CORRIDOR           DP OF FACILITIES                                  
+46-5/000CQ               419   CORRIDOR           DP OF FACILITIES                                  
+46-5/000E1                48   ELEVATOR           DP OF FACILITIES                                  
+46-5/000E2                76   ELEVATOR           DP OF FACILITIES                                  
+46-5/000E3               107   ELEVATOR           DP OF FACILITIES                                  
+46-5/000E4               100   ELEVATOR           DP OF FACILITIES                                  
+46-5/000E5                76   ELEVATOR           DP OF FACILITIES                                  
+46-5/000E6                71   ELEVATOR           DP OF FACILITIES                                  
+46-5/000E7                67   ELEVATOR           DP OF FACILITIES                                  
+46-5/000LA               506   LOBBY              DP OF FACILITIES                                  
+46-5/000LB               136   LOBBY              DP OF FACILITIES                                  
+46-5/000LC               323   LOBBY              DP OF FACILITIES                                  
+46-5/000SA               210   STAIRWAY           DP OF FACILITIES                                  
+46-5/000SB               228   STAIRWAY           DP OF FACILITIES                                  
+46-5/000SC               213   STAIRWAY           DP OF FACILITIES                                  
+46-5/000SD               204   STAIRWAY           DP OF FACILITIES                                  
+46-5/000SE               228   STAIRWAY           DP OF FACILITIES                                  
+46-5/000SF               195   STAIRWAY           DP OF FACILITIES                                  
+46-5/000SM                68   STAIRWAY           DP OF FACILITIES                                  
+46-5/000SP                72   STAIRWAY           DP OF FACILITIES                                  
+46-5/000SQ               112   STAIRWAY           DP OF FACILITIES                                  
+46-5/001                 362   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/002                 140   MALE LAVATORY      DP OF FACILITIES                                  
+46-5/004                 145   FEMALE LAVATORY    DP OF FACILITIES                                  
+46-5/005                  77   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/006Z                 21   SHAFT SPACE        DP OF FACILITIES                                  
+46-5/007                 101   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-5/009                 126   OFFICE             BRAIN & COG SCI                                   
+46-5/009A                259   OFFICE             BRAIN & COG SCI                                   
+46-5/011                  71   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-5/013                 482   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/013A                165   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/018T                115   TELECOM CLOSET     DP OF FACILITIES                                  
+46-5/019                 180   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-5/019A                204   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/019B                 45   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-5/019C                 44   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-5/020                  97   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/021                  99   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-5/022                 203   ANIMAL RSCH LAB    MCGOVERN INSTITUTE                                
+46-5/023                 138   OFFICE             MCGOVERN INSTITUTE                                
+46-5/023A                243   OFFICE             MCGOVERN INSTITUTE                                
+46-5/023B                118   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/023BA               124   RSCH LAB-OFFICE    MCGOVERN INSTITUTE                                
+46-5/027                 253   OFFICE             MCGOVERN INSTITUTE                                
+46-5/031                 205   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/031A                506   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/031B                 90   ANIMAL RSCH LAB    MCGOVERN INSTITUTE                                
+46-5/031BA                76   ANIMAL RSCH LAB    MCGOVERN INSTITUTE                                
+46-5/033                 120   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/035                 120   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/037                 581   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/041                 416   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/042                  61   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-5/042A                 36   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-5/044                 155   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/046                 148   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/046E                106   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-5/048                  61   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-5/048E                 10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-5/056                 450   CONFERENCE ROOM    BRAIN & COG SCI                                   
+46-5/065                 634   OFFICE             BRAIN & COG SCI                                   
+46-5/065A                 88   OFFICE             BRAIN & COG SCI                                   
+46-5/065B                 78   OFFICE             BRAIN & COG SCI                                   
+46-5/065C                 79   OFFICE             BRAIN & COG SCI                                   
+46-5/065D                126   OFFICE             BRAIN & COG SCI                                   
+46-5/065F                 91   OFFICE             BRAIN & COG SCI                                   
+46-5/065G                225   OFFICE             BRAIN & COG SCI                                   
+46-5/065H                105   OFFICE             BRAIN & COG SCI                                   
+46-5/066                 278   LABORATORY SVC     BRAIN & COG SCI                                   
+46-5/077                 262   RESEARCH LAB       BRAIN & COG SCI                                   
+46-5/078                 488   RESEARCH LAB       BRAIN & COG SCI                                   
+46-5/078A                112   LABORATORY SVC     BRAIN & COG SCI                                   
+46-5/078B                123   LABORATORY SVC     BRAIN & COG SCI                                   
+46-5/078C                 77   LABORATORY SVC     BRAIN & COG SCI                                   
+46-5/078D                 75   LABORATORY SVC     BRAIN & COG SCI                                   
+46-5/078F                 80   LABORATORY SVC     BRAIN & COG SCI                                   
+46-5/081                 261   OFFICE             MCGOVERN INSTITUTE                                
+46-5/089                 485   OFFICE             BRAIN & COG SCI                                   
+46-5/094                 254   LABORATORY SVC     BRAIN & COG SCI                                   
+46-5/103                 118   OFFICE             BRAIN & COG SCI                                   
+46-5/107                 285   OFFICE             MCGOVERN INSTITUTE                                
+46-5/107A                117   OFFICE             MCGOVERN INSTITUTE                                
+46-5/108                  78   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-5/115                 225   OFFICE             MCGOVERN INSTITUTE                                
+46-5/115A                140   OFFICE             MCGOVERN INSTITUTE                                
+46-5/115B                129   OFFICE             MCGOVERN INSTITUTE                                
+46-5/118                 197   LABORATORY SVC     BRAIN & COG SCI                                   
+46-5/120                 126   LABORATORY SVC     BRAIN & COG SCI                                   
+46-5/121                 287   OFFICE             BRAIN & COG SCI                                   
+46-5/121A                268   OFFICE             BRAIN & COG SCI                                   
+46-5/121B                301   OFFICE             BRAIN & COG SCI                                   
+46-5/121C                264   CONFERENCE ROOM    BRAIN & COG SCI                                   
+46-5/125                 216   OFFICE             BRAIN & COG SCI                                   
+46-5/127                 411   RSCH LAB-OFFICE    MCGOVERN INSTITUTE                                
+46-5/127A                106   RSCH LAB-OFFICE    MCGOVERN INSTITUTE                                
+46-5/127B                103   RSCH LAB-OFFICE    MCGOVERN INSTITUTE                                
+46-5/127C                106   RSCH LAB-OFFICE    MCGOVERN INSTITUTE                                
+46-5/127D                 83   RSCH LAB-OFFICE    MCGOVERN INSTITUTE                                
+46-5/133                 108   OFFICE             MCGOVERN INSTITUTE                                
+46-5/133A                271   OFFICE             MCGOVERN INSTITUTE                                
+46-5/135                 106   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/137                 323   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/137A                 81   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/137B                 81   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/140                 352   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/140A                 77   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/140B                 77   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/140C                 77   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/140D                 44   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-5/140F                 65   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/143                 493   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/144                  44   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-5/144Z                 11   SHAFT SPACE        DP OF FACILITIES                                  
+46-5/145                 245   OFFICE             MCGOVERN INSTITUTE                                
+46-5/146T                141   TELECOM CLOSET     DP OF FACILITIES                                  
+46-5/147                 245   OFFICE             MCGOVERN INSTITUTE                                
+46-5/148E                143   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-5/149                 245   OFFICE             MCGOVERN INSTITUTE                                
+46-5/150                 319   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/151                 245   OFFICE             MCGOVERN INSTITUTE                                
+46-5/155                 893   OFFICE             MCGOVERN INSTITUTE                                
+46-5/155A                117   OFFICE             MCGOVERN INSTITUTE                                
+46-5/155B                117   OFFICE             MCGOVERN INSTITUTE                                
+46-5/155C                116   OFFICE             MCGOVERN INSTITUTE                                
+46-5/155D                104   OFFICE             MCGOVERN INSTITUTE                                
+46-5/156                 514   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-5/156A                122   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-5/156B                121   OFFICE             MCGOVERN INSTITUTE                                
+46-5/162                 154   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-5/165                 811   CONFERENCE ROOM    MCGOVERN INSTITUTE                                
+46-5/169                 241   OFFICE             MCGOVERN INSTITUTE                                
+46-5/169A                122   OFFICE             MCGOVERN INSTITUTE                                
+46-5/177                 195   OFFICE             MCGOVERN INSTITUTE                                
+46-5/177A                 95   OFFICE             MCGOVERN INSTITUTE                                
+46-5/177B                248   OFFICE             MCGOVERN INSTITUTE                                
+46-5/178                 297   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-5/186                 273   OFFICE SERVICE     AUDIO-VISUAL SVC                                  
+46-5/186Z                118   SHAFT SPACE        DP OF FACILITIES                                  
+46-5/189                 354   RSCH LAB-OFFICE    MCGOVERN INSTITUTE                                
+46-5/193                 482   CONFERENCE ROOM    MCGOVERN INSTITUTE                                
+46-5/196                 150   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-5/198                 172   MALE LAVATORY      DP OF FACILITIES                                  
+46-5/198J                 51   JANITOR CLOSET     DP OF FACILITIES                                  
+46-5/199                 300   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-5/200                 193   FEMALE LAVATORY    DP OF FACILITIES                                  
+46-5/200Z                 13   SHAFT SPACE        DP OF FACILITIES                                  
+46-5/201                 353   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-5/201A                297   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-5/213                 146   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/213A                240   ANIMAL RSCH LAB    PICOWER INSTITUTE                                 
+46-5/213B                232   ANIMAL RSCH LAB    PICOWER INSTITUTE                                 
+46-5/213C                238   ANIMAL RSCH LAB    PICOWER INSTITUTE                                 
+46-5/213D                245   ANIMAL RSCH LAB    PICOWER INSTITUTE                                 
+46-5/213F                239   ANIMAL RSCH LAB    PICOWER INSTITUTE                                 
+46-5/213G                241   ANIMAL RSCH LAB    PICOWER INSTITUTE                                 
+46-5/215                  41   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/216                 307   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-5/217                  54   UTILITY/MECH RM    DP OF FACILITIES                                  
+46-5/217Z                 35   SHAFT SPACE        DP OF FACILITIES                                  
+46-5/218E                 11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-5/219                  16   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/219Z                 12   SHAFT SPACE        DP OF FACILITIES                                  
+46-5/220E                138   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-5/221                 225   ANIMAL RSCH LAB    PICOWER INSTITUTE                                 
+46-5/222                 201   ANIMAL RSCH LAB    PICOWER INSTITUTE                                 
+46-5/223                 425   LAB SUPPORT SHOP   PICOWER INSTITUTE                                 
+46-5/223A                 73   LAB SUPPORT SHOP   PICOWER INSTITUTE                                 
+46-5/225                 125   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-5/226                 202   ANIMAL RSCH LAB    PICOWER INSTITUTE                                 
+46-5/227                 686   OFFICE             PICOWER INSTITUTE                                 
+46-5/227A                187   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/231                 122   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-5/233                 131   SECY/RECEPTION     PICOWER INSTITUTE                                 
+46-5/233A                268   OFFICE             PICOWER INSTITUTE                                 
+46-5/233B                 84   OFFICE SERVICE     PICOWER INSTITUTE                                 
+46-5/235                 288   OFFICE             PICOWER INSTITUTE                                 
+46-5/235A                  7   OFFICE SERVICE     PICOWER INSTITUTE                                 
+46-5/237                  62   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/239                  82   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/240                  84   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-5/240A                 69   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/241                 215   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-5/242                 104   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-5/243                 231   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-5/244                 111   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/251                 491   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-5/251A                198   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/251AA               128   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/255                 724   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-5/261                 714   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-5/266                 175   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/267                 723   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-5/267A                244   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/268                 284   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/268A                 69   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/268B                 10   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/272                 128   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/272A                128   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/272B                263   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/273                 931   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-5/273A                120   RSCH LAB-OFFICE    PICOWER INSTITUTE                                 
+46-5/274                 126   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/274A                129   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/281                 142   FEMALE LAVATORY    DP OF FACILITIES                                  
+46-5/282                 182   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/282A                201   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-5/282B                171   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-5/283                 135   MALE LAVATORY      DP OF FACILITIES                                  
+46-5/285                 242   OFFICE             PICOWER INSTITUTE                                 
+46-5/285A                274   OFFICE             PICOWER INSTITUTE                                 
+46-5/286T                116   TELECOM CLOSET     DP OF FACILITIES                                  
+46-5/287                 104   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/289                 101   OFFICE             PICOWER INSTITUTE                                 
+46-5/296                 270   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-5/303                 359   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/303A                426   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-5/304                 393   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-5/305                 496   CONFERENCE ROOM    PICOWER INSTITUTE                                 
+46-5/306                 249   OFFICE             PICOWER INSTITUTE                                 
+46-5/306A                210   OFFICE             PICOWER INSTITUTE                                 
+46-5/313                 487   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-500SN                  30   STAIRWAY           DP OF FACILITIES                                  
+46-500Z                1,197   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      55,373                                                                        
+                                                                                                    
+46-6/000CA               692   CORRIDOR           DP OF FACILITIES                                  
+46-6/000CB               677   CORRIDOR           DP OF FACILITIES                                  
+46-6/000CC               755   CORRIDOR           DP OF FACILITIES                                  
+46-6/000CD               562   CORRIDOR           DP OF FACILITIES                                  
+46-6/000CE               924   CORRIDOR           DP OF FACILITIES                                  
+46-6/000CF               759   CORRIDOR           DP OF FACILITIES                                  
+46-6/000CG               638   CORRIDOR           DP OF FACILITIES                                  
+46-6/000CH               837   CORRIDOR           DP OF FACILITIES                                  
+46-6/000CJ             1,020   CORRIDOR           DP OF FACILITIES                                  
+46-6/000CJ2              230   CORRIDOR           DP OF FACILITIES                                  
+46-6/000CK               502   CORRIDOR           DP OF FACILITIES                                  
+46-6/000CM               442   CORRIDOR           DP OF FACILITIES                                  
+46-6/000E1                76   ELEVATOR           DP OF FACILITIES                                  
+46-6/000E2                76   ELEVATOR           DP OF FACILITIES                                  
+46-6/000E3               107   ELEVATOR           DP OF FACILITIES                                  
+46-6/000E4               100   ELEVATOR           DP OF FACILITIES                                  
+46-6/000E5                76   ELEVATOR           DP OF FACILITIES                                  
+46-6/000E6                89   ELEVATOR           DP OF FACILITIES                                  
+46-6/000E7                67   ELEVATOR           DP OF FACILITIES                                  
+46-6/000LA             1,185   LOBBY              DP OF FACILITIES                                  
+46-6/000LB               381   LOBBY              DP OF FACILITIES                                  
+46-6/000LC               181   LOBBY              DP OF FACILITIES                                  
+46-6/000SA               206   STAIRWAY           DP OF FACILITIES                                  
+46-6/000SB               201   STAIRWAY           DP OF FACILITIES                                  
+46-6/000SC               180   STAIRWAY           DP OF FACILITIES                                  
+46-6/000SD               204   STAIRWAY           DP OF FACILITIES                                  
+46-6/000SE               234   STAIRWAY           DP OF FACILITIES                                  
+46-6/000SF               195   STAIRWAY           DP OF FACILITIES                                  
+46-6/000SM                25   STAIRWAY           DP OF FACILITIES                                  
+46-6/000SP                53   STAIRWAY           DP OF FACILITIES                                  
+46-6/000SQ               130   STAIRWAY           DP OF FACILITIES                                  
+46-6/002                 130   MALE LAVATORY      DP OF FACILITIES                                  
+46-6/004                 147   FEMALE LAVATORY    DP OF FACILITIES                                  
+46-6/005                 231   LABORATORY SVC     BRAIN & COG SCI                                   
+46-6/006Z                 16   SHAFT SPACE        DP OF FACILITIES                                  
+46-6/007                 105   OFFICE             BRAIN & COG SCI                                   
+46-6/011               1,155   LABORATORY SVC     BRAIN & COG SCI                                   
+46-6/018T                115   TELECOM CLOSET     DP OF FACILITIES                                  
+46-6/021                  63   OFFICE SERVICE     BRAIN & COG SCI                                   
+46-6/021A                173   OFFICE             BRAIN & COG SCI                                   
+46-6/023                 150   OFFICE             MCGOVERN INSTITUTE                                
+46-6/023A                 91   OFFICE             MCGOVERN INSTITUTE                                
+46-6/027                 482   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/031                 192   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-6/031A                287   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/033                 156   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-6/035                 206   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-6/037                 378   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/041                 420   OFFICE             MCGOVERN INSTITUTE                                
+46-6/041A                236   OFFICE             MCGOVERN INSTITUTE                                
+46-6/041B                192   OFFICE SERVICE     MCGOVERN INSTITUTE                                
+46-6/042                 248   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-6/042A                119   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/042B                120   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/042C                119   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/042D                118   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/045                  69   PUBLIC LAVATORY    DP OF FACILITIES                                  
+46-6/048                  60   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-6/048E                121   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-6/049                 116   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/051                 144   LABORATORY SVC     MCGOVERN INSTITUTE                                
+
+                                                                                                                                                                
+                                                                                                    
+ROOM NUMBER            SQ FT   ROOM USE           DEPARTMENT             GROUP                      
+-----------------   --------   ----------------   --------------------   ----------------           
+46-6/052                  79   LABORATORY SVC     BRAIN & COG SCI                                   
+46-6/053                 117   OFFICE             MCGOVERN INSTITUTE                                
+46-6/054                 119   LABORATORY SVC     BRAIN & COG SCI                                   
+46-6/054AA                 8   LABORATORY SVC     BRAIN & COG SCI                                   
+46-6/056                  99   LABORATORY SVC     BRAIN & COG SCI                                   
+46-6/057                 441   OFFICE             BRAIN & COG SCI                                   
+46-6/057A                210   OFFICE             BRAIN & COG SCI                                   
+46-6/057B                124   OFFICE             BRAIN & COG SCI                                   
+46-6/062                 134   OFFICE             BRAIN & COG SCI                                   
+46-6/066                 502   RESEARCH LAB       BRAIN & COG SCI                                   
+46-6/078                 351   ALTER/CONVERSION   BRAIN & COG SCI                                   
+46-6/078A                 45   ALTER/CONVERSION   BRAIN & COG SCI                                   
+46-6/078B                 47   ALTER/CONVERSION   BRAIN & COG SCI                                   
+46-6/078C                 46   ALTER/CONVERSION   BRAIN & COG SCI                                   
+46-6/078D                 47   ALTER/CONVERSION   BRAIN & COG SCI                                   
+46-6/079                 164   OFFICE             PICOWER INSTITUTE                                 
+46-6/079A                253   OFFICE             PICOWER INSTITUTE                                 
+46-6/081                 146   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/081A                134   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/081B                192   LAB SUPPORT SHOP   MCGOVERN INSTITUTE                                
+46-6/081C                 84   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/090                 107   LABORATORY SVC     BRAIN & COG SCI                                   
+46-6/094                 114   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-6/094A                 14   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-6/094B                169   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/094BA                45   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-6/101                  87   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-6/103                  98   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/107                  61   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/107A                 67   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/107B                 97   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-6/107C                 85   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/109                 318   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/109A                116   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/109B                103   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/109C                145   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/111                 274   RSCH LAB-OFFICE    MCGOVERN INSTITUTE                                
+46-6/111A                116   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-6/116                 163   LAB SUPPORT SHOP   MCGOVERN INSTITUTE                                
+46-6/118                 139   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-6/120                 126   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-6/121                 131   OFFICE             MCGOVERN INSTITUTE                                
+46-6/121A                142   OFFICE             MCGOVERN INSTITUTE                                
+46-6/123                 133   OFFICE             MCGOVERN INSTITUTE                                
+46-6/123A                134   OFFICE             MCGOVERN INSTITUTE                                
+46-6/125                 213   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/127                 423   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/133                 248   OFFICE             MCGOVERN INSTITUTE                                
+46-6/133A                 84   OFFICE             MCGOVERN INSTITUTE                                
+46-6/133B                115   OFFICE             MCGOVERN INSTITUTE                                
+46-6/133C                 80   OFFICE SERVICE     MCGOVERN INSTITUTE                                
+46-6/133D                105   OFFICE             MCGOVERN INSTITUTE                                
+46-6/133G                132   OFFICE             MCGOVERN INSTITUTE                                
+46-6/133GA               124   OFFICE SERVICE     MCGOVERN INSTITUTE                                
+46-6/134Z                111   SHAFT SPACE        DP OF FACILITIES                                  
+46-6/137                 110   OFFICE SERVICE     MCGOVERN INSTITUTE                                
+46-6/137A                116   OFFICE             MCGOVERN INSTITUTE                                
+46-6/137B                171   OFFICE             MCGOVERN INSTITUTE                                
+46-6/137C                 70   OFFICE             MCGOVERN INSTITUTE                                
+46-6/138                 206   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-6/138A                102   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/138B                 85   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/138C                 87   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/138D                 86   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/138F                 98   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/141                 107   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-6/143                 131   SECY/RECEPTION     MCGOVERN INSTITUTE                                
+46-6/143A                248   OFFICE             MCGOVERN INSTITUTE                                
+46-6/144                  44   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-6/144Z                 11   SHAFT SPACE        DP OF FACILITIES                                  
+46-6/145                 245   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/145A                 82   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/145B                 79   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/145C                 77   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-6/146T                141   TELECOM CLOSET     DP OF FACILITIES                                  
+46-6/147                 245   OFFICE             MCGOVERN INSTITUTE                                
+46-6/148E                141   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-6/150                 233   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/150A                 76   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/150B                 75   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/150C                 73   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/153                 305   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/153A                 56   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/153B                 56   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/153C                 60   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/154                 113   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-6/155                  82   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-6/156                 121   LAB SUPPORT SHOP   MCGOVERN INSTITUTE                                
+46-6/157                 482   OFFICE             MCGOVERN INSTITUTE                                
+46-6/157A                142   OFFICE             MCGOVERN INSTITUTE                                
+46-6/157B                 20   OFFICE SERVICE     MCGOVERN INSTITUTE                                
+46-6/161                 190   OFFICE             MCGOVERN INSTITUTE                                
+46-6/161A                177   OFFICE             MCGOVERN INSTITUTE                                
+46-6/162                 156   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/165                 277   OFFICE             MCGOVERN INSTITUTE                                
+46-6/167                 197   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/169                 240   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/171                 453   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/178                 300   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/179                 221   OFFICE             MCGOVERN INSTITUTE                                
+46-6/183                  55   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-6/186                 268   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/189                 197   OFFICE             MCGOVERN INSTITUTE                                
+46-6/189A                206   OFFICE             MCGOVERN INSTITUTE                                
+46-6/190                 517   RESEARCH LAB       MCGOVERN INSTITUTE                                
+46-6/193                 253   OFFICE             MCGOVERN INSTITUTE                                
+46-6/194                 115   OFFICE             MCGOVERN INSTITUTE                                
+46-6/196                 113   LAB SUPPORT SHOP   MCGOVERN INSTITUTE                                
+46-6/197                 245   LABORATORY SVC     MCGOVERN INSTITUTE                                
+46-6/198                 171   MALE LAVATORY      DP OF FACILITIES                                  
+46-6/198J                 51   JANITOR CLOSET     DP OF FACILITIES                                  
+46-6/199                 478   CONFERENCE ROOM    MCGOVERN INSTITUTE                                
+46-6/200                 193   FEMALE LAVATORY    DP OF FACILITIES                                  
+46-6/200Z                 13   SHAFT SPACE        DP OF FACILITIES                                  
+46-6/201                 336   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-6/204                 117   OFFICE             BRAIN & COG SCI                                   
+46-6/213                 497   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/215                 127   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/215A                121   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/216                 111   OFFICE             PICOWER INSTITUTE                                 
+46-6/216A                260   OFFICE             PICOWER INSTITUTE                                 
+46-6/217                  30   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-6/218                 702   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-6/219Z                 13   SHAFT SPACE        DP OF FACILITIES                                  
+46-6/220E                168   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-6/221                 105   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-6/221A                175   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/221B                125   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/221C                 77   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/221D                128   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-6/221F                240   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/222                  78   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/222A                186   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/222B                207   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/226                 236   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/226A                 71   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/226B                 69   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/227                 915   RSCH LAB-OFFICE    PICOWER INSTITUTE                                 
+46-6/227A                186   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/227B                167   RSCH LAB-OFFICE    PICOWER INSTITUTE                                 
+46-6/227C                 42   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-6/230                  97   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-6/237                 227   SECY/RECEPTION     PICOWER INSTITUTE                                 
+46-6/237A                280   OFFICE             PICOWER INSTITUTE                                 
+46-6/238                 109   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-6/241                 197   OFFICE             PICOWER INSTITUTE                                 
+46-6/241A                201   OFFICE             PICOWER INSTITUTE                                 
+46-6/247                 434   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-6/247A                 90   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/247B                142   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/247C                347   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-6/247D                100   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/247F                102   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/247G                 98   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/257                 755   RSCH LAB-OFFICE    PICOWER INSTITUTE                                 
+46-6/263                 227   OFFICE             PICOWER INSTITUTE                                 
+46-6/265                 263   OFFICE             PICOWER INSTITUTE                                 
+46-6/266                 204   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-6/266A                109   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/266B                112   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/266C                 96   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/266D                116   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/266F                116   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/267                 926   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/267A                100   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/267B                 99   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/267C                 99   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/270                 173   OFFICE             PICOWER INSTITUTE                                 
+46-6/272                 185   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-6/274                 235   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/274A                 93   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/274B                 93   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/274C                 93   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/281                 142   FEMALE LAVATORY    DP OF FACILITIES                                  
+46-6/283                 135   MALE LAVATORY      DP OF FACILITIES                                  
+46-6/285                 484   RSCH LAB-OFFICE    PICOWER INSTITUTE                                 
+46-6/286T                125   TELECOM CLOSET     DP OF FACILITIES                                  
+46-6/287               1,067   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-6/296                 374   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-6/296A                151   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/296B                312   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/309                 304   OFFICE             PICOWER INSTITUTE                                 
+46-6/309A                 18   OFFICE SERVICE     PICOWER INSTITUTE                                 
+46-6/311                  75   LAB SUPPORT SHOP   PICOWER INSTITUTE                                 
+46-6/311A                508   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/319                 514   RESEARCH LAB       PICOWER INSTITUTE                                 
+46-6/319A                115   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-600Z                1,316   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      53,227                                                                        
+                                                                                                    
+46-7/000CB               169   CORRIDOR           DP OF FACILITIES                                  
+46-7/000CC               622   CORRIDOR           DP OF FACILITIES                                  
+46-7/000CD               169   CORRIDOR           DP OF FACILITIES                                  
+46-7/000CE             1,161   CORRIDOR           DP OF FACILITIES                                  
+46-7/000CF               310   CORRIDOR           DP OF FACILITIES                                  
+46-7/000CG             1,257   CORRIDOR           DP OF FACILITIES                                  
+46-7/000CH               638   CORRIDOR           DP OF FACILITIES                                  
+46-7/000CJ               619   CORRIDOR           DP OF FACILITIES                                  
+46-7/000CK               680   CORRIDOR           DP OF FACILITIES                                  
+46-7/000CN             2,950   CORRIDOR           DP OF FACILITIES                                  
+46-7/000CO               547   CORRIDOR           DP OF FACILITIES                                  
+46-7/000CR               424   CORRIDOR           DP OF FACILITIES                                  
+46-7/000CS             2,878   CORRIDOR           DP OF FACILITIES                                  
+46-7/000E2                48   ELEVATOR           DP OF FACILITIES                                  
+46-7/000E3                66   ELEVATOR           DP OF FACILITIES                                  
+46-7/000E4                58   ELEVATOR           DP OF FACILITIES                                  
+46-7/000E6                43   ELEVATOR           DP OF FACILITIES                                  
+46-7/000SA               205   STAIRWAY           DP OF FACILITIES                                  
+46-7/000SB               230   STAIRWAY           DP OF FACILITIES                                  
+46-7/000SC               181   STAIRWAY           DP OF FACILITIES                                  
+46-7/000SE               233   STAIRWAY           DP OF FACILITIES                                  
+46-7/001                 329   OFFICE SERVICE     DIV OF COMP MED                                   
+46-7/005                 231   UTILITY/MECH RM    DP OF FACILITIES                                  
+46-7/006                  60   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/007                 182   OFFICE             DIV OF COMP MED                                   
+46-7/009                 168   OFFICE SERVICE     DIV OF COMP MED                                   
+46-7/011                 283   OFFICE SERVICE     DIV OF COMP MED                                   
+46-7/013                 125   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/015                 292   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/015A                240   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/015B                129   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/015C                244   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+46-7/015D                243   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+46-7/018                 103   OFFICE             DIV OF COMP MED                                   
+46-7/020                 150   FEMALE LAVATORY    DP OF FACILITIES                                  
+46-7/025                 255   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/025A                102   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/025AA                42   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/025AB                42   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/026J                 16   JANITOR CLOSET     DP OF FACILITIES                                  
+46-7/029                 288   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/029A                107   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/031                 161   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/037               1,187   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/042J                 12   JANITOR CLOSET     DP OF FACILITIES                                  
+46-7/044                 264   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/045                 563   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/045A                153   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/046                 139   MALE LAVATORY      DP OF FACILITIES                                  
+46-7/048                 564   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/048E                125   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-7/050                 115   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/052                  87   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/054                 192   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/065                  91   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/065A                400   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/065B                317   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/066                  88   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/066A                315   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/066B                341   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/081                  91   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/081A                317   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/081B                492   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/082                  88   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/082A                491   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/082B                315   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/103                 305   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/105                 273   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+46-7/105A                 59   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/108                 176   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/110                  62   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/110A                147   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/112J                 13   JANITOR CLOSET     DP OF FACILITIES                                  
+46-7/113                 249   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/113A                 49   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/113B                 49   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/113C                 49   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/113D                 49   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/114                 119   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/115                 250   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/115A                 49   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/115B                 49   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/115C                 49   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/115D                 49   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/116                 149   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/121                 298   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/123                 330   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/123A                 52   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/123B                 51   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/123C                 53   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/123D                 53   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/123F                 50   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/123G                 47   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/123H                 53   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/123K                 52   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/133                 364   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/133A                 43   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/133B                 43   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/133C                 43   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/133D                 45   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/133F                 45   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/133G                 45   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/133H                 54   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/133K                 54   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/135J                 14   JANITOR CLOSET     DP OF FACILITIES                                  
+46-7/137                 261   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+46-7/139                  52   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/139A                185   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/139AA                42   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/139AB                42   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/139AC                42   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/139AD                97   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/139AF                98   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/145                  64   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+46-7/146                 373   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/147                 399   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/148E                119   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-7/149                  64   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+46-7/150                 511   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/151                 171   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/151A                 48   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/151B                 51   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/151C                 50   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/151D                 50   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/151F                 51   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/154                 230   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/154A                 47   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/154B                 46   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/154C                 47   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/155                 357   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/156                 192   MALE LAVATORY      DP OF FACILITIES                                  
+46-7/157                 541   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/160                 196   FEMALE LAVATORY    DP OF FACILITIES                                  
+46-7/161                 887   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/162                 988   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/162A                141   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/162B                118   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/165                 104   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/165A                 20   UTILITY/MECH RM    DP OF FACILITIES                                  
+46-7/166J                 10   JANITOR CLOSET     DP OF FACILITIES                                  
+46-7/171                 161   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/173                 358   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/173B                 45   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/173C                 45   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/173D                 43   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/173F                 45   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/173G                 45   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/173H                 45   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/173K                 45   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/173L                 46   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/179                 161   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/179Z                 32   SHAFT SPACE        DP OF FACILITIES                                  
+46-7/183                  76   UTILITY/MECH RM    DP OF FACILITIES                                  
+46-7/185                 227   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+46-7/187                 237   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+46-7/189                 236   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+46-7/191                 235   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+46-7/193                 198   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+46-7/195                 195   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+46-7/196                  65   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+46-7/197                  99   OFFICE             DIV OF COMP MED                                   
+46-7/199                  84   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/208                  18   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/209                 100   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/210                 346   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/210A                281   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/210AA                13   UTILITY/MECH RM    DP OF FACILITIES                                  
+46-7/210AE               125   ELECTRIC CLOSET    DP OF FACILITIES                                  
+46-7/211                  97   OFFICE             DIV OF COMP MED                                   
+46-7/213                 101   OFFICE             DIV OF COMP MED                                   
+46-7/215                 119   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/217                 111   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/219                 189   ANIMAL RSCH LAB    PICOWER INSTITUTE                                 
+46-7/219Z                 15   SHAFT SPACE        DP OF FACILITIES                                  
+46-7/221                 190   ANIMAL RSCH LAB    PICOWER INSTITUTE                                 
+46-7/222                 256   FEMALE LAVATORY    DP OF FACILITIES                                  
+46-7/223                 192   ANIMAL RSCH LAB    PICOWER INSTITUTE                                 
+46-7/224                 254   MALE LAVATORY      DP OF FACILITIES                                  
+46-7/225                 191   ANIMAL RSCH LAB    PICOWER INSTITUTE                                 
+46-7/226                 237   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/226A                 46   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/226B                 42   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/226C                 46   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/226D                 46   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/226F                 41   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/226G                 46   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/227                 192   ANIMAL RSCH LAB    PICOWER INSTITUTE                                 
+46-7/229                 190   ANIMAL RSCH LAB    PICOWER INSTITUTE                                 
+46-7/230                 726   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/231                 192   ANIMAL RSCH LAB    PICOWER INSTITUTE                                 
+46-7/233                 168   ANIMAL RSCH LAB    PICOWER INSTITUTE                                 
+46-7/235                  88   LABORATORY SVC     PICOWER INSTITUTE                                 
+46-7/237                 496   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/239                  64   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/241                  50   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/241J                 14   JANITOR CLOSET     DP OF FACILITIES                                  
+46-7/243J                 14   JANITOR CLOSET     DP OF FACILITIES                                  
+46-7/244J                 12   JANITOR CLOSET     DP OF FACILITIES                                  
+46-7/245                  99   OFFICE             DIV OF COMP MED                                   
+46-7/247                 360   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+46-7/247A                141   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+46-7/247AA               146   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+46-7/249                 115   OFFICE             DIV OF COMP MED                                   
+46-7/250                 196   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/250A                 42   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/250B                 42   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/250C                 42   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/251                 135   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+46-7/259                 477   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+46-7/259A                133   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+46-7/259B                109   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/259C                100   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/266                 241   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/266A                 44   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/266B                 39   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/266C                 44   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/266D                 43   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/266F                 39   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/266G                 43   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/272                 485   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/279                  64   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+46-7/280                 486   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/284                 427   ANIMAL QUARTERS    DIV OF COMP MED                                   
+46-7/286                 908   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/287                  65   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+46-7/293                 486   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/293A                263   ANIMAL SERVICE     DIV OF COMP MED                                   
+46-7/299                 262   UTILITY/MECH RM    DP OF FACILITIES                                  
+46-7/305                 274   OFFICE SERVICE     DIV OF COMP MED                                   
+46-7/315                 105   OFFICE             DIV OF COMP MED                                   
+46-700Z                1,311   SHAFT SPACE        DP OF FACILITIES         

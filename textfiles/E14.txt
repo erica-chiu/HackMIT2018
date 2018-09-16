@@ -1,0 +1,375 @@
+E14-000E4                153   ELEVATOR           DP OF FACILITIES                                  
+E14-000SA                309   STAIRWAY           DP OF FACILITIES                                  
+E14-000SB                189   STAIRWAY           DP OF FACILITIES                                  
+E14-000Z                 161   SHAFT SPACE        DP OF FACILITIES                                  
+E14-027M                 134   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-027ZM                 92   SHAFT SPACE        DP OF FACILITIES                                  
+E14-035                  608   LABORATORY SVC     MEDIA LABORATORY                                  
+E14-035A                 795   LABORATORY SVC     MEDIA LABORATORY                                  
+E14-035B                 352   LABORATORY SVC     MEDIA LABORATORY                                  
+E14-039Z                 200   SHAFT SPACE        DP OF FACILITIES                                  
+E14-042                  193   JANITOR STORAGE    DP OF FACILITIES                                  
+E14-043                  260   LABORATORY SVC     MEDIA LABORATORY                                  
+E14-044               14,290   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-045E               2,902   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-045M               2,942   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-046                  642   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-046M                 982   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-046Z                 556   SHAFT SPACE        DP OF FACILITIES                                  
+E14-053M                 134   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-061                  276   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-061M               1,142   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-062                  320   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-066                   21   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-068M                 501   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-068T                 147   TELECOM CLOSET     DP OF FACILITIES                                  
+E14-081                  392   LABORATORY SVC     MEDIA LABORATORY                                  
+E14-081A                 185   LABORATORY SVC     DP OF FACIL ADM                                   
+E14-082Z                 934   SHAFT SPACE        DP OF FACILITIES                                  
+E14-093J                  38   JANITOR CLOSET     DP OF FACILITIES                                  
+E14-094                  228   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-098                  178   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-099                  279   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      30,534                                                                        
+                                                                                                    
+E14-100CA              1,617   CORRIDOR           DP OF FACILITIES                                  
+E14-100E1                 49   ELEVATOR           DP OF FACILITIES                                  
+E14-100E2                 49   ELEVATOR           DP OF FACILITIES                                  
+E14-100E3                 55   ELEVATOR           DP OF FACILITIES                                  
+E14-100E4                161   ELEVATOR           DP OF FACILITIES                                  
+E14-100LA              7,312   LOBBY              DP OF FACILITIES                                  
+E14-100SA                505   STAIRWAY           DP OF FACILITIES                                  
+E14-100SB                404   STAIRWAY           DP OF FACILITIES                                  
+E14-100SC                166   STAIRWAY           DP OF FACILITIES                                  
+E14-100SE                242   STAIRWAY           DP OF FACILITIES                                  
+E14-100Z               1,602   SHAFT SPACE        DP OF FACILITIES                                  
+E14-102                   91   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-140                2,902   STUDIO             ART CULT & TECH                                   
+E14-140A                 148   OFFICE             ART CULT & TECH                                   
+E14-140B                 133   OFFICE             ART CULT & TECH                                   
+E14-140C                 133   OFFICE             ART CULT & TECH                                   
+E14-140D                 133   OFFICE             ART CULT & TECH                                   
+E14-140E                  79   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-140G                 148   OFFICE             ART CULT & TECH                                   
+E14-140H                  94   OFFICE SERVICE     SCH OF ARCH & PL                                  
+E14-140L                 518   CONFERENCE ROOM    SCH OF ARCH & PL                                  
+E14-140P                 150   OFFICE             SCH OF ARCH & PL                                  
+E14-140Q                 148   OFFICE             SCH OF ARCH & PL                                  
+E14-140R                 148   OFFICE             ART CULT & TECH                                   
+E14-140S                 155   OFFICE             ART CULT & TECH                                   
+E14-140T                 287   TELECOM CLOSET     DP OF FACILITIES                                  
+E14-151                1,866   RESEARCH LAB       ART CULT & TECH                                   
+E14-151A                 647   LAB SUPPORT SHOP   MEDIA LABORATORY                                  
+E14-151B                 608   LAB SUPPORT SHOP   ART CULT & TECH                                   
+E14-151E                  72   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-151SA                 22   PVT CIRCULATION    MEDIA LABORATORY                                  
+E14-163                1,035   RECEIVING ROOM     DP OF FACIL ADM                                   
+E14-166                1,879   LAB SUPPORT SHOP   MEDIA LABORATORY                                  
+E14-174Z                  19   SHAFT SPACE        DP OF FACILITIES                                  
+E14-186E                  97   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-187                   44   LABORATORY SVC     MEDIA LABORATORY                                  
+E14-187J                  33   JANITOR CLOSET     DP OF FACILITIES                                  
+E14-187T                  44   TELECOM CLOSET     DP OF FACILITIES                                  
+E14-189                  188   FEMALE LAVATORY    DP OF FACILITIES                                  
+E14-190                  189   MALE LAVATORY      DP OF FACILITIES                                  
+E14-194                  414   LABORATORY SVC     MEDIA LABORATORY                                  
+E14-196E                  42   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-196EA                 37   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      24,663                                                                        
+                                                                                                    
+E14-200CA              2,689   CORRIDOR           DP OF FACILITIES                                  
+E14-200E1                 39   ELEVATOR           DP OF FACILITIES                                  
+E14-200E2                 39   ELEVATOR           DP OF FACILITIES                                  
+E14-200E3                 58   ELEVATOR           DP OF FACILITIES                                  
+E14-200E4                161   ELEVATOR           DP OF FACILITIES                                  
+E14-200E5                 55   ELEVATOR           DP OF FACILITIES                                  
+E14-200LA                631   LOBBY              DP OF FACILITIES                                  
+E14-200SA                345   STAIRWAY           DP OF FACILITIES                                  
+E14-200SB                390   STAIRWAY           DP OF FACILITIES                                  
+E14-200SC                227   STAIRWAY           DP OF FACILITIES                                  
+E14-200SE                228   STAIRWAY           DP OF FACILITIES                                  
+E14-200Z               1,741   SHAFT SPACE        DP OF FACILITIES                                  
+E14-240                  700   CONFERENCE ROOM    MEDIA LABORATORY                                  
+E14-240A                   7   OFFICE SERVICE     MEDIA LABORATORY                                  
+E14-244                  686   CONFERENCE ROOM    MEDIA LABORATORY                                  
+E14-244A                   5   OFFICE SERVICE     MEDIA LABORATORY                                  
+E14-245                  553   SECY/RECEPTION     MEDIA LABORATORY                                  
+E14-245A               1,270   OFFICE             MEDIA LABORATORY                                  
+E14-245B                 224   CONFERENCE ROOM    MEDIA LABORATORY                                  
+E14-245D                 319   CONFERENCE ROOM    MEDIA LABORATORY                                  
+E14-245F                 145   OFFICE             MEDIA LABORATORY                                  
+E14-245G                 146   OFFICE             MEDIA LABORATORY                                  
+E14-245K                 132   OFFICE             MEDIA LABORATORY                                  
+E14-245L                 133   OFFICE             MEDIA LABORATORY                                  
+E14-245N                 134   OFFICE             MEDIA LABORATORY                                  
+E14-245SB                 85   PVT CIRCULATION    DP OF FACIL ADM                                   
+E14-245T                  47   TELECOM CLOSET     DP OF FACILITIES                                  
+E14-251                  792   LABORATORY SVC     ART CULT & TECH                                   
+E14-251A                 143   RSCH LAB-OFFICE    ART CULT & TECH                                   
+E14-251B                 145   RESEARCH LAB       ART CULT & TECH                                   
+E14-251C                 145   RESEARCH LAB       ART CULT & TECH                                   
+E14-251D                 120   RSCH LAB-OFFICE    ART CULT & TECH                                   
+E14-251E                  69   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-251F                 153   LABORATORY SVC     ART CULT & TECH                                   
+E14-251H                 506   RESEARCH LAB       ART CULT & TECH                                   
+E14-251SA                 25   PVT CIRCULATION    MEDIA LABORATORY                                  
+E14-251T                  44   TELECOM CLOSET     DP OF FACILITIES                                  
+E14-274                3,500   RESEARCH LAB       MEDIA LABORATORY                                  
+E14-274A                 148   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-274B                 133   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-274C                 133   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-274D                 133   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-274E                  79   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-274G                 154   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-274H                  83   RESEARCH LAB       MEDIA LABORATORY                                  
+E14-274SA                 23   PVT CIRCULATION    MEDIA LABORATORY                                  
+E14-274T                 288   TELECOM CLOSET     DP OF FACILITIES                                  
+E14-275                  175   LABORATORY SVC     MEDIA LABORATORY                                  
+E14-286E                  96   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-290                  148   LABORATORY SVC     MEDIA LABORATORY                                  
+E14-293                  108   LABORATORY SVC     MEDIA LABORATORY                                  
+E14-293J                  33   JANITOR CLOSET     DP OF FACILITIES                                  
+E14-294                  179   MALE LAVATORY      DP OF FACILITIES                                  
+E14-295                  184   FEMALE LAVATORY    DP OF FACILITIES                                  
+E14-296E                  42   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-296EA                 36   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-296T                  28   TELECOM CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      19,036                                                                        
+                                                                                                    
+E14-300CA              2,118   CORRIDOR           DP OF FACILITIES                                  
+E14-300E1                 49   ELEVATOR           DP OF FACILITIES                                  
+E14-300E2                 49   ELEVATOR           DP OF FACILITIES                                  
+E14-300E3                 55   ELEVATOR           DP OF FACILITIES                                  
+E14-300E4                161   ELEVATOR           DP OF FACILITIES                                  
+E14-300E5                 55   ELEVATOR           DP OF FACILITIES                                  
+E14-300LA                613   LOBBY              DP OF FACILITIES                                  
+E14-300SA                345   STAIRWAY           DP OF FACILITIES                                  
+E14-300SB                390   STAIRWAY           DP OF FACILITIES                                  
+E14-300SC                457   STAIRWAY           DP OF FACILITIES                                  
+E14-300SD                 95   STAIRWAY           DP OF FACILITIES                                  
+E14-300SE                241   STAIRWAY           DP OF FACILITIES                                  
+E14-300Z               1,653   SHAFT SPACE        DP OF FACILITIES                                  
+E14-333                2,967   RESEARCH LAB       MEDIA LABORATORY                                  
+E14-333A                 128   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-333B                 129   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-333C                 137   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-333SA                 23   PVT CIRCULATION    MEDIA LABORATORY                                  
+E14-345SB                 80   PVT CIRCULATION    DP OF FACIL ADM                                   
+E14-348                5,040   RESEARCH LAB       MEDIA LABORATORY                                  
+E14-348A                 141   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-348B                 136   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-348C                 136   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-348D                 135   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-348E                  79   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-348F                 157   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-348G                 141   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-348H                 141   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-348K                 142   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-348P                 174   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-348R                 133   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-348S                 133   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-348SA                 32   PVT CIRCULATION    MEDIA LABORATORY                                  
+E14-348T                  86   TELECOM CLOSET     DP OF FACILITIES                                  
+E14-348U                 133   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-348V                 126   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-368                1,472   OFFICE SERVICE     MEDIA LABORATORY                                  
+E14-368A                 138   OFFICE SERVICE     MEDIA LABORATORY                                  
+E14-370                  304   OFFICE SERVICE     MEDIA LABORATORY                                  
+E14-374                  648   LABORATORY SVC     MEDIA LABORATORY                                  
+E14-374A                 148   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-374B                 133   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-374C                 133   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-374D                 133   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-374E                  77   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-374G                 163   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-374H                 117   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-374K                 141   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-374L                 141   CONFERENCE ROOM    MEDIA LABORATORY                                  
+E14-374N                 137   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-374SA                 29   PVT CIRCULATION    MEDIA LABORATORY                                  
+E14-374T                 198   TELECOM CLOSET     DP OF FACILITIES                                  
+E14-386E                 121   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-393                  304   CONFERENCE ROOM    MEDIA LABORATORY                                  
+E14-394                  178   FEMALE LAVATORY    DP OF FACILITIES                                  
+E14-395                  178   MALE LAVATORY      DP OF FACILITIES                                  
+E14-395J                  30   JANITOR CLOSET     DP OF FACILITIES                                  
+E14-396E                  44   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-396EA                 36   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-396T                  27   TELECOM CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      21,836                                                                        
+                                                                                                    
+E14-400CA              1,936   CORRIDOR           DP OF FACILITIES                                  
+E14-400E1                 49   ELEVATOR           DP OF FACILITIES                                  
+E14-400E2                 49   ELEVATOR           DP OF FACILITIES                                  
+E14-400E3                 55   ELEVATOR           DP OF FACILITIES                                  
+E14-400E4                161   ELEVATOR           DP OF FACILITIES                                  
+E14-400E5                 55   ELEVATOR           DP OF FACILITIES                                  
+E14-400LA                739   LOBBY              DP OF FACILITIES                                  
+E14-400SA                345   STAIRWAY           DP OF FACILITIES                                  
+E14-400SB                390   STAIRWAY           DP OF FACILITIES                                  
+E14-400SD                374   STAIRWAY           DP OF FACILITIES                                  
+E14-400SE                249   STAIRWAY           DP OF FACILITIES                                  
+E14-400Z               1,666   SHAFT SPACE        DP OF FACILITIES                                  
+E14-433                  973   RESEARCH LAB       MEDIA LABORATORY                                  
+E14-433A                 143   LABORATORY SVC     MEDIA LABORATORY                                  
+E14-433B                 143   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-433C                 143   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-433D                 158   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-433SA                 42   PVT CIRCULATION    MEDIA LABORATORY                                  
+E14-445                2,922   RESEARCH LAB       MEDIA LABORATORY                                  
+E14-445A                 136   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-445B                 129   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-445C                 128   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-445SA                 37   PVT CIRCULATION    MEDIA LABORATORY                                  
+E14-445SB                 80   PVT CIRCULATION    DP OF FACIL ADM                                   
+E14-464                  515   PVT CIRCULATION    MEDIA LABORATORY                                  
+E14-464A                 138   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-464B                 141   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-464C                 141   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-464D                 117   CONFERENCE ROOM    MEDIA LABORATORY                                  
+E14-464E                  77   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-464F                 154   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-464H                 132   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-464K                 132   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-464L                 132   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-464N                 124   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-464SA                 44   PVT CIRCULATION    MEDIA LABORATORY                                  
+E14-464T                  38   TELECOM CLOSET     DP OF FACILITIES                                  
+E14-470                  163   RESEARCH LAB       MEDIA LABORATORY                                  
+E14-470A                  49   LABORATORY SVC     MEDIA LABORATORY                                  
+E14-470B                  25   LABORATORY SVC     MEDIA LABORATORY                                  
+E14-474                2,811   RESEARCH LAB       MEDIA LABORATORY                                  
+E14-474A                 148   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-474B                 133   CONFERENCE ROOM    MEDIA LABORATORY                                  
+E14-474C                 133   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-474D                 133   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-474E                  77   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-474G                 154   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-474SA                 37   PVT CIRCULATION    MEDIA LABORATORY                                  
+E14-474T                 287   TELECOM CLOSET     DP OF FACILITIES                                  
+E14-486E                 109   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-493                  364   CONFERENCE ROOM    MEDIA LABORATORY                                  
+E14-494                  174   FEMALE LAVATORY    DP OF FACILITIES                                  
+E14-495                  212   MALE LAVATORY      DP OF FACILITIES                                  
+E14-496E                  44   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-496EA                 36   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-496T                  26   TELECOM CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      18,099                                                                        
+                                                                                                    
+E14-500CA              1,873   CORRIDOR           DP OF FACILITIES                                  
+E14-500E1                 50   ELEVATOR           DP OF FACILITIES                                  
+E14-500E2                 50   ELEVATOR           DP OF FACILITIES                                  
+E14-500E3                 32   ELEVATOR           DP OF FACILITIES                                  
+E14-500E4                 97   ELEVATOR           DP OF FACILITIES                                  
+E14-500E5                 32   ELEVATOR           DP OF FACILITIES                                  
+E14-500LA                335   LOBBY              DP OF FACILITIES                                  
+E14-500SA                345   STAIRWAY           DP OF FACILITIES                                  
+E14-500SB                388   STAIRWAY           DP OF FACILITIES                                  
+E14-500SD                161   STAIRWAY           DP OF FACILITIES                                  
+E14-500SE                261   STAIRWAY           DP OF FACILITIES                                  
+E14-500Z               2,102   SHAFT SPACE        DP OF FACILITIES                                  
+E14-514                1,366   LABORATORY SVC     MEDIA LABORATORY                                  
+E14-514A                  91   LABORATORY SVC     MEDIA LABORATORY                                  
+E14-514B                 331   CONFERENCE ROOM    MEDIA LABORATORY                                  
+E14-526                2,386   RESEARCH LAB       MEDIA LABORATORY                                  
+E14-526A                 142   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-526B                 141   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-526C                 304   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-545SA                 28   PVT CIRCULATION    MEDIA LABORATORY                                  
+E14-548                3,851   RESEARCH LAB       MEDIA LABORATORY                                  
+E14-548E                  77   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-548G                 158   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-548H                 142   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-548K                 142   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-548L                 143   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-548P                 172   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-548R                 133   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-548S                 133   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-548T                  87   TELECOM CLOSET     DP OF FACILITIES                                  
+E14-548U                 133   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-548V                 124   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-574                1,051   PVT CIRCULATION    MEDIA LABORATORY                                  
+E14-574A                 148   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-574B                 133   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-574C                 133   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-574D                 133   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-574E                  77   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-574G                 165   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-574H                 119   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-574K                 143   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-574L                 143   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-574N                 139   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E14-574SA                 28   PVT CIRCULATION    MEDIA LABORATORY                                  
+E14-574T                 185   TELECOM CLOSET     DP OF FACILITIES                                  
+E14-586E                 109   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-593                  528   LABORATORY SVC     MEDIA LABORATORY                                  
+E14-593A                  79   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-594                  178   FEMALE LAVATORY    DP OF FACILITIES                                  
+E14-595                  178   MALE LAVATORY      DP OF FACILITIES                                  
+E14-595A                  44   OFFICE SERVICE     MEDIA LABORATORY                                  
+E14-595J                  30   JANITOR CLOSET     DP OF FACILITIES                                  
+E14-596E                  41   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-596EA                 36   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-596T                  27   TELECOM CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      19,656                                                                        
+                                                                                                    
+E14-600CA                839   CORRIDOR           DP OF FACILITIES                                  
+E14-600CB                326   CORRIDOR           DP OF FACILITIES                                  
+E14-600E1                 42   ELEVATOR           DP OF FACILITIES                                  
+E14-600E2                 42   ELEVATOR           DP OF FACILITIES                                  
+E14-600E4                 80   ELEVATOR           DP OF FACILITIES                                  
+E14-600LA                351   LOBBY              DP OF FACILITIES                                  
+E14-600SA                341   STAIRWAY           DP OF FACILITIES                                  
+E14-600SB                561   STAIRWAY           DP OF FACILITIES                                  
+E14-600SE                155   STAIRWAY           DP OF FACILITIES                                  
+E14-600Z               1,139   SHAFT SPACE        DP OF FACILITIES                                  
+E14-633                1,574   LECTURE HALL       SCH OF ARCH & PL                                  
+E14-633AE                 35   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-633AZ                 17   SHAFT SPACE        DP OF FACILITIES                                  
+E14-633E                  29   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-633EZ                 23   SHAFT SPACE        DP OF FACILITIES                                  
+E14-638                3,653   OFFICE SERVICE     SCH OF ARCH & PL                                  
+E14-648                1,978   CONFERENCE ROOM    SCH OF ARCH & PL                                  
+E14-648A                 267   OFFICE SERVICE     SCH OF ARCH & PL                                  
+E14-648B                  61   OFFICE SERVICE     SCH OF ARCH & PL                                  
+E14-660                  306   MALE LAVATORY      DP OF FACILITIES                                  
+E14-662                  274   OFFICE SERVICE     SCH OF ARCH & PL                                  
+E14-662J                  36   JANITOR CLOSET     DP OF FACILITIES                                  
+E14-665                  192   OFFICE SERVICE     SCH OF ARCH & PL                                  
+E14-670                1,363   OFFICE SERVICE     SCH OF ARCH & PL                                  
+E14-670A                 164   OFFICE SERVICE     SCH OF ARCH & PL                                  
+E14-670B                 208   OFFICE SERVICE     SCH OF ARCH & PL                                  
+E14-670C                 219   OFFICE SERVICE     SCH OF ARCH & PL                                  
+E14-670J                  36   JANITOR CLOSET     DP OF FACILITIES                                  
+E14-674                3,676   OFFICE SERVICE     SCH OF ARCH & PL                                  
+E14-677E                  13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-686E                  88   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-686EA                 66   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-696E                  40   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E14-696EA                 29   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-696T                  83   TELECOM CLOSET     DP OF FACILITIES                                  
+E14-698                  491   FEMALE LAVATORY    DP OF FACILITIES                                  
+                    --------                                                                        
+                      18,800                                                                        
+                                                                                                    
+E14-700CA                182   CORRIDOR           DP OF FACILITIES                                  
+E14-700E4                147   ELEVATOR           DP OF FACILITIES                                  
+E14-700SB                245   STAIRWAY           DP OF FACILITIES                                  
+E14-700Z                 151   SHAFT SPACE        DP OF FACILITIES                                  
+E14-739                  545   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-770                  131   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-770A                 111   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-770B                 149   STORAGE FACILITY   DP OF FACIL ADM                                   
+E14-790A                  25   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-790B                  15   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-790C                 116   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-790F                  96   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-792                  574   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-792D               2,163   UTILITY/MECH RM    DP OF FACILITIES                                  
+E14-792E                 327   ELECTRIC CLOSET    DP OF FACILITIES      

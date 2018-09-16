@@ -1,0 +1,135 @@
+6C-000CA               2,110   CORRIDOR           DP OF FACILITIES                                  
+6C-000CF                 862   CORRIDOR           DP OF FACILITIES                                  
+6C-000E1                  69   ELEVATOR           DP OF FACILITIES                                  
+6C-000SA                 199   STAIRWAY           DP OF FACILITIES                                  
+6C-000Z                   26   SHAFT SPACE        DP OF FACILITIES                                  
+6C-002                   106   MALE LAVATORY      DP OF FACILITIES                                  
+6C-004T                   80   TELECOM CLOSET     DP OF FACILITIES                                  
+6C-006                 3,321   LABORATORY SVC     PROVOST RESERVE                                   
+6C-006A                   22   UTILITY/MECH RM    DP OF FACILITIES                                  
+6C-006AE               1,226   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6C-006BE                 151   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6C-008                   156   FEMALE LAVATORY    DP OF FACILITIES                                  
+6C-017                    72   STORAGE FACILITY   DP OF FACIL ADM                                   
+6C-021                    69   UTILITY/MECH RM    DP OF FACILITIES                                  
+6C-021J                   72   JANITOR CLOSET     DP OF FACILITIES                                  
+6C-025                   214   STORAGE FACILITY   DP OF FACIL ADM                                   
+6C-027                 1,251   UTILITY/MECH RM    DP OF FACILITIES                                  
+6C-033                    96   LABORATORY SVC     CHEMISTRY                                         
+6C-033A                  346   RESEARCH LAB       CHEMISTRY                                         
+6C-033B                  258   RESEARCH LAB       CHEMISTRY                                         
+6C-033C                  364   RESEARCH LAB       CHEMISTRY                                         
+6C-033CA                 265   RESEARCH LAB       CHEMISTRY                                         
+6C-046                   137   LABORATORY SVC     CHEMISTRY                                         
+6C-048                   623   RESEARCH LAB       CHEMISTRY                                         
+                    --------                                                                        
+                      12,096                                                                        
+                                                                                                    
+6C-100CA               7,005   CORRIDOR           DP OF FACILITIES                                  
+6C-100E1                  69   ELEVATOR           DP OF FACILITIES                                  
+6C-100SA                 199   STAIRWAY           DP OF FACILITIES                                  
+6C-100Z                   37   SHAFT SPACE        DP OF FACILITIES                                  
+6C-102                   198   LABORATORY SVC     PHYSICS                                           
+6C-104T                  269   TELECOM CLOSET     DP OF FACILITIES                                  
+6C-106                   142   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                       7,919                                                                        
+                                                                                                    
+6C-200CA               1,026   CORRIDOR           DP OF FACILITIES                                  
+6C-200CH                 128   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+6C-200E1                  69   ELEVATOR           DP OF FACILITIES                                  
+6C-200SA                 199   STAIRWAY           DP OF FACILITIES                                  
+6C-200Z                   46   SHAFT SPACE        DP OF FACILITIES                                  
+6C-202E                   14   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6C-203                   239   OFFICE             PHYSICS                                           
+6C-204E                   15   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6C-205                   192   OFFICE             PHYSICS                                           
+6C-206T                  128   TELECOM CLOSET     DP OF FACILITIES                                  
+6C-207                   458   LABORATORY SVC     PHYSICS                                           
+6C-207A                  137   CONFERENCE ROOM    PHYSICS                                           
+6C-207B                  144   OFFICE             PHYSICS                                           
+6C-207CA                 165   OFFICE             PHYSICS                                           
+6C-207CAA                163   OFFICE             PHYSICS                                           
+6C-207CB                 185   TEACHING LAB       PHYSICS                                           
+6C-207CC                 291   TEACHING LAB       PHYSICS                                           
+6C-207CD                 764   TEACHING LAB       PHYSICS                                           
+6C-207E                  149   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6C-207F                  233   LABORATORY SVC     PHYSICS                                           
+6C-207G                  930   LABORATORY SVC     PHYSICS                                           
+6C-242                    50   PUBLIC LAVATORY    DP OF FACILITIES                                  
+6C-244                    50   PUBLIC LAVATORY    DP OF FACILITIES                                  
+6C-247                   209   OFFICE SERVICE     PHYSICS                                           
+                    --------                                                                        
+                       5,982                                                                        
+                                                                                                    
+6C-300CA               2,267   CORRIDOR           DP OF FACILITIES                                  
+6C-300CC                 141   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+6C-300CD                 137   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+6C-300CF                 131   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+6C-300CG                 123   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+6C-300E1                  69   ELEVATOR           DP OF FACILITIES                                  
+6C-300SA                 200   STAIRWAY           DP OF FACILITIES                                  
+6C-300SB                  77   STAIRWAY           DP OF FACILITIES                                  
+6C-300Z                   49   SHAFT SPACE        DP OF FACILITIES                                  
+6C-304T                   90   TELECOM CLOSET     DP OF FACILITIES                                  
+6C-305                   234   OFFICE             PHYSICS                                           
+6C-306                    49   PUBLIC LAVATORY    DP OF FACILITIES                                  
+6C-307                   234   OFFICE             PHYSICS                                           
+6C-308                    49   PUBLIC LAVATORY    DP OF FACILITIES                                  
+6C-313                   234   OFFICE             PHYSICS                                           
+6C-314                    91   OFFICE SERVICE     PHYSICS                                           
+6C-315                   234   OFFICE             PHYSICS                                           
+6C-316E                  175   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6C-317                   258   OFFICE             PHYSICS                                           
+6C-329                   162   OFFICE SERVICE     PHYSICS                                           
+6C-333                   382   CONFERENCE ROOM    PHYSICS                                           
+6C-336E                   21   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6C-339                   152   SECY/RECEPTION     PHYSICS                                           
+6C-340                    65   OFFICE SERVICE     PHYSICS                                           
+6C-342                    89   OFFICE SERVICE     PHYSICS                                           
+6C-343                   240   OFFICE             PHYSICS                                           
+6C-345                   240   OFFICE             PHYSICS                                           
+6C-347                   239   OFFICE             PHYSICS                                           
+                    --------                                                                        
+                       6,433                                                                        
+                                                                                                    
+6C-400CA               1,472   CORRIDOR           DP OF FACILITIES                                  
+6C-400CH                 131   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+6C-400E1                  69   ELEVATOR           DP OF FACILITIES                                  
+6C-400SA                 200   STAIRWAY           DP OF FACILITIES                                  
+6C-400SB                 140   STAIRWAY           DP OF FACILITIES                                  
+6C-400Z                   96   SHAFT SPACE        DP OF FACILITIES                                  
+6C-403                   154   OFFICE             PHYSICS                                           
+6C-404T                   90   TELECOM CLOSET     DP OF FACILITIES                                  
+6C-405                   201   OFFICE             PHYSICS                                           
+6C-406                    49   PUBLIC LAVATORY    DP OF FACILITIES                                  
+6C-407                   171   OFFICE             PHYSICS                                           
+6C-408                    49   PUBLIC LAVATORY    DP OF FACILITIES                                  
+6C-409                   171   OFFICE             PHYSICS                                           
+6C-410                    46   OFFICE SERVICE     PHYSICS                                           
+6C-411                   171   OFFICE             PHYSICS                                           
+6C-413                   171   OFFICE             PHYSICS                                           
+6C-414                    36   OFFICE SERVICE     PHYSICS                                           
+6C-415                   171   OFFICE             PHYSICS                                           
+6C-416E                  174   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6C-417                   171   OFFICE             PHYSICS                                           
+6C-419                   208   OFFICE             PHYSICS                                           
+6C-429                   165   OFFICE             PHYSICS                                           
+6C-431                   166   OFFICE             PHYSICS                                           
+6C-433                   161   OFFICE             PHYSICS                                           
+6C-435                   161   OFFICE             PHYSICS                                           
+6C-436                    21   OFFICE SERVICE     PHYSICS                                           
+6C-441                   146   OFFICE SERVICE     PHYSICS                                           
+6C-442                   874   CONFERENCE ROOM    PHYSICS                                           
+                    --------                                                                        
+                       5,838                                                                        
+                                                                                                    
+6C-500CF                 171   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+6C-500CH                 156   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+6C-500E1                  69   ELEVATOR           DP OF FACILITIES                                  
+6C-500SA                 200   STAIRWAY           DP OF FACILITIES                                  
+6C-500Z                   25   SHAFT SPACE        DP OF FACILITIES                                  
+6C-503                 4,892   UTILITY/MECH RM    DP OF FACILITIES                                  
+6C-503A                   90   UTILITY/MECH RM    DP OF FACILITIES                                  
+6C-503B                  144   UTILITY/MECH RM    DP OF FACILITIES                                  
+6C-503E                   73   ELECTRIC CLOSET    DP OF FACILITIES  

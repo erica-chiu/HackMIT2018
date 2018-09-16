@@ -1,0 +1,284 @@
+5-000CA                1,952   CORRIDOR           DP OF FACILITIES                                  
+5-000LA                  248   LOBBY              DP OF FACILITIES                                  
+5-000SA                  129   STAIRWAY           DP OF FACILITIES                                  
+5-000Z                   292   SHAFT SPACE        DP OF FACILITIES                                  
+5-004                    662   RESEARCH LAB       MECHANICAL ENG                                    
+5-005J                    11   JANITOR CLOSET     DP OF FACILITIES                                  
+5-007                  1,014   RESEARCH LAB       MECHANICAL ENG         OCEAN                      
+5-007A                   307   LAB SUPPORT SHOP   MECHANICAL ENG                                    
+5-007E                    25   ELECTRIC CLOSET    DP OF FACILITIES                                  
+5-008                    654   RESEARCH LAB       MECHANICAL ENG                                    
+5-011                    717   RESEARCH LAB       MECHANICAL ENG         OCEAN                      
+5-012                    640   RESEARCH LAB       MECHANICAL ENG                                    
+5-016                    266   MALE LAVATORY      DP OF FACILITIES                                  
+5-016J                    71   JANITOR CLOSET     DP OF FACILITIES                                  
+5-016Z                    35   SHAFT SPACE        DP OF FACILITIES                                  
+5-017                    761   RESEARCH LAB       MECHANICAL ENG                                    
+5-017A                   202   LABORATORY SVC     MECHANICAL ENG                                    
+5-017B                    24   UTILITY/MECH RM    DP OF FACILITIES                                  
+5-018                    315   LABORATORY SVC     MECHANICAL ENG                                    
+5-018A                    60   PVT LAVATORY       MECHANICAL ENG                                    
+5-019                    139   OFFICE             MECHANICAL ENG                                    
+5-020                    327   CONFERENCE ROOM    MECHANICAL ENG                                    
+5-021                    383   RESEARCH LAB       MECHANICAL ENG                                    
+5-021E                    12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+5-022                    322   RESEARCH LAB       MECHANICAL ENG                                    
+5-025                    707   RESEARCH LAB       MECHANICAL ENG         OCEAN                      
+5-026                  1,009   TEACHING LAB       MECHANICAL ENG                                    
+5-027                     86   UTILITY/MECH RM    DP OF FACILITIES                                  
+5-027A                    78   LABORATORY SVC     UND ADV&ACAD PR        SSSV                       
+5-029                    649   RESEARCH LAB       MECHANICAL ENG                                    
+5-030                    329   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+5-031                    912   UTILITY/MECH RM    DP OF FACILITIES                                  
+5-034                    670   RESEARCH LAB       MECHANICAL ENG                                    
+5-036                     12   LABORATORY SVC     MECHANICAL ENG                                    
+5-038                     35   UTILITY/MECH RM    DP OF FACILITIES                                  
+5-038A                    10   UTILITY/MECH RM    DP OF FACILITIES                                  
+5-040                    119   LABORATORY SVC     MECHANICAL ENG                                    
+                    --------                                                                        
+                      14,185                                                                        
+                                                                                                    
+5-100CA                1,297   CORRIDOR           DP OF FACILITIES                                  
+5-100CB                  672   CORRIDOR           DP OF FACILITIES                                  
+5-100LA                  276   LOBBY              DP OF FACILITIES                                  
+5-100SA                  345   STAIRWAY           DP OF FACILITIES                                  
+5-100Z                   415   SHAFT SPACE        DP OF FACILITIES                                  
+5-102                    275   CONFERENCE ROOM    DEAN-STU LIFE                                     
+5-104                    528   OFFICE SERVICE     DEAN-STU LIFE                                     
+5-104A                    83   SECY/RECEPTION     DEAN-STU LIFE                                     
+5-104B                    96   OFFICE             DEAN-STU LIFE                                     
+5-104C                    94   OFFICE             DEAN-STU LIFE                                     
+5-104D                    96   OFFICE             DEAN-STU LIFE                                     
+5-104F                    97   OFFICE             DEAN-STU LIFE                                     
+5-104G                    97   OFFICE             DEAN-STU LIFE                                     
+5-104H                    98   OFFICE             DEAN-STU LIFE                                     
+5-104K                   136   OFFICE             DEAN-STU LIFE                                     
+5-104L                    70   UTILITY/MECH RM    DP OF FACILITIES                                  
+5-104M                    44   OFFICE             DEAN-STU LIFE                                     
+5-104MM                   14   OFFICE SERVICE     DEAN-STU LIFE                                     
+5-104N                    81   OFFICE SERVICE     DEAN-STU LIFE                                     
+5-104P                    77   OFFICE SERVICE     DEAN-STU LIFE                                     
+5-104Q                    60   OFFICE SERVICE     DEAN-STU LIFE                                     
+5-104R                    89   OFFICE             DEAN-STU LIFE                                     
+5-105E                    26   ELECTRIC CLOSET    DP OF FACILITIES                                  
+5-111                    206   SECY/RECEPTION     PUBLIC REL SVCS                                   
+5-111A                   158   OFFICE             PUBLIC REL SVCS                                   
+5-111AM                   26   OFFICE SERVICE     PUBLIC REL SVCS                                   
+5-111M                   200   OFFICE SERVICE     PUBLIC REL SVCS                                   
+5-111TM                    7   TELECOM CLOSET     DP OF FACILITIES                                  
+5-115                    435   PVT CIRCULATION    REGISTRAR                                         
+5-115A                    99   OFFICE             REGISTRAR                                         
+5-115B                   106   OFFICE             REGISTRAR                                         
+5-115C                   141   OFFICE             REGISTRAR                                         
+5-115D                   122   OFFICE             REGISTRAR                                         
+5-115F                    98   OFFICE             REGISTRAR                                         
+5-115G                    99   OFFICE             REGISTRAR                                         
+5-115H                    61   OFFICE SERVICE     REGISTRAR                                         
+5-115K                    32   OFFICE SERVICE     REGISTRAR                                         
+5-115L                    51   OFFICE             REGISTRAR                                         
+5-115N                    47   OFFICE             REGISTRAR                                         
+5-115P                    52   OFFICE             REGISTRAR                                         
+5-115Q                    55   OFFICE             REGISTRAR                                         
+5-115R                    52   OFFICE             REGISTRAR                                         
+5-115S                    49   SECY/RECEPTION     REGISTRAR                                         
+5-116                    309   FEMALE LAVATORY    DP OF FACILITIES                                  
+5-116J                    58   JANITOR CLOSET     DP OF FACILITIES                                  
+5-116Z                    37   SHAFT SPACE        DP OF FACILITIES                                  
+5-117                    440   PVT CIRCULATION    REGISTRAR                                         
+5-117A                   213   OFFICE             REGISTRAR                                         
+5-117B                   151   OFFICE             REGISTRAR                                         
+5-117C                    87   OFFICE SERVICE     REGISTRAR                                         
+5-117D                   152   OFFICE             REGISTRAR                                         
+5-117F                   140   OFFICE             REGISTRAR                                         
+5-117G                   258   OFFICE             REGISTRAR                                         
+5-117H                   104   OFFICE SERVICE     REGISTRAR                                         
+5-117K                    14   OFFICE             REGISTRAR                                         
+5-117L                    76   OFFICE SERVICE     REGISTRAR                                         
+5-117N                    77   OFFICE             REGISTRAR                                         
+5-117P                    63   OFFICE             REGISTRAR                                         
+5-117Q                    53   OFFICE             REGISTRAR                                         
+5-118                    194   OFFICE SERVICE     DEAN-UNDERGRD ED       GECD                       
+5-118A                   101   OFFICE             DEAN-UNDERGRD ED       GECD                       
+5-118B                    74   OFFICE             DEAN-UNDERGRD ED       GECD                       
+5-122                    196   OFFICE SERVICE     REGISTRAR              GECD                       
+5-122A                    46   SECY/RECEPTION     REGISTRAR              GECD                       
+5-122B                    63   OFFICE             REGISTRAR              GECD                       
+5-122C                   176   OFFICE             REGISTRAR              GECD                       
+5-122D                   158   OFFICE             REGISTRAR              GECD                       
+5-126                  1,119   EXHIBITION FACIL   MECHANICAL ENG                                    
+5-126A                   623   EXHIBITION FACIL   MECHANICAL ENG         OCEAN                      
+5-126B                    14   EXHIBITION FACIL   MECHANICAL ENG                                    
+5-126C                    14   EXHIBITION FACIL   MECHANICAL ENG                                    
+5-126D                    43   EXHIBITION FACIL   MECHANICAL ENG                                    
+5-129E                    10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+5-133                    259   OFFICE SERVICE     REGISTRAR              GECD                       
+5-133A                    55   SECY/RECEPTION     REGISTRAR              GECD                       
+5-133B                    83   OFFICE             REGISTRAR              GECD                       
+5-133C                   135   OFFICE             REGISTRAR              GECD                       
+5-133D                   135   OFFICE             REGISTRAR              GECD                       
+5-133F                    48   OFFICE SERVICE     REGISTRAR              GECD                       
+5-133G                   134   OFFICE             REGISTRAR              GECD                       
+5-133H                   125   OFFICE             REGISTRAR              GECD                       
+5-133K                    48   OFFICE SERVICE     REGISTRAR              GECD                       
+5-133L                   107   OFFICE             REGISTRAR              GECD                       
+5-134                    815   CLASSROOM          REGISTRAR                                         
+5-135                    296   CONFERENCE ROOM    DEAN-UNDERGRD ED                                  
+5-135T                     5   TELECOM CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      14,469                                                                        
+                                                                                                    
+5-200CA                1,340   CORRIDOR           DP OF FACILITIES                                  
+5-200CB                  676   CORRIDOR           DP OF FACILITIES                                  
+5-200SA                  350   STAIRWAY           DP OF FACILITIES                                  
+5-200Z                   454   SHAFT SPACE        DP OF FACILITIES                                  
+5-203E                    26   ELECTRIC CLOSET    DP OF FACILITIES                                  
+5-203T                    12   TELECOM CLOSET     DP OF FACILITIES                                  
+5-204                    127   SECY/RECEPTION     MECHANICAL ENG                                    
+5-204A                   191   OFFICE             MECHANICAL ENG                                    
+5-205                    542   SECY/RECEPTION     CHAIRMAN OF CORP                                  
+5-205A                   117   OFFICE SERVICE     CHAIRMAN OF CORP                                  
+5-205B                     5   OFFICE SERVICE     CHAIRMAN OF CORP                                  
+5-206                    350   OFFICE             MECHANICAL ENG                                    
+5-207                    263   OFFICE SERVICE     MECHANICAL ENG                                    
+5-207A                   111   OFFICE             MECHANICAL ENG                                    
+5-207B                   172   OFFICE             MECHANICAL ENG                                    
+5-207C                   261   OFFICE             MECHANICAL ENG                                    
+5-207D                   237   OFFICE             MECHANICAL ENG                                    
+5-207F                    29   OFFICE SERVICE     MECHANICAL ENG         OCEAN                      
+5-207G                   108   SECY/RECEPTION     MECHANICAL ENG                                    
+5-208                    190   OFFICE SERVICE     EXEC VICE PRES                                    
+5-208A                   109   OFFICE             EXEC VICE PRES                                    
+5-208B                   174   OFFICE             EXEC VICE PRES                                    
+5-208C                   156   OFFICE             EXEC VICE PRES                                    
+5-208D                    29   OFFICE SERVICE     EXEC VICE PRES                                    
+5-212                    183   OFFICE SERVICE     MECHANICAL ENG         OCEAN                      
+5-212A                   179   OFFICE             MECHANICAL ENG         OCEAN                      
+5-213                    225   OFFICE             MECHANICAL ENG         OCEAN                      
+5-214                    174   OFFICE SERVICE     MECHANICAL ENG         OCEAN                      
+5-214A                   170   OFFICE             MECHANICAL ENG         OCEAN                      
+5-216                    442   CLASSROOM          REGISTRAR                                         
+5-216A                    11   UTILITY/MECH RM    DP OF FACILITIES                                  
+5-217                    821   CLASSROOM          REGISTRAR                                         
+5-218                    140   OFFICE             MECHANICAL ENG         OCEAN                      
+5-218A                   208   OFFICE             MECHANICAL ENG         OCEAN                      
+5-219                    361   OFFICE             MECHANICAL ENG         OCEAN                      
+5-220                    148   SECY/RECEPTION     MECHANICAL ENG         OCEAN                      
+5-220A                   204   OFFICE             MECHANICAL ENG         OCEAN                      
+5-221T                   150   TELECOM CLOSET     DP OF FACILITIES                                  
+5-222                    174   SECY/RECEPTION     MECHANICAL ENG         OCEAN                      
+5-222A                   202   OFFICE             MECHANICAL ENG         OCEAN                      
+5-222B                   204   OFFICE             MECHANICAL ENG         OCEAN                      
+5-223                    639   RESEARCH LAB       MECHANICAL ENG         OCEAN                      
+5-223E                    17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+5-224                    107   OFFICE SERVICE     MECHANICAL ENG         OCEAN                      
+5-225                    110   OFFICE SERVICE     MECHANICAL ENG         OCEAN                      
+5-225A                   168   OFFICE SERVICE     MECHANICAL ENG         OCEAN                      
+5-226                    390   OFFICE             MECHANICAL ENG         OCEAN                      
+5-228                    181   OFFICE SERVICE     MECHANICAL ENG         OCEAN                      
+5-228A                   171   OFFICE             MECHANICAL ENG         OCEAN                      
+5-229                    253   OFFICE SERVICE     MECHANICAL ENG         OCEAN                      
+5-229A                    30   OFFICE SERVICE     MECHANICAL ENG         OCEAN                      
+5-229B                    31   PVT CIRCULATION    MECHANICAL ENG         OCEAN                      
+5-229J                    34   JANITOR CLOSET     DP OF FACILITIES                                  
+5-230                    356   OFFICE SERVICE     MECHANICAL ENG                                    
+5-231                    348   CLASSROOM          REGISTRAR                                         
+5-232                    286   CLASSROOM          REGISTRAR                                         
+5-232A                    15   UTILITY/MECH RM    DP OF FACILITIES                                  
+5-233                    820   CLASSROOM          REGISTRAR                                         
+5-234                    716   CLASSROOM          REGISTRAR                                         
+5-234A                    16   CLASSROOM SVC      REGISTRAR                                         
+                    --------                                                                        
+                      14,713                                                                        
+                                                                                                    
+5-300CA                  651   CORRIDOR           DP OF FACILITIES                                  
+5-300CB                  733   CORRIDOR           DP OF FACILITIES                                  
+5-300CC                  676   CORRIDOR           DP OF FACILITIES                                  
+5-300SA                  460   STAIRWAY           DP OF FACILITIES                                  
+5-300SB                   81   STAIRWAY           DP OF FACILITIES                                  
+5-300SC                   88   STAIRWAY           DP OF FACILITIES                                  
+5-300Z                   390   SHAFT SPACE        DP OF FACILITIES                                  
+5-303                    282   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+5-303A                   366   RESEARCH LAB       MECHANICAL ENG                                    
+5-303E                    26   ELECTRIC CLOSET    DP OF FACILITIES                                  
+5-306                    610   OFFICE SERVICE     MECHANICAL ENG         OCEAN                      
+5-308                    744   OFFICE             MECHANICAL ENG                                    
+5-309                  1,179   OFFICE             MECHANICAL ENG                                    
+5-309A                    93   OFFICE SERVICE     MECHANICAL ENG                                    
+5-309B                   177   OFFICE             MECHANICAL ENG         OCEAN                      
+5-314                    717   CONFERENCE ROOM    MECHANICAL ENG         OCEAN                      
+5-314A                    19   OFFICE SERVICE     MECHANICAL ENG                                    
+5-316                    310   MALE LAVATORY      DP OF FACILITIES                                  
+5-316J                    58   JANITOR CLOSET     DP OF FACILITIES                                  
+5-316Z                    37   SHAFT SPACE        DP OF FACILITIES                                  
+5-317                    169   SECY/RECEPTION     MECHANICAL ENG         OCEAN                      
+5-317A                   252   VAULT              MECHANICAL ENG         OCEAN                      
+5-317B                   201   OFFICE             MECHANICAL ENG         OCEAN                      
+5-317C                   149   OFFICE             MECHANICAL ENG         OCEAN                      
+5-318                    138   OFFICE             MECHANICAL ENG         OCEAN                      
+5-318A                   194   OFFICE             MECHANICAL ENG         OCEAN                      
+5-319                    155   CONFERENCE ROOM    MECHANICAL ENG         OCEAN                      
+5-319A                   198   OFFICE             MECHANICAL ENG         OCEAN                      
+5-320                    188   SECY/RECEPTION     MECHANICAL ENG         OCEAN                      
+5-320A                   271   OFFICE             MECHANICAL ENG         OCEAN                      
+5-321                    269   SECY/RECEPTION     MECHANICAL ENG         OCEAN                      
+5-321A                   190   OFFICE             MECHANICAL ENG         OCEAN                      
+5-321B                   221   OFFICE             MECHANICAL ENG         OCEAN                      
+5-321C                   407   OFFICE             MECHANICAL ENG         OCEAN                      
+5-321CA                   11   UTILITY/MECH RM    DP OF FACILITIES                                  
+5-323E                    21   ELECTRIC CLOSET    DP OF FACILITIES                                  
+5-324                    131   OFFICE SERVICE     MECHANICAL ENG         OCEAN                      
+5-324A                   266   OFFICE             MECHANICAL ENG         OCEAN                      
+5-324B                   179   OFFICE             MECHANICAL ENG         OCEAN                      
+5-326                    323   OFFICE SERVICE     MECHANICAL ENG         OCEAN                      
+5-326A                   133   OFFICE             MECHANICAL ENG         OCEAN                      
+5-326B                   137   OFFICE             MECHANICAL ENG         OCEAN                      
+5-326C                   161   OFFICE             MECHANICAL ENG         OCEAN                      
+5-329                    256   OFFICE             MECHANICAL ENG         OCEAN                      
+5-330A                   127   OFFICE             CIVIL & ENV ENG                                   
+5-330B                   217   OFFICE             CIVIL & ENV ENG                                   
+5-331                  1,048   OFFICE             MECHANICAL ENG         OCEAN                      
+5-332                    107   OFFICE             CIVIL & ENV ENG                                   
+5-332A                   135   OFFICE             CIVIL & ENV ENG                                   
+5-333                    121   RESEARCH LAB       MECHANICAL ENG         OCEAN                      
+5-334                    170   OFFICE             CIVIL & ENV ENG                                   
+5-335                    138   OFFICE             MECHANICAL ENG         OCEAN                      
+5-335A                   157   OFFICE             MECHANICAL ENG         OCEAN                      
+5-336                    208   OFFICE             CIVIL & ENV ENG                                   
+                    --------                                                                        
+                      14,743                                                                        
+                                                                                                    
+5-400CA                  460   CORRIDOR           DP OF FACILITIES                                  
+5-400CB                  538   CORRIDOR           DP OF FACILITIES                                  
+5-400CC                  702   CORRIDOR           DP OF FACILITIES                                  
+5-400SA                  232   STAIRWAY           DP OF FACILITIES                                  
+5-400SB                   79   STAIRWAY           DP OF FACILITIES                                  
+5-400SC                   63   STAIRWAY           DP OF FACILITIES                                  
+5-400Z                   205   SHAFT SPACE        DP OF FACILITIES                                  
+5-403E                    26   ELECTRIC CLOSET    DP OF FACILITIES                                  
+5-414                  4,274   STUDIO             ARCHITECTURE                                      
+5-415                    317   OFFICE             ARCHITECTURE                                      
+5-415E                    21   ELECTRIC CLOSET    DP OF FACILITIES                                  
+5-418                    785   SECY/RECEPTION     ARCHITECTURE                                      
+5-418A                    25   OFFICE SERVICE     ARCHITECTURE                                      
+5-418B                   160   OFFICE             ARCHITECTURE                                      
+5-418C                   157   OFFICE             ARCHITECTURE                                      
+5-418D                   171   OFFICE             ARCHITECTURE                                      
+5-418F                   204   OFFICE             ARCHITECTURE                                      
+5-418G                    46   OFFICE SERVICE     ARCHITECTURE                                      
+5-419                    158   OFFICE             ARCHITECTURE                                      
+5-421                    158   OFFICE             ARCHITECTURE                                      
+5-422                    235   OFFICE             MECHANICAL ENG         OCEAN                      
+5-422A                    20   UTILITY/MECH RM    DP OF FACILITIES                                  
+5-423                  1,219   OFFICE             MECHANICAL ENG                                    
+5-423A                   317   OFFICE SERVICE     MECHANICAL ENG         OCEAN                      
+5-423E                    20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+5-424                    188   OFFICE             MECHANICAL ENG         OCEAN                      
+5-426                    154   OFFICE             MECHANICAL ENG         OCEAN                      
+5-426A                   177   OFFICE             MECHANICAL ENG         OCEAN                      
+5-427                    103   OFFICE SERVICE     MECHANICAL ENG         OCEAN                      
+5-428                    238   OFFICE             MECHANICAL ENG         OCEAN                      
+5-428T                    15   TELECOM CLOSET     DP OF FACILITIES                                  
+5-430                     66   PVT CIRCULATION    MECHANICAL ENG         OCEAN                      
+5-430A                   157   OFFICE             MECHANICAL ENG         OCEAN                      
+5-435                  1,663   OFFICE             MECHANICAL ENG         OCEAN                      
+5-435B                   209   OFFICE             MECHANICAL ENG         OCEAN        

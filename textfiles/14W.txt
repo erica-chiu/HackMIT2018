@@ -1,0 +1,16 @@
+14W-100CD              1,509   CORRIDOR           DP OF FACILITIES                                  
+14W-100LC                161   LOBBY              DP OF FACILITIES                                  
+14W-100SJ                 95   LABORATORY SVC     MUSIC & THEATER ART                               
+14W-100SJM               111   PVT CIRCULATION    MUSIC & THEATER ART                               
+14W-100Z                 105   SHAFT SPACE        DP OF FACILITIES                                  
+14W-111                1,798   MUSIC PRACTICE     MUSIC & THEATER ART                               
+14W-111A                 144   LABORATORY SVC     MUSIC & THEATER ART                               
+14W-111B                 127   LABORATORY SVC     MUSIC & THEATER ART                               
+14W-111C                  82   LABORATORY SVC     MUSIC & THEATER ART                               
+14W-111E                   2   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14W-112                  105   LABORATORY SVC     MUSIC & THEATER ART                               
+14W-112AM                 23   OFFICE SERVICE     MUSIC & THEATER ART                               
+14W-112BM                 32   MEDIA PRODUCTION   MUSIC & THEATER ART                               
+14W-112CM                 35   MEDIA PRODUCTION   MUSIC & THEATER ART                               
+14W-112DM                 11   OFFICE SERVICE     MUSIC & THEATER ART                               
+14W-112M                 286   MEDIA PRODUCTION   MUSIC & THEATER ART  

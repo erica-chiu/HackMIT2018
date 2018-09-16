@@ -1,0 +1,63 @@
+W97-100CA              1,094   CORRIDOR           DP OF FACILITIES                                  
+W97-100CB                334   CORRIDOR           DP OF FACILITIES                                  
+W97-100E1                 82   ELEVATOR           DP OF FACILITIES                                  
+W97-100LA                186   LOBBY              DP OF FACILITIES                                  
+W97-100SA                172   STAIRWAY           DP OF FACILITIES                                  
+W97-100SB                134   STAIRWAY           DP OF FACILITIES                                  
+W97-103                  106   MERCHAND FACIL     MUSIC & THEATER ART                               
+W97-105                1,373   LABORATORY SVC     MUSIC & THEATER ART                               
+W97-105A                   9   LABORATORY SVC     MUSIC & THEATER ART                               
+W97-110                3,258   STUDIO             MUSIC & THEATER ART                               
+W97-110A                  38   PVT CIRCULATION    MUSIC & THEATER ART                               
+W97-110B                  34   PVT CIRCULATION    MUSIC & THEATER ART                               
+W97-115                  345   RECEIVING ROOM     DP OF FACIL ADM                                   
+W97-116                  343   LABORATORY SVC     MUSIC & THEATER ART                               
+W97-127                  300   LOUNGE             MUSIC & THEATER ART                               
+W97-127A                 248   NON-ATH LOCKR RM   MUSIC & THEATER ART                               
+W97-127AA                 58   NON-ATH LOCKR RM   MUSIC & THEATER ART                               
+W97-127AB                 48   PVT LAVATORY       MUSIC & THEATER ART                               
+W97-127B                 249   NON-ATH LOCKR RM   MUSIC & THEATER ART                               
+W97-127BA                 57   NON-ATH LOCKR RM   MUSIC & THEATER ART                               
+W97-127BB                 47   PVT LAVATORY       MUSIC & THEATER ART                               
+W97-135                  276   FEMALE LAVATORY    DP OF FACILITIES                                  
+W97-137                  188   MALE LAVATORY      DP OF FACILITIES                                  
+W97-139J                 101   JANITOR CLOSET     DP OF FACILITIES                                  
+W97-150                1,155   MULTI-PURPOSE RM   MUSIC & THEATER ART                               
+W97-151                   99   UTILITY/MECH RM    DP OF FACILITIES                                  
+W97-152                  311   LABORATORY SVC     MUSIC & THEATER ART                               
+W97-153                  317   UTILITY/MECH RM    DP OF FACILITIES                                  
+W97-153A                  16   UTILITY/MECH RM    DP OF FACILITIES                                  
+W97-159                  219   UTILITY/MECH RM    DP OF FACILITIES                                  
+W97-160                1,724   STUDIO             MUSIC & THEATER ART                               
+W97-162                1,513   STUDIO             MUSIC & THEATER ART                               
+W97-162A                  60   LABORATORY SVC     MUSIC & THEATER ART                               
+W97-162B                  68   LABORATORY SVC     MUSIC & THEATER ART                               
+W97-163E                 199   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W97-164                   64   UTILITY/MECH RM    DP OF FACILITIES                                  
+W97-165                  798   STUDIO             MUSIC & THEATER ART                               
+                    --------                                                                        
+                      15,622                                                                        
+                                                                                                    
+W97-200CA              1,059   CORRIDOR           DP OF FACILITIES                                  
+W97-200E1                 92   ELEVATOR           DP OF FACILITIES                                  
+W97-200LA                381   LOBBY              DP OF FACILITIES                                  
+W97-200SA                216   STAIRWAY           DP OF FACILITIES                                  
+W97-200SB                 85   STAIRWAY           DP OF FACILITIES                                  
+W97-201E                  64   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W97-210                  282   STUDIO             MUSIC & THEATER ART                               
+W97-251T                 121   TELECOM CLOSET     DP OF FACILITIES                                  
+W97-252                  390   LABORATORY SVC     MUSIC & THEATER ART                               
+W97-254E                 142   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W97-259                  442   OFFICE             MUSIC & THEATER ART                               
+W97-260                  722   OFFICE SERVICE     MUSIC & THEATER ART                               
+W97-261                  924   STUDIO             MUSIC & THEATER ART                               
+W97-261A                  64   LABORATORY SVC     MUSIC & THEATER ART                               
+W97-262                  135   OFFICE             MUSIC & THEATER ART                               
+W97-263                   31   LABORATORY SVC     MUSIC & THEATER ART                               
+W97-265                   72   PUBLIC LAVATORY    DP OF FACILITIES                                  
+W97-267                  372   CONFERENCE ROOM    MUSIC & THEATER ART                               
+W97-268                  131   OFFICE             MUSIC & THEATER ART                               
+W97-269                1,210   STUDIO             MUSIC & THEATER ART                               
+W97-275                  843   LABORATORY SVC     MUSIC & THEATER ART                               
+W97-275A                 378   LABORATORY SVC     MUSIC & THEATER ART                               
+W97-278                  108   JANITOR LOCKER     DP OF FACILITIES  

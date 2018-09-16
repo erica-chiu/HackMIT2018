@@ -1,0 +1,938 @@
+76-000CA               1,075   CORRIDOR           DP OF FACILITIES                                  
+76-000CB                 502   CORRIDOR           DP OF FACILITIES                                  
+76-000CC               1,837   CORRIDOR           DP OF FACILITIES                                  
+76-000CD                 187   CORRIDOR           DP OF FACILITIES                                  
+76-000CE                 931   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+76-000CF                 349   CORRIDOR           DP OF FACILITIES                                  
+76-000CG                 812   CORRIDOR           DP OF FACILITIES                                  
+76-000E1                  69   ELEVATOR           DP OF FACILITIES                                  
+76-000E2                  69   ELEVATOR           DP OF FACILITIES                                  
+76-000E3                  89   ELEVATOR           DP OF FACILITIES                                  
+76-000E4                  89   ELEVATOR           DP OF FACILITIES                                  
+76-000LA               1,258   LOBBY              DP OF FACILITIES                                  
+76-000SA                 317   STAIRWAY           DP OF FACILITIES                                  
+76-000SAA                 59   STAIRWAY           DP OF FACILITIES                                  
+76-000SB                 341   STAIRWAY           DP OF FACILITIES                                  
+76-000SC                 335   STAIRWAY           DP OF FACILITIES                                  
+76-000SCA                112   CORRIDOR           DP OF FACILITIES                                  
+76-000Z                  337   SHAFT SPACE        DP OF FACILITIES                                  
+76-002                   298   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-019                   107   OFFICE SERVICE     DP OF FACIL ADM                                   
+76-034                   848   LABORATORY SVC     KOCH INS INT C R                                  
+76-034E                   48   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-036                   337   ANIMAL QUARTERS    KOCH INS INT C R                                  
+76-036A                  141   ANIMAL SERVICE     KOCH INS INT C R                                  
+76-036B                  185   ANIMAL QUARTERS    KOCH INS INT C R                                  
+76-037                   950   RESEARCH LAB       KOCH INS INT C R                                  
+76-037A                   43   LABORATORY SVC     KOCH INS INT C R                                  
+76-037B                  302   RESEARCH LAB       KOCH INS INT C R                                  
+76-037C                  129   RESEARCH LAB       KOCH INS INT C R                                  
+76-037D                  172   RESEARCH LAB       KOCH INS INT C R                                  
+76-037F                  158   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-041                   139   LABORATORY SVC     KOCH INS INT C R                                  
+76-041A                  221   LABORATORY SVC     KOCH INS INT C R                                  
+76-041B                  751   RESEARCH LAB       KOCH INS INT C R                                  
+76-041C                  110   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-043                   194   LABORATORY SVC     KOCH INS INT C R                                  
+76-043A                  110   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-043B                  746   RESEARCH LAB       KOCH INS INT C R                                  
+76-043C                  414   RESEARCH LAB       KOCH INS INT C R                                  
+76-043D                   36   LABORATORY SVC     KOCH INS INT C R                                  
+76-044                   162   ANIMAL SERVICE     KOCH INS INT C R                                  
+76-044A                   88   ANIMAL SERVICE     KOCH INS INT C R                                  
+76-044B                  115   ANIMAL SERVICE     KOCH INS INT C R                                  
+76-044C                  164   ANIMAL SERVICE     KOCH INS INT C R                                  
+76-044D                   43   ANIMAL RSCH LAB    KOCH INS INT C R                                  
+76-044F                   87   ANIMAL RSCH LAB    KOCH INS INT C R                                  
+76-044G                  580   ANIMAL QUARTERS    KOCH INS INT C R                                  
+76-044GA                 129   ANIMAL RSCH LAB    KOCH INS INT C R                                  
+76-044H                    6   ANIMAL SERVICE     KOCH INS INT C R                                  
+76-046                   182   LAB SUPPORT SHOP   KOCH INS INT C R                                  
+76-047                   216   OFFICE             KOCH INS INT C R                                  
+76-048                   157   MAIL ROOM          DP OF FACIL ADM                                   
+76-051                 7,084   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-051A                  146   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-051T                  239   TELECOM CLOSET     DP OF FACILITIES                                  
+76-052                   283   LABORATORY SVC     DP OF FACIL ADM                                   
+76-053                   157   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-053A                   86   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-053AE                  25   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-053E                3,710   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-054                   147   LABORATORY SVC     KOCH INS INT C R                                  
+76-056                   180   LABORATORY SVC     KOCH INS INT C R                                  
+76-058                    77   LABORATORY SVC     KOCH INS INT C R                                  
+76-060                   221   LABORATORY SVC     KOCH INS INT C R                                  
+76-061                   180   FEMALE LAVATORY    DP OF FACILITIES                                  
+76-061A                  208   NON-ATH LOCKR RM   DP OF FACIL ADM                                   
+76-062                   742   LABORATORY SVC     KOCH INS INT C R                                  
+76-062J                   55   JANITOR CLOSET     DP OF FACILITIES                                  
+76-063                   181   MALE LAVATORY      DP OF FACILITIES                                  
+76-063A                  217   NON-ATH LOCKR RM   DP OF FACIL ADM                                   
+76-065                   473   LABORATORY SVC     KOCH INS INT C R                                  
+76-068                 1,569   RECEIVING ROOM     DP OF FACIL ADM                                   
+76-068A                  146   LABORATORY SVC     ENV HLTH & SAFE                                   
+76-068AA                  13   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-068B                  144   LABORATORY SVC     ENV HLTH & SAFE                                   
+76-068C                  166   STORAGE FACILITY   DP OF FACIL ADM                                   
+76-068D                  289   STORAGE FACILITY   DP OF FACIL ADM                                   
+76-068F                  135   STORAGE FACILITY   DP OF FACIL ADM                                   
+76-068G                  222   JANITOR STORAGE    DP OF FACILITIES                                  
+76-068H                  190   LABORATORY SVC     ENV HLTH & SAFE                                   
+76-068K                  104   LABORATORY SVC     ENV HLTH & SAFE                                   
+76-068Z                  197   SHAFT SPACE        DP OF FACILITIES                                  
+76-073                   212   LABORATORY SVC     KOCH INS INT C R                                  
+76-073A                  196   LABORATORY SVC     KOCH INS INT C R                                  
+76-074                   429   LABORATORY SVC     KOCH INS INT C R                                  
+76-078                   711   LABORATORY SVC     KOCH INS INT C R                                  
+76-082                 1,862   LABORATORY SVC     KOCH INS INT C R                                  
+76-097                 6,209   RECEIVING ROOM     DP OF FACIL ADM                                   
+76-097A                  224   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-097B                  153   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-097C                   50   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-097D                   25   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      44,796                                                                        
+                                                                                                    
+76-100CA               2,429   EXHIBITION FACIL   KOCH INS INT C R                                  
+76-100CAA                223   LOBBY              DP OF FACILITIES                                  
+76-100CB               1,562   EXHIBITION FACIL   KOCH INS INT C R                                  
+76-100CBA                223   CORRIDOR           DP OF FACILITIES                                  
+76-100CBB              1,498   CORRIDOR           DP OF FACILITIES                                  
+76-100CBC                228   RECEIVING ROOM     DP OF FACIL ADM                                   
+76-100E1                  69   ELEVATOR           DP OF FACILITIES                                  
+76-100E2                  69   ELEVATOR           DP OF FACILITIES                                  
+76-100E3                  90   ELEVATOR           DP OF FACILITIES                                  
+76-100E4                  90   ELEVATOR           DP OF FACILITIES                                  
+76-100LA               3,789   LOBBY              DP OF FACILITIES                                  
+76-100LAA                157   LOBBY              DP OF FACILITIES                                  
+76-100LAB                146   LOBBY              DP OF FACILITIES                                  
+76-100SA                 459   STAIRWAY           DP OF FACILITIES                                  
+76-100SB                 302   STAIRWAY           DP OF FACILITIES                                  
+76-100SC                 434   STAIRWAY           DP OF FACILITIES                                  
+76-100Z                  386   SHAFT SPACE        DP OF FACILITIES                                  
+76-101                   715   PVT CIRCULATION    KOCH INS INT C R                                  
+76-101A                  168   PVT CIRCULATION    KOCH INS INT C R                                  
+76-102                   140   CONFERENCE ROOM    KOCH INS INT C R                                  
+76-102A                    9   OFFICE SERVICE     KOCH INS INT C R                                  
+76-103                   128   OFFICE             KOCH INS INT C R                                  
+76-104                    98   OFFICE             KOCH INS INT C R                                  
+76-106                    99   OFFICE             KOCH INS INT C R                                  
+76-107                   175   OFFICE             KOCH INS INT C R                                  
+76-108                    99   OFFICE             KOCH INS INT C R                                  
+76-109                   413   OFFICE             KOCH INS INT C R                                  
+76-110                    99   OFFICE             KOCH INS INT C R                                  
+76-111                   418   OFFICE             KOCH INS INT C R                                  
+76-112Z                   44   SHAFT SPACE        DP OF FACILITIES                                  
+76-114AE                  38   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-114E                  180   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-116                   385   OFFICE SERVICE     KOCH INS INT C R                                  
+76-116A                    8   OFFICE SERVICE     KOCH INS INT C R                                  
+76-122                   125   OFFICE             KOCH INS INT C R                                  
+76-124                    60   PVT CIRCULATION    KOCH INS INT C R                                  
+76-124A                   46   PVT LAVATORY       KOCH INS INT C R                                  
+76-124B                   46   PVT LAVATORY       KOCH INS INT C R                                  
+76-126T                  223   TELECOM CLOSET     DP OF FACILITIES                                  
+76-128                    94   OFFICE             KOCH INS INT C R                                  
+76-130                    94   OFFICE             KOCH INS INT C R                                  
+76-132                    71   OFFICE SERVICE     KOCH INS INT C R                                  
+76-132A                   78   OFFICE             KOCH INS INT C R                                  
+76-133                   418   OFFICE             KOCH INS INT C R                                  
+76-134                   148   OFFICE             KOCH INS INT C R                                  
+76-134A                   68   OFFICE SERVICE     KOCH INS INT C R                                  
+76-135                   188   OFFICE             KOCH INS INT C R                                  
+76-136                   148   OFFICE             KOCH INS INT C R                                  
+76-137                   175   OFFICE             KOCH INS INT C R                                  
+76-140                   127   OFFICE             KOCH INS INT C R                                  
+76-141                   362   OFFICE SERVICE     KOCH INS INT C R                                  
+76-141A                   49   SECY/RECEPTION     KOCH INS INT C R                                  
+76-141B                   49   SECY/RECEPTION     KOCH INS INT C R                                  
+76-143                   277   OFFICE             KOCH INS INT C R                                  
+76-143A                   20   OFFICE SERVICE     KOCH INS INT C R                                  
+76-144                   107   OFFICE             KOCH INS INT C R                                  
+76-145                   184   OFFICE             KOCH INS INT C R                                  
+76-145A                   11   OFFICE SERVICE     KOCH INS INT C R                                  
+76-146                   169   OFFICE SERVICE     KOCH INS INT C R                                  
+76-146A                   82   OFFICE SERVICE     KOCH INS INT C R                                  
+76-146B                   11   OFFICE SERVICE     KOCH INS INT C R                                  
+76-146C                   52   OFFICE SERVICE     KOCH INS INT C R                                  
+76-147                   135   OFFICE             KOCH INS INT C R                                  
+76-149                   126   OFFICE             KOCH INS INT C R                                  
+76-150                 1,685   FOOD FACILITY      CAMPUS DINING                                     
+76-151                    82   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-153                   102   PVT CIRCULATION    KOCH INS INT C R                                  
+76-153T                  158   TELECOM CLOSET     DP OF FACILITIES                                  
+76-153Z                   60   SHAFT SPACE        DP OF FACILITIES                                  
+76-154                   216   OFFICE SERVICE     KOCH INS INT C R                                  
+76-154A                   41   OFFICE SERVICE     KOCH INS INT C R                                  
+76-155                   297   MALE LAVATORY      DP OF FACILITIES                                  
+76-156                 1,554   CONFERENCE ROOM    KOCH INS INT C R                                  
+76-156A                  470   CONFERENCE ROOM    KOCH INS INT C R                                  
+76-156B                  486   CONFERENCE ROOM    KOCH INS INT C R                                  
+76-156C                  255   OFFICE SERVICE     KOCH INS INT C R                                  
+76-156D                   16   OFFICE SERVICE     KOCH INS INT C R                                  
+76-157                   297   FEMALE LAVATORY    DP OF FACILITIES                                  
+76-158                   762   OFFICE SERVICE     KOCH INS INT C R                                  
+76-158A                  148   CONFERENCE ROOM    KOCH INS INT C R                                  
+76-158B                   72   OFFICE SERVICE     KOCH INS INT C R                                  
+76-158C                  105   SECY/RECEPTION     KOCH INS INT C R                                  
+76-160                   341   FOOD FACIL SVC     CAMPUS DINING                                     
+76-160A                  222   FOOD FACIL SVC     CAMPUS DINING                                     
+76-160B                  249   FOOD FACIL SVC     CAMPUS DINING                                     
+76-166                   544   LABORATORY SVC     KOCH INS INT C R                                  
+76-168                   278   LABORATORY SVC     KOCH INS INT C R                                  
+76-169A                   82   FOOD FACIL SVC     CAMPUS DINING                                     
+76-169AE                  39   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-169C                  139   FOOD FACIL SVC     CAMPUS DINING                                     
+76-169CJ                  33   JANITOR CLOSET     DP OF FACILITIES                                  
+76-169E                  171   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-169J                   34   JANITOR CLOSET     DP OF FACILITIES                                  
+76-180                   106   LABORATORY SVC     KOCH INS INT C R                                  
+76-181                 1,171   RESEARCH LAB       KOCH INS INT C R                                  
+76-181A                  418   LABORATORY SVC     KOCH INS INT C R                                  
+76-181B                  106   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-182                   750   RESEARCH LAB       KOCH INS INT C R                                  
+76-182A                  101   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-184                    86   LABORATORY SVC     KOCH INS INT C R                                  
+76-185                   855   RESEARCH LAB       KOCH INS INT C R                                  
+76-185A                  250   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-186                    98   LABORATORY SVC     KOCH INS INT C R                                  
+76-188                   791   LABORATORY SVC     KOCH INS INT C R                                  
+76-188B                  117   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-189                   280   LABORATORY SVC     KOCH INS INT C R                                  
+76-189A                  120   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-189B                  138   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-189C                  124   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-189D                  112   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-190                   272   LABORATORY SVC     ENV HLTH & SAFE                                   
+76-191                   103   LABORATORY SVC     KOCH INS INT C R                                  
+76-194                    52   LABORATORY SVC     KOCH INS INT C R                                  
+76-194A                  111   LABORATORY SVC     KOCH INS INT C R                                  
+76-194Z                  273   SHAFT SPACE        DP OF FACILITIES                                  
+76-195                   103   LABORATORY SVC     KOCH INS INT C R                                  
+76-195A                  123   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-195B                  535   RESEARCH LAB       KOCH INS INT C R                                  
+76-195C                  147   LABORATORY SVC     KOCH INS INT C R                                  
+                    --------                                                                        
+                      35,397                                                                        
+                                                                                                    
+76-200CA               1,040   CORRIDOR           DP OF FACILITIES                                  
+76-200CAA                647   CORRIDOR           DP OF FACILITIES                                  
+76-200CAB                609   CORRIDOR           DP OF FACILITIES                                  
+76-200CAC                491   CORRIDOR           DP OF FACILITIES                                  
+76-200CB                 814   CORRIDOR           DP OF FACILITIES                                  
+76-200CBA                605   CORRIDOR           DP OF FACILITIES                                  
+76-200CBB                919   CORRIDOR           DP OF FACILITIES                                  
+76-200E1                  69   ELEVATOR           DP OF FACILITIES                                  
+76-200E2                  69   ELEVATOR           DP OF FACILITIES                                  
+76-200E3                  90   ELEVATOR           DP OF FACILITIES                                  
+76-200E4                  90   ELEVATOR           DP OF FACILITIES                                  
+76-200LA               1,468   LOBBY              DP OF FACILITIES                                  
+76-200SA                 414   STAIRWAY           DP OF FACILITIES                                  
+76-200SAA                 53   STAIRWAY           DP OF FACILITIES                                  
+76-200SB                 302   STAIRWAY           DP OF FACILITIES                                  
+76-200SC                 392   STAIRWAY           DP OF FACILITIES                                  
+76-200Z                  995   SHAFT SPACE        DP OF FACILITIES                                  
+76-203                   102   LABORATORY SVC     KOCH INS INT C R                                  
+76-204                    57   LABORATORY SVC     KOCH INS INT C R                                  
+76-206T                  162   TELECOM CLOSET     DP OF FACILITIES                                  
+76-208A                   18   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-210                   140   LABORATORY SVC     KOCH INS INT C R                                  
+76-210A                   11   LABORATORY SVC     KOCH INS INT C R                                  
+76-211                   572   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-212                   170   LABORATORY SVC     KOCH INS INT C R                                  
+76-212A                   13   LABORATORY SVC     KOCH INS INT C R                                  
+76-214                   139   LABORATORY SVC     KOCH INS INT C R                                  
+76-214A                    7   LABORATORY SVC     KOCH INS INT C R                                  
+76-216                    40   LABORATORY SVC     KOCH INS INT C R                                  
+76-217                 1,727   RESEARCH LAB       KOCH INS INT C R                                  
+76-217A                  184   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-220                   115   LABORATORY SVC     KOCH INS INT C R                                  
+76-221                 1,292   RESEARCH LAB       KOCH INS INT C R                                  
+76-221A                  300   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-221B                  265   LABORATORY SVC     KOCH INS INT C R                                  
+76-222                   222   RESEARCH LAB       KOCH INS INT C R                                  
+76-223                   846   LABORATORY SVC     KOCH INS INT C R                                  
+76-224                   115   LABORATORY SVC     KOCH INS INT C R                                  
+76-226                   101   LABORATORY SVC     KOCH INS INT C R                                  
+76-227                   596   LABORATORY SVC     KOCH INS INT C R                                  
+76-227A                  114   LABORATORY SVC     KOCH INS INT C R                                  
+76-230                   233   LABORATORY SVC     KOCH INS INT C R                                  
+76-231                 1,910   RESEARCH LAB       KOCH INS INT C R                                  
+76-232A                  273   RESEARCH LAB       KOCH INS INT C R                                  
+76-232B                  114   LABORATORY SVC     KOCH INS INT C R                                  
+76-232C                  109   LABORATORY SVC     KOCH INS INT C R                                  
+76-234AE                  17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-234E                  210   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-236                   741   RESEARCH LAB       KOCH INS INT C R                                  
+76-236A                   61   LABORATORY SVC     KOCH INS INT C R                                  
+76-238                   117   LABORATORY SVC     KOCH INS INT C R                                  
+76-239                    92   LABORATORY SVC     KOCH INS INT C R                                  
+76-241                 1,110   RESEARCH LAB       KOCH INS INT C R                                  
+76-242                   225   LABORATORY SVC     KOCH INS INT C R                                  
+76-243                 1,125   RESEARCH LAB       KOCH INS INT C R                                  
+76-244                   114   LABORATORY SVC     KOCH INS INT C R                                  
+76-246                   199   LABORATORY SVC     KOCH INS INT C R                                  
+76-251                   482   LABORATORY SVC     KOCH INS INT C R                                  
+76-251A                  170   LABORATORY SVC     KOCH INS INT C R                                  
+76-253                   334   OFFICE SERVICE     KOCH INS INT C R                                  
+76-253A                   14   OFFICE SERVICE     KOCH INS INT C R                                  
+76-253AA                  19   OFFICE SERVICE     KOCH INS INT C R                                  
+76-253B                   11   OFFICE SERVICE     KOCH INS INT C R                                  
+76-253C                  104   OFFICE             KOCH INS INT C R                                  
+76-253D                  207   OFFICE             KOCH INS INT C R                                  
+76-253F                  214   OFFICE             KOCH INS INT C R                                  
+76-253G                  209   OFFICE             KOCH INS INT C R                                  
+76-253H                   71   SECY/RECEPTION     KOCH INS INT C R                                  
+76-253K                   71   SECY/RECEPTION     KOCH INS INT C R                                  
+76-255                   217   MALE LAVATORY      DP OF FACILITIES                                  
+76-257                   228   FEMALE LAVATORY    DP OF FACILITIES                                  
+76-258                   235   CONFERENCE ROOM    KOCH INS INT C R                                  
+76-259                   693   CONFERENCE ROOM    KOCH INS INT C R                                  
+76-259A                   35   OFFICE SERVICE     KOCH INS INT C R                                  
+76-260                   275   LABORATORY SVC     KOCH INS INT C R                                  
+76-261                   644   OFFICE SERVICE     KOCH INS INT C R                                  
+76-261A                  209   OFFICE             KOCH INS INT C R                                  
+76-261B                  209   OFFICE             KOCH INS INT C R                                  
+76-261C                  209   OFFICE             KOCH INS INT C R                                  
+76-261D                  209   OFFICE             KOCH INS INT C R                                  
+76-261F                   91   OFFICE             KOCH INS INT C R                                  
+76-261G                   83   OFFICE SERVICE     KOCH INS INT C R                                  
+76-261H                   12   OFFICE SERVICE     KOCH INS INT C R                                  
+76-261HA                  69   SECY/RECEPTION     KOCH INS INT C R                                  
+76-261HB                  17   OFFICE SERVICE     KOCH INS INT C R                                  
+76-261K                   71   SECY/RECEPTION     KOCH INS INT C R                                  
+76-261L                   71   SECY/RECEPTION     KOCH INS INT C R                                  
+76-268                   138   LABORATORY SVC     KOCH INS INT C R                                  
+76-269A                   81   LABORATORY SVC     ENV HLTH & SAFE                                   
+76-270                   238   JANITOR STORAGE    DP OF FACILITIES                                  
+76-270A                   27   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-270AE                  18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-270E                  182   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-270J                   67   JANITOR CLOSET     DP OF FACILITIES                                  
+76-270T                  168   TELECOM CLOSET     DP OF FACILITIES                                  
+76-273                   791   RESEARCH LAB       KOCH INS INT C R                                  
+76-273A                  252   RESEARCH LAB       KOCH INS INT C R                                  
+76-273B                   98   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-279                   953   RESEARCH LAB       KOCH INS INT C R                                  
+76-279A                   83   LABORATORY SVC     KOCH INS INT C R                                  
+76-280                   296   LABORATORY SVC     KOCH INS INT C R                                  
+76-280A                   94   LABORATORY SVC     KOCH INS INT C R                                  
+76-280B                  197   LABORATORY SVC     KOCH INS INT C R                                  
+76-280C                   88   LABORATORY SVC     KOCH INS INT C R                                  
+76-280D                  148   LABORATORY SVC     KOCH INS INT C R                                  
+76-280F                  140   LABORATORY SVC     KOCH INS INT C R                                  
+76-281                   170   LABORATORY SVC     KOCH INS INT C R                                  
+76-281A                  128   LABORATORY SVC     KOCH INS INT C R                                  
+76-281B                  154   RESEARCH LAB       KOCH INS INT C R                                  
+76-281C                  104   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-281D                  134   LABORATORY SVC     KOCH INS INT C R                                  
+76-281F                   61   LABORATORY SVC     KOCH INS INT C R                                  
+76-281G                  133   LABORATORY SVC     KOCH INS INT C R                                  
+76-284                   237   LABORATORY SVC     KOCH INS INT C R                                  
+76-285                   255   LABORATORY SVC     KOCH INS INT C R                                  
+76-286                   233   LABORATORY SVC     KOCH INS INT C R                                  
+76-287                   530   RESEARCH LAB       KOCH INS INT C R                                  
+76-288                    50   LABORATORY SVC     KOCH INS INT C R                                  
+76-289                   560   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-290                    64   LABORATORY SVC     KOCH INS INT C R                                  
+76-291                 1,399   RESEARCH LAB       KOCH INS INT C R                                  
+76-292                   169   LABORATORY SVC     KOCH INS INT C R                                  
+                    --------                                                                        
+                      36,947                                                                        
+                                                                                                    
+76-300CA               1,081   CORRIDOR           DP OF FACILITIES                                  
+76-300CAA                725   CORRIDOR           DP OF FACILITIES                                  
+76-300CAB                602   CORRIDOR           DP OF FACILITIES                                  
+76-300CAC                493   CORRIDOR           DP OF FACILITIES                                  
+76-300CB               1,004   CORRIDOR           DP OF FACILITIES                                  
+76-300CBA                581   CORRIDOR           DP OF FACILITIES                                  
+76-300CBB                923   CORRIDOR           DP OF FACILITIES                                  
+76-300E1                  69   ELEVATOR           DP OF FACILITIES                                  
+76-300E2                  69   ELEVATOR           DP OF FACILITIES                                  
+76-300E3                  90   ELEVATOR           DP OF FACILITIES                                  
+76-300E4                  90   ELEVATOR           DP OF FACILITIES                                  
+76-300LA               1,269   LOBBY              DP OF FACILITIES                                  
+76-300SA                 388   STAIRWAY           DP OF FACILITIES                                  
+76-300SAA                 75   STAIRWAY           DP OF FACILITIES                                  
+76-300SB                 302   STAIRWAY           DP OF FACILITIES                                  
+76-300SC                 392   STAIRWAY           DP OF FACILITIES                                  
+76-300Z                1,003   SHAFT SPACE        DP OF FACILITIES                                  
+76-301                   809   RESEARCH LAB       KOCH INS INT C R                                  
+76-303                   103   LABORATORY SVC     KOCH INS INT C R                                  
+76-304                    52   LABORATORY SVC     KOCH INS INT C R                                  
+76-306T                  163   TELECOM CLOSET     DP OF FACILITIES                                  
+76-307                   804   RESEARCH LAB       KOCH INS INT C R                                  
+76-308A                   18   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-310                   243   RESEARCH LAB       KOCH INS INT C R                                  
+76-311                 1,056   RESEARCH LAB       KOCH INS INT C R                                  
+76-312                   170   LABORATORY SVC     KOCH INS INT C R                                  
+76-312A                   13   LABORATORY SVC     KOCH INS INT C R                                  
+76-314                   138   LABORATORY SVC     KOCH INS INT C R                                  
+76-314A                    6   LABORATORY SVC     KOCH INS INT C R                                  
+76-316                    36   LABORATORY SVC     KOCH INS INT C R                                  
+76-317                 1,112   RESEARCH LAB       KOCH INS INT C R                                  
+76-317A                  184   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-320                   107   LABORATORY SVC     KOCH INS INT C R                                  
+76-321                 1,068   RESEARCH LAB       KOCH INS INT C R                                  
+76-322                   111   LABORATORY SVC     KOCH INS INT C R                                  
+76-322A                  117   RESEARCH LAB       KOCH INS INT C R                                  
+76-323                   845   LABORATORY SVC     KOCH INS INT C R                                  
+76-324                   124   LABORATORY SVC     KOCH INS INT C R                                  
+76-327                   711   RESEARCH LAB       KOCH INS INT C R                                  
+76-330                   235   RESEARCH LAB       KOCH INS INT C R                                  
+76-331                 1,061   RESEARCH LAB       KOCH INS INT C R                                  
+76-332A                  276   LABORATORY SVC     KOCH INS INT C R                                  
+76-332B                  231   LABORATORY SVC     KOCH INS INT C R                                  
+76-334AE                  17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-334E                  209   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-336                   626   RESEARCH LAB       KOCH INS INT C R                                  
+76-338                   115   RESEARCH LAB       KOCH INS INT C R                                  
+76-339                    93   LABORATORY SVC     KOCH INS INT C R                                  
+76-340                   233   LABORATORY SVC     KOCH INS INT C R                                  
+76-341                 1,105   RESEARCH LAB       KOCH INS INT C R                                  
+76-342                   110   LABORATORY SVC     KOCH INS INT C R                                  
+76-343                 1,102   RESEARCH LAB       KOCH INS INT C R                                  
+76-344                   114   LABORATORY SVC     KOCH INS INT C R                                  
+76-346                   262   LABORATORY SVC     KOCH INS INT C R                                  
+76-351                   470   LABORATORY SVC     KOCH INS INT C R                                  
+76-351A                  170   LABORATORY SVC     KOCH INS INT C R                                  
+76-353                   353   OFFICE SERVICE     KOCH INS INT C R                                  
+76-353A                   14   OFFICE SERVICE     KOCH INS INT C R                                  
+76-353B                   11   OFFICE SERVICE     KOCH INS INT C R                                  
+76-353C                  105   OFFICE SERVICE     KOCH INS INT C R                                  
+76-353D                  201   OFFICE             KOCH INS INT C R                                  
+76-353F                  204   OFFICE             KOCH INS INT C R                                  
+76-353G                  200   OFFICE             KOCH INS INT C R                                  
+76-353H                   71   SECY/RECEPTION     KOCH INS INT C R                                  
+76-353K                   71   SECY/RECEPTION     KOCH INS INT C R                                  
+76-355                   217   MALE LAVATORY      DP OF FACILITIES                                  
+76-357                   228   FEMALE LAVATORY    DP OF FACILITIES                                  
+76-358                   235   CONFERENCE ROOM    KOCH INS INT C R                                  
+76-359                   693   CONFERENCE ROOM    KOCH INS INT C R                                  
+76-359A                   35   OFFICE SERVICE     KOCH INS INT C R                                  
+76-360                   276   LABORATORY SVC     KOCH INS INT C R                                  
+76-361                   641   OFFICE SERVICE     KOCH INS INT C R                                  
+76-361A                  197   OFFICE             KOCH INS INT C R                                  
+76-361B                  197   OFFICE             KOCH INS INT C R                                  
+76-361C                  197   OFFICE             KOCH INS INT C R                                  
+76-361D                  197   OFFICE             KOCH INS INT C R                                  
+76-361F                   91   OFFICE             KOCH INS INT C R                                  
+76-361G                   83   OFFICE SERVICE     KOCH INS INT C R                                  
+76-361H                   11   OFFICE SERVICE     KOCH INS INT C R                                  
+76-361HA                  17   OFFICE SERVICE     KOCH INS INT C R                                  
+76-361K                   71   SECY/RECEPTION     KOCH INS INT C R                                  
+76-361L                   71   SECY/RECEPTION     KOCH INS INT C R                                  
+76-361N                   72   SECY/RECEPTION     KOCH INS INT C R                                  
+76-367A                   81   LABORATORY SVC     ENV HLTH & SAFE                                   
+76-368                   138   LABORATORY SVC     KOCH INS INT C R                                  
+76-370                   214   JANITOR STORAGE    DP OF FACILITIES                                  
+76-370A                   82   LABORATORY SVC     KOCH INS INT C R                                  
+76-370AE                  18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-370B                   28   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-370E                  182   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-370J                   67   JANITOR CLOSET     DP OF FACILITIES                                  
+76-370T                  168   TELECOM CLOSET     DP OF FACILITIES                                  
+76-371                   814   RESEARCH LAB       KOCH INS INT C R                                  
+76-372                   150   LABORATORY SVC     KOCH INS INT C R                                  
+76-374                   254   LABORATORY SVC     KOCH INS INT C R                                  
+76-375                   811   RESEARCH LAB       KOCH INS INT C R                                  
+76-376                   116   LABORATORY SVC     KOCH INS INT C R                                  
+76-378                   160   LABORATORY SVC     KOCH INS INT C R                                  
+76-379                   569   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-380                    42   LABORATORY SVC     KOCH INS INT C R                                  
+76-381                   163   LABORATORY SVC     KOCH INS INT C R                                  
+76-382                   107   LABORATORY SVC     KOCH INS INT C R                                  
+76-384                   486   RESEARCH LAB       KOCH INS INT C R                                  
+76-387                 1,334   RESEARCH LAB       KOCH INS INT C R                                  
+76-388                   251   LABORATORY SVC     KOCH INS INT C R                                  
+76-389                   532   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-390                   141   LABORATORY SVC     KOCH INS INT C R                                  
+76-391                 1,374   RESEARCH LAB       KOCH INS INT C R                                  
+76-392                   200   LABORATORY SVC     KOCH INS INT C R                                  
+                    --------                                                                        
+                      36,817                                                                        
+                                                                                                    
+76-400CA               1,079   CORRIDOR           DP OF FACILITIES                                  
+76-400CAA                730   CORRIDOR           DP OF FACILITIES                                  
+76-400CAB                612   CORRIDOR           DP OF FACILITIES                                  
+76-400CAC                494   CORRIDOR           DP OF FACILITIES                                  
+76-400CB               1,060   CORRIDOR           DP OF FACILITIES                                  
+76-400CBA                584   CORRIDOR           DP OF FACILITIES                                  
+76-400CBB                924   CORRIDOR           DP OF FACILITIES                                  
+76-400E1                  69   ELEVATOR           DP OF FACILITIES                                  
+76-400E2                  69   ELEVATOR           DP OF FACILITIES                                  
+76-400E3                  90   ELEVATOR           DP OF FACILITIES                                  
+76-400E4                  90   ELEVATOR           DP OF FACILITIES                                  
+76-400LA               1,269   LOBBY              DP OF FACILITIES                                  
+76-400SA                 388   STAIRWAY           DP OF FACILITIES                                  
+76-400SAA                 75   STAIRWAY           DP OF FACILITIES                                  
+76-400SB                 302   STAIRWAY           DP OF FACILITIES                                  
+76-400SC                 392   STAIRWAY           DP OF FACILITIES                                  
+76-400Z                1,214   SHAFT SPACE        DP OF FACILITIES                                  
+76-401                   810   RESEARCH LAB       KOCH INS INT C R                                  
+76-403                   103   LABORATORY SVC     KOCH INS INT C R                                  
+76-404                    52   LABORATORY SVC     KOCH INS INT C R                                  
+76-406T                  162   TELECOM CLOSET     DP OF FACILITIES                                  
+76-407                   806   RESEARCH LAB       KOCH INS INT C R                                  
+76-408A                   18   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-410                   142   LABORATORY SVC     KOCH INS INT C R                                  
+76-410A                  101   LABORATORY SVC     KOCH INS INT C R                                  
+76-411                   531   RESEARCH LAB       KOCH INS INT C R                                  
+76-412                   170   LABORATORY SVC     KOCH INS INT C R                                  
+76-412A                   13   LABORATORY SVC     KOCH INS INT C R                                  
+76-413                   516   RESEARCH LAB       KOCH INS INT C R                                  
+76-414                   138   LABORATORY SVC     KOCH INS INT C R                                  
+76-414A                    7   LABORATORY SVC     KOCH INS INT C R                                  
+76-416                    40   LABORATORY SVC     KOCH INS INT C R                                  
+76-417                 1,114   RESEARCH LAB       KOCH INS INT C R                                  
+76-417A                  185   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-420                   107   LABORATORY SVC     KOCH INS INT C R                                  
+76-421                 1,068   RESEARCH LAB       KOCH INS INT C R                                  
+76-422A                  112   LABORATORY SVC     KOCH INS INT C R                                  
+76-422B                  117   LABORATORY SVC     KOCH INS INT C R                                  
+76-423                   850   LABORATORY SVC     KOCH INS INT C R                                  
+76-424                   113   LABORATORY SVC     KOCH INS INT C R                                  
+76-425                    37   LABORATORY SVC     KOCH INS INT C R                                  
+76-427                   495   RESEARCH LAB       KOCH INS INT C R                                  
+76-427A                  217   LABORATORY SVC     KOCH INS INT C R                                  
+76-430                   188   LABORATORY SVC     KOCH INS INT C R                                  
+76-431                 1,061   RESEARCH LAB       KOCH INS INT C R                                  
+76-432A                  273   LABORATORY SVC     KOCH INS INT C R                                  
+76-432B                  114   OFFICE             KOCH INS INT C R                                  
+76-432C                  110   LABORATORY SVC     KOCH INS INT C R                                  
+76-434AE                  17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-434E                  209   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-436                   728   RESEARCH LAB       KOCH INS INT C R                                  
+76-436A                   56   LABORATORY SVC     KOCH INS INT C R                                  
+76-438                   120   LABORATORY SVC     KOCH INS INT C R                                  
+76-439                    93   LABORATORY SVC     KOCH INS INT C R                                  
+76-440                    86   LABORATORY SVC     KOCH INS INT C R                                  
+76-441                 1,111   RESEARCH LAB       KOCH INS INT C R                                  
+76-442                   152   LABORATORY SVC     KOCH INS INT C R                                  
+76-443                 1,086   RESEARCH LAB       KOCH INS INT C R                                  
+76-444                   108   LABORATORY SVC     KOCH INS INT C R                                  
+76-446                   198   LABORATORY SVC     KOCH INS INT C R                                  
+76-451                   464   LABORATORY SVC     KOCH INS INT C R                                  
+76-451A                  170   LABORATORY SVC     KOCH INS INT C R                                  
+76-453                   353   OFFICE SERVICE     KOCH INS INT C R                                  
+76-453A                   14   OFFICE SERVICE     KOCH INS INT C R                                  
+76-453B                   11   OFFICE SERVICE     KOCH INS INT C R                                  
+76-453C                  105   OFFICE SERVICE     KOCH INS INT C R                                  
+76-453D                  198   OFFICE             KOCH INS INT C R                                  
+76-453F                  200   OFFICE             KOCH INS INT C R                                  
+76-453G                  197   OFFICE             KOCH INS INT C R                                  
+76-453H                   71   SECY/RECEPTION     KOCH INS INT C R                                  
+76-453K                   71   SECY/RECEPTION     KOCH INS INT C R                                  
+76-455                   217   MALE LAVATORY      DP OF FACILITIES                                  
+76-457                   228   FEMALE LAVATORY    DP OF FACILITIES                                  
+76-458                   242   CONFERENCE ROOM    KOCH INS INT C R                                  
+76-459                   693   CONFERENCE ROOM    KOCH INS INT C R                                  
+76-459A                   35   OFFICE SERVICE     KOCH INS INT C R                                  
+76-460                   275   LABORATORY SVC     KOCH INS INT C R                                  
+76-461                   642   OFFICE SERVICE     KOCH INS INT C R                                  
+76-461A                  197   OFFICE             KOCH INS INT C R                                  
+76-461B                  197   OFFICE             KOCH INS INT C R                                  
+76-461C                  197   OFFICE             KOCH INS INT C R                                  
+76-461D                  198   OFFICE             KOCH INS INT C R                                  
+76-461F                   91   OFFICE             KOCH INS INT C R                                  
+76-461G                   83   OFFICE SERVICE     KOCH INS INT C R                                  
+76-461H                   12   OFFICE SERVICE     KOCH INS INT C R                                  
+76-461HA                  17   OFFICE SERVICE     KOCH INS INT C R                                  
+76-461K                   71   SECY/RECEPTION     KOCH INS INT C R                                  
+76-461L                   71   SECY/RECEPTION     KOCH INS INT C R                                  
+76-461N                   72   SECY/RECEPTION     KOCH INS INT C R                                  
+76-468                   138   LABORATORY SVC     KOCH INS INT C R                                  
+76-469A                   81   LABORATORY SVC     ENV HLTH & SAFE                                   
+76-470                   214   JANITOR STORAGE    DP OF FACILITIES                                  
+76-470A                   82   LABORATORY SVC     KOCH INS INT C R                                  
+76-470AE                  18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-470B                   27   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-470E                  182   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-470J                   67   JANITOR CLOSET     DP OF FACILITIES                                  
+76-470T                  168   TELECOM CLOSET     DP OF FACILITIES                                  
+76-472                   151   RESEARCH LAB       KOCH INS INT C R                                  
+76-473                 1,617   RESEARCH LAB       KOCH INS INT C R                                  
+76-474                   254   LABORATORY SVC     KOCH INS INT C R                                  
+76-476                    84   LABORATORY SVC     KOCH INS INT C R                                  
+76-479                   543   RESEARCH LAB       KOCH INS INT C R                                  
+76-480                   158   OFFICE             KOCH INS INT C R                                  
+76-481                   213   RESEARCH LAB       KOCH INS INT C R                                  
+76-484                   627   RESEARCH LAB       KOCH INS INT C R                                  
+76-487                 1,277   RESEARCH LAB       KOCH INS INT C R                                  
+76-488                   252   LABORATORY SVC     KOCH INS INT C R                                  
+76-489                   533   OFFICE             KOCH INS INT C R                                  
+76-490                   141   LABORATORY SVC     KOCH INS INT C R                                  
+76-491                 1,376   RESEARCH LAB       KOCH INS INT C R                                  
+76-492                   200   LABORATORY SVC     KOCH INS INT C R                                  
+                    --------                                                                        
+                      36,967                                                                        
+                                                                                                    
+76-500CA               1,101   CORRIDOR           DP OF FACILITIES                                  
+76-500CAA                727   CORRIDOR           DP OF FACILITIES                                  
+76-500CAB                612   CORRIDOR           DP OF FACILITIES                                  
+76-500CAC                491   CORRIDOR           DP OF FACILITIES                                  
+76-500CB               1,009   CORRIDOR           DP OF FACILITIES                                  
+76-500CBA                517   CORRIDOR           DP OF FACILITIES                                  
+76-500CBB                987   CORRIDOR           DP OF FACILITIES                                  
+76-500E1                  69   ELEVATOR           DP OF FACILITIES                                  
+76-500E2                  69   ELEVATOR           DP OF FACILITIES                                  
+76-500E3                  90   ELEVATOR           DP OF FACILITIES                                  
+76-500E4                  90   ELEVATOR           DP OF FACILITIES                                  
+76-500LA               1,269   LOBBY              DP OF FACILITIES                                  
+76-500SA                 414   STAIRWAY           DP OF FACILITIES                                  
+76-500SAA                 53   STAIRWAY           DP OF FACILITIES                                  
+76-500SB                 302   STAIRWAY           DP OF FACILITIES                                  
+76-500SC                 392   STAIRWAY           DP OF FACILITIES                                  
+76-500Z                  997   SHAFT SPACE        DP OF FACILITIES                                  
+76-501                 1,082   RESEARCH LAB       KOCH INS INT C R                                  
+76-503                    78   LABORATORY SVC     KOCH INS INT C R                                  
+76-504                    52   LABORATORY SVC     KOCH INS INT C R                                  
+76-506T                  163   TELECOM CLOSET     DP OF FACILITIES                                  
+76-507                   804   RESEARCH LAB       KOCH INS INT C R                                  
+76-508A                   18   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-510                   140   LABORATORY SVC     KOCH INS INT C R                                  
+76-510A                   96   LABORATORY SVC     KOCH INS INT C R                                  
+76-511                 1,612   RESEARCH LAB       KOCH INS INT C R                                  
+76-512                   170   LABORATORY SVC     KOCH INS INT C R                                  
+76-512A                   13   LABORATORY SVC     KOCH INS INT C R                                  
+76-514                   138   LABORATORY SVC     KOCH INS INT C R                                  
+76-514A                    6   LABORATORY SVC     KOCH INS INT C R                                  
+76-516                    40   LABORATORY SVC     KOCH INS INT C R                                  
+76-517                   551   RESEARCH LAB       KOCH INS INT C R                                  
+76-517A                  185   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-520                   107   LABORATORY SVC     KOCH INS INT C R                                  
+76-521                   801   RESEARCH LAB       KOCH INS INT C R                                  
+76-522                   111   LABORATORY SVC     KOCH INS INT C R                                  
+76-522A                  117   RESEARCH LAB       KOCH INS INT C R                                  
+76-523                   844   LABORATORY SVC     KOCH INS INT C R                                  
+76-524                   123   LABORATORY SVC     KOCH INS INT C R                                  
+76-527                   494   LABORATORY SVC     KOCH INS INT C R                                  
+76-527A                  219   LABORATORY SVC     KOCH INS INT C R                                  
+76-528                    93   LABORATORY SVC     KOCH INS INT C R                                  
+76-530                   131   LABORATORY SVC     KOCH INS INT C R                                  
+76-531                 1,060   RESEARCH LAB       KOCH INS INT C R                                  
+76-532A                  274   LABORATORY SVC     KOCH INS INT C R                                  
+76-532B                  156   LABORATORY SVC     KOCH INS INT C R                                  
+76-532C                   67   LABORATORY SVC     KOCH INS INT C R                                  
+76-534AE                  17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-534E                  209   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-536                   625   LABORATORY SVC     KOCH INS INT C R                                  
+76-536A                   65   LABORATORY SVC     KOCH INS INT C R                                  
+76-538                   114   LABORATORY SVC     KOCH INS INT C R                                  
+76-539                    94   LABORATORY SVC     KOCH INS INT C R                                  
+76-541                 1,089   RESEARCH LAB       KOCH INS INT C R                                  
+76-542                   232   LABORATORY SVC     KOCH INS INT C R                                  
+76-543                 1,101   RESEARCH LAB       KOCH INS INT C R                                  
+76-544                   160   LABORATORY SVC     KOCH INS INT C R                                  
+76-546                   259   RESEARCH LAB       KOCH INS INT C R                                  
+76-551                   469   LABORATORY SVC     KOCH INS INT C R                                  
+76-551A                  170   LABORATORY SVC     KOCH INS INT C R                                  
+76-553                   353   OFFICE SERVICE     KOCH INS INT C R                                  
+76-553A                   14   OFFICE SERVICE     KOCH INS INT C R                                  
+76-553B                   11   OFFICE SERVICE     KOCH INS INT C R                                  
+76-553C                  105   OFFICE SERVICE     KOCH INS INT C R                                  
+76-553D                  201   OFFICE             KOCH INS INT C R                                  
+76-553F                  204   OFFICE             KOCH INS INT C R                                  
+76-553G                  200   OFFICE             KOCH INS INT C R                                  
+76-553H                   71   SECY/RECEPTION     KOCH INS INT C R                                  
+76-553K                   71   SECY/RECEPTION     KOCH INS INT C R                                  
+76-555                   217   MALE LAVATORY      DP OF FACILITIES                                  
+76-557                   228   FEMALE LAVATORY    DP OF FACILITIES                                  
+76-558                   242   CONFERENCE ROOM    KOCH INS INT C R                                  
+76-559                   693   CONFERENCE ROOM    KOCH INS INT C R                                  
+76-559A                   35   OFFICE SERVICE     KOCH INS INT C R                                  
+76-560                   276   LABORATORY SVC     KOCH INS INT C R                                  
+76-561                   641   OFFICE SERVICE     KOCH INS INT C R                                  
+76-561A                  197   OFFICE             KOCH INS INT C R                                  
+76-561B                  197   OFFICE             KOCH INS INT C R                                  
+76-561C                  197   OFFICE             KOCH INS INT C R                                  
+76-561D                  197   OFFICE             KOCH INS INT C R                                  
+76-561F                   91   OFFICE             KOCH INS INT C R                                  
+76-561G                   83   OFFICE SERVICE     KOCH INS INT C R                                  
+76-561H                   12   OFFICE SERVICE     KOCH INS INT C R                                  
+76-561HA                  17   OFFICE SERVICE     KOCH INS INT C R                                  
+76-561K                   71   SECY/RECEPTION     KOCH INS INT C R                                  
+76-561L                   71   SECY/RECEPTION     KOCH INS INT C R                                  
+76-561N                   72   SECY/RECEPTION     KOCH INS INT C R                                  
+76-568                   138   LABORATORY SVC     KOCH INS INT C R                                  
+76-569A                   78   LABORATORY SVC     ENV HLTH & SAFE                                   
+76-570                   214   JANITOR STORAGE    DP OF FACILITIES                                  
+76-570A                   82   LABORATORY SVC     KOCH INS INT C R                                  
+76-570AE                  18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-570B                   27   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-570E                  182   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-570J                   67   JANITOR CLOSET     DP OF FACILITIES                                  
+76-570T                  168   TELECOM CLOSET     DP OF FACILITIES                                  
+76-572                   150   LABORATORY SVC     KOCH INS INT C R                                  
+76-573                 1,643   RESEARCH LAB       KOCH INS INT C R                                  
+76-574                   255   RESEARCH LAB       KOCH INS INT C R                                  
+76-576                   116   LABORATORY SVC     KOCH INS INT C R                                  
+76-578                   157   LABORATORY SVC     KOCH INS INT C R                                  
+76-579                   569   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-580                    44   LABORATORY SVC     KOCH INS INT C R                                  
+76-581                   163   RESEARCH LAB       KOCH INS INT C R                                  
+76-582                   108   LABORATORY SVC     KOCH INS INT C R                                  
+76-584                   232   LABORATORY SVC     KOCH INS INT C R                                  
+76-586                   247   LABORATORY SVC     KOCH INS INT C R                                  
+76-587                 1,323   RESEARCH LAB       KOCH INS INT C R                                  
+76-588                   253   RESEARCH LAB       KOCH INS INT C R                                  
+76-589                   530   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-590                   141   LABORATORY SVC     KOCH INS INT C R                                  
+76-591                 1,376   RESEARCH LAB       KOCH INS INT C R                                  
+76-592                   200   LABORATORY SVC     KOCH INS INT C R                                  
+                    --------                                                                        
+                      36,783                                                                        
+                                                                                                    
+76-600CA               1,459   CORRIDOR           DP OF FACILITIES                                  
+76-600CAA                665   CORRIDOR           DP OF FACILITIES                                  
+76-600CAB              1,199   CORRIDOR           DP OF FACILITIES                                  
+76-600CAC                485   CORRIDOR           DP OF FACILITIES                                  
+76-600CB                 572   CORRIDOR           DP OF FACILITIES                                  
+76-600CBA                580   CORRIDOR           DP OF FACILITIES                                  
+76-600CBB                293   CORRIDOR           DP OF FACILITIES                                  
+76-600E1                  69   ELEVATOR           DP OF FACILITIES                                  
+76-600E2                  69   ELEVATOR           DP OF FACILITIES                                  
+76-600E3                  90   ELEVATOR           DP OF FACILITIES                                  
+76-600E4                  90   ELEVATOR           DP OF FACILITIES                                  
+76-600LA               1,267   LOBBY              DP OF FACILITIES                                  
+76-600SA                 414   STAIRWAY           DP OF FACILITIES                                  
+76-600SAA                 53   STAIRWAY           DP OF FACILITIES                                  
+76-600SB                 302   STAIRWAY           DP OF FACILITIES                                  
+76-600SC                 392   STAIRWAY           DP OF FACILITIES                                  
+76-600Z                1,154   SHAFT SPACE        DP OF FACILITIES                                  
+76-601                   829   RESEARCH LAB       KOCH INS INT C R                                  
+76-603                    86   LABORATORY SVC     KOCH INS INT C R                                  
+76-604                    24   LABORATORY SVC     KOCH INS INT C R                                  
+76-606T                  156   TELECOM CLOSET     DP OF FACILITIES                                  
+76-607                 1,099   RESEARCH LAB       KOCH INS INT C R                                  
+76-608A                   17   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-610                   237   LABORATORY SVC     KOCH INS INT C R                                  
+76-610A                   12   LABORATORY SVC     KOCH INS INT C R                                  
+76-611                 1,113   RESEARCH LAB       KOCH INS INT C R                                  
+76-612                   161   OFFICE             KOCH INS INT C R                                  
+76-614                   153   LABORATORY SVC     KOCH INS INT C R                                  
+76-614A                    6   LABORATORY SVC     KOCH INS INT C R                                  
+76-616                    37   LABORATORY SVC     KOCH INS INT C R                                  
+76-617                 1,141   RESEARCH LAB       KOCH INS INT C R                                  
+76-617A                  184   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-620                   107   LABORATORY SVC     KOCH INS INT C R                                  
+76-621                 1,073   RESEARCH LAB       KOCH INS INT C R                                  
+76-622                   127   OFFICE             KOCH INS INT C R                                  
+76-624                   264   RESEARCH LAB       KOCH INS INT C R                                  
+76-625                   844   LABORATORY SVC     KOCH INS INT C R                                  
+76-631                   813   RESEARCH LAB       KOCH INS INT C R                                  
+76-632A                  198   OFFICE             KOCH INS INT C R                                  
+76-632AE                  15   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-632B                  198   OFFICE             KOCH INS INT C R                                  
+76-632E                  168   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-633                   488   RESEARCH LAB       KOCH INS INT C R                                  
+76-634                   764   LABORATORY SVC     KOCH INS INT C R                                  
+76-635                   224   OFFICE             KOCH INS INT C R                                  
+76-637                   229   OFFICE             KOCH INS INT C R                                  
+76-638                   373   LABORATORY SVC     KOCH INS INT C R                                  
+76-639                    95   LABORATORY SVC     KOCH INS INT C R                                  
+76-641                 1,124   RESEARCH LAB       KOCH INS INT C R                                  
+76-642                   159   OFFICE             KOCH INS INT C R                                  
+76-643                   835   RESEARCH LAB       KOCH INS INT C R                                  
+76-644                   160   LABORATORY SVC     KOCH INS INT C R                                  
+76-646                   171   OFFICE             KOCH INS INT C R                                  
+76-651                   469   LABORATORY SVC     KOCH INS INT C R                                  
+76-651A                  170   LABORATORY SVC     KOCH INS INT C R                                  
+76-653                   353   OFFICE SERVICE     KOCH INS INT C R                                  
+76-653A                   14   OFFICE SERVICE     KOCH INS INT C R                                  
+76-653B                   11   OFFICE SERVICE     KOCH INS INT C R                                  
+76-653C                  104   OFFICE SERVICE     KOCH INS INT C R                                  
+76-653D                  201   OFFICE             KOCH INS INT C R                                  
+76-653F                  204   OFFICE             KOCH INS INT C R                                  
+76-653G                  200   OFFICE             KOCH INS INT C R                                  
+76-653H                   71   SECY/RECEPTION     KOCH INS INT C R                                  
+76-653K                   71   SECY/RECEPTION     KOCH INS INT C R                                  
+76-655                   217   MALE LAVATORY      DP OF FACILITIES                                  
+76-657                   228   FEMALE LAVATORY    DP OF FACILITIES                                  
+76-658                   235   CONFERENCE ROOM    KOCH INS INT C R                                  
+76-659                   693   CONFERENCE ROOM    KOCH INS INT C R                                  
+76-659A                   35   OFFICE SERVICE     KOCH INS INT C R                                  
+76-660                   278   CONFERENCE ROOM    KOCH INS INT C R                                  
+76-661                   551   OFFICE SERVICE     KOCH INS INT C R                                  
+76-661A                  102   OFFICE SERVICE     KOCH INS INT C R                                  
+76-661B                  169   OFFICE             KOCH INS INT C R                                  
+76-661C                  162   OFFICE             KOCH INS INT C R                                  
+76-661D                  163   OFFICE             KOCH INS INT C R                                  
+76-661F                  163   OFFICE             KOCH INS INT C R                                  
+76-661G                  276   OFFICE             KOCH INS INT C R                                  
+76-661H                  180   OFFICE SERVICE     KOCH INS INT C R                                  
+76-661HA                  19   OFFICE SERVICE     KOCH INS INT C R                                  
+76-661K                   12   OFFICE SERVICE     KOCH INS INT C R                                  
+76-661L                  111   SECY/RECEPTION     KOCH INS INT C R                                  
+76-661N                   55   SECY/RECEPTION     KOCH INS INT C R                                  
+76-661NA                  55   SECY/RECEPTION     KOCH INS INT C R                                  
+76-661P                   56   SECY/RECEPTION     KOCH INS INT C R                                  
+76-661Q                   56   SECY/RECEPTION     KOCH INS INT C R                                  
+76-668                   138   LABORATORY SVC     KOCH INS INT C R                                  
+76-669A                   78   LABORATORY SVC     ENV HLTH & SAFE                                   
+76-670                   214   JANITOR STORAGE    DP OF FACILITIES                                  
+76-670AE                  18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-670B                   27   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-670E                  182   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-670J                   67   JANITOR CLOSET     DP OF FACILITIES                                  
+76-670T                  168   TELECOM CLOSET     DP OF FACILITIES                                  
+76-672                   239   RESEARCH LAB       KOCH INS INT C R                                  
+76-673                 1,645   RESEARCH LAB       KOCH INS INT C R                                  
+76-674                   255   LABORATORY SVC     KOCH INS INT C R                                  
+76-676                   115   LAB SUPPORT SHOP   KOCH INS INT C R                                  
+76-678                   160   RESEARCH LAB       KOCH INS INT C R                                  
+76-679                   569   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-680                    45   LABORATORY SVC     KOCH INS INT C R                                  
+76-681                   161   RESEARCH LAB       KOCH INS INT C R                                  
+76-682                   108   LABORATORY SVC     KOCH INS INT C R                                  
+76-684                   484   LABORATORY SVC     KOCH INS INT C R                                  
+76-687                 1,622   RESEARCH LAB       KOCH INS INT C R                                  
+76-687A                  250   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-688                   245   LABORATORY SVC     KOCH INS INT C R                                  
+76-690                   142   LABORATORY SVC     KOCH INS INT C R                                  
+76-691                 1,117   RESEARCH LAB       KOCH INS INT C R                                  
+76-692                   193   LABORATORY SVC     KOCH INS INT C R                                  
+76-694                   234   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+                    --------                                                                        
+                      36,997                                                                        
+                                                                                                    
+76-700                   149   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-700A                   56   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-700CB               2,234   CORRIDOR           DP OF FACILITIES                                  
+76-700CBA                780   CORRIDOR           DP OF FACILITIES                                  
+76-700CBB              1,024   CORRIDOR           DP OF FACILITIES                                  
+76-700E3                  90   ELEVATOR           DP OF FACILITIES                                  
+76-700E4                  90   ELEVATOR           DP OF FACILITIES                                  
+76-700SA                 407   STAIRWAY           DP OF FACILITIES                                  
+76-700SAA                 34   STAIRWAY           DP OF FACILITIES                                  
+76-700SC                 400   STAIRWAY           DP OF FACILITIES                                  
+76-700SCA                 56   STAIRWAY           DP OF FACILITIES                                  
+76-700Z                2,109   SHAFT SPACE        DP OF FACILITIES                                  
+76-701                    90   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-701T                  123   TELECOM CLOSET     DP OF FACILITIES                                  
+76-703                   253   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-703A                  409   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-703B                  407   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-703C                  260   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+76-703D                  624   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-703F                  393   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-703J                   36   JANITOR CLOSET     DP OF FACILITIES                                  
+76-710                   807   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-710A                   58   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-710B                   58   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-710C                   48   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-710D                   58   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-710F                   48   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-710G                  112   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+76-710H                   72   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-710K                   54   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-710L                  161   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+76-710N                   79   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-710P                   47   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-710Q                   48   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-710R                   48   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-710S                   48   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-710U                   48   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-710V                   47   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-720                   529   ANIMAL SERVICE     KOCH INS INT C R                                  
+76-720A                  111   ANIMAL RSCH LAB    KOCH INS INT C R                                  
+76-720B                  140   ANIMAL RSCH LAB    KOCH INS INT C R                                  
+76-720C                  116   ANIMAL RSCH LAB    KOCH INS INT C R                                  
+76-720CA                 170   ANIMAL RSCH LAB    KOCH INS INT C R                                  
+76-720D                   60   ANIMAL SERVICE     KOCH INS INT C R                                  
+76-720F                   55   ANIMAL SERVICE     KOCH INS INT C R                                  
+76-720G                   60   ANIMAL SERVICE     KOCH INS INT C R                                  
+76-720H                  212   ANIMAL RSCH LAB    KOCH INS INT C R                                  
+76-720K                  122   RSCH LAB-OFFICE    KOCH INS INT C R                                  
+76-720L                   59   ANIMAL SERVICE     KOCH INS INT C R                                  
+76-720N                  206   ANIMAL RSCH LAB    KOCH INS INT C R                                  
+76-730                   559   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-730A                   48   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-730B                   48   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-730C                   52   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-730D                  122   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+76-730F                   47   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-730G                   60   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-730H                   47   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-730K                   47   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-730L                   47   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-730N                   54   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-731                   253   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-731A                  409   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-731B                  409   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-731C                  260   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+76-731D                  252   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+76-731F                  396   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-731G                  409   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-731J                   36   JANITOR CLOSET     DP OF FACILITIES                                  
+76-740                   822   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-740A                  135   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+76-740B                   81   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-740C                   76   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-740D                   76   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-740F                   52   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-740G                   52   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-740H                   52   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-740K                   52   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-740L                   52   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-740N                   52   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-740P                   77   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-740Q                  132   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+76-750                   284   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-750A                   58   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+76-750B                   48   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-750C                   48   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-750D                   48   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-750F                   48   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-750G                   48   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-750H                   48   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-751                   253   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-751A                  271   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-751B                  408   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-751C                  501   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-751D                   67   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-751F                  253   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+76-751G                  399   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-751H                  409   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-752                   620   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-753T                  151   TELECOM CLOSET     DP OF FACILITIES                                  
+76-755                   112   OFFICE             DIV OF COMP MED                                   
+76-756                   361   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-757                   253   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-757A                  409   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-757B                  397   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-757C                  258   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+76-757D                   61   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-757F                  501   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-757G                  408   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-758                   110   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-764                   180   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-764A                  168   UTILITY/MECH RM    DP OF FACILITIES                                  
+76-766                   279   OFFICE             DIV OF COMP MED                                   
+76-766A                  240   OFFICE             DIV OF COMP MED                                   
+76-766B                  144   OFFICE             DIV OF COMP MED                                   
+76-766C                  144   OFFICE             DIV OF COMP MED                                   
+76-768                   385   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-768A                  174   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-770                   215   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-770A                  219   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-770B                  219   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-770C                  126   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+76-770J                   89   JANITOR CLOSET     DP OF FACILITIES                                  
+76-773                   122   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-774AE                  16   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-774E                  226   ELECTRIC CLOSET    DP OF FACILITIES                                  
+76-777                   125   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-777A                  270   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+76-777B                  492   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-777C                  260   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-777D                  404   ANIMAL QUARTERS    DIV OF COMP MED                                   
+76-777J                   36   JANITOR CLOSET     DP OF FACILITIES                                  
+76-779                 1,217   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-780                   108   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-782                   217   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+76-783                 1,186   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-786                   182   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+76-791                   441   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-793                   241   ANIMAL SERVICE     DIV OF COMP MED                                   
+76-795                   320   ANIMAL SERVICE     DIV OF COMP MED 

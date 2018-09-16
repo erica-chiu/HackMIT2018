@@ -1,0 +1,40 @@
+NE46-601               1,174   PVT CIRCULATION    PHYSICS                BIOPHYSICS                 
+NE46-603                 169   CONFERENCE ROOM    PHYSICS                BIOPHYSICS                 
+NE46-604                  42   SECY/RECEPTION     PHYSICS                BIOPHYSICS                 
+NE46-604A                 11   OFFICE SERVICE     PHYSICS                BIOPHYSICS                 
+NE46-604B                 42   SECY/RECEPTION     PHYSICS                                           
+NE46-604C                 34   OFFICE SERVICE     PHYSICS                                           
+NE46-605                 169   OFFICE             PHYSICS                BIOPHYSICS                 
+NE46-606                 132   OFFICE             PHYSICS                BIOPHYSICS                 
+NE46-607                 169   OFFICE             PHYSICS                BIOPHYSICS                 
+NE46-608                 132   OFFICE             PHYSICS                BIOPHYSICS                 
+NE46-609                 169   OFFICE             PHYSICS                BIOPHYSICS                 
+NE46-610                 132   OFFICE             PHYSICS                BIOPHYSICS                 
+NE46-611                 169   OFFICE             PHYSICS                BIOPHYSICS                 
+NE46-612                 132   OFFICE             PHYSICS                BIOPHYSICS                 
+NE46-613                 169   OFFICE             PHYSICS                BIOPHYSICS                 
+NE46-614                 134   OFFICE             PHYSICS                BIOPHYSICS                 
+NE46-615                 185   OFFICE             PHYSICS                BIOPHYSICS                 
+NE46-616                  25   OFFICE SERVICE     PHYSICS                                           
+NE46-617                 230   OFFICE SERVICE     PHYSICS                BIOPHYSICS                 
+NE46-621                 126   OFFICE             PHYSICS                BIOPHYSICS                 
+NE46-622                 132   OFFICE             PHYSICS                BIOPHYSICS                 
+NE46-623                 110   OFFICE             PHYSICS                BIOPHYSICS                 
+NE46-625                 126   OFFICE             PHYSICS                BIOPHYSICS                 
+NE46-627                 167   OFFICE             PHYSICS                BIOPHYSICS                 
+NE46-629                 187   OFFICE             PHYSICS                BIOPHYSICS                 
+NE46-630                 238   CONFERENCE ROOM    PHYSICS                BIOPHYSICS                 
+NE46-631                 106   OFFICE             PHYSICS                BIOPHYSICS                 
+NE46-631A                141   OFFICE SERVICE     PHYSICS                BIOPHYSICS                 
+NE46-633                 105   OFFICE             PHYSICS                BIOPHYSICS                 
+NE46-636               2,253   RESEARCH LAB       PHYSICS                BIOPHYSICS                 
+NE46-636A                 74   RESEARCH LAB       PHYSICS                BIOPHYSICS                 
+NE46-636AE                30   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NE46-636B                118   LABORATORY SVC     PHYSICS                BIOPHYSICS                 
+NE46-636D                 47   LABORATORY SVC     PHYSICS                BIOPHYSICS                 
+NE46-636E                102   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NE46-636G                 91   LABORATORY SVC     PHYSICS                BIOPHYSICS                 
+NE46-636H                 91   LABORATORY SVC     PHYSICS                BIOPHYSICS                 
+NE46-636K                235   LABORATORY SVC     PHYSICS                BIOPHYSICS                 
+NE46-636N                218   LABORATORY SVC     PHYSICS                                           
+NE46-636T                107   TELECOM CLOSET     DP OF FACILITIES                 

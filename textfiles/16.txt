@@ -1,0 +1,453 @@
+16-000CA               1,344   CORRIDOR           DP OF FACILITIES                                  
+16-000CB                 510   CORRIDOR           DP OF FACILITIES                                  
+16-000E1                  61   ELEVATOR           DP OF FACILITIES                                  
+16-000E2                  60   ELEVATOR           DP OF FACILITIES                                  
+16-000E3                  71   ELEVATOR           DP OF FACILITIES                                  
+16-000LA               1,491   LOBBY              DP OF FACILITIES                                  
+16-000LB                 249   LOBBY              DP OF FACILITIES                                  
+16-000SA                 218   STAIRWAY           DP OF FACILITIES                                  
+16-000Z                  564   SHAFT SPACE        DP OF FACILITIES                                  
+16-001                    41   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-003                    73   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-003E                   16   ELECTRIC CLOSET    DP OF FACILITIES                                  
+16-004T                   63   TELECOM CLOSET     DP OF FACILITIES                                  
+16-005                   195   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-006                   205   STORAGE FACILITY   DP OF FACIL ADM                                   
+16-007                   132   STORAGE FACILITY   DP OF FACIL ADM                                   
+16-016                   114   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-019                   130   LABORATORY SVC     ENV HLTH & SAFE                                   
+16-025                   290   RESEARCH LAB       ENV HLTH & SAFE                                   
+16-028                 4,386   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-028A                  598   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-029                   246   RESEARCH LAB       ENV HLTH & SAFE                                   
+16-039                   121   LABORATORY SVC     ENV HLTH & SAFE                                   
+16-041                   138   RESEARCH LAB       BIOENG DEPT            BIOTEC                     
+16-047                   132   RESEARCH LAB       BIOENG DEPT            BIOTEC                     
+16-051                   272   OFFICE SERVICE     DP OF FACIL ADM                                   
+16-059                   140   LABORATORY SVC     TERRASCOPE                                        
+16-065                   286   OFFICE SERVICE     DP OF FACIL ADM                                   
+16-079                   724   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      12,871                                                                        
+                                                                                                    
+16-100CA               1,446   CORRIDOR           DP OF FACILITIES                                  
+16-100E1                  64   ELEVATOR           DP OF FACILITIES                                  
+16-100E2                  63   ELEVATOR           DP OF FACILITIES                                  
+16-100E3                  79   ELEVATOR           DP OF FACILITIES                                  
+16-100LA               1,680   LOBBY              DP OF FACILITIES                                  
+16-100LB                  81   LOBBY              DP OF FACILITIES                                  
+16-100LD                 134   LOBBY              DP OF FACILITIES                                  
+16-100SA                 217   STAIRWAY           DP OF FACILITIES                                  
+16-100SB                 493   STAIRWAY           DP OF FACILITIES                                  
+16-100Z                  356   SHAFT SPACE        DP OF FACILITIES                                  
+16-104T                   29   TELECOM CLOSET     DP OF FACILITIES                                  
+16-110                   286   MERCHAND FACIL     CAMPUS DINING                                     
+16-127                   125   OFFICE             CONCOURSE                                         
+16-128                   926   CLASSROOM SVC      CONCOURSE                                         
+16-129                   137   OFFICE             CONCOURSE                                         
+16-135                   146   OFFICE             CONCOURSE                                         
+16-136                   554   CLASSROOM SVC      CONCOURSE                                         
+16-136A                  102   CLASSROOM SVC      CONCOURSE                                         
+16-136B                   88   CLASSROOM SVC      CONCOURSE                                         
+16-137                   146   OFFICE             CONCOURSE                                         
+16-151                    68   OFFICE SERVICE     PROVOST RESERVE                                   
+16-151A                  103   OFFICE             PROVOST RESERVE                                   
+16-151B                  104   OFFICE             PROVOST RESERVE                                   
+16-151C                    9   OFFICE SERVICE     PROVOST RESERVE                                   
+16-159                   101   OFFICE SERVICE     OFF OF MINR EDUC                                  
+16-159A                   57   OFFICE SERVICE     OFF OF MINR EDUC                                  
+16-159B                   89   OFFICE SERVICE     OFF OF MINR EDUC                                  
+16-159C                  102   OFFICE SERVICE     OFF OF MINR EDUC                                  
+16-159D                  294   OFFICE SERVICE     OFF OF MINR EDUC                                  
+16-160                 1,057   CLASSROOM          REGISTRAR                                         
+16-168                   745   CLASSROOM          TERRASCOPE                                        
+16-168A                   16   CLASSROOM SVC      TERRASCOPE                                        
+16-168B                   15   CLASSROOM SVC      TERRASCOPE                                        
+16-168C                  120   CLASSROOM SVC      TERRASCOPE                                        
+16-168CA                 126   CLASSROOM SVC      TERRASCOPE                                        
+16-176                   154   CLASSROOM SVC      TERRASCOPE                                        
+16-177                   240   OFFICE SERVICE     TERRASCOPE             ESI/TERR                   
+16-177A                  165   OFFICE             TERRASCOPE             ESI/TERR                   
+16-177B                  117   OFFICE             TERRASCOPE             ESI/TERR                   
+16-177C                  168   OFFICE             TERRASCOPE             ESI/TERR                   
+16-177D                    9   OFFICE SERVICE     TERRASCOPE             ESI/TERR                   
+16-186                   207   MALE LAVATORY      DP OF FACILITIES                                  
+16-188                   207   FEMALE LAVATORY    DP OF FACILITIES                                  
+                    --------                                                                        
+                      11,424                                                                        
+                                                                                                    
+16-200CA               1,225   CORRIDOR           DP OF FACILITIES                                  
+16-200E1                  64   ELEVATOR           DP OF FACILITIES                                  
+16-200E2                  53   ELEVATOR           DP OF FACILITIES                                  
+16-200E3                  70   ELEVATOR           DP OF FACILITIES                                  
+16-200LA               1,265   LOBBY              DP OF FACILITIES                                  
+16-200LB                  81   LOBBY              DP OF FACILITIES                                  
+16-200SA                 212   STAIRWAY           DP OF FACILITIES                                  
+16-200SB                 476   STAIRWAY           DP OF FACILITIES                                  
+16-200Z                  476   SHAFT SPACE        DP OF FACILITIES                                  
+16-204T                   33   TELECOM CLOSET     DP OF FACILITIES                                  
+16-205                    16   EXHIBITION FACIL   MATS SCI & ENG                                    
+16-206                   285   OFFICE             MATS SCI & ENG                                    
+16-207                    14   EXHIBITION FACIL   MATS SCI & ENG                                    
+16-214                    22   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-220                   975   CLASSROOM          BIOENG DEPT                                       
+16-223                   153   OFFICE             BIOENG DEPT                                       
+16-223B                  131   OFFICE             BIOENG DEPT                                       
+16-225                   160   OFFICE             BIOENG DEPT                                       
+16-231                   160   OFFICE             BIOENG DEPT                                       
+16-233                   160   OFFICE             BIOENG DEPT                                       
+16-236                   485   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+16-239                   160   OFFICE             BIOENG DEPT                                       
+16-241                    72   OFFICE SERVICE     BIOENG DEPT            ANTHROPOLOGY               
+16-241A                  174   OFFICE             BIOENG DEPT            ANTHROPOLOGY               
+16-244                   350   OFFICE SERVICE     BIOENG DEPT                                       
+16-244A                  186   OFFICE             BIOENG DEPT                                       
+16-244B                  156   OFFICE             BIOENG DEPT                                       
+16-244C                   45   OFFICE SERVICE     BIOENG DEPT                                       
+16-244D                   45   OFFICE SERVICE     BIOENG DEPT                                       
+16-249                   120   OFFICE             BIOENG DEPT            ANTHROPOLOGY               
+16-249A                   26   OFFICE SERVICE     BIOENG DEPT                                       
+16-252                    14   LABORATORY SVC     BIOENG DEPT                                       
+16-255                    72   OFFICE SERVICE     BIOENG DEPT            ANTHROPOLOGY               
+16-255A                  174   OFFICE             BIOENG DEPT            ANTHROPOLOGY               
+16-257                   160   OFFICE             BIOENG DEPT                                       
+16-260                    14   LABORATORY SVC     BIOENG DEPT                                       
+16-267                   180   OFFICE SERVICE     BIOENG DEPT            ANTHROPOLOGY               
+16-267A                   72   SECY/RECEPTION     BIOENG DEPT            ANTHROPOLOGY               
+16-267B                   72   SECY/RECEPTION     BIOENG DEPT            ANTHROPOLOGY               
+16-267C                  160   OFFICE             BIOENG DEPT            ANTHROPOLOGY               
+16-275                   335   CONFERENCE ROOM    BIOENG DEPT            ANTHROPOLOGY               
+16-276                 1,436   RESEARCH LAB       BIOENG DEPT                                       
+16-276A                   13   LABORATORY SVC     BIOENG DEPT                                       
+16-276AA                   9   LABORATORY SVC     BIOENG DEPT                                       
+16-276B                   90   RESEARCH LAB       BIOENG DEPT                                       
+16-276C                  108   RESEARCH LAB       BIOENG DEPT                                       
+16-284                    21   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-285                    25   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-286                   164   MALE LAVATORY      DP OF FACILITIES                                  
+16-287                   209   OFFICE             BIOENG DEPT                                       
+16-288                   172   FEMALE LAVATORY    DP OF FACILITIES                                  
+                    --------                                                                        
+                      11,349                                                                        
+                                                                                                    
+16-300CA               1,226   CORRIDOR           DP OF FACILITIES                                  
+16-300E1                  62   ELEVATOR           DP OF FACILITIES                                  
+16-300E2                  53   ELEVATOR           DP OF FACILITIES                                  
+16-300E3                  70   ELEVATOR           DP OF FACILITIES                                  
+16-300LA               1,312   LOBBY              DP OF FACILITIES                                  
+16-300LB                  81   LOBBY              DP OF FACILITIES                                  
+16-300SA                 216   STAIRWAY           DP OF FACILITIES                                  
+16-300SB                 499   STAIRWAY           DP OF FACILITIES                                  
+16-300Z                  483   SHAFT SPACE        DP OF FACILITIES                                  
+16-304T                   34   TELECOM CLOSET     DP OF FACILITIES                                  
+16-306                   293   RESEARCH LAB       BIOENG DEPT                                       
+16-314                    23   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-317                   134   OFFICE             BIOENG DEPT                                       
+16-318                   424   RESEARCH LAB       BIOENG DEPT                                       
+16-319                   150   OFFICE             BIOENG DEPT                                       
+16-325                   143   OFFICE             BIOENG DEPT                                       
+16-328                   421   RESEARCH LAB       BIOENG DEPT                                       
+16-328A                  120   RESEARCH LAB       BIOENG DEPT                                       
+16-336                   481   CLASSROOM          BIOENG DEPT                                       
+16-339                   501   CONFERENCE ROOM    BIOENG DEPT                                       
+16-343                   305   OFFICE SERVICE     BIOENG DEPT                                       
+16-343A                   82   SECY/RECEPTION     BIOENG DEPT                                       
+16-343B                   24   OFFICE SERVICE     BIOENG DEPT                                       
+16-351                    74   LABORATORY SVC     BIOENG DEPT                                       
+16-352                 1,308   TEACHING LAB       BIOENG DEPT                                       
+16-352A                  167   TEACHING LAB       BIOENG DEPT                                       
+16-360                     9   LABORATORY SVC     BIOENG DEPT                                       
+16-361                   326   OFFICE             BIOENG DEPT                                       
+16-367                   299   RESEARCH LAB       BIOENG DEPT                                       
+16-367A                  186   RESEARCH LAB       BIOENG DEPT                                       
+16-367B                  200   RESEARCH LAB       BIOENG DEPT                                       
+16-368                     9   LABORATORY SVC     BIOENG DEPT                                       
+16-378                   981   RESEARCH LAB       BIOENG DEPT                                       
+16-384                    21   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-385                    15   LABORATORY SVC     BIOENG DEPT                                       
+16-386                   165   MALE LAVATORY      DP OF FACILITIES                                  
+16-387                   336   OFFICE             BIOENG DEPT                                       
+16-388                   190   FEMALE LAVATORY    DP OF FACILITIES                                  
+                    --------                                                                        
+                      11,420                                                                        
+                                                                                                    
+16-400CA               1,194   CORRIDOR           DP OF FACILITIES                                  
+16-400E1                  61   ELEVATOR           DP OF FACILITIES                                  
+16-400E2                  53   ELEVATOR           DP OF FACILITIES                                  
+16-400LA               1,837   LOBBY              DP OF FACILITIES                                  
+16-400SA                 215   STAIRWAY           DP OF FACILITIES                                  
+16-400Z                  485   SHAFT SPACE        DP OF FACILITIES                                  
+16-404T                   34   TELECOM CLOSET     DP OF FACILITIES                                  
+16-406                   123   OFFICE             VP-RSCH                                           
+16-408                   164   OFFICE             VP-RSCH                                           
+16-414                    28   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-420                     9   LABORATORY SVC     BIOENG DEPT            BIOTEC                     
+16-428                    12   LABORATORY SVC     BIOENG DEPT            BIOTEC                     
+16-429                   361   SECY/RECEPTION     BIOENG DEPT            BIOTEC                     
+16-429A                  137   OFFICE SERVICE     BIOENG DEPT            BIOTEC                     
+16-429B                  160   OFFICE             BIOENG DEPT            BIOTEC                     
+16-429C                  182   OFFICE             BIOENG DEPT            BIOTEC                     
+16-429D                  252   OFFICE             BIOENG DEPT            BIOTEC                     
+16-436                 2,464   RESEARCH LAB       BIOENG DEPT            BIOTEC                     
+16-436A                  178   RESEARCH LAB       BIOENG DEPT            BIOTEC                     
+16-436B                  180   RESEARCH LAB       BIOENG DEPT            BIOTEC                     
+16-436C                  128   RESEARCH LAB       BIOENG DEPT            BIOTEC                     
+16-444                    12   LABORATORY SVC     BIOENG DEPT            BIOTEC                     
+16-447                    69   LABORATORY SVC     BIOENG DEPT            BIOTEC                     
+16-451                   324   OFFICE             BIOENG DEPT            BIOTEC                     
+16-451A                   87   OFFICE             BIOENG DEPT            BIOTEC                     
+16-452                    12   LABORATORY SVC     BIOENG DEPT            BIOTEC                     
+16-459                   198   RESEARCH LAB       BIOENG DEPT            BIOTEC                     
+16-463                   247   OFFICE             BIOENG DEPT            BIOTEC                     
+16-468                    12   LABORATORY SVC     BIOENG DEPT            BIOTEC                     
+16-469                   196   OFFICE             BIOENG DEPT            BIOTEC                     
+16-473                   198   OFFICE             BIOENG DEPT            BIOTEC                     
+16-476                   977   RESEARCH LAB       BIOENG DEPT            BIOTEC                     
+16-479                   208   LABORATORY SVC     BIOENG DEPT            BIOTEC                     
+16-484                    21   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-486                   166   MALE LAVATORY      DP OF FACILITIES                                  
+16-487                   128   LABORATORY SVC     BIOENG DEPT            BIOTEC                     
+16-488                   176   FEMALE LAVATORY    DP OF FACILITIES                                  
+                    --------                                                                        
+                      11,289                                                                        
+                                                                                                    
+16-500CA               1,237   CORRIDOR           DP OF FACILITIES                                  
+16-500E1                  65   ELEVATOR           DP OF FACILITIES                                  
+16-500E2                  53   ELEVATOR           DP OF FACILITIES                                  
+16-500LA               1,789   LOBBY              DP OF FACILITIES                                  
+16-500SA                 212   STAIRWAY           DP OF FACILITIES                                  
+16-500Z                  488   SHAFT SPACE        DP OF FACILITIES                                  
+16-504T                   34   TELECOM CLOSET     DP OF FACILITIES                                  
+16-506                    63   LABORATORY SVC     OFF OF PROVOST         CMRAE                      
+16-506A                   76   LABORATORY SVC     OFF OF PROVOST         CMRAE                      
+16-506B                   75   LABORATORY SVC     OFF OF PROVOST         CMRAE                      
+16-508                    75   LABORATORY SVC     OFF OF PROVOST         CMRAE                      
+16-514                    28   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-519                   293   LABORATORY SVC     OFF OF PROVOST         CMRAE                      
+16-520                   972   RESEARCH LAB       OFF OF PROVOST         CMRAE                      
+16-527                   282   LABORATORY SVC     OFF OF PROVOST         CMRAE                      
+16-528                     9   LABORATORY SVC     MATS SCI & ENG                                    
+16-533                   202   RESEARCH LAB       OFF OF PROVOST         CMRAE                      
+16-536                   952   RESEARCH LAB       OFF OF PROVOST         CMRAE                      
+16-536A                   28   LABORATORY SVC     OFF OF PROVOST         CMRAE                      
+16-539                   160   OFFICE             OFF OF PROVOST         CMRAE                      
+16-541                   160   OFFICE             PROVOST RESERVE                                   
+16-547                   197   RESEARCH LAB       BIOENG DEPT                                       
+16-551                   254   RESEARCH LAB       BIOENG DEPT                                       
+16-552                   208   RESEARCH LAB       OFF OF PROVOST         CMRAE                      
+16-552A                  274   RESEARCH LAB       OFF OF PROVOST         CMRAE                      
+16-557                    74   LABORATORY SVC     BIOENG DEPT                                       
+16-560                 1,500   RESEARCH LAB       BIOENG DEPT                                       
+16-561                   137   SECY/RECEPTION     BIOENG DEPT                                       
+16-561A                  167   OFFICE             BIOENG DEPT                                       
+16-568                     9   LABORATORY SVC     BIOENG DEPT                                       
+16-573                   103   OFFICE SERVICE     CHEMISTRY                                         
+16-573A                  234   OFFICE             CHEMISTRY                                         
+16-573B                  237   OFFICE             CHEMISTRY                                         
+16-573C                   36   OFFICE SERVICE     CHEMISTRY                                         
+16-584                    21   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-586                   172   MALE LAVATORY      DP OF FACILITIES                                  
+16-587                   189   LABORATORY SVC     CHEMISTRY                                         
+16-588                   183   FEMALE LAVATORY    DP OF FACILITIES                                  
+                    --------                                                                        
+                      11,246                                                                        
+                                                                                                    
+16-600CA               1,256   CORRIDOR           DP OF FACILITIES                                  
+16-600E1                  62   ELEVATOR           DP OF FACILITIES                                  
+16-600E2                  56   ELEVATOR           DP OF FACILITIES                                  
+16-600LA                 367   LOBBY              DP OF FACILITIES                                  
+16-600SA                 216   STAIRWAY           DP OF FACILITIES                                  
+16-600Z                  475   SHAFT SPACE        DP OF FACILITIES                                  
+16-602                   499   CLASSROOM          MATS SCI & ENG                                    
+16-602A                   18   CLASSROOM SVC      MATS SCI & ENG                                    
+16-602B                   22   CLASSROOM SVC      MATS SCI & ENG                                    
+16-604T                   34   TELECOM CLOSET     DP OF FACILITIES                                  
+16-605                   487   TEACHING LAB       MATS SCI & ENG                                    
+16-614                    28   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-620                   482   RESEARCH LAB       MATS SCI & ENG                                    
+16-628                   484   CLASSROOM          GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-635                   447   OFFICE SERVICE     COMPARATIVE MEDIA ST   HYPERSTUDIO                
+                                                  UDIES                                             
+                                                                                                    
+16-635A                  348   OFFICE             COMPARATIVE MEDIA ST   HYPERSTUDIO                
+                                                  UDIES                                             
+                                                                                                    
+16-635B                  154   OFFICE             COMPARATIVE MEDIA ST   HYPERSTUDIO                
+                                                  UDIES                                             
+                                                                                                    
+16-636                    66   CLASSROOM SVC      GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-636A                   99   CLASSROOM SVC      GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-636B                  103   CLASSROOM SVC      GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-636C                  103   CLASSROOM SVC      GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-636D                   99   CLASSROOM SVC      GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-643                   173   OFFICE             LITERATURE             HYPERSTU/LIT/SHA           
+16-644                   472   CLASSROOM          GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-645                   326   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-654                   480   CLASSROOM          GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-655                   202   OFFICE SERVICE     GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-657                   164   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-661                   168   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-668                   579   CLASSROOM SVC      GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-668A                  102   CLASSROOM SVC      GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-668AA                  65   CLASSROOM SVC      GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-668B                   99   CLASSROOM SVC      GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-668C                   99   CLASSROOM SVC      GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-673                   283   OFFICE SERVICE     GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-675                   319   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-675A                  212   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-676                   452   CLASSROOM          GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-676A                   34   CLASSROOM SVC      GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+16-684                    21   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-686                   181   MALE LAVATORY      DP OF FACILITIES                                  
+16-688                   189   FEMALE LAVATORY    DP OF FACILITIES                                  
+                    --------                                                                        
+                      10,523                                                                        
+                                                                                                    
+16-700CA               1,200   CORRIDOR           DP OF FACILITIES                                  
+16-700E1                  63   ELEVATOR           DP OF FACILITIES                                  
+16-700E2                  54   ELEVATOR           DP OF FACILITIES                                  
+16-700LA                 563   LOBBY              DP OF FACILITIES                                  
+16-700SA                 216   STAIRWAY           DP OF FACILITIES                                  
+16-700Z                  514   SHAFT SPACE        DP OF FACILITIES                                  
+16-702                   546   RESEARCH LAB       BIOENG DEPT                                       
+16-703                   284   RESEARCH LAB       BIOENG DEPT                                       
+16-704T                   34   TELECOM CLOSET     DP OF FACILITIES                                  
+16-714                    29   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-719                   320   OFFICE             BIOENG DEPT                                       
+16-720                   971   RESEARCH LAB       BIOENG DEPT                                       
+16-725                   160   RESEARCH LAB       BIOENG DEPT                                       
+16-728                     9   LABORATORY SVC     BIOENG DEPT                                       
+16-731                   160   OFFICE             BIOENG DEPT                                       
+16-733                   106   RESEARCH LAB       BIOENG DEPT                                       
+16-736                     9   LABORATORY SVC     BIOENG DEPT                                       
+16-743                   281   OFFICE             BIOENG DEPT                                       
+16-743A                  102   OFFICE             BIOENG DEPT                                       
+16-743B                  177   OFFICE             BIOENG DEPT                                       
+16-743C                  197   OFFICE             BIOENG DEPT                                       
+16-744                   984   RESEARCH LAB       BIOENG DEPT                                       
+16-752                   300   RESEARCH LAB       BIOENG DEPT                                       
+16-755                    96   OFFICE             BIOENG DEPT                                       
+16-760                 1,350   RESEARCH LAB       BIOENG DEPT                                       
+16-760A                  279   RESEARCH LAB       BIOENG DEPT                                       
+16-768                     9   LABORATORY SVC     BIOENG DEPT                                       
+16-771                   384   OFFICE             BIOENG DEPT                                       
+16-771A                  209   OFFICE             BIOENG DEPT                                       
+16-775                   355   RESEARCH LAB       BIOENG DEPT                                       
+16-784                    21   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-786                   168   MALE LAVATORY      DP OF FACILITIES                                  
+16-787                   190   RESEARCH LAB       BIOENG DEPT                                       
+16-788                   178   FEMALE LAVATORY    DP OF FACILITIES                                  
+                    --------                                                                        
+                      10,518                                                                        
+                                                                                                    
+16-800CA               1,073   CORRIDOR           DP OF FACILITIES                                  
+16-800E1                  56   ELEVATOR           DP OF FACILITIES                                  
+16-800E2                  56   ELEVATOR           DP OF FACILITIES                                  
+16-800LA                 525   LOBBY              DP OF FACILITIES                                  
+16-800SA                 199   STAIRWAY           DP OF FACILITIES                                  
+16-800Z                  994   SHAFT SPACE        DP OF FACILITIES                                  
+16-801E                   39   ELECTRIC CLOSET    DP OF FACILITIES                                  
+16-802                   535   CONFERENCE ROOM    DIV OF COMP MED                                   
+16-804T                   34   TELECOM CLOSET     DP OF FACILITIES                                  
+16-807                   254   LABORATORY SVC     DIV OF COMP MED                                   
+16-814                    29   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-820                   398   OFFICE             DIV OF COMP MED                                   
+16-825                   363   SECY/RECEPTION     DIV OF COMP MED                                   
+16-825A                  139   OFFICE             DIV OF COMP MED                                   
+16-825B                   86   OFFICE             DIV OF COMP MED                                   
+16-825C                  204   OFFICE             DIV OF COMP MED                                   
+16-825D                   28   OFFICE SERVICE     DIV OF COMP MED                                   
+16-825F                   19   OFFICE SERVICE     DIV OF COMP MED                                   
+16-828                   185   OFFICE             DIV OF COMP MED                                   
+16-828A                   58   OFFICE             DIV OF COMP MED                                   
+16-828B                   93   OFFICE             DIV OF COMP MED                                   
+16-828C                   88   OFFICE             DIV OF COMP MED                                   
+16-836                    85   LABORATORY SVC     DIV OF COMP MED                                   
+16-844                   469   RESEARCH LAB       DIV OF COMP MED                                   
+16-844A                  203   RESEARCH LAB       DIV OF COMP MED                                   
+16-844AA                  95   LABORATORY SVC     DIV OF COMP MED                                   
+16-844C                   39   LABORATORY SVC     DIV OF COMP MED                                   
+16-849                   186   PVT CIRCULATION    DIV OF COMP MED                                   
+16-849A                  139   OFFICE             DIV OF COMP MED                                   
+16-849B                   84   OFFICE             DIV OF COMP MED                                   
+16-849C                  139   OFFICE             DIV OF COMP MED                                   
+16-849D                   18   OFFICE SERVICE     DIV OF COMP MED                                   
+16-849DA                  90   OFFICE             DIV OF COMP MED                                   
+16-849DB                 133   SECY/RECEPTION     DIV OF COMP MED                                   
+16-849DC                 138   OFFICE             DIV OF COMP MED                                   
+16-849F                   18   OFFICE SERVICE     DIV OF COMP MED                                   
+16-849G                   18   OFFICE SERVICE     DIV OF COMP MED                                   
+16-849H                   19   OFFICE SERVICE     DIV OF COMP MED                                   
+16-852                    11   LABORATORY SVC     DIV OF COMP MED                                   
+16-860                   685   RESEARCH LAB       DIV OF COMP MED                                   
+16-868                   314   RESEARCH LAB       DIV OF COMP MED                                   
+16-869                   139   OFFICE             DIV OF COMP MED                                   
+16-873                   139   OFFICE             DIV OF COMP MED                                   
+16-876                   438   RESEARCH LAB       DIV OF COMP MED                                   
+16-877                   149   OFFICE             DIV OF COMP MED                                   
+16-877A                   96   OFFICE             DIV OF COMP MED                                   
+16-877B                   35   OFFICE             DIV OF COMP MED                                   
+16-881                    20   LABORATORY SVC     DIV OF COMP MED                                   
+16-884                    15   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-886                   167   MALE LAVATORY      DP OF FACILITIES                                  
+16-888                   194   FEMALE LAVATORY    DP OF FACILITIES                                  
+                    --------                                                                        
+                       9,729                                                                        
+                                                                                                    
+16-900SA                 205   STAIRWAY           DP OF FACILITIES                                  
+16-900SB                  17   STAIRWAY           DP OF FACILITIES                                  
+16-900SBM                 17   STAIRWAY           DP OF FACILITIES                                  
+16-900Z                  293   SHAFT SPACE        DP OF FACILITIES                                  
+16-903M                  331   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-905                   327   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-906                   851   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-906B                   97   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-906E                  215   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-907M                  202   UTILITY/MECH RM    DP OF FACILITIES                                  
+16-910                 1,811   UTILITY/MECH RM    DP OF FACILITIES

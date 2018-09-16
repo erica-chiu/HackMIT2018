@@ -1,0 +1,1370 @@
+32-000CA               1,043   CORRIDOR           DP OF FACILITIES                                  
+32-000CB               5,006   CORRIDOR           DP OF FACILITIES                                  
+32-000CC               2,756   CORRIDOR           DP OF FACILITIES                                  
+32-000CD                 176   CORRIDOR           DP OF FACILITIES                                  
+32-000CE               1,684   CORRIDOR           DP OF FACILITIES                                  
+32-000CF                 456   CORRIDOR           DP OF FACILITIES                                  
+32-000CG               1,000   CORRIDOR           DP OF FACILITIES                                  
+32-000CI               1,629   CORRIDOR           DP OF FACILITIES                                  
+32-000CJ                 630   CORRIDOR           DP OF FACILITIES                                  
+32-000CK                 573   CORRIDOR           DP OF FACILITIES                                  
+32-000CL               1,203   CORRIDOR           DP OF FACILITIES                                  
+32-000CM                 264   CORRIDOR           DP OF FACILITIES                                  
+32-000CN                 828   CORRIDOR           DP OF FACILITIES                                  
+32-000E1                  62   ELEVATOR           DP OF FACILITIES                                  
+32-000E10                 71   ELEVATOR           DP OF FACILITIES                                  
+32-000E15                 53   ELEVATOR           DP OF FACILITIES                                  
+32-000E2                  64   ELEVATOR           DP OF FACILITIES                                  
+32-000E3                  90   ELEVATOR           DP OF FACILITIES                                  
+32-000E4                  90   ELEVATOR           DP OF FACILITIES                                  
+32-000E8                  71   ELEVATOR           DP OF FACILITIES                                  
+32-000E9                  71   ELEVATOR           DP OF FACILITIES                                  
+32-000LA               1,154   LOBBY              DP OF FACILITIES                                  
+32-000LB                 283   LOBBY              DP OF FACILITIES                                  
+32-000LC                 203   LOBBY              DP OF FACILITIES                                  
+32-000LD                 238   LOBBY              DP OF FACILITIES                                  
+32-000S1                 269   STAIRWAY           DP OF FACILITIES                                  
+32-000S2                 225   STAIRWAY           DP OF FACILITIES                                  
+32-000S3                 250   STAIRWAY           DP OF FACILITIES                                  
+32-000S5                 174   STAIRWAY           DP OF FACILITIES                                  
+32-000S6                 163   STAIRWAY           DP OF FACILITIES                                  
+32-000S7                 122   STAIRWAY           DP OF FACILITIES                                  
+32-000Z                1,371   SHAFT SPACE        DP OF FACILITIES                                  
+32-001E                  112   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-002E                  248   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-003                 2,314   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-003Z                2,428   SHAFT SPACE        DP OF FACILITIES                                  
+32-004                   277   OFFICE             DP OF FACIL ADM                                   
+32-006T                  319   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-008                    28   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-010                   599   STORAGE FACILITY   MEDICAL DEPT                                      
+32-011                    89   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-012                   301   JANITOR STORAGE    DP OF FACILITIES                                  
+32-013                   517   OFFICE SERVICE     ENV HLTH & SAFE                                   
+32-015                   148   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-017                 2,427   RECEIVING ROOM     DP OF FACIL ADM                                   
+32-017E                1,589   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-018                   149   MAIL ROOM          DP OF FACIL ADM                                   
+32-018A                   49   CLASSROOM SVC      REGISTRAR                                         
+32-019                   739   RECEIVING ROOM     DP OF FACIL ADM                                   
+32-019A                  207   STORAGE FACILITY   DP OF FACIL ADM                                   
+32-019B                   55   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-020                 2,048   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-020Z                   90   SHAFT SPACE        DP OF FACILITIES                                  
+32-021                   227   OFFICE             DP OF FACIL ADM                                   
+32-021A                  115   OFFICE             DP OF FACIL ADM                                   
+32-023                   312   STORAGE FACILITY   DP OF FACIL ADM                                   
+32-023Z                  260   SHAFT SPACE        DP OF FACILITIES                                  
+32-025                   278   OFFICE SERVICE     CHILD CARE                                        
+32-026                 2,909   RECEIVING ROOM     DP OF FACIL ADM                                   
+32-027                   278   STORAGE FACILITY   DP OF FACIL ADM                                   
+32-028                   778   STORAGE FACILITY   DP OF FACIL ADM                                   
+32-029                    62   STORAGE FACILITY   DP OF FACIL ADM                                   
+32-029A                  208   STORAGE FACILITY   DP OF FACIL ADM                                   
+32-029B                   24   STORAGE FACILITY   DP OF FACIL ADM                                   
+32-030                    86   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-032                    32   STORAGE FACILITY   DP OF FACIL ADM                                   
+32-034                 9,514   RECEIVING ROOM     DP OF FACIL ADM                                   
+32-034A                  455   OFFICE SERVICE     ELEC ENG&COMP SC                                  
+32-034AA                  63   OFFICE SERVICE     ELEC ENG&COMP SC                                  
+32-036                 1,221   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-037                   110   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-038                    61   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-038T                  425   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-040                   479   FEMALE LAVATORY    DP OF FACILITIES                                  
+32-040J                   19   JANITOR CLOSET     DP OF FACILITIES                                  
+32-042                   350   MALE LAVATORY      DP OF FACILITIES                                  
+32-044                   365   SECY/RECEPTION     ELEC ENG&COMP SC                                  
+32-044A                2,905   LOUNGE             ELEC ENG&COMP SC                                  
+32-044AA                  72   OFFICE SERVICE     ELEC ENG&COMP SC                                  
+32-044T                  125   TELECOM CLOSET     DP OF FACILITIES                                  
+32-049                 7,762   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-049E                1,845   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-049Z                  154   SHAFT SPACE        DP OF FACILITIES                                  
+32-050                    97   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-050E                  106   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-051                   211   FOOD FACIL SVC     CAMPUS DINING                                     
+32-052                   454   FOOD FACIL SVC     CAMPUS DINING                                     
+32-053                    91   OFFICE             CAMPUS DINING                                     
+32-053J                   33   JANITOR CLOSET     DP OF FACILITIES                                  
+32-054                    83   FOOD FACIL SVC     CAMPUS DINING                                     
+32-054A                   98   FOOD FACIL SVC     CAMPUS DINING                                     
+32-054B                  163   FOOD FACIL SVC     CAMPUS DINING                                     
+32-056                   364   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-058                   628   FOOD FACIL SVC     CAMPUS DINING                                     
+32-059                   108   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-060                    36   OFFICE             PARKING & TRANSP                                  
+32-060A               11,474   VEHICLE STORAGE    DP OF FACIL ADM                                   
+32-064                   254   OFFICE             DP OF FACIL ADM                                   
+32-064A                   87   OFFICE             DP OF FACIL ADM                                   
+32-064B                   35   PVT LAVATORY       DP OF FACIL ADM                                   
+32-065                   148   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-066                   189   NON-ATH LOCKR RM   DP OF FACIL ADM                                   
+32-066Z                   29   SHAFT SPACE        DP OF FACILITIES                                  
+32-067                     8   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-067E                  245   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-068                   198   NON-ATH LOCKR RM   DP OF FACIL ADM                                   
+32-068A                   64   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-068B                   23   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-069                 1,246   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-069B                   54   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-069E                    7   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-069T                  374   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-070                   401   OFFICE SERVICE     DP OF FACIL ADM                                   
+32-070A                   92   SECY/RECEPTION     DP OF FACIL ADM                                   
+32-070B                   91   OFFICE             DP OF FACIL ADM                                   
+32-070C                   91   OFFICE             CAMP ACTIV COMPL                                  
+32-070D                  141   OFFICE             DP OF FACIL ADM                                   
+32-070F                   95   OFFICE             DP OF FACIL ADM                                   
+32-070FA                 142   OFFICE             DP OF FACIL ADM                                   
+32-072                   323   OFFICE             DP OF FACIL ADM                                   
+32-074                   490   MAINTENANCE SHOP   DP OF FACIL ADM                                   
+32-075                   112   CLASSROOM SVC      REGISTRAR                                         
+32-076                   251   STORAGE FACILITY   DP OF FACIL ADM                                   
+32-077                    60   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-077Z                  204   SHAFT SPACE        DP OF FACILITIES                                  
+32-078                    43   STORAGE FACILITY   PROVOST RESERVE                                   
+32-079                    77   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-080                   346   CLASSROOM          PROVOST RESERVE                                   
+32-081                 1,643   CLASSROOM          ELEC ENG&COMP SC                                  
+32-081A                   98   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-081Z                1,130   SHAFT SPACE        DP OF FACILITIES                                  
+32-082                 3,032   CLASSROOM          REGISTRAR                                         
+32-082A                   40   CLASSROOM SVC      REGISTRAR                                         
+32-082B                   73   CLASSROOM SVC      REGISTRAR                                         
+32-082C                  162   CLASSROOM SVC      REGISTRAR                                         
+32-082CA                 252   CLASSROOM SVC      REGISTRAR                                         
+32-082CE                  87   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-085                    27   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-085A                   45   CLASSROOM SVC      REGISTRAR                                         
+32-085B                   75   CLASSROOM SVC      REGISTRAR                                         
+32-085C                   64   CLASSROOM SVC      REGISTRAR                                         
+32-085D                   36   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-086                    89   MERCHAND FACIL     CAMPUS DINING                                     
+32-086A                  393   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-086E                  500   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-087                   431   LIBRARY PROCESS    LIBRARIES                                         
+32-087A                  276   LIBRARY PROCESS    LIBRARIES                                         
+32-087B                  281   LIBRARY PROCESS    LIBRARIES                                         
+32-087C                1,804   LIBRARY PROCESS    LIBRARIES                                         
+32-087D                  929   LIBRARY PROCESS    LIBRARIES                                         
+32-088                   221   CLASSROOM SVC      REGISTRAR                                         
+32-088A                  174   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-088E                  400   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-090                   917   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-090T                  181   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-091                   178   OFFICE             PROVOST RESERVE                                   
+32-092AE                 142   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-092BE                 307   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-092E                  941   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-094                   147   STORAGE FACILITY   DP OF FACIL ADM                                   
+32-096                 1,383   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-098                   181   OFFICE SERVICE     PROVOST RESERVE        OCEAN                      
+                    --------                                                                        
+                     105,000                                                                        
+                                                                                                    
+32-100                   449   SECY/RECEPTION     CHILD CARE                                        
+32-100CB                 448   CORRIDOR           DP OF FACILITIES                                  
+32-100E1                  62   ELEVATOR           DP OF FACILITIES                                  
+32-100E10                 71   ELEVATOR           DP OF FACILITIES                                  
+32-100E11                 34   ELEVATOR           DP OF FACILITIES                                  
+32-100E15                 47   ELEVATOR           DP OF FACILITIES                                  
+32-100E2                  64   ELEVATOR           DP OF FACILITIES                                  
+32-100E3                  90   ELEVATOR           DP OF FACILITIES                                  
+32-100E4                  90   ELEVATOR           DP OF FACILITIES                                  
+32-100E5                  67   ELEVATOR           DP OF FACILITIES                                  
+32-100E6                  66   ELEVATOR           DP OF FACILITIES                                  
+32-100E7                  63   ELEVATOR           DP OF FACILITIES                                  
+32-100E8                  71   ELEVATOR           DP OF FACILITIES                                  
+32-100E9                  71   ELEVATOR           DP OF FACILITIES                                  
+32-100LA               1,683   LOBBY              DP OF FACILITIES                                  
+32-100LB                 974   LOBBY              DP OF FACILITIES                                  
+32-100LC               2,277   LOBBY              DP OF FACILITIES                                  
+32-100LD               1,845   LOBBY              DP OF FACILITIES                                  
+32-100LE                 672   LOBBY              DP OF FACILITIES                                  
+32-100LF               1,700   LOBBY              DP OF FACILITIES                                  
+32-100LFV                487   LOBBY              DP OF FACILITIES                                  
+32-100LH                  33   LOBBY              DP OF FACILITIES                                  
+32-100S1                 258   STAIRWAY           DP OF FACILITIES                                  
+32-100S10                193   STAIRWAY           DP OF FACILITIES                                  
+32-100S11                171   STAIRWAY           DP OF FACILITIES                                  
+32-100S16                 61   STAIRWAY           DP OF FACILITIES                                  
+32-100S17                 74   STAIRWAY           DP OF FACILITIES                                  
+32-100S18                135   STAIRWAY           DP OF FACILITIES                                  
+32-100S1V                 72   LOBBY              DP OF FACILITIES                                  
+32-100S2                 810   STAIRWAY           DP OF FACILITIES                                  
+32-100S3                 278   STAIRWAY           DP OF FACILITIES                                  
+32-100S3V                136   LOBBY              DP OF FACILITIES                                  
+32-100S5                 374   STAIRWAY           DP OF FACILITIES                                  
+32-100S6                 201   STAIRWAY           DP OF FACILITIES                                  
+32-100S7                  53   STAIRWAY           DP OF FACILITIES                                  
+32-100S8                  46   STAIRWAY           DP OF FACILITIES                                  
+32-100Z                  445   SHAFT SPACE        DP OF FACILITIES                                  
+32-101                   160   DAY CARE           CHILD CARE                                        
+32-101A                   65   DAY CARE SV        CHILD CARE                                        
+32-102                    62   PVT LAVATORY       CHILD CARE                                        
+32-103                   352   DAY CARE           CHILD CARE                                        
+32-104                   204   DAY CARE           CHILD CARE                                        
+32-104A                   92   DAY CARE           CHILD CARE                                        
+32-105                   148   DAY CARE SV        CHILD CARE                                        
+32-106                   234   DAY CARE           CHILD CARE                                        
+32-106A                   85   DAY CARE SV        CHILD CARE                                        
+32-107                   283   DAY CARE           CHILD CARE                                        
+32-108                    77   PVT LAVATORY       CHILD CARE                                        
+32-109                   324   DAY CARE           CHILD CARE                                        
+32-119T                    8   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-119Z                    5   SHAFT SPACE        DP OF FACILITIES                                  
+32-122                    64   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-123                 3,550   LECTURE HALL       REGISTRAR                                         
+32-123A                  415   CLASSROOM SVC      REGISTRAR                                         
+32-124                 1,145   CLASSROOM          REGISTRAR                                         
+32-124A                  219   CLASSROOM SVC      REGISTRAR                                         
+32-124B                   14   CLASSROOM SVC      REGISTRAR                                         
+32-124V                   91   CLASSROOM SVC      REGISTRAR                                         
+32-140                12,322   LOUNGE             CAMP ACTIV COMPL                                  
+32-141                 2,122   LECTURE HALL       REGISTRAR                                         
+32-144                 1,147   CLASSROOM          REGISTRAR                                         
+32-144A                  220   CLASSROOM SVC      REGISTRAR                                         
+32-144B                   14   CLASSROOM SVC      REGISTRAR                                         
+32-144V                   91   CLASSROOM SVC      REGISTRAR                                         
+32-147J                   65   JANITOR CLOSET     DP OF FACILITIES                                  
+32-155                 2,126   LECTURE HALL       REGISTRAR                                         
+32-155Z                   29   SHAFT SPACE        DP OF FACILITIES                                  
+32-156                   345   FOOD FACIL SVC     CAMPUS DINING                                     
+32-160                    58   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-162                 1,988   FOOD FACILITY      CAMPUS DINING                                     
+32-164                 1,889   FOOD FACIL SVC     CAMPUS DINING                                     
+32-166                   175   OFFICE             PUBLIC REL SVCS                                   
+32-168                   246   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-188                   117   CLASSROOM SVC      REGISTRAR                                         
+32-190                   527   FEMALE LAVATORY    DP OF FACILITIES                                  
+32-192                   392   MALE LAVATORY      DP OF FACILITIES                                  
+32-199E                  116   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                      46,257                                                                        
+                                                                                                    
+32-200                   822   DAY CARE           CHILD CARE                                        
+32-200B                   14   DAY CARE SV        CHILD CARE                                        
+32-200C                   22   DAY CARE SV        CHILD CARE                                        
+32-200CA               2,545   CORRIDOR           DP OF FACILITIES                                  
+32-200CB                 172   CORRIDOR           DP OF FACILITIES                                  
+32-200D                   31   DAY CARE SV        CHILD CARE                                        
+32-200E11                 53   ELEVATOR           DP OF FACILITIES                                  
+32-200E4                  54   ELEVATOR           DP OF FACILITIES                                  
+32-200E7                  63   ELEVATOR           DP OF FACILITIES                                  
+32-200J                    8   JANITOR CLOSET     DP OF FACILITIES                                  
+32-200LH                  49   LOBBY              DP OF FACILITIES                                  
+32-200S1                 188   STAIRWAY           DP OF FACILITIES                                  
+32-200S10                188   STAIRWAY           DP OF FACILITIES                                  
+32-200S13                153   STAIRWAY           DP OF FACILITIES                                  
+32-200S15                137   STAIRWAY           DP OF FACILITIES                                  
+32-200S17                 56   STAIRWAY           DP OF FACILITIES                                  
+32-200S1V                 58   STAIRWAY           DP OF FACILITIES                                  
+32-200S2                 183   STAIRWAY           DP OF FACILITIES                                  
+32-200S3                 225   STAIRWAY           DP OF FACILITIES                                  
+32-200Z                  366   SHAFT SPACE        DP OF FACILITIES                                  
+32-201                 1,096   DAY CARE           CHILD CARE                                        
+32-201A                   89   DAY CARE SV        CHILD CARE                                        
+32-202                   444   DAY CARE           CHILD CARE                                        
+32-203                    77   PVT LAVATORY       CHILD CARE                                        
+32-204                   428   DAY CARE           CHILD CARE                                        
+32-205                    79   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-206                   207   OFFICE             COMP SCI & AI LAB                                 
+32-207                    44   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-207A                   40   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-208                   206   OFFICE             COMP SCI & AI LAB                                 
+32-210                   206   OFFICE             COMP SCI & AI LAB                                 
+32-211                 1,211   OFFICE             COMP SCI & AI LAB                                 
+32-211A                  266   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-211B                  256   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-212                   214   OFFICE             COMP SCI & AI LAB                                 
+32-213                   267   FEMALE LAVATORY    DP OF FACILITIES                                  
+32-214                   235   OFFICE             COMP SCI & AI LAB                                 
+32-215                     6   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-215E                   10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-215T                    8   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-217E                  110   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-217T                  209   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-220                   224   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-220A                  118   LABORATORY SVC     COMP SCI & AI LAB                                 
+32-221                   214   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-221A                   81   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-221T                   10   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-221Z                    5   SHAFT SPACE        DP OF FACILITIES                                  
+32-222                   191   CONFERENCE ROOM    COMP SCI & AI LAB                                 
+32-224                 1,077   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-225                   233   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-226                 1,347   LABORATORY SVC     COMP SCI & AI LAB                                 
+32-226A                  223   RESEARCH LAB       COMP SCI & AI LAB                                 
+32-226B                  422   RESEARCH LAB       COMP SCI & AI LAB                                 
+32-227                   236   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-230                   148   OFFICE             COMP SCI & AI LAB                                 
+32-232                   156   OFFICE             COMP SCI & AI LAB                                 
+32-235                   930   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-235A                  275   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-235B                  398   OFFICE             COMP SCI & AI LAB                                 
+32-235C                  453   OFFICE             COMP SCI & AI LAB                                 
+32-237                   231   OFFICE             COMP SCI & AI LAB                                 
+32-239                   214   OFFICE             COMP SCI & AI LAB                                 
+32-240                   227   LABORATORY SVC     COMP SCI & AI LAB                                 
+32-241                   255   OFFICE             COMP SCI & AI LAB                                 
+32-242                   169   LAB SUPPORT SHOP   COMP SCI & AI LAB                                 
+32-243                   264   OFFICE             COMP SCI & AI LAB                                 
+32-244                   939   LAB SUPPORT SHOP   COMP SCI & AI LAB                                 
+32-244T                   54   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-245                   174   OFFICE             COMP SCI & AI LAB                                 
+32-246                   197   LAB SUPPORT SHOP   COMP SCI & AI LAB                                 
+32-247                    36   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-247A                   39   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-248                   221   MALE LAVATORY      DP OF FACILITIES                                  
+32-249                   283   OFFICE             COMP SCI & AI LAB                                 
+32-249E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-250                 1,051   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-250A                   96   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-250AA                 126   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-250B                  195   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-250C                  166   OFFICE             COMP SCI & AI LAB                                 
+32-250D                  444   OFFICE             COMP SCI & AI LAB                                 
+32-250DA                  39   OFFICE             COMP SCI & AI LAB                                 
+32-251                   274   OFFICE             COMP SCI & AI LAB                                 
+32-251E                   86   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-252                   227   OFFICE             COMP SCI & AI LAB                                 
+32-253T                   16   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-254                   211   OFFICE             COMP SCI & AI LAB                                 
+32-255                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-256                   206   OFFICE             COMP SCI & AI LAB                                 
+32-257                   206   OFFICE             COMP SCI & AI LAB                                 
+32-258                   336   OFFICE             COMP SCI & AI LAB                                 
+32-260                 1,030   LOUNGE             COMP SCI & AI LAB                                 
+32-261                   347   CONFERENCE ROOM    COMP SCI & AI LAB                                 
+32-262                   400   CONFERENCE ROOM    COMP SCI & AI LAB                                 
+32-263                   264   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-266                   264   LABORATORY SVC     COMP SCI & AI LAB                                 
+32-267                   196   OFFICE             COMP SCI & AI LAB                                 
+32-268                   968   RESEARCH LAB       COMP SCI & AI LAB      TIG                        
+32-269                   201   OFFICE             COMP SCI & AI LAB                                 
+32-270                   868   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-271                   661   RESEARCH LAB       COMP SCI & AI LAB                                 
+32-271A                  168   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-272                   183   OFFICE             COMP SCI & AI LAB                                 
+32-273                   177   OFFICE             COMP SCI & AI LAB                                 
+32-274                    92   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-275                   390   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-275A                  156   CONFERENCE ROOM    COMP SCI & AI LAB                                 
+32-275B                  102   OFFICE             COMP SCI & AI LAB                                 
+32-275C                  454   OFFICE             COMP SCI & AI LAB                                 
+32-276                   220   OFFICE             COMP SCI & AI LAB                                 
+32-277                   513   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-278                   179   OFFICE             COMP SCI & AI LAB                                 
+                    --------                                                                        
+                      32,684                                                                        
+                                                                                                    
+32-300                   236   DAY CARE SV        CHILD CARE                                        
+32-300CA                 610   CORRIDOR           DP OF FACILITIES                                  
+32-300CE                 773   CORRIDOR           DP OF FACILITIES                                  
+32-300CG                 440   CORRIDOR           DP OF FACILITIES                                  
+32-300CH                 732   CORRIDOR           DP OF FACILITIES                                  
+32-300E1                  66   ELEVATOR           DP OF FACILITIES                                  
+32-300E12                 52   ELEVATOR           DP OF FACILITIES                                  
+32-300E13                 52   ELEVATOR           DP OF FACILITIES                                  
+32-300E2                  67   ELEVATOR           DP OF FACILITIES                                  
+32-300E3                  89   ELEVATOR           DP OF FACILITIES                                  
+32-300E4                  86   ELEVATOR           DP OF FACILITIES                                  
+32-300E5                  63   ELEVATOR           DP OF FACILITIES                                  
+32-300E6                  63   ELEVATOR           DP OF FACILITIES                                  
+32-300E7                  63   ELEVATOR           DP OF FACILITIES                                  
+32-300E8                  71   ELEVATOR           DP OF FACILITIES                                  
+32-300LA                 852   LOBBY              DP OF FACILITIES                                  
+32-300LB                 847   LOBBY              DP OF FACILITIES                                  
+32-300LD                 665   LOBBY              DP OF FACILITIES                                  
+32-300LE                 300   LOBBY              DP OF FACILITIES                                  
+32-300LF                  83   LOBBY              DP OF FACILITIES                                  
+32-300LG                 226   LOBBY              DP OF FACILITIES                                  
+32-300LH                  28   LOBBY              DP OF FACILITIES                                  
+32-300S1                 188   STAIRWAY           DP OF FACILITIES                                  
+32-300S10                 62   STAIRWAY           DP OF FACILITIES                                  
+32-300S11                308   STAIRWAY           DP OF FACILITIES                                  
+32-300S12                224   STAIRWAY           DP OF FACILITIES                                  
+32-300S13                125   STAIRWAY           DP OF FACILITIES                                  
+32-300S14                163   STAIRWAY           DP OF FACILITIES                                  
+32-300S15                119   STAIRWAY           DP OF FACILITIES                                  
+32-300S18                235   STAIRWAY           DP OF FACILITIES                                  
+32-300S19                132   STAIRWAY           DP OF FACILITIES                                  
+32-300S1V                 55   LOBBY              DP OF FACILITIES                                  
+32-300S2                 183   STAIRWAY           DP OF FACILITIES                                  
+32-300S3                 246   STAIRWAY           DP OF FACILITIES                                  
+32-300S4                 162   STAIRWAY           DP OF FACILITIES                                  
+32-300S9                 274   STAIRWAY           DP OF FACILITIES                                  
+32-300Z                  576   SHAFT SPACE        DP OF FACILITIES                                  
+32-301                   149   OFFICE             CHILD CARE                                        
+32-301A                  303   DAY CARE SV        CHILD CARE                                        
+32-302                    42   COMPUTER SERVICE   COMP SCI & AI LAB                                 
+32-303                    90   OFFICE             CHILD CARE                                        
+32-303A                   33   DAY CARE SV        CHILD CARE                                        
+32-304                    25   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-305                    53   PVT LAVATORY       CHILD CARE                                        
+32-306                   204   RESEARCH LAB       COMP SCI & AI LAB                                 
+32-307                    46   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-307A                   42   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-308                   214   RESEARCH LAB       COMP SCI & AI LAB                                 
+32-309                   466   DAY CARE           CHILD CARE                                        
+32-309A                   72   DAY CARE SV        CHILD CARE                                        
+32-309B                  160   DAY CARE           CHILD CARE                                        
+32-309C                  394   DAY CARE           CHILD CARE                                        
+32-309D                   78   PVT LAVATORY       CHILD CARE                                        
+32-310                   206   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-311                   262   LABORATORY SVC     COMP SCI & AI LAB                                 
+32-311A                  552   RESEARCH LAB       COMP SCI & AI LAB                                 
+32-311C                  423   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-311CA                 590   LABORATORY SVC     COMP SCI & AI LAB                                 
+32-311D                  111   LABORATORY SVC     COMP SCI & AI LAB                                 
+32-312                   213   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-312A                   47   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-313                   267   MALE LAVATORY      DP OF FACILITIES                                  
+32-315                     6   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-315E                   10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-315T                    5   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-316                   402   RESEARCH LAB       COMP SCI & AI LAB                                 
+32-317E                   94   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-317T                  199   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-319T                    8   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-319Z                    5   SHAFT SPACE        DP OF FACILITIES                                  
+32-321                   940   RESEARCH LAB       COMP SCI & AI LAB                                 
+32-321A                  131   LABORATORY SVC     COMP SCI & AI LAB                                 
+32-322                   407   RESEARCH LAB       COMP SCI & AI LAB                                 
+32-330                   199   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-331                   383   LABORATORY SVC     COMP SCI & AI LAB                                 
+32-331A                   92   LABORATORY SVC     COMP SCI & AI LAB                                 
+32-331AA                 127   LAB SUPPORT SHOP   COMP SCI & AI LAB                                 
+32-331B                  556   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-331CA                 495   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-332                   130   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-333                   234   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-334                   701   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-335                   202   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-337                   390   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-338                   525   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-338A                  305   RESEARCH LAB       COMP SCI & AI LAB                                 
+32-338CA                 451   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-339                   959   RESEARCH LAB       COMP SCI & AI LAB                                 
+32-339CA                 192   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-340                   217   OFFICE             COMP SCI & AI LAB                                 
+32-341                   994   COMPUTER FACIL     COMP SCI & AI LAB                                 
+32-341CA                 462   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-342                   215   OFFICE             COMP SCI & AI LAB                                 
+32-342A                  102   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-342CA                 162   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-344                   220   OFFICE             COMP SCI & AI LAB                                 
+32-344T                   57   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-346                   324   CONFERENCE ROOM    COMP SCI & AI LAB                                 
+32-346CA                 115   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-347                    36   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-347A                   38   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-348                   255   FEMALE LAVATORY    DP OF FACILITIES                                  
+32-348J                   43   JANITOR CLOSET     DP OF FACILITIES                                  
+32-349E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-350A                   87   OFFICE             COMP SCI & AI LAB                                 
+32-350B                  137   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-350C                  171   OFFICE             COMP SCI & AI LAB                                 
+32-350D                  165   OFFICE             COMP SCI & AI LAB                                 
+32-350F                   64   OFFICE             COMP SCI & AI LAB                                 
+32-350G                   77   OFFICE             COMP SCI & AI LAB                                 
+32-351E                   86   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-353T                   16   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-355                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-360                   246   OFFICE             COMP SCI & AI LAB                                 
+32-362                   205   OFFICE             COMP SCI & AI LAB                                 
+32-363A                   80   OFFICE             COMP SCI & AI LAB                                 
+32-363B                   76   OFFICE             COMP SCI & AI LAB                                 
+32-363C                   79   OFFICE             COMP SCI & AI LAB                                 
+32-363D                   82   OFFICE             COMP SCI & AI LAB                                 
+32-364                   206   OFFICE             COMP SCI & AI LAB                                 
+32-366                   201   OFFICE             COMP SCI & AI LAB                                 
+32-368                   241   OFFICE             COMP SCI & AI LAB                                 
+32-369                 1,032   PVT CIRCULATION    COMP SCI & AI LAB      LANG / LEARN               
+32-369A                   75   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-369B                   55   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-369C                   89   OFFICE             COMP SCI & AI LAB                                 
+32-369D                   64   OFFICE             COMP SCI & AI LAB                                 
+32-369F                  150   OFFICE             COMP SCI & AI LAB                                 
+32-369G                   83   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-370                   503   CONFERENCE ROOM    COMP SCI & AI LAB                                 
+32-372                    90   OFFICE SERVICE     SCH OF SCIENCE                                    
+32-374                   306   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-374A                   85   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-375                   207   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-376                   659   RESEARCH LAB       COMP SCI & AI LAB      ROBOTICS                   
+32-376A                  104   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-376B                  122   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-376C                  168   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-376D                  827   LABORATORY SVC     COMP SCI & AI LAB                                 
+32-376F                  223   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-377                   207   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-379                   215   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-380                 1,920   RESEARCH LAB       COMP SCI & AI LAB                                 
+32-380B                  187   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-381                   207   OFFICE             COMP SCI & AI LAB                                 
+32-382                    77   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-382A                   19   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-382CA                 163   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-382CB                 122   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-383                   205   OFFICE             COMP SCI & AI LAB                                 
+32-385                   207   OFFICE             COMP SCI & AI LAB                                 
+32-386                   483   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-386A                  215   CONFERENCE ROOM    COMP SCI & AI LAB                                 
+32-386B                  512   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-386D                  135   OFFICE             COMP SCI & AI LAB                                 
+32-386F                  124   OFFICE             COMP SCI & AI LAB                                 
+32-386G                   61   OFFICE             COMP SCI & AI LAB                                 
+32-386H                  116   OFFICE             COMP SCI & AI LAB                                 
+32-391                   118   OFFICE             COMP SCI & AI LAB                                 
+32-392                   305   OFFICE             COMP SCI & AI LAB                                 
+32-393                   155   OFFICE             COMP SCI & AI LAB                                 
+32-394                   212   OFFICE             COMP SCI & AI LAB                                 
+32-395                   443   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-395CA                 338   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-396                    29   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-397                   312   CONFERENCE ROOM    COMP SCI & AI LAB                                 
+32-397CA                 198   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-399                   650   COMPUTER FACIL     COMP SCI & AI LAB                                 
+32-399CA                 370   PVT CIRCULATION    COMP SCI & AI LAB                                 
+                    --------                                                                        
+                      41,338                                                                        
+                                                                                                    
+32-D400CA                404   CORRIDOR           DP OF FACILITIES                                  
+32-D400CB                499   CORRIDOR           DP OF FACILITIES                                  
+32-D400CC                 88   CORRIDOR           DP OF FACILITIES                                  
+32-D400CD                666   CORRIDOR           DP OF FACILITIES                                  
+32-D400CE                825   CORRIDOR           DP OF FACILITIES                                  
+32-D400E1                 62   ELEVATOR           DP OF FACILITIES                                  
+32-D400E2                 64   ELEVATOR           DP OF FACILITIES                                  
+32-D400E3                 90   ELEVATOR           DP OF FACILITIES                                  
+32-D400LA                229   LOBBY              DP OF FACILITIES                                  
+32-D400S1                243   STAIRWAY           DP OF FACILITIES                                  
+32-D400S12               272   STAIRWAY           DP OF FACILITIES                                  
+32-D400S2                262   STAIRWAY           DP OF FACILITIES                                  
+32-D400S20                40   STAIRWAY           DP OF FACILITIES                                  
+32-D400S21                35   STAIRWAY           DP OF FACILITIES                                  
+32-D400Z                 324   SHAFT SPACE        DP OF FACILITIES                                  
+32-D401                  244   FEMALE LAVATORY    DP OF FACILITIES                                  
+32-D401J                  37   JANITOR CLOSET     DP OF FACILITIES                                  
+32-D402T                  88   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-D403                   46   MALE LAVATORY      DP OF FACILITIES                                  
+32-D405A                   4   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-D405E                 175   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-D407                  298   CONFERENCE ROOM    COMP SCI & AI LAB                                 
+32-D408                  120   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-D408A                 184   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-D408CA              1,063   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-D409                  173   OFFICE             COMP SCI & AI LAB                                 
+32-D410                  288   OFFICE             COMP SCI & AI LAB                                 
+32-D412                  218   OFFICE             COMP SCI & AI LAB                                 
+32-D414                  219   OFFICE             COMP SCI & AI LAB                                 
+32-D416                  240   OFFICE             COMP SCI & AI LAB                                 
+32-D424                  227   OFFICE             COMP SCI & AI LAB                                 
+32-D425E                  12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-D425T                  12   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-D426                  196   OFFICE             COMP SCI & AI LAB                                 
+32-D428                  213   OFFICE             COMP SCI & AI LAB                                 
+32-D430                  206   OFFICE             COMP SCI & AI LAB                                 
+32-D432                  203   OFFICE             COMP SCI & AI LAB                                 
+32-D433                  328   OFFICE             COMP SCI & AI LAB                                 
+32-D433A                 277   RESEARCH LAB       COMP SCI & AI LAB                                 
+32-D433B                  88   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-D434                  229   OFFICE             COMP SCI & AI LAB                                 
+32-D440                  396   RECREATION FACIL   COMP SCI & AI LAB                                 
+32-D446                  179   MALE LAVATORY      DP OF FACILITIES                                  
+32-D450                  319   LOUNGE             COMP SCI & AI LAB                                 
+32-D450A                 110   LOUNGE             COMP SCI & AI LAB                                 
+32-D451                  308   CONFERENCE ROOM    COMP SCI & AI LAB                                 
+32-D452                   76   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-D455                   25   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-D458                  240   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-D460                  208   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-D461                  868   CONFERENCE ROOM    LING & PHIL                                       
+32-D461A                  11   OFFICE SERVICE     LING & PHIL                                       
+32-D461B                  39   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-D462                  206   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-D463                1,170   CONFERENCE ROOM    COMP SCI & AI LAB                                 
+32-D463A                  22   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-D463B                  17   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-D464                  187   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-D466                  294   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-D468                  204   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-D470                  206   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-D471                  400   COMPUTER FACIL     COMP SCI & AI LAB                                 
+32-D472                  206   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-D474                  288   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-D475A                 364   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-D475B                 256   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-D475C                 160   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-D475CA                843   LABORATORY SVC     COMP SCI & AI LAB                                 
+32-D475D                 228   OFFICE             COMP SCI & AI LAB                                 
+32-D475F                 164   OFFICE             COMP SCI & AI LAB                                 
+32-D476                  257   OFFICE             COMP SCI & AI LAB                                 
+32-D499T                  15   COMPUTER SERVICE   INFO SVCS & TECH                                  
+                    --------                                                                        
+                      17,753                                                                        
+                                                                                                    
+32-G400CA              2,106   CORRIDOR           DP OF FACILITIES                                  
+32-G400CB                 51   CORRIDOR           DP OF FACILITIES                                  
+32-G400CC                732   CORRIDOR           DP OF FACILITIES                                  
+32-G400E14                33   ELEVATOR           DP OF FACILITIES                                  
+32-G400E4                 85   ELEVATOR           DP OF FACILITIES                                  
+32-G400E5                 63   ELEVATOR           DP OF FACILITIES                                  
+32-G400E6                 63   ELEVATOR           DP OF FACILITIES                                  
+32-G400LB                222   LOBBY              DP OF FACILITIES                                  
+32-G400S14               126   STAIRWAY           DP OF FACILITIES                                  
+32-G400S19               123   STAIRWAY           DP OF FACILITIES                                  
+32-G400S22                34   STAIRWAY           DP OF FACILITIES                                  
+32-G400S3                231   STAIRWAY           DP OF FACILITIES                                  
+32-G400S4                151   STAIRWAY           DP OF FACILITIES                                  
+32-G400S9                252   STAIRWAY           DP OF FACILITIES                                  
+32-G400Z                 210   SHAFT SPACE        DP OF FACILITIES                                  
+32-G401                2,763   FOOD FACILITY      COMP SCI & AI LAB                                 
+32-G403                  195   FOOD FACIL SVC     CAMPUS DINING                                     
+32-G408                   69   FOOD FACIL SVC     CAMPUS DINING                                     
+32-G409                  158   OFFICE             CAMPUS DINING                                     
+32-G409E                  39   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-G410                  507   FOOD FACILITY      CAMPUS DINING                                     
+32-G412                  704   FOOD FACILITY      CAMPUS DINING                                     
+32-G412E                  66   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-G414                  208   OFFICE             COMP SCI & AI LAB                                 
+32-G415                  504   RESEARCH LAB       COMP SCI & AI LAB                                 
+32-G416                  210   OFFICE             COMP SCI & AI LAB                                 
+32-G418                  209   OFFICE             COMP SCI & AI LAB                                 
+32-G420T                  57   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-G421A                  46   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G422                  286   OFFICE             COMP SCI & AI LAB                                 
+32-G424                  210   OFFICE             COMP SCI & AI LAB                                 
+32-G425A                  77   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G426                  342   FEMALE LAVATORY    DP OF FACILITIES                                  
+32-G427                   44   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G428                  113   OFFICE             COMP SCI & AI LAB                                 
+32-G429J                  25   JANITOR CLOSET     DP OF FACILITIES                                  
+32-G430                  235   OFFICE             COMP SCI & AI LAB                                 
+32-G430A                 193   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G431                  335   CONFERENCE ROOM    COMP SCI & AI LAB                                 
+32-G431CA                496   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-G431CB                145   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-G431E                  12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-G432                  156   OFFICE             COMP SCI & AI LAB                                 
+32-G433E                 126   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-G434                  156   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-G435                  606   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G435A                 248   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G435CA                375   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-G436                  223   OFFICE             COMP SCI & AI LAB                                 
+32-G437T                  16   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-G438                  222   OFFICE             COMP SCI & AI LAB                                 
+32-G439                   19   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-G440                  220   OFFICE             COMP SCI & AI LAB                                 
+32-G442                  217   OFFICE             COMP SCI & AI LAB                                 
+32-G444                  225   OFFICE             COMP SCI & AI LAB                                 
+32-G449                1,092   CONFERENCE ROOM    COMP SCI & AI LAB                                 
+32-G449A                  61   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G451                  249   CONFERENCE ROOM    COMP SCI & AI LAB                                 
+32-G458                   45   FEMALE LAVATORY    DP OF FACILITIES                                  
+32-G460                  222   MALE LAVATORY      DP OF FACILITIES                                  
+32-G462E                  22   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-G464                  141   OFFICE             COMP SCI & AI LAB                                 
+32-G468                  204   OFFICE             COMP SCI & AI LAB                                 
+32-G470                  255   OFFICE             COMP SCI & AI LAB                                 
+32-G471T                  22   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-G472                  211   OFFICE             COMP SCI & AI LAB                                 
+32-G474                  112   COMPUTER FACIL     COMP SCI & AI LAB                                 
+32-G475                1,969   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G475A                 584   OFFICE             COMP SCI & AI LAB                                 
+32-G475B                 307   OFFICE             COMP SCI & AI LAB                                 
+32-G475C                  82   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-G475D                 758   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G475F                 300   OFFICE             COMP SCI & AI LAB                                 
+32-G476                   18   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G478                  241   OFFICE             COMP SCI & AI LAB                                 
+32-G480                  225   OFFICE             COMP SCI & AI LAB                                 
+32-G482                  227   OFFICE             COMP SCI & AI LAB                                 
+32-G484                  245   OFFICE             COMP SCI & AI LAB                                 
+32-G486                  202   OFFICE             COMP SCI & AI LAB                                 
+32-G488                  172   OFFICE             COMP SCI & AI LAB                                 
+32-G490                   13   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G492                  214   OFFICE             COMP SCI & AI LAB                                 
+32-G494                  202   OFFICE             COMP SCI & AI LAB                                 
+32-G496                  200   OFFICE             COMP SCI & AI LAB                                 
+32-G498                  216   OFFICE             COMP SCI & AI LAB                                 
+                    --------                                                                        
+                      24,352                                                                        
+                                                                                                    
+32-D500CA                417   CORRIDOR           DP OF FACILITIES                                  
+32-D500CB                600   CORRIDOR           DP OF FACILITIES                                  
+32-D500E1                 39   ELEVATOR           DP OF FACILITIES                                  
+32-D500E2                 39   ELEVATOR           DP OF FACILITIES                                  
+32-D500E3                 57   ELEVATOR           DP OF FACILITIES                                  
+32-D500LA                229   LOBBY              DP OF FACILITIES                                  
+32-D500S1                246   STAIRWAY           DP OF FACILITIES                                  
+32-D500S2                279   STAIRWAY           DP OF FACILITIES                                  
+32-D500S20                28   STAIRWAY           DP OF FACILITIES                                  
+32-D500S21                47   STAIRWAY           DP OF FACILITIES                                  
+32-D500Z                 246   SHAFT SPACE        DP OF FACILITIES                                  
+32-D501                  243   MALE LAVATORY      DP OF FACILITIES                                  
+32-D501J                  37   JANITOR CLOSET     DP OF FACILITIES                                  
+32-D502T                  88   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-D503                   45   FEMALE LAVATORY    DP OF FACILITIES                                  
+32-D505A                   4   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-D505E                 175   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-D507                  399   CONFERENCE ROOM    COMP SCI & AI LAB                                 
+32-D508                  622   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-D508CB                633   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-D510                  398   OFFICE             COMP SCI & AI LAB                                 
+32-D512                  221   OFFICE             COMP SCI & AI LAB                                 
+32-D514                  206   OFFICE             COMP SCI & AI LAB                                 
+32-D516                  235   OFFICE             COMP SCI & AI LAB                                 
+32-D524                  227   OFFICE             COMP SCI & AI LAB                                 
+32-D525E                  12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-D525T                  12   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-D526                  206   OFFICE             COMP SCI & AI LAB                                 
+32-D528                  203   OFFICE             COMP SCI & AI LAB                                 
+32-D529                  197   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-D530                  206   OFFICE             COMP SCI & AI LAB                                 
+32-D532                  203   OFFICE             COMP SCI & AI LAB                                 
+32-D533                   82   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-D534                  181   OFFICE             COMP SCI & AI LAB                                 
+32-D537                   41   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-D540                  435   OFFICE             COMP SCI & AI LAB                                 
+32-D542                  277   OFFICE             COMP SCI & AI LAB                                 
+32-D551                  168   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-D552                   76   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-D558                  265   OFFICE             LAB INFO&DEC SYS                                  
+32-D558CA                206   PVT CIRCULATION    LAB INFO&DEC SYS                                  
+32-D560                  206   OFFICE             LAB INFO&DEC SYS                                  
+32-D562                  207   OFFICE             LAB INFO&DEC SYS                                  
+32-D564                  162   OFFICE             LAB INFO&DEC SYS                                  
+32-D564CA                586   PVT CIRCULATION    LAB INFO&DEC SYS                                  
+32-D566                  301   OFFICE             LAB INFO&DEC SYS                                  
+32-D568                  199   OFFICE             LAB INFO&DEC SYS                                  
+32-D569                  178   OFFICE             LAB INFO&DEC SYS                                  
+32-D569A                   4   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-D570                  208   OFFICE             LAB INFO&DEC SYS                                  
+32-D572                  190   OFFICE             LAB INFO&DEC SYS                                  
+32-D574                  247   OFFICE             LAB INFO&DEC SYS                                  
+32-D574A                 256   OFFICE             LAB INFO&DEC SYS                                  
+32-D578                  231   OFFICE SERVICE     LAB INFO&DEC SYS                                  
+32-D580                  203   OFFICE             LAB INFO&DEC SYS                                  
+32-D582                  216   OFFICE             LAB INFO&DEC SYS                                  
+32-D584                  102   OFFICE             LAB INFO&DEC SYS                                  
+32-D599T                   8   COMPUTER SERVICE   INFO SVCS & TECH                                  
+                    --------                                                                        
+                      12,033                                                                        
+                                                                                                    
+32-G500CD                738   CORRIDOR           DP OF FACILITIES                                  
+32-G500CE                521   CORRIDOR           DP OF FACILITIES                                  
+32-G500E14                52   ELEVATOR           DP OF FACILITIES                                  
+32-G500E4                 86   ELEVATOR           DP OF FACILITIES                                  
+32-G500E5                 63   ELEVATOR           DP OF FACILITIES                                  
+32-G500E6                 63   ELEVATOR           DP OF FACILITIES                                  
+32-G500LB                222   LOBBY              DP OF FACILITIES                                  
+32-G500S22                19   STAIRWAY           DP OF FACILITIES                                  
+32-G500S23                65   STAIRWAY           DP OF FACILITIES                                  
+32-G500S3                174   STAIRWAY           DP OF FACILITIES                                  
+32-G500S3V                53   STAIRWAY           DP OF FACILITIES                                  
+32-G500S4                232   STAIRWAY           DP OF FACILITIES                                  
+32-G500Z                 243   SHAFT SPACE        DP OF FACILITIES                                  
+32-G503                  417   FOOD FACILITY      CAMPUS DINING                                     
+32-G504                  267   OFFICE             COMP SCI & AI LAB                                 
+32-G506                  213   OFFICE             COMP SCI & AI LAB                                 
+32-G508                  148   OFFICE             COMP SCI & AI LAB                                 
+32-G510                  356   FOOD FACILITY      CAMPUS DINING                                     
+32-G510A                  96   FOOD FACIL SVC     CAMPUS DINING                                     
+32-G512                  397   FOOD FACILITY      CAMPUS DINING                                     
+32-G514                  208   OFFICE             COMP SCI & AI LAB                                 
+32-G515                  108   OFFICE             COMP SCI & AI LAB                                 
+32-G515A                 764   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G515CA                699   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-G516                  209   OFFICE             COMP SCI & AI LAB                                 
+32-G518                  211   OFFICE             COMP SCI & AI LAB                                 
+32-G519                  145   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-G520T                  57   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-G522                  257   OFFICE             COMP SCI & AI LAB                                 
+32-G524                  279   OFFICE             COMP SCI & AI LAB                                 
+32-G526                  157   OFFICE             COMP SCI & AI LAB                                 
+32-G527                   44   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G528                  382   OFFICE             COMP SCI & AI LAB                                 
+32-G529J                  25   JANITOR CLOSET     DP OF FACILITIES                                  
+32-G530                  258   OFFICE             COMP SCI & AI LAB                                 
+32-G531                  283   CONFERENCE ROOM    COMP SCI & AI LAB                                 
+32-G531CA                197   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-G531CC                106   CORRIDOR           DP OF FACILITIES                                  
+32-G531E                  12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-G532                  226   OFFICE             COMP SCI & AI LAB                                 
+32-G533E                  87   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-G534                  235   OFFICE             COMP SCI & AI LAB                                 
+32-G535                  517   COMPUTER FACIL     COMP SCI & AI LAB                                 
+32-G535CA                899   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-G536                  224   OFFICE             COMP SCI & AI LAB                                 
+32-G537T                  16   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-G538                  227   OFFICE             COMP SCI & AI LAB                                 
+32-G539                   19   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-G540                  224   OFFICE             COMP SCI & AI LAB                                 
+32-G542                  231   OFFICE             COMP SCI & AI LAB                                 
+32-G542A                  47   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G544                  124   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G550                  590   LOUNGE             COMP SCI & AI LAB                                 
+32-G550A                 114   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G558                   45   MALE LAVATORY      DP OF FACILITIES                                  
+32-G560                  219   FEMALE LAVATORY    DP OF FACILITIES                                  
+32-G562E                  22   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-G564                  211   OFFICE             COMP SCI & AI LAB                                 
+32-G566                  135   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G568                  171   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-G570                  294   OFFICE             COMP SCI & AI LAB                                 
+32-G571T                  22   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-G572                  310   OFFICE             COMP SCI & AI LAB                                 
+32-G574                  225   OFFICE             COMP SCI & AI LAB                                 
+32-G575                  593   CONFERENCE ROOM    COMP SCI & AI LAB      THEORY                     
+32-G575CA                686   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-G577                  362   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G578                  410   OFFICE             COMP SCI & AI LAB                                 
+32-G580                  255   OFFICE             COMP SCI & AI LAB                                 
+32-G582                  383   OFFICE             COMP SCI & AI LAB                                 
+32-G585                  182   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G585A                 231   OFFICE             COMP SCI & AI LAB                                 
+32-G585B                 200   OFFICE             COMP SCI & AI LAB                                 
+32-G585C                 175   OFFICE             COMP SCI & AI LAB                                 
+32-G585CA                351   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-G591A                  88   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G592                  204   OFFICE             COMP SCI & AI LAB                                 
+32-G594                  207   OFFICE             COMP SCI & AI LAB                                 
+32-G596                  200   OFFICE             COMP SCI & AI LAB                                 
+32-G598                  217   OFFICE             COMP SCI & AI LAB                                 
+                    --------                                                                        
+                      19,002                                                                        
+                                                                                                    
+32-D600CA                404   CORRIDOR           DP OF FACILITIES                                  
+32-D600CB                512   CORRIDOR           DP OF FACILITIES                                  
+32-D600E1                 61   ELEVATOR           DP OF FACILITIES                                  
+32-D600E2                 64   ELEVATOR           DP OF FACILITIES                                  
+32-D600E3                 90   ELEVATOR           DP OF FACILITIES                                  
+32-D600LA                229   LOBBY              DP OF FACILITIES                                  
+32-D600S1                229   STAIRWAY           DP OF FACILITIES                                  
+32-D600S2                281   STAIRWAY           DP OF FACILITIES                                  
+32-D600S24                68   STAIRWAY           DP OF FACILITIES                                  
+32-D600Z                 231   SHAFT SPACE        DP OF FACILITIES                                  
+32-D601                  244   FEMALE LAVATORY    DP OF FACILITIES                                  
+32-D601J                  37   JANITOR CLOSET     DP OF FACILITIES                                  
+32-D602T                  88   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-D603                   45   MALE LAVATORY      DP OF FACILITIES                                  
+32-D605A                   4   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-D605E                 175   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-D607                  210   OFFICE             LAB INFO&DEC SYS                                  
+32-D608                  242   OFFICE SERVICE     LAB INFO&DEC SYS                                  
+32-D608A                  90   SECY/RECEPTION     LAB INFO&DEC SYS                                  
+32-D608CA                649   PVT CIRCULATION    LAB INFO&DEC SYS                                  
+32-D609                  199   OFFICE             LAB INFO&DEC SYS                                  
+32-D610                  176   OFFICE             LAB INFO&DEC SYS                                  
+32-D610A                 265   OFFICE             LAB INFO&DEC SYS                                  
+32-D612                  231   CONFERENCE ROOM    LAB INFO&DEC SYS                                  
+32-D614                  218   OFFICE             LAB INFO&DEC SYS                                  
+32-D616                  299   OFFICE             LAB INFO&DEC SYS                                  
+32-D624                  227   OFFICE             LAB INFO&DEC SYS                                  
+32-D625E                  12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-D625T                  12   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-D626                  206   OFFICE             LAB INFO&DEC SYS                                  
+32-D628                  203   OFFICE             LAB INFO&DEC SYS                                  
+32-D629                  121   OFFICE SERVICE     LAB INFO&DEC SYS                                  
+32-D630                  206   OFFICE             LAB INFO&DEC SYS                                  
+32-D631                  496   OFFICE             LAB INFO&DEC SYS       COMP LAB                   
+32-D632                  203   OFFICE             LAB INFO&DEC SYS                                  
+32-D633                   82   SECY/RECEPTION     LAB INFO&DEC SYS                                  
+32-D634                  181   OFFICE             LAB INFO&DEC SYS                                  
+32-D635                  313   RESEARCH LAB       LAB INFO&DEC SYS                                  
+32-D640                  382   OFFICE             LAB INFO&DEC SYS                                  
+32-D642                  213   OFFICE             LAB INFO&DEC SYS                                  
+32-D644                   28   OFFICE SERVICE     LAB INFO&DEC SYS                                  
+32-D650                  873   LOUNGE             LAB INFO&DEC SYS                                  
+32-D652                   76   OFFICE SERVICE     LAB INFO&DEC SYS                                  
+32-D655                   23   OFFICE SERVICE     LAB INFO&DEC SYS                                  
+32-D658                  241   OFFICE             LAB INFO&DEC SYS                                  
+32-D660                  206   OFFICE             LAB INFO&DEC SYS                                  
+32-D662                  207   OFFICE             LAB INFO&DEC SYS                                  
+32-D664                  165   SECY/RECEPTION     LAB INFO&DEC SYS                                  
+32-D666                  260   OFFICE             LAB INFO&DEC SYS                                  
+32-D668                  192   OFFICE             LAB INFO&DEC SYS                                  
+32-D670                  194   OFFICE             LAB INFO&DEC SYS                                  
+32-D671                  499   OFFICE             LAB INFO&DEC SYS                                  
+32-D672                  191   OFFICE             LAB INFO&DEC SYS                                  
+32-D674                  193   OFFICE             LAB INFO&DEC SYS                                  
+32-D674A                 198   OFFICE             LAB INFO&DEC SYS                                  
+32-D675                  394   RESEARCH LAB       LAB INFO&DEC SYS                                  
+32-D675CA              1,234   PVT CIRCULATION    LAB INFO&DEC SYS                                  
+32-D677                  538   CONFERENCE ROOM    LAB INFO&DEC SYS                                  
+32-D678                  389   OFFICE             LAB INFO&DEC SYS                                  
+32-D699T                  12   COMPUTER SERVICE   INFO SVCS & TECH                                  
+                    --------                                                                        
+                      14,307                                                                        
+                                                                                                    
+32-G600CC                865   CORRIDOR           DP OF FACILITIES                                  
+32-G600CD                534   CORRIDOR           DP OF FACILITIES                                  
+32-G600E14                52   ELEVATOR           DP OF FACILITIES                                  
+32-G600E4                 90   ELEVATOR           DP OF FACILITIES                                  
+32-G600E5                 67   ELEVATOR           DP OF FACILITIES                                  
+32-G600E6                 66   ELEVATOR           DP OF FACILITIES                                  
+32-G600LC                211   LOBBY              DP OF FACILITIES                                  
+32-G600S23                28   STAIRWAY           DP OF FACILITIES                                  
+32-G600S3                173   STAIRWAY           DP OF FACILITIES                                  
+32-G600S3V                53   STAIRWAY           DP OF FACILITIES                                  
+32-G600S4                 90   STAIRWAY           DP OF FACILITIES                                  
+32-G600Z                 264   SHAFT SPACE        DP OF FACILITIES                                  
+32-G601                  602   CONFERENCE ROOM    COMP SCI & AI LAB                                 
+32-G601A                  78   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G604                  293   OFFICE             COMP SCI & AI LAB                                 
+32-G606                  212   OFFICE             COMP SCI & AI LAB                                 
+32-G608                  119   OFFICE             COMP SCI & AI LAB                                 
+32-G614                  208   OFFICE             COMP SCI & AI LAB                                 
+32-G615                  212   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G616                  209   OFFICE             COMP SCI & AI LAB                                 
+32-G618                  211   OFFICE             COMP SCI & AI LAB                                 
+32-G619                  190   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G619CA                846   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-G620T                  57   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-G622                  230   OFFICE             COMP SCI & AI LAB                                 
+32-G624                  224   OFFICE             COMP SCI & AI LAB                                 
+32-G626                  126   OFFICE             COMP SCI & AI LAB                                 
+32-G627                   44   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G628                  339   OFFICE             COMP SCI & AI LAB                                 
+32-G629A                  61   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G629J                  25   JANITOR CLOSET     DP OF FACILITIES                                  
+32-G630                  267   OFFICE             COMP SCI & AI LAB                                 
+32-G631                  248   CONFERENCE ROOM    COMP SCI & AI LAB                                 
+32-G631E                  12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-G632                  178   OFFICE             COMP SCI & AI LAB                                 
+32-G633E                  87   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-G634                  161   OFFICE             COMP SCI & AI LAB                                 
+32-G635                1,417   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G636                  296   OFFICE             COMP SCI & AI LAB                                 
+32-G637T                  16   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-G638                  224   OFFICE             COMP SCI & AI LAB                                 
+32-G639                   19   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-G640                  227   OFFICE             COMP SCI & AI LAB                                 
+32-G642                  224   OFFICE             COMP SCI & AI LAB                                 
+32-G644                  231   OFFICE             COMP SCI & AI LAB                                 
+32-G646                  141   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-G658                   45   FEMALE LAVATORY    DP OF FACILITIES                                  
+32-G660                  222   MALE LAVATORY      DP OF FACILITIES                                  
+32-G662E                  22   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-G664                  211   OFFICE             COMP SCI & AI LAB                                 
+32-G666                  203   OFFICE             COMP SCI & AI LAB                                 
+32-G668                  262   OFFICE             COMP SCI & AI LAB                                 
+32-G668CA                210   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-G670                  201   OFFICE             COMP SCI & AI LAB                                 
+32-G671T                  22   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-G675                1,315   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G675A                 146   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-G675B                 203   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-G678                  201   OFFICE             COMP SCI & AI LAB                                 
+32-G680                  286   OFFICE             COMP SCI & AI LAB                                 
+32-G682                  324   OFFICE             COMP SCI & AI LAB                                 
+32-G692                  223   OFFICE             COMP SCI & AI LAB                                 
+32-G694                  211   OFFICE             COMP SCI & AI LAB                                 
+32-G696                  214   OFFICE             COMP SCI & AI LAB                                 
+32-G698                  209   OFFICE             COMP SCI & AI LAB                                 
+                    --------                                                                        
+                      15,253                                                                        
+                                                                                                    
+32-D700CA                404   CORRIDOR           DP OF FACILITIES                                  
+32-D700CB                497   CORRIDOR           DP OF FACILITIES                                  
+32-D700E1                 61   ELEVATOR           DP OF FACILITIES                                  
+32-D700E2                 64   ELEVATOR           DP OF FACILITIES                                  
+32-D700E3                 90   ELEVATOR           DP OF FACILITIES                                  
+32-D700LA                229   LOBBY              DP OF FACILITIES                                  
+32-D700S1                229   STAIRWAY           DP OF FACILITIES                                  
+32-D700S2                203   STAIRWAY           DP OF FACILITIES                                  
+32-D700S24                61   STAIRWAY           DP OF FACILITIES                                  
+32-D700Z                 280   SHAFT SPACE        DP OF FACILITIES                                  
+32-D701                  244   MALE LAVATORY      DP OF FACILITIES                                  
+32-D701J                  37   JANITOR CLOSET     DP OF FACILITIES                                  
+32-D702T                  88   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-D703                   45   FEMALE LAVATORY    DP OF FACILITIES                                  
+32-D705A                   4   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-D705E                 175   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-D707                  320   CONFERENCE ROOM    LAB INFO&DEC SYS                                  
+32-D707A                  71   OFFICE SERVICE     LAB INFO&DEC SYS                                  
+32-D708A                 110   CONFERENCE ROOM    LAB INFO&DEC SYS                                  
+32-D708CA              1,001   OFFICE SERVICE     LAB INFO&DEC SYS                                  
+32-D712                  695   OFFICE             LAB INFO&DEC SYS                                  
+
+                                                                                                    
+BUILDING 32                                                                                         
+BUILDING ROOM LIST....DATA AS OF 09/15/2018                                                         
+MIT SPACE ACCOUNTING....SPACE INVENTORY                                                             
+                                                                                                    
+ROOM NUMBER            SQ FT   ROOM USE           DEPARTMENT             GROUP                      
+-----------------   --------   ----------------   --------------------   ----------------           
+32-D714                  241   OFFICE             LAB INFO&DEC SYS                                  
+32-D716                  212   OFFICE             LAB INFO&DEC SYS                                  
+32-D724                  227   OFFICE             LAB INFO&DEC SYS                                  
+32-D725E                  12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-D725T                  12   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-D726                  206   OFFICE             LAB INFO&DEC SYS                                  
+32-D728                  203   OFFICE             LAB INFO&DEC SYS                                  
+32-D729                   92   OFFICE             LAB INFO&DEC SYS                                  
+32-D730                  206   OFFICE             LAB INFO&DEC SYS                                  
+32-D732                  203   OFFICE             LAB INFO&DEC SYS                                  
+32-D733                   82   OFFICE SERVICE     LAB INFO&DEC SYS                                  
+32-D734                  181   OFFICE             LAB INFO&DEC SYS                                  
+32-D740                  686   OFFICE             LAB INFO&DEC SYS                                  
+32-D752                   77   OFFICE SERVICE     LAB INFO&DEC SYS                                  
+32-D755                   25   OFFICE SERVICE     LAB INFO&DEC SYS                                  
+32-D758                  241   OFFICE             LAB INFO&DEC SYS                                  
+32-D760                  208   OFFICE             LAB INFO&DEC SYS                                  
+32-D762                  209   OFFICE             LAB INFO&DEC SYS                                  
+32-D766                  260   OFFICE             LING & PHIL                                       
+32-D768                  190   OFFICE             LING & PHIL                                       
+32-D769                  248   CONFERENCE ROOM    LING & PHIL                                       
+32-D770                  192   OFFICE             LING & PHIL                                       
+32-D771                  212   OFFICE SERVICE     LING & PHIL            COMP LAB                   
+32-D771A                 119   OFFICE SERVICE     LING & PHIL                                       
+32-D771B                 155   OFFICE             LAB INFO&DEC SYS                                  
+32-D771CA                618   OFFICE SERVICE     LAB INFO&DEC SYS                                  
+32-D772                  189   OFFICE             LING & PHIL                                       
+32-D774                  198   OFFICE             LING & PHIL                                       
+32-D775                  267   PVT CIRCULATION    LAB INFO&DEC SYS                                  
+32-D775A                 126   CONFERENCE ROOM    LAB INFO&DEC SYS                                  
+32-D775B                  58   SECY/RECEPTION     LAB INFO&DEC SYS                                  
+32-D775C                   9   OFFICE SERVICE     LAB INFO&DEC SYS                                  
+32-D776                  120   OFFICE             LING & PHIL                                       
+32-D780                  186   OFFICE             LAB INFO&DEC SYS                                  
+32-D782                  151   OFFICE             LAB INFO&DEC SYS                                  
+32-D784                  330   OFFICE             LAB INFO&DEC SYS                                  
+32-D786A                 124   OFFICE SERVICE     LAB INFO&DEC SYS                                  
+32-D799T                  14   COMPUTER SERVICE   INFO SVCS & TECH                                  
+                    --------                                                                        
+                      11,995                                                                        
+                                                                                                    
+32-G700CC                583   CORRIDOR           DP OF FACILITIES                                  
+32-G700E4                 86   ELEVATOR           DP OF FACILITIES                                  
+32-G700E5                 63   ELEVATOR           DP OF FACILITIES                                  
+32-G700E6                 63   ELEVATOR           DP OF FACILITIES                                  
+32-G700LB                222   LOBBY              DP OF FACILITIES                                  
+32-G700S25                61   STAIRWAY           DP OF FACILITIES                                  
+32-G700S3                231   STAIRWAY           DP OF FACILITIES                                  
+32-G700S4                182   STAIRWAY           DP OF FACILITIES                                  
+32-G700Z                 205   SHAFT SPACE        DP OF FACILITIES                                  
+32-G704                  245   OFFICE             COMP SCI & AI LAB                                 
+32-G706                  217   OFFICE             COMP SCI & AI LAB                                 
+32-G707                  619   OFFICE             COMP SCI & AI LAB                                 
+32-G707CA                480   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G708                  159   OFFICE             COMP SCI & AI LAB                                 
+32-G712A                  24   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G714                  207   OFFICE             COMP SCI & AI LAB                                 
+32-G715                  154   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-G716                  209   OFFICE             COMP SCI & AI LAB                                 
+32-G718                  246   OFFICE             COMP SCI & AI LAB                                 
+32-G720                  169   OFFICE             COMP SCI & AI LAB                                 
+32-G720T                  57   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-G722                  125   OFFICE             COMP SCI & AI LAB                                 
+32-G724                  143   OFFICE             COMP SCI & AI LAB                                 
+32-G725                  257   CONFERENCE ROOM    COMP SCI & AI LAB                                 
+32-G725CA                564   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-G726A                  84   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G727                   65   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G728                  211   OFFICE             COMP SCI & AI LAB                                 
+32-G729J                  25   JANITOR CLOSET     DP OF FACILITIES                                  
+32-G730                  307   OFFICE             COMP SCI & AI LAB                                 
+32-G731E                  12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-G733E                  87   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-G735                1,484   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G736                  235   OFFICE             COMP SCI & AI LAB                                 
+32-G737T                  16   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-G738                  224   OFFICE             COMP SCI & AI LAB                                 
+32-G739                   22   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-G740                  227   OFFICE             COMP SCI & AI LAB                                 
+32-G742                  224   OFFICE             COMP SCI & AI LAB                                 
+32-G744                  231   OFFICE             COMP SCI & AI LAB                                 
+32-G746                  107   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-G750                  756   LOUNGE             COMP SCI & AI LAB                                 
+32-G758                   45   MALE LAVATORY      DP OF FACILITIES                                  
+32-G760                  221   FEMALE LAVATORY    DP OF FACILITIES                                  
+32-G762E                  22   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-G764                  145   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-G764A                 175   LABORATORY SVC     COMP SCI & AI LAB                                 
+32-G766                  199   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-G768                  265   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-G770                  204   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-G771T                  22   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-G775                  538   RESEARCH LAB       COMP SCI & AI LAB                                 
+32-G775CA                818   LABORATORY SVC     COMP SCI & AI LAB                                 
+32-G776                  209   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-G778                  214   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-G780                  211   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-G782                  223   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-G784A                 154   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-G785                  798   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-G786                  240   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-G788                  234   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-G790                  184   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+                    --------                                                                        
+                      15,008                                                                        
+                                                                                                    
+32-D800CA                404   CORRIDOR           DP OF FACILITIES                                  
+32-D800CB                642   CORRIDOR           DP OF FACILITIES                                  
+32-D800E1                 61   ELEVATOR           DP OF FACILITIES                                  
+32-D800E2                 64   ELEVATOR           DP OF FACILITIES                                  
+32-D800E3                 90   ELEVATOR           DP OF FACILITIES                                  
+32-D800LA                229   LOBBY              DP OF FACILITIES                                  
+32-D800S1                230   STAIRWAY           DP OF FACILITIES                                  
+32-D800S2                203   STAIRWAY           DP OF FACILITIES                                  
+32-D800S26                61   STAIRWAY           DP OF FACILITIES                                  
+32-D800Z                 318   SHAFT SPACE        DP OF FACILITIES                                  
+32-D801                  243   FEMALE LAVATORY    DP OF FACILITIES                                  
+32-D801J                  37   JANITOR CLOSET     DP OF FACILITIES                                  
+32-D802T                  88   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-D803                   45   PUBLIC LAVATORY    DP OF FACILITIES                                  
+32-D805A                   4   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-D805E                 175   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-D807                  109   OFFICE SERVICE     LING & PHIL                                       
+32-D808                  623   SECY/RECEPTION     LING & PHIL                                       
+32-D808A                 114   OFFICE             LING & PHIL                                       
+32-D808CA                773   PVT CIRCULATION    LING & PHIL                                       
+32-D809                   68   OFFICE SERVICE     LING & PHIL                                       
+32-D812                  198   OFFICE             LING & PHIL                                       
+32-D814                  170   OFFICE             LING & PHIL                                       
+32-D816                  223   OFFICE             LING & PHIL                                       
+32-D818                  304   OFFICE             LING & PHIL                                       
+32-D824                  227   OFFICE             LING & PHIL                                       
+32-D825E                  39   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-D825EE                 12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-D825T                  12   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-D826                  206   OFFICE             LING & PHIL                                       
+32-D828                  203   OFFICE             LING & PHIL                                       
+32-D829                  184   OFFICE             LING & PHIL                                       
+32-D830                  206   OFFICE             LING & PHIL                                       
+32-D831                  354   CONFERENCE ROOM    LING & PHIL                                       
+32-D832                  203   OFFICE             LING & PHIL                                       
+32-D834                  193   OFFICE             LING & PHIL                                       
+32-D836                  106   PVT CIRCULATION    LING & PHIL                                       
+32-D836B                 124   OFFICE             LING & PHIL                                       
+32-D836BA                 80   OFFICE             LING & PHIL                                       
+32-D836C                  92   OFFICE SERVICE     LING & PHIL                                       
+32-D838                  200   OFFICE             LING & PHIL                                       
+32-D840                  302   OFFICE             LING & PHIL                                       
+32-D842                  222   OFFICE             LING & PHIL                                       
+32-D850                  831   LOUNGE             LING & PHIL                                       
+32-D852                   76   OFFICE SERVICE     LING & PHIL                                       
+32-D855                   23   OFFICE SERVICE     LING & PHIL                                       
+32-D858                  206   OFFICE             LING & PHIL                                       
+32-D860                  206   OFFICE             LING & PHIL                                       
+32-D862                  217   OFFICE             LING & PHIL                                       
+32-D864                  170   OFFICE             LING & PHIL                                       
+32-D865                  552   OFFICE SERVICE     LING & PHIL                                       
+32-D865A                 129   OFFICE             LING & PHIL                                       
+32-D865B                 123   OFFICE             LING & PHIL                                       
+32-D866                  133   OFFICE             LING & PHIL                                       
+32-D866A                 149   OFFICE             LING & PHIL                                       
+32-D867                  198   OFFICE             LING & PHIL                                       
+32-D868                  240   OFFICE             LING & PHIL                                       
+32-D875                  226   OFFICE SERVICE     LING & PHIL            Comp Lab                   
+32-D875CA                790   OFFICE SERVICE     LING & PHIL                                       
+32-D875Z                  18   SHAFT SPACE        DP OF FACILITIES                                  
+32-D878                  117   OFFICE             LING & PHIL                                       
+32-D880                  164   OFFICE             LING & PHIL                                       
+32-D882                  255   OFFICE             LING & PHIL                                       
+32-D884                  236   OFFICE             LING & PHIL                                       
+32-D886                  247   OFFICE             LING & PHIL                                       
+32-D899T                  13   COMPUTER SERVICE   INFO SVCS & TECH                                  
+                    --------                                                                        
+                      13,759                                                                        
+                                                                                                    
+32-G800CB                538   CORRIDOR           DP OF FACILITIES                                  
+32-G800E4                 86   ELEVATOR           DP OF FACILITIES                                  
+32-G800E5                 63   ELEVATOR           DP OF FACILITIES                                  
+32-G800E6                 63   ELEVATOR           DP OF FACILITIES                                  
+32-G800LB                223   LOBBY              DP OF FACILITIES                                  
+32-G800S25                61   STAIRWAY           DP OF FACILITIES                                  
+32-G800S3                156   STAIRWAY           DP OF FACILITIES                                  
+32-G800S4                192   STAIRWAY           DP OF FACILITIES                                  
+32-G800Z                 216   SHAFT SPACE        DP OF FACILITIES                                  
+32-G802                   69   OFFICE             COMP SCI & AI LAB                                 
+32-G804                  201   OFFICE             COMP SCI & AI LAB                                 
+32-G806                  284   OFFICE             COMP SCI & AI LAB                                 
+32-G808                  123   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G808A                 225   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G814                  208   OFFICE             COMP SCI & AI LAB                                 
+32-G816                  209   OFFICE             COMP SCI & AI LAB                                 
+32-G818                  211   OFFICE             COMP SCI & AI LAB                                 
+32-G820                  147   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-G820T                  57   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-G822                  316   OFFICE             COMP SCI & AI LAB                                 
+32-G824A                 125   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G825                  256   CONFERENCE ROOM    COMP SCI & AI LAB                                 
+32-G825CA              1,004   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-G826                  200   OFFICE             COMP SCI & AI LAB                                 
+32-G827                   44   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G828                  249   OFFICE             COMP SCI & AI LAB                                 
+32-G829J                  25   JANITOR CLOSET     DP OF FACILITIES                                  
+32-G831E                  12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-G833E                  87   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-G834                  201   RESEARCH LAB       COMP SCI & AI LAB                                 
+32-G835                  628   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G835A                 285   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G835CA                141   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-G835CB                187   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-G836                  286   OFFICE             COMP SCI & AI LAB                                 
+32-G837T                  16   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-G838                  223   OFFICE             COMP SCI & AI LAB                                 
+32-G839                   19   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-G840                  227   OFFICE             COMP SCI & AI LAB                                 
+32-G842                  224   OFFICE             COMP SCI & AI LAB                                 
+32-G844                  231   OFFICE             COMP SCI & AI LAB                                 
+32-G846                  184   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-G846A                  32   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G858                   45   FEMALE LAVATORY    DP OF FACILITIES                                  
+32-G860                  222   MALE LAVATORY      DP OF FACILITIES                                  
+32-G862E                  22   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-G864                  133   OFFICE             COMP SCI & AI LAB                                 
+32-G866                  272   OFFICE             COMP SCI & AI LAB                                 
+32-G868                  187   OFFICE             COMP SCI & AI LAB                                 
+32-G870                  257   RESEARCH LAB       COMP SCI & AI LAB                                 
+32-G871T                  22   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-G875A                 207   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G875CA                758   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-G882                  868   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G883                  139   OFFICE             COMP SCI & AI LAB                                 
+32-G884                  197   OFFICE             COMP SCI & AI LAB                                 
+32-G885                  155   OFFICE             COMP SCI & AI LAB                                 
+32-G886                  217   OFFICE             COMP SCI & AI LAB                                 
+32-G887                  155   OFFICE             COMP SCI & AI LAB                                 
+32-G888                  338   OFFICE             COMP SCI & AI LAB                                 
+32-G890                  238   OFFICE             COMP SCI & AI LAB                                 
+                    --------                                                                        
+                      12,965                                                                        
+                                                                                                    
+32-D900CA                305   CORRIDOR           DP OF FACILITIES                                  
+32-D900CB                514   CORRIDOR           DP OF FACILITIES                                  
+32-D900E1                 61   ELEVATOR           DP OF FACILITIES                                  
+32-D900E2                 64   ELEVATOR           DP OF FACILITIES                                  
+32-D900E3                 90   ELEVATOR           DP OF FACILITIES                                  
+32-D900LA                229   LOBBY              DP OF FACILITIES                                  
+32-D900S1                105   STAIRWAY           DP OF FACILITIES                                  
+32-D900S1V                34   STAIRWAY           DP OF FACILITIES                                  
+32-D900S2                203   STAIRWAY           DP OF FACILITIES                                  
+32-D900S26                64   STAIRWAY           DP OF FACILITIES                                  
+32-D900S27                85   STAIRWAY           DP OF FACILITIES                                  
+32-D900Z                 359   SHAFT SPACE        DP OF FACILITIES                                  
+32-D901                  244   MALE LAVATORY      DP OF FACILITIES                                  
+32-D901J                  37   JANITOR CLOSET     DP OF FACILITIES                                  
+32-D902T                 115   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-D903                   45   PUBLIC LAVATORY    DP OF FACILITIES                                  
+32-D905A                   4   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-D905E                 175   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-D908                  514   OFFICE SERVICE     LING & PHIL                                       
+32-D908CA              1,282   PVT CIRCULATION    LING & PHIL                                       
+32-D912                  330   OFFICE             LING & PHIL                                       
+32-D914                  139   OFFICE             LING & PHIL                                       
+32-D916                  210   OFFICE             LING & PHIL                                       
+32-D918                  195   OFFICE             LING & PHIL                                       
+32-D918A                  49   OFFICE SERVICE     LING & PHIL                                       
+32-D924                  227   OFFICE             LING & PHIL                                       
+32-D925E                  12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-D925T                  12   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-D926                  206   OFFICE             LING & PHIL                                       
+32-D927                  327   OFFICE             LING & PHIL                                       
+32-D928                  203   OFFICE             LING & PHIL                                       
+32-D929                  196   OFFICE             LING & PHIL                                       
+32-D930                  206   OFFICE             LING & PHIL                                       
+32-D931                  213   OFFICE             LING & PHIL                                       
+32-D932                  203   OFFICE             LING & PHIL                                       
+32-D933                   74   OFFICE             LING & PHIL                                       
+32-D933Z                   5   SHAFT SPACE        DP OF FACILITIES                                  
+32-D934                  193   OFFICE             LING & PHIL                                       
+32-D936                  249   OFFICE             LING & PHIL                                       
+32-D936CA                 84   PVT CIRCULATION    LING & PHIL                                       
+32-D938                  174   OFFICE             LING & PHIL                                       
+32-D940                  283   OFFICE             LING & PHIL                                       
+32-D942                  235   OFFICE             LING & PHIL                                       
+32-D952                   79   OFFICE SERVICE     LING & PHIL                                       
+32-D958                  248   RESEARCH LAB       LING & PHIL                                       
+32-D960                  206   OFFICE             LING & PHIL                                       
+32-D962                  140   OFFICE             LING & PHIL                                       
+32-D962A                 140   OFFICE             LING & PHIL                                       
+32-D964                  139   OFFICE SERVICE     LING & PHIL                                       
+32-D966                  244   OFFICE             LING & PHIL                                       
+32-D968A                  63   OFFICE SERVICE     LING & PHIL                                       
+32-D968B                   4   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-D968CA                248   PVT CIRCULATION    LING & PHIL                                       
+32-D970                  144   OFFICE             LING & PHIL                                       
+32-D970A                 161   OFFICE             LING & PHIL                                       
+32-D972                  176   OFFICE             LING & PHIL                                       
+32-D976                  674   OFFICE             LING & PHIL                                       
+32-D976CA                481   OFFICE SERVICE     LING & PHIL                                       
+32-D978                  308   OFFICE             LING & PHIL                                       
+32-D999T                   8   COMPUTER SERVICE   INFO SVCS & TECH                                  
+                    --------                                                                        
+                      12,017                                                                        
+                                                                                                    
+32-G900CB                533   CORRIDOR           DP OF FACILITIES                                  
+32-G900E4                 86   ELEVATOR           DP OF FACILITIES                                  
+32-G900E5                 63   ELEVATOR           DP OF FACILITIES                                  
+32-G900E6                 63   ELEVATOR           DP OF FACILITIES                                  
+32-G900LB                222   LOBBY              DP OF FACILITIES                                  
+32-G900S28                58   STAIRWAY           DP OF FACILITIES                                  
+32-G900S3                128   STAIRWAY           DP OF FACILITIES                                  
+32-G900S4                 99   STAIRWAY           DP OF FACILITIES                                  
+32-G900Z                 195   SHAFT SPACE        DP OF FACILITIES                                  
+32-G904                  578   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-G904A                 298   RESEARCH LAB       COMP SCI & AI LAB                                 
+32-G904B                 797   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-G904Z                   8   SHAFT SPACE        DP OF FACILITIES                                  
+32-G914                  208   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-G916                  209   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-G918                  211   RSCH LAB-OFFICE    COMP SCI & AI LAB                                 
+32-G918CA                246   LABORATORY SVC     COMP SCI & AI LAB                                 
+32-G920                  230   OFFICE             COMP SCI & AI LAB                                 
+32-G920T                  57   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-G922                  154   OFFICE             COMP SCI & AI LAB                                 
+32-G924                  190   OFFICE             COMP SCI & AI LAB                                 
+32-G925                  271   CONFERENCE ROOM    COMP SCI & AI LAB                                 
+32-G925CA                691   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-G927                   44   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G928                  223   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G929J                  25   JANITOR CLOSET     DP OF FACILITIES                                  
+32-G930                  250   OFFICE             COMP SCI & AI LAB                                 
+32-G931E                  12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-G932                  157   RESEARCH LAB       COMP SCI & AI LAB                                 
+32-G933E                  87   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-G934                  286   OFFICE             COMP SCI & AI LAB                                 
+32-G935                  943   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G935CA                143   PVT CIRCULATION    COMP SCI & AI LAB                                 
+32-G936                  223   OFFICE             COMP SCI & AI LAB                                 
+32-G937T                  16   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-G938                  227   OFFICE             COMP SCI & AI LAB                                 
+32-G939                   19   UTILITY/MECH RM    DP OF FACILITIES                                  
+32-G940                  224   OFFICE             COMP SCI & AI LAB                                 
+32-G942                  231   OFFICE             COMP SCI & AI LAB                                 
+32-G944                  180   SECY/RECEPTION     COMP SCI & AI LAB                                 
+32-G949E                  50   ELECTRIC CLOSET    DP OF FACILITIES                                  
+32-G950                  718   LOUNGE             COMP SCI & AI LAB                                 
+32-G956                  140   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G958                   45   MALE LAVATORY      DP OF FACILITIES                                  
+32-G960                  221   FEMALE LAVATORY    DP OF FACILITIES                                  
+32-G966                  243   OFFICE             COMP SCI & AI LAB                                 
+32-G968                  189   OFFICE             COMP SCI & AI LAB                                 
+32-G970A                  77   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G971T                  22   COMPUTER SERVICE   INFO SVCS & TECH                                  
+32-G972                  190   OFFICE             COMP SCI & AI LAB                                 
+32-G978                  742   OFFICE SERVICE     COMP SCI & AI LAB                                 
+32-G978A                 630   OFFICE             COMP SCI & AI LAB                                 
+32-G978B                 747   OFFICE             COMP SCI & AI LAB                                 
+32-G982                  270   OFFICE             COMP SCI & AI LAB                                 
+32-G992                  225   OFFICE             COMP SCI & AI LAB                                 
+32-G994                  220   OFFICE             COMP SCI & AI LAB                                 
+32-G996                  219   OFFICE             COMP SCI & AI LAB                                 
+                    --------                                                                        
+                      13,833                                                                        
+                                                                                                    
+32-D1000S27              144   STAIRWAY           DP OF FACILITIES                                  
+32-D1017                 648   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                         792                                                                        
+                                                                                                    
+32-G1000S28               80   STAIRWAY           DP OF FACILITIES                                  
+32-G1000Z                 69   SHAFT SPACE        DP OF FACILITIES                                  
+32-G1063                 768   UTILITY/MECH RM    DP OF FACILITIES   

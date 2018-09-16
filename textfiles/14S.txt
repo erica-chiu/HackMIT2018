@@ -1,0 +1,135 @@
+14S-100CGM               154   CORRIDOR           DP OF FACILITIES                                  
+14S-100CHM               281   CORRIDOR           DP OF FACILITIES                                  
+14S-100E4                 25   ELEVATOR           DP OF FACILITIES                                  
+14S-100E4M                25   ELEVATOR           DP OF FACILITIES                                  
+14S-100E5                 49   ELEVATOR           DP OF FACILITIES                                  
+14S-100E5M                47   ELEVATOR           DP OF FACILITIES                                  
+14S-100SC                441   STAIRWAY           DP OF FACILITIES                                  
+14S-100SD                413   STAIRWAY           DP OF FACILITIES                                  
+14S-100SL                 36   PVT CIRCULATION    LIBRARIES                                         
+14S-100SLM                41   PVT CIRCULATION    LIBRARIES                                         
+14S-100SP                 16   PVT CIRCULATION    LIBRARIES                                         
+14S-100SQM                34   PVT CIRCULATION    LIBRARIES                                         
+14S-100SR                 25   PVT CIRCULATION    LIBRARIES                                         
+14S-100SRM                30   PVT CIRCULATION    LIBRARIES                                         
+14S-100Z                 142   SHAFT SPACE        DP OF FACILITIES                                  
+14S-102M                 803   STACK/STUDY        LIBRARIES                                         
+14S-103                1,345   LIBRARY PROCESS    LIBRARIES                                         
+14S-103A                 139   OFFICE             LIBRARIES                                         
+14S-103B                 148   OFFICE             LIBRARIES                                         
+14S-103E                   5   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14S-124AM                  6   OFFICE SERVICE     LIBRARIES                                         
+14S-124M                 240   OFFICE             LIBRARIES                                         
+14S-126                  894   STUDY ROOM         LIBRARIES                                         
+14S-126A                 117   STUDY ROOM         LIBRARIES                                         
+14S-126AA                 27   PVT LAVATORY       LIBRARIES                                         
+14S-126B                 117   STUDY ROOM         LIBRARIES                                         
+14S-126E                  46   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14S-128M                 143   OFFICE             LIBRARIES                                         
+14S-132                  147   OFFICE             LIBRARIES                                         
+14S-132AM                 17   OFFICE SERVICE     LIBRARIES                                         
+14S-132M                 138   OFFICE             LIBRARIES                                         
+14S-133AEM                31   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14S-133E                   6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14S-133EM                  6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14S-133M                 324   STACK/STUDY        LIBRARIES                                         
+14S-133ZM                 43   SHAFT SPACE        DP OF FACILITIES                                  
+14S-134                  142   OFFICE             LIBRARIES                                         
+14S-134A                  72   PVT CIRCULATION    LIBRARIES                                         
+14S-134J                  12   JANITOR CLOSET     DP OF FACILITIES                                  
+14S-136                  145   OFFICE             LIBRARIES                                         
+14S-136M                 141   OFFICE             LIBRARIES                                         
+14S-139                9,459   STACK/STUDY        LIBRARIES                                         
+14S-139E                  22   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14S-139M                 794   STACK/STUDY        LIBRARIES                                         
+14S-140AM                 26   OFFICE SERVICE     LIBRARIES                                         
+14S-140M                 142   OFFICE             LIBRARIES                                         
+14S-144                  147   OFFICE             LIBRARIES                                         
+14S-144M                 149   OFFICE             LIBRARIES                                         
+14S-147C                  21   UTILITY/MECH RM    DP OF FACILITIES                                  
+14S-147E                   8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14S-148                  298   OFFICE             LIBRARIES                                         
+14S-148M                 134   OFFICE             LIBRARIES                                         
+14S-152AM                  8   OFFICE SERVICE     LIBRARIES                                         
+14S-152M                 150   OFFICE             LIBRARIES                                         
+                    --------                                                                        
+                      18,368                                                                        
+                                                                                                    
+14S-200E4                 25   ELEVATOR           DP OF FACILITIES                                  
+14S-200E4M                26   ELEVATOR           DP OF FACILITIES                                  
+14S-200E5                 42   ELEVATOR           DP OF FACILITIES                                  
+14S-200E5M                41   ELEVATOR           DP OF FACILITIES                                  
+14S-200SC                484   STAIRWAY           DP OF FACILITIES                                  
+14S-200SD                416   STAIRWAY           DP OF FACILITIES                                  
+14S-200SN                 24   PVT CIRCULATION    LIBRARIES                                         
+14S-200SNM                33   PVT CIRCULATION    LIBRARIES                                         
+14S-200SQ                 22   PVT CIRCULATION    LIBRARIES                                         
+14S-200SQM                33   PVT CIRCULATION    LIBRARIES                                         
+14S-200SS                 18   PVT CIRCULATION    LIBRARIES                                         
+14S-200SSM                29   PVT CIRCULATION    LIBRARIES                                         
+14S-200Z                 201   SHAFT SPACE        DP OF FACILITIES                                  
+14S-202M                 908   STACK/STUDY        LIBRARIES                                         
+14S-203M               1,124   STACK/STUDY        LIBRARIES                                         
+14S-208                  157   SECY/RECEPTION     LIBRARIES                                         
+14S-208A                  95   OFFICE             LIBRARIES                                         
+14S-208Z                  21   SHAFT SPACE        DP OF FACILITIES                                  
+14S-210                  154   OFFICE             LIBRARIES                                         
+14S-212                   98   OFFICE SERVICE     LIBRARIES                                         
+14S-212A                  18   OFFICE SERVICE     LIBRARIES                                         
+14S-212B                  22   OFFICE SERVICE     LIBRARIES                                         
+14S-214                  169   OFFICE             LIBRARIES                                         
+14S-216                  128   OFFICE SERVICE     LIBRARIES                                         
+14S-216A                  39   OFFICE SERVICE     LIBRARIES                                         
+14S-217E                   4   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14S-217EM                 10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14S-218                  261   OFFICE             LIBRARIES                                         
+14S-219               10,594   STACK/STUDY        LIBRARIES                                         
+14S-219A                 395   STACK/STUDY        LIBRARIES                                         
+14S-219E                   8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14S-219M               1,016   STACK/STUDY        LIBRARIES                                         
+14S-222                  139   OFFICE             LIBRARIES                                         
+14S-224                  158   OFFICE             LIBRARIES                                         
+14S-226                  127   SECY/RECEPTION     LIBRARIES                                         
+14S-226A                 118   OFFICE             LIBRARIES                                         
+14S-230                  179   OFFICE             LIBRARIES                                         
+14S-234                  286   OFFICE SERVICE     LIBRARIES                                         
+14S-234C                   6   OFFICE SERVICE     LIBRARIES                                         
+14S-234ZM                 22   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      17,653                                                                        
+                                                                                                    
+14S-300CD                415   CORRIDOR           DP OF FACILITIES                                  
+14S-300CE                128   CORRIDOR           DP OF FACILITIES                                  
+14S-300CF                641   CORRIDOR           DP OF FACILITIES                                  
+14S-300SC                322   STAIRWAY           DP OF FACILITIES                                  
+14S-300SD                293   STAIRWAY           DP OF FACILITIES                                  
+14S-300SM                 53   STAIRWAY           DP OF FACILITIES                                  
+14S-300Z                 250   SHAFT SPACE        DP OF FACILITIES                                  
+14S-308                  192   OFFICE             LIBRARIES                                         
+14S-310                   91   OFFICE             LIBRARIES                                         
+14S-312                  178   OFFICE             LIBRARIES                                         
+14S-312A                  69   OFFICE SERVICE     LIBRARIES                                         
+14S-316                   90   OFFICE             LIBRARIES                                         
+14S-318                   92   OFFICE             LIBRARIES                                         
+14S-320                   90   OFFICE             LIBRARIES                                         
+14S-322                   86   OFFICE             LIBRARIES                                         
+14S-324                   90   OFFICE             LIBRARIES                                         
+14S-326                   84   OFFICE             LIBRARIES                                         
+14S-328                   96   OFFICE SERVICE     LIBRARIES                                         
+14S-330                   92   OFFICE             LIBRARIES                                         
+14S-332                   84   OFFICE SERVICE     LIBRARIES                                         
+14S-334                  188   CONFERENCE ROOM    LIBRARIES                                         
+14S-338                   58   MALE LAVATORY      DP OF FACILITIES                                  
+14S-340                   97   UTILITY/MECH RM    DP OF FACILITIES                                  
+14S-342                   44   STORAGE FACILITY   DP OF FACIL ADM                                   
+14S-343J                  21   JANITOR CLOSET     DP OF FACILITIES                                  
+14S-345                  124   FEMALE LAVATORY    DP OF FACILITIES                                  
+14S-346                  195   STUDY ROOM         LIBRARIES                                         
+                    --------                                                                        
+                       4,166                                                                        
+                                                                                                    
+14S-400SM                 31   STAIRWAY           DP OF FACILITIES                                  
+14S-400Z                  61   SHAFT SPACE        DP OF FACILITIES                                  
+14S-414                2,731   UTILITY/MECH RM    DP OF FACILITIES                                  
+14S-420                  116   UTILITY/MECH RM    DP OF FACILITIES                                  
+14S-434                2,727   UTILITY/MECH RM    DP OF FACILITIES

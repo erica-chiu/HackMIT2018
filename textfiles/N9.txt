@@ -1,0 +1,16 @@
+N9-100SA                  40   LABORATORY SVC     EARTH ATMO&PL SC                                  
+N9-100SAM                 40   LABORATORY SVC     EARTH ATMO&PL SC                                  
+N9-101                 2,744   RESEARCH LAB       EARTH ATMO&PL SC                                  
+N9-101A                  136   RESEARCH LAB       EARTH ATMO&PL SC                                  
+N9-101B                  159   LABORATORY SVC     EARTH ATMO&PL SC                                  
+N9-101E                   79   ELECTRIC CLOSET    DP OF FACILITIES                                  
+N9-101EM                  75   ELECTRIC CLOSET    DP OF FACILITIES                                  
+N9-102                   221   RESEARCH LAB       EARTH ATMO&PL SC                                  
+N9-102A                  148   RESEARCH LAB       EARTH ATMO&PL SC                                  
+N9-102M                  520   LABORATORY SVC     EARTH ATMO&PL SC                                  
+N9-103                   145   LABORATORY SVC     EARTH ATMO&PL SC                                  
+N9-103A                   65   PVT LAVATORY       EARTH ATMO&PL SC                                  
+N9-103EM                   7   ELECTRIC CLOSET    DP OF FACILITIES                                  
+N9-103M                  277   LABORATORY SVC     EARTH ATMO&PL SC                                  
+N9-104                   142   LABORATORY SVC     EARTH ATMO&PL SC                                  
+N9-104A                  710   LABORATORY SVC     EARTH ATMO&PL SC             

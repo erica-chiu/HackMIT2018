@@ -1,0 +1,90 @@
+7A-100E1                  60   ELEVATOR           DP OF FACILITIES                                  
+7A-100SA                 103   STAIRWAY           DP OF FACILITIES                                  
+7A-100SB                 100   STAIRWAY           DP OF FACILITIES                                  
+7A-100Z                   23   SHAFT SPACE        DP OF FACILITIES                                  
+7A-101E                   13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+7A-102                   144   STUDY ROOM         LIBRARIES                                         
+7A-110                 2,359   STACK/STUDY        LIBRARIES                                         
+7A-110A                  141   STACK/STUDY        LIBRARIES                                         
+7A-110B                  244   STACK/STUDY        LIBRARIES              ATHENA                     
+7A-113                    99   STUDY ROOM         LIBRARIES                                         
+                    --------                                                                        
+                       3,286                                                                        
+                                                                                                    
+7A-200CA                 567   CORRIDOR           DP OF FACILITIES                                  
+7A-200E1                  60   ELEVATOR           DP OF FACILITIES                                  
+7A-200SA                 108   STAIRWAY           DP OF FACILITIES                                  
+7A-200SB                 105   STAIRWAY           DP OF FACILITIES                                  
+7A-200Z                   20   SHAFT SPACE        DP OF FACILITIES                                  
+7A-201                   461   STACK/STUDY        LIBRARIES                                         
+7A-202                   143   STACK/STUDY        LIBRARIES                                         
+7A-206                   360   STACK/STUDY        LIBRARIES                                         
+7A-210                 1,300   STACK/STUDY        LIBRARIES                                         
+7A-211                    16   UTILITY/MECH RM    DP OF FACILITIES                                  
+7A-212                    69   STUDY ROOM         LIBRARIES                                         
+7A-213                    78   STUDY ROOM         LIBRARIES                                         
+                    --------                                                                        
+                       3,289                                                                        
+                                                                                                    
+7A-300CH                  88   PVT CIRCULATION    LIBRARIES                                         
+7A-300E1                  60   ELEVATOR           DP OF FACILITIES                                  
+7A-300SA                 108   STAIRWAY           DP OF FACILITIES                                  
+7A-300SB                 105   STAIRWAY           DP OF FACILITIES                                  
+7A-300Z                    9   SHAFT SPACE        DP OF FACILITIES                                  
+7A-301                   543   PVT CIRCULATION    LIBRARIES                                         
+7A-301T                   13   TELECOM CLOSET     DP OF FACILITIES                                  
+7A-302                   144   STUDY ROOM         LIBRARIES                                         
+7A-303                     5   STACK/STUDY        LIBRARIES                                         
+7A-310                   616   STACK/STUDY        LIBRARIES                                         
+7A-310A                  297   STACK/STUDY        LIBRARIES                                         
+7A-312                    75   OFFICE SERVICE     LIBRARIES                                         
+7A-312A                  109   OFFICE             LIBRARIES                                         
+7A-312B                   85   OFFICE             LIBRARIES                                         
+7A-312C                    4   OFFICE SERVICE     LIBRARIES                                         
+7A-314                   113   OFFICE SERVICE     LIBRARIES                                         
+7A-314A                  104   OFFICE             LIBRARIES                                         
+7A-314B                   84   OFFICE             LIBRARIES                                         
+7A-314C                    3   OFFICE SERVICE     LIBRARIES                                         
+7A-314D                   73   OFFICE             LIBRARIES                                         
+                    --------                                                                        
+                       2,639                                                                        
+                                                                                                    
+7A-400E1                  60   ELEVATOR           DP OF FACILITIES                                  
+7A-400SA                 108   STAIRWAY           DP OF FACILITIES                                  
+7A-400SB                 105   STAIRWAY           DP OF FACILITIES                                  
+7A-400Z                   20   SHAFT SPACE        DP OF FACILITIES                                  
+7A-401                   474   PVT CIRCULATION    LIBRARIES                                         
+7A-401E                   13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+7A-402                   144   STUDY ROOM         LIBRARIES                                         
+7A-403                     5   STACK/STUDY        LIBRARIES                                         
+7A-410                 1,664   STACK/STUDY        LIBRARIES                                         
+7A-413                    99   STUDY ROOM         LIBRARIES                                         
+7A-415                    25   STACK/STUDY        LIBRARIES                                         
+                    --------                                                                        
+                       2,717                                                                        
+                                                                                                    
+7A-500E1                  60   ELEVATOR           DP OF FACILITIES                                  
+7A-500SA                 108   STAIRWAY           DP OF FACILITIES                                  
+7A-500SB                 105   STAIRWAY           DP OF FACILITIES                                  
+7A-500Z                   20   SHAFT SPACE        DP OF FACILITIES                                  
+7A-501                   466   PVT CIRCULATION    LIBRARIES                                         
+7A-501E                   13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+7A-502                   144   STUDY ROOM         LIBRARIES                                         
+7A-503                    10   STACK/STUDY        LIBRARIES                                         
+7A-510                 1,667   STACK/STUDY        LIBRARIES                                         
+7A-513                    99   STUDY ROOM         LIBRARIES                                         
+7A-515                    25   STACK/STUDY        LIBRARIES                                         
+                    --------                                                                        
+                       2,717                                                                        
+                                                                                                    
+7A-600E1                  60   ELEVATOR           DP OF FACILITIES                                  
+7A-600SA                 108   STAIRWAY           DP OF FACILITIES                                  
+7A-600SB                 105   STAIRWAY           DP OF FACILITIES                                  
+7A-600Z                   20   SHAFT SPACE        DP OF FACILITIES                                  
+7A-601                   456   PVT CIRCULATION    LIBRARIES                                         
+7A-601E                   13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+7A-602                   144   STUDY ROOM         LIBRARIES                                         
+7A-603                     5   STACK/STUDY        LIBRARIES                                         
+7A-610                 1,681   STACK/STUDY        LIBRARIES                                         
+7A-613                    99   STUDY ROOM         LIBRARIES                                         
+7A-615                    25   STACK/STUDY        LIBRARIES     

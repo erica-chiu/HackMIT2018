@@ -1,0 +1,277 @@
+NE47-000Z                  4   SHAFT SPACE        DP OF FACILITIES                                  
+NE47-015                 181   RESEARCH LAB       BIOENG DEPT                                       
+NE47-015A                174   RESEARCH LAB       BIOENG DEPT                                       
+NE47-015B                306   LABORATORY SVC     BIOENG DEPT                                       
+NE47-015C                 98   RESEARCH LAB       BIOENG DEPT                                       
+NE47-017                 123   LABORATORY SVC     BIOENG DEPT                                       
+NE47-017A                130   LABORATORY SVC     BIOENG DEPT                                       
+NE47-017B                 93   LABORATORY SVC     BIOENG DEPT                                       
+NE47-017C                235   LABORATORY SVC     INST SLDR NANOTECH                                
+NE47-017T                 25   TELECOM CLOSET     DP OF FACILITIES                                  
+NE47-019                  62   LABORATORY SVC     BIOENG DEPT                                       
+NE47-065                 335   LAB SUPPORT SHOP   BIOENG DEPT                                       
+NE47-065A                337   LAB SUPPORT SHOP   INST SLDR NANOTECH                                
+NE47-070T                307   TELECOM CLOSET     DP OF FACILITIES                                  
+NE47-071T                  5   TELECOM CLOSET     DP OF FACILITIES                                  
+NE47-080T                239   TELECOM CLOSET     DP OF FACILITIES                                  
+NE47-083                 340   LAB SUPPORT SHOP   BIOENG DEPT                                       
+NE47-083A                341   LAB SUPPORT SHOP   INST SLDR NANOTECH                                
+NE47-084                 548   RESEARCH LAB       INST SLDR NANOTECH                                
+NE47-084A                 53   LAB SUPPORT SHOP   INST SLDR NANOTECH                                
+NE47-087                 327   RESEARCH LAB       INST SLDR NANOTECH                                
+                    --------                                                                        
+                       4,263                                                                        
+                                                                                                    
+NE47-100Z                  9   SHAFT SPACE        DP OF FACILITIES                                  
+NE47-101                  68   PVT CIRCULATION    BIOENG DEPT                                       
+NE47-101E                 23   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NE47-103                 701   RESEARCH LAB       BIOENG DEPT                                       
+NE47-106                 137   LABORATORY SVC     BIOENG DEPT                                       
+NE47-106A                166   LABORATORY SVC     BIOENG DEPT                                       
+NE47-107               1,113   RESEARCH LAB       BIOENG DEPT                                       
+NE47-110                 158   RESEARCH LAB       BIOENG DEPT                                       
+NE47-114A                 41   OFFICE             BIOENG DEPT                                       
+NE47-114B                 36   OFFICE             BIOENG DEPT                                       
+NE47-114C                 34   OFFICE             BIOENG DEPT                                       
+NE47-115A                 44   OFFICE             BIOENG DEPT                                       
+NE47-115B                 62   OFFICE             BIOENG DEPT                                       
+NE47-116                 120   LABORATORY SVC     BIOENG DEPT                                       
+NE47-116A                 64   LABORATORY SVC     BIOENG DEPT                                       
+NE47-117A                 57   OFFICE             BIOENG DEPT                                       
+NE47-117B                 57   OFFICE             BIOENG DEPT                                       
+NE47-118                  89   OFFICE SERVICE     BIOENG DEPT                                       
+NE47-119A                 52   OFFICE             BIOENG DEPT                                       
+NE47-119B                 60   OFFICE             BIOENG DEPT                                       
+NE47-120A                 35   OFFICE             BIOENG DEPT                                       
+NE47-120B                 37   OFFICE             BIOENG DEPT                                       
+NE47-120C                 33   OFFICE             BIOENG DEPT                                       
+NE47-121                 245   OFFICE             BIOENG DEPT                                       
+NE47-123                 165   OFFICE             BIOENG DEPT                                       
+NE47-126                  74   OFFICE             BIOENG DEPT                                       
+NE47-127                 191   OFFICE             BIOENG DEPT                                       
+NE47-128                  71   SECY/RECEPTION     BIOENG DEPT                                       
+NE47-129                 190   OFFICE             BIOENG DEPT                                       
+NE47-134                 399   CONFERENCE ROOM    BIOENG DEPT                                       
+NE47-140                 616   PVT CIRCULATION    BIOENG DEPT                                       
+NE47-180E                279   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NE47-181               1,299   LABORATORY SVC     BIOENG DEPT                                       
+NE47-181A                 29   UTILITY/MECH RM    DP OF FACILITIES                                  
+NE47-189                 823   CONFERENCE ROOM    INST SLDR NANOTECH                                
+NE47-194                 116   LABORATORY SVC     INST SLDR NANOTECH                                
+NE47-197A                146   LABORATORY SVC     BIOENG DEPT                                       
+NE47-197B                166   LABORATORY SVC     INST SLDR NANOTECH                                
+                    --------                                                                        
+                       8,005                                                                        
+                                                                                                    
+NE47-200Z                137   SHAFT SPACE        DP OF FACILITIES                                  
+NE47-201                 717   OFFICE SERVICE     BIOENG DEPT                                       
+NE47-205                 140   RESEARCH LAB       BIOENG DEPT                                       
+NE47-205A                100   RESEARCH LAB       BIOENG DEPT                                       
+NE47-205B                129   RESEARCH LAB       BIOENG DEPT                                       
+NE47-205C                193   RESEARCH LAB       BIOENG DEPT                                       
+NE47-205D                142   RESEARCH LAB       BIOENG DEPT                                       
+NE47-205F                142   RESEARCH LAB       BIOENG DEPT                                       
+NE47-209                 161   RESEARCH LAB       BIOENG DEPT                                       
+NE47-212                  11   LABORATORY SVC     BIOENG DEPT                                       
+NE47-214                  12   LABORATORY SVC     BIOENG DEPT                                       
+NE47-215                 692   RESEARCH LAB       BIOENG DEPT                                       
+NE47-216                 132   RESEARCH LAB       BIOENG DEPT                                       
+NE47-217                 404   RESEARCH LAB       BIOENG DEPT                                       
+NE47-218                 409   RESEARCH LAB       BIOENG DEPT                                       
+NE47-219                 146   OFFICE SERVICE     BIOENG DEPT                                       
+NE47-220                 224   OFFICE             BIOENG DEPT                                       
+NE47-221                 187   OFFICE             BIOENG DEPT                                       
+NE47-223                 183   OFFICE             BIOENG DEPT                                       
+NE47-235               1,612   RESEARCH LAB       BIOENG DEPT                                       
+NE47-235A                 59   LABORATORY SVC     BIOENG DEPT                                       
+NE47-235B                 59   LABORATORY SVC     BIOENG DEPT                                       
+NE47-235C                100   RESEARCH LAB       BIOENG DEPT                                       
+NE47-235D                329   RESEARCH LAB       BIOENG DEPT                                       
+NE47-235F                 60   LABORATORY SVC     BIOENG DEPT                                       
+NE47-235G                 60   LABORATORY SVC     BIOENG DEPT                                       
+NE47-235H                 60   LABORATORY SVC     BIOENG DEPT                                       
+NE47-240                  31   OFFICE SERVICE     BIOENG DEPT                                       
+NE47-241                 231   OFFICE SERVICE     BIOENG DEPT                                       
+NE47-242                 229   CONFERENCE ROOM    BIOENG DEPT                                       
+NE47-256                  20   OFFICE SERVICE     BIOENG DEPT                                       
+NE47-257                 192   OFFICE             BIOENG DEPT                                       
+NE47-265                 956   RESEARCH LAB       BIOENG DEPT                                       
+NE47-265A                112   LABORATORY SVC     BIOENG DEPT                                       
+NE47-265B                100   LABORATORY SVC     BIOENG DEPT                                       
+NE47-265T                201   TELECOM CLOSET     DP OF FACILITIES                                  
+NE47-270                 824   OFFICE SERVICE     BIOENG DEPT                                       
+NE47-276                 353   OFFICE             BIOENG DEPT                                       
+NE47-277                 185   OFFICE             BIOENG DEPT                                       
+NE47-279                 185   OFFICE             BIOENG DEPT                                       
+NE47-281                 165   OFFICE             BIOENG DEPT                                       
+NE47-282                  79   LABORATORY SVC     BIOENG DEPT                                       
+NE47-283                 111   OFFICE             BIOENG DEPT                                       
+NE47-284                  63   LABORATORY SVC     BIOENG DEPT                                       
+NE47-285                 223   OFFICE             BIOENG DEPT                                       
+NE47-286                  18   LABORATORY SVC     BIOENG DEPT                                       
+NE47-287                 231   OFFICE             BIOENG DEPT                                       
+NE47-290               1,347   RESEARCH LAB       BIOENG DEPT                                       
+NE47-290A                 12   LABORATORY SVC     BIOENG DEPT                                       
+NE47-290B                 57   LABORATORY SVC     BIOENG DEPT                                       
+NE47-290C                103   LABORATORY SVC     BIOENG DEPT                                       
+NE47-290D                127   LABORATORY SVC     BIOENG DEPT                                       
+NE47-291                 223   OFFICE             BIOENG DEPT                                       
+NE47-293                 208   OFFICE             BIOENG DEPT                                       
+NE47-295                 341   OFFICE             BIOENG DEPT                                       
+                    --------                                                                        
+                      13,528                                                                        
+                                                                                                    
+NE47-300Z                147   SHAFT SPACE        DP OF FACILITIES                                  
+NE47-301                 734   OFFICE SERVICE     BIOENG DEPT                                       
+NE47-305                 983   RESEARCH LAB       BIOENG DEPT                                       
+NE47-305A                 66   LABORATORY SVC     BIOENG DEPT                                       
+NE47-305AA               157   RESEARCH LAB       BIOENG DEPT                                       
+NE47-305B                 60   LABORATORY SVC     BIOENG DEPT                                       
+NE47-305BA               260   RESEARCH LAB       BIOENG DEPT                                       
+NE47-305C                282   RESEARCH LAB       BIOENG DEPT                                       
+NE47-307                 160   OFFICE             BIOENG DEPT                                       
+NE47-309                 173   OFFICE             BIOENG DEPT                                       
+NE47-310                  73   OFFICE SERVICE     BIOENG DEPT                                       
+NE47-311                 164   OFFICE             BIOENG DEPT                                       
+NE47-313                 164   OFFICE             BIOENG DEPT                                       
+NE47-314                 113   CONFERENCE ROOM    BIOENG DEPT                                       
+NE47-315                 217   OFFICE             BIOENG DEPT                                       
+NE47-317                 146   OFFICE             BIOENG DEPT                                       
+NE47-318                 103   OFFICE             BIOENG DEPT                                       
+NE47-318A                202   OFFICE SERVICE     BIOENG DEPT                                       
+NE47-319                 204   OFFICE             BIOENG DEPT                                       
+NE47-320                 122   OFFICE             BIOENG DEPT                                       
+NE47-321                 184   OFFICE             BIOENG DEPT                                       
+NE47-322                 121   OFFICE             BIOENG DEPT                                       
+NE47-323                 175   OFFICE             BIOENG DEPT                                       
+NE47-335                 833   RESEARCH LAB       BIOENG DEPT                                       
+NE47-335A                 58   LABORATORY SVC     BIOENG DEPT                                       
+NE47-335B                 52   LABORATORY SVC     BIOENG DEPT                                       
+NE47-335C                455   RESEARCH LAB       BIOENG DEPT                                       
+NE47-335D                 59   LABORATORY SVC     BIOENG DEPT                                       
+NE47-335F                 54   LABORATORY SVC     BIOENG DEPT                                       
+NE47-335G                 60   LABORATORY SVC     BIOENG DEPT                                       
+NE47-335H                 55   RESEARCH LAB       BIOENG DEPT                                       
+NE47-340                  31   OFFICE SERVICE     BIOENG DEPT                                       
+NE47-341                 235   OFFICE SERVICE     BIOENG DEPT                                       
+NE47-342                 229   CONFERENCE ROOM    BIOENG DEPT                                       
+NE47-356                  20   OFFICE SERVICE     BIOENG DEPT                                       
+NE47-357                 192   OFFICE             BIOENG DEPT                                       
+NE47-365               1,204   RESEARCH LAB       BIOENG DEPT                                       
+NE47-365A                 59   LABORATORY SVC     BIOENG DEPT                                       
+NE47-365B                 59   LABORATORY SVC     BIOENG DEPT                                       
+NE47-365C                 86   LABORATORY SVC     BIOENG DEPT                                       
+NE47-365D                 71   LABORATORY SVC     BIOENG DEPT                                       
+NE47-365FA               212   RESEARCH LAB       BIOENG DEPT                                       
+NE47-365G                117   LABORATORY SVC     BIOENG DEPT                                       
+NE47-365H                278   RESEARCH LAB       BIOENG DEPT                                       
+NE47-365K                147   LAB SUPPORT SHOP   BIOENG DEPT                                       
+NE47-365L                274   RESEARCH LAB       BIOENG DEPT                                       
+NE47-365M                311   RESEARCH LAB       BIOENG DEPT                                       
+NE47-365T                200   TELECOM CLOSET     DP OF FACILITIES                                  
+NE47-370                 623   OFFICE SERVICE     BIOENG DEPT                                       
+NE47-376                 115   OFFICE             BIOENG DEPT                                       
+NE47-377                 185   OFFICE             BIOENG DEPT                                       
+NE47-378                 116   OFFICE             BIOENG DEPT                                       
+NE47-379                 187   OFFICE             BIOENG DEPT                                       
+NE47-380                 113   OFFICE             BIOENG DEPT                                       
+NE47-381                 146   OFFICE             BIOENG DEPT                                       
+NE47-382                 132   OFFICE             BIOENG DEPT                                       
+NE47-383                 135   OFFICE             BIOENG DEPT                                       
+NE47-384                  12   OFFICE SERVICE     BIOENG DEPT                                       
+NE47-384A                169   OFFICE SERVICE     BIOENG DEPT                                       
+NE47-385                 276   OFFICE             BIOENG DEPT                                       
+NE47-386                  57   OFFICE SERVICE     BIOENG DEPT                                       
+NE47-387                 225   OFFICE             BIOENG DEPT                                       
+NE47-388                 130   OFFICE             BIOENG DEPT                                       
+NE47-389                 271   OFFICE             BIOENG DEPT                                       
+NE47-390                 130   OFFICE             BIOENG DEPT                                       
+                    --------                                                                        
+                      13,380                                                                        
+                                                                                                    
+NE47-400Z                152   SHAFT SPACE        DP OF FACILITIES                                  
+NE47-401                 756   PVT CIRCULATION    INST SLDR NANOTECH                                
+NE47-407                 328   CONFERENCE ROOM    INST SLDR NANOTECH                                
+NE47-409                 195   OFFICE             INST SLDR NANOTECH                                
+NE47-411                 209   OFFICE             INST SLDR NANOTECH                                
+NE47-413                 142   OFFICE             INST SLDR NANOTECH                                
+NE47-414                 122   SECY/RECEPTION     INST SLDR NANOTECH                                
+NE47-414A                 16   OFFICE SERVICE     INST SLDR NANOTECH                                
+NE47-415                 248   OFFICE             INST SLDR NANOTECH                                
+NE47-416                 104   OFFICE SERVICE     INST SLDR NANOTECH                                
+NE47-417                 174   OFFICE SERVICE     INST SLDR NANOTECH                                
+NE47-418                 206   OFFICE SERVICE     INST SLDR NANOTECH                                
+NE47-419                 154   OFFICE             INST SLDR NANOTECH                                
+NE47-420                  81   OFFICE             INST SLDR NANOTECH                                
+NE47-421                  75   OFFICE             INST SLDR NANOTECH                                
+NE47-422                  81   OFFICE             INST SLDR NANOTECH                                
+NE47-423                  82   OFFICE             INST SLDR NANOTECH                                
+NE47-424                  81   OFFICE             INST SLDR NANOTECH                                
+NE47-425                  82   OFFICE             INST SLDR NANOTECH                                
+NE47-426                  82   OFFICE             INST SLDR NANOTECH                                
+NE47-427                  75   OFFICE             INST SLDR NANOTECH                                
+NE47-435               2,096   RESEARCH LAB       INST SLDR NANOTECH                                
+NE47-435A                459   RESEARCH LAB       INST SLDR NANOTECH                                
+NE47-435AA                55   LABORATORY SVC     INST SLDR NANOTECH                                
+NE47-435B                158   RESEARCH LAB       INST SLDR NANOTECH                                
+NE47-435C                153   LABORATORY SVC     INST SLDR NANOTECH                                
+NE47-441                  82   OFFICE             INST SLDR NANOTECH                                
+NE47-443                  82   OFFICE             INST SLDR NANOTECH                                
+NE47-445                 139   OFFICE             INST SLDR NANOTECH                                
+NE47-465               2,819   RESEARCH LAB       INST SLDR NANOTECH                                
+NE47-465A                 37   LABORATORY SVC     INST SLDR NANOTECH                                
+NE47-465T                201   TELECOM CLOSET     DP OF FACILITIES                                  
+NE47-470                 538   PVT CIRCULATION    INST SLDR NANOTECH                                
+NE47-477                 115   OFFICE             INST SLDR NANOTECH                                
+NE47-479                 510   CONFERENCE ROOM    INST SLDR NANOTECH                                
+NE47-480                 466   LABORATORY SVC     INST SLDR NANOTECH                                
+NE47-481                 399   OFFICE             INST SLDR NANOTECH                                
+NE47-484                 156   OFFICE SERVICE     INST SLDR NANOTECH                                
+NE47-485                 285   OFFICE             INST SLDR NANOTECH                                
+NE47-487                 261   OFFICE             INST SLDR NANOTECH                                
+NE47-491                 245   OFFICE             INST SLDR NANOTECH                                
+NE47-493                 261   OFFICE             INST SLDR NANOTECH                                
+                    --------                                                                        
+                      12,964                                                                        
+                                                                                                    
+NE47-500Z                133   SHAFT SPACE        DP OF FACILITIES                                  
+NE47-501                 629   PVT CIRCULATION    INST SLDR NANOTECH                                
+NE47-507                 261   OFFICE             INST SLDR NANOTECH                                
+NE47-509                 248   OFFICE             INST SLDR NANOTECH                                
+NE47-511                 261   OFFICE             INST SLDR NANOTECH                                
+NE47-513                 215   OFFICE             INST SLDR NANOTECH                                
+NE47-515                 111   OFFICE SERVICE     INST SLDR NANOTECH                                
+NE47-516                 125   CONFERENCE ROOM    INST SLDR NANOTECH                                
+NE47-517                  82   OFFICE             INST SLDR NANOTECH                                
+NE47-519                  82   OFFICE             INST SLDR NANOTECH                                
+NE47-520                  82   OFFICE             INST SLDR NANOTECH                                
+NE47-521                  75   OFFICE             INST SLDR NANOTECH                                
+NE47-522                  82   OFFICE             INST SLDR NANOTECH                                
+NE47-523                  82   OFFICE             INST SLDR NANOTECH                                
+NE47-524                  82   OFFICE             INST SLDR NANOTECH                                
+NE47-525                  82   OFFICE             INST SLDR NANOTECH                                
+NE47-526                  83   OFFICE             INST SLDR NANOTECH                                
+NE47-527                  75   OFFICE             INST SLDR NANOTECH                                
+NE47-535               3,102   RESEARCH LAB       INST SLDR NANOTECH                                
+NE47-535A                153   RESEARCH LAB       INST SLDR NANOTECH                                
+NE47-535B                609   RESEARCH LAB       INST SLDR NANOTECH                                
+NE47-541                 460   OFFICE SERVICE     INST SLDR NANOTECH                                
+NE47-565               1,094   RESEARCH LAB       INST SLDR NANOTECH                                
+NE47-565A                 69   LABORATORY SVC     INST SLDR NANOTECH                                
+NE47-565T                126   TELECOM CLOSET     DP OF FACILITIES                                  
+NE47-570                 545   PVT CIRCULATION    INST SLDR NANOTECH                                
+NE47-577                 246   OFFICE             INST SLDR NANOTECH                                
+NE47-579                 259   OFFICE             INST SLDR NANOTECH                                
+NE47-580                 471   RESEARCH LAB       INST SLDR NANOTECH                                
+NE47-581                 246   OFFICE             INST SLDR NANOTECH                                
+NE47-582                 155   RESEARCH LAB       INST SLDR NANOTECH                                
+NE47-583                 259   OFFICE             INST SLDR NANOTECH                                
+NE47-585                 170   OFFICE SERVICE     INST SLDR NANOTECH                                
+NE47-587                 350   OFFICE             INST SLDR NANOTECH                                
+NE47-591                 316   OFFICE             INST SLDR NANOTECH                                
+NE47-593                 325   OFFICE             INST SLDR NANOTECH                                
+NE47-597                 947   RESEARCH LAB       INST SLDR NANOTECH                                
+NE47-597A                 12   LABORATORY SVC     INST SLDR NANOTECH                                
+NE47-597B                146   RESEARCH LAB       INST SLDR NANOTECH                                
+NE47-597C                213   LABORATORY SVC     INST SLDR NANOTECH                                
+NE47-597D                199   LABORATORY SVC     INST SLDR NANOTECH

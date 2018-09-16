@@ -1,0 +1,394 @@
+E38-000E2                106   ELEVATOR           DP OF FACILITIES                                  
+E38-000LA                176   LOBBY              DP OF FACILITIES                                  
+E38-000SA                 43   STAIRWAY           DP OF FACILITIES                                  
+E38-000SB                140   STAIRWAY           DP OF FACILITIES                                  
+E38-000SC                 51   STAIRWAY           DP OF FACILITIES                                  
+E38-000Z                  82   SHAFT SPACE        DP OF FACILITIES                                  
+E38-001                   71   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-001A                   9   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-002                  288   UTILITY/MECH RM    DP OF FACILITIES                                  
+E38-003                  102   UTILITY/MECH RM    DP OF FACILITIES                                  
+E38-006                  277   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-015                  183   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-018                  223   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-018A                 103   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-022                1,533   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-030                  379   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-031                  447   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-031A                  25   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-032                   55   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-038                  109   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-040                  804   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-043                  200   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-045                  101   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-046                  250   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-056                  612   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-063                  711   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-063Z                  53   SHAFT SPACE        DP OF FACILITIES                                  
+E38-074                  325   UTILITY/MECH RM    DP OF FACILITIES                                  
+E38-076E                 435   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                       7,897                                                                        
+                                                                                                    
+E38-100CA                531   CORRIDOR           DP OF FACILITIES                                  
+E38-100CB                103   CORRIDOR           DP OF FACILITIES                                  
+E38-100CC                254   CORRIDOR           DP OF FACILITIES                                  
+E38-100E1                 53   ELEVATOR           DP OF FACILITIES                                  
+E38-100E2                111   ELEVATOR           DP OF FACILITIES                                  
+E38-100LA                 69   LOBBY              DP OF FACILITIES                                  
+E38-100LB                273   LOBBY              DP OF FACILITIES                                  
+E38-100SA                105   STAIRWAY           DP OF FACILITIES                                  
+E38-100SB                112   STAIRWAY           DP OF FACILITIES                                  
+E38-100SC                 58   STAIRWAY           DP OF FACILITIES                                  
+E38-100SD                107   STAIRWAY           DP OF FACILITIES                                  
+E38-100Z                  32   SHAFT SPACE        DP OF FACILITIES                                  
+E38-101                   53   UTILITY/MECH RM    DP OF FACILITIES                                  
+E38-101E                  31   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E38-101T                   7   TELECOM CLOSET     DP OF FACILITIES                                  
+E38-104                  249   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-104A                   7   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-104B                  70   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-104C                 411   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-106                  142   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-108                  139   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-110                  228   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-114                  125   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-116                  255   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-123                  176   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-127                  302   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-127A                  51   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-127B                 223   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-127C                 188   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-127D                  60   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-127F                  55   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-127G                  55   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-127H                  54   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-127K                  53   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-135                   57   PUBLIC LAVATORY    DP OF FACILITIES                                  
+E38-136                   93   FEMALE LAVATORY    DP OF FACILITIES                                  
+E38-136J                  42   JANITOR CLOSET     DP OF FACILITIES                                  
+E38-139                   84   UTILITY/MECH RM    DP OF FACILITIES                                  
+E38-139E                  31   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E38-140                  126   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-141                   88   MALE LAVATORY      DP OF FACILITIES                                  
+E38-143                   57   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-150                  442   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-150A                 246   JANITOR STORAGE    DP OF FACILITIES                                  
+E38-150B                 126   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-155                  110   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-160E                 129   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E38-173                   74   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-176                1,414   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-176A                  87   ALTER/CONVERSION   PROVOST RESERVE                                   
+                    --------                                                                        
+                       7,944                                                                        
+                                                                                                    
+E38-200                  111   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-200CA                639   CORRIDOR           DP OF FACILITIES                                  
+E38-200E1                 51   ELEVATOR           DP OF FACILITIES                                  
+E38-200E2                123   ELEVATOR           DP OF FACILITIES                                  
+E38-200LA                148   LOBBY              DP OF FACILITIES                                  
+E38-200SA                 97   STAIRWAY           DP OF FACILITIES                                  
+E38-200SB                111   STAIRWAY           DP OF FACILITIES                                  
+E38-200Z                  41   SHAFT SPACE        DP OF FACILITIES                                  
+E38-201                  313   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-201E                  14   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E38-202A                  28   UTILITY/MECH RM    DP OF FACILITIES                                  
+E38-202B                 265   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-202E                  23   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E38-206                  173   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-208                  182   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-210                  233   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-212                  107   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-214                  113   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-216                  133   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-218                  120   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-219                  494   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-220                  114   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-221                   67   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-230                  124   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-232                  175   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-233                   77   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-234                  214   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-235                  264   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-238T                 122   TELECOM CLOSET     DP OF FACILITIES                                  
+E38-239J                  49   JANITOR CLOSET     DP OF FACILITIES                                  
+E38-240                   96   FEMALE LAVATORY    DP OF FACILITIES                                  
+E38-241                   54   FEMALE LAVATORY    DP OF FACILITIES                                  
+E38-242                   64   JANITOR STORAGE    DP OF FACILITIES                                  
+E38-243                  104   UTILITY/MECH RM    DP OF FACILITIES                                  
+E38-244                   93   MALE LAVATORY      DP OF FACILITIES                                  
+E38-245                   53   MALE LAVATORY      DP OF FACILITIES                                  
+E38-252                  572   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-252A                  22   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-254                  180   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-256                  119   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-259                  299   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-264                  112   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-268                  137   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-270                  103   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-272                  219   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-273                  394   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-273A                  14   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-274                  171   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-275                  138   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-277                  116   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-278                  177   ALTER/CONVERSION   PROVOST RESERVE                                   
+                    --------                                                                        
+                       7,965                                                                        
+                                                                                                    
+E38-300E1                 53   ELEVATOR           DP OF FACILITIES                                  
+E38-300E2                107   ELEVATOR           DP OF FACILITIES                                  
+E38-300LA                 71   LOBBY              DP OF FACILITIES                                  
+E38-300SA                104   STAIRWAY           DP OF FACILITIES                                  
+E38-300SB                235   STAIRWAY           DP OF FACILITIES                                  
+E38-300Z                  35   SHAFT SPACE        DP OF FACILITIES                                  
+E38-301                1,457   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-301E                  14   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E38-302                   98   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-303                  182   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-304                    3   UTILITY/MECH RM    DP OF FACILITIES                                  
+E38-306                  179   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-308                  104   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-308A                 223   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-312                  261   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-312A                  24   UTILITY/MECH RM    DP OF FACILITIES                                  
+E38-314                  707   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-320                  130   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-322                   20   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-324                  178   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-330                  173   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-330A                 245   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-334                  154   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-339                  408   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-339A                 218   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-339B                 388   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-339C                  37   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-339E                  29   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E38-339F                  30   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-341                   70   MALE LAVATORY      DP OF FACILITIES                                  
+E38-345                   68   FEMALE LAVATORY    DP OF FACILITIES                                  
+E38-346                   48   MALE LAVATORY      DP OF FACILITIES                                  
+E38-347                   49   FEMALE LAVATORY    DP OF FACILITIES                                  
+E38-348                  120   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-350                  210   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-351                  111   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-356                  120   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-364                   89   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-366                   92   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-366A                  93   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-366B                  65   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-366C                 125   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-366D                 132   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-366T                  10   TELECOM CLOSET     DP OF FACILITIES                                  
+E38-368                  140   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-370                  112   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-372                  212   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-374                   98   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-376                  158   ALTER/CONVERSION   PROVOST RESERVE                                   
+                    --------                                                                        
+                       7,989                                                                        
+                                                                                                    
+E38-400E1                 50   ELEVATOR           DP OF FACILITIES                                  
+E38-400E2                113   ELEVATOR           DP OF FACILITIES                                  
+E38-400LA                 74   LOBBY              DP OF FACILITIES                                  
+E38-400SA                102   STAIRWAY           DP OF FACILITIES                                  
+E38-400SB                117   STAIRWAY           DP OF FACILITIES                                  
+E38-400Z                 149   SHAFT SPACE        DP OF FACILITIES                                  
+E38-401                1,690   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-401A                  15   UTILITY/MECH RM    DP OF FACILITIES                                  
+E38-401BA                 46   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-401BB                 53   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-401BD                 46   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-401C                  53   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-401E                  34   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E38-406                  143   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-408                  144   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-410                  210   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-412                  127   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-415                  243   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-416                  136   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-420                  143   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-424                  137   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-428                  138   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-430                  118   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-432                  218   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-434                  116   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-435                  223   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-435A                  90   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-435BA                 13   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-435BB                 13   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-435BC                 13   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-435BD                 13   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-435CA                 13   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-435CB                 13   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-435CC                 13   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-435CD                 13   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-435DA                 13   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-435DB                 13   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-435GA                 13   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-435GB                 13   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-435H                  78   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-436                  115   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-440                   82   MALE LAVATORY      DP OF FACILITIES                                  
+E38-441J                  49   JANITOR CLOSET     DP OF FACILITIES                                  
+E38-442                   47   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-443                  168   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-443E                  48   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E38-444                   26   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-445                   71   FEMALE LAVATORY    DP OF FACILITIES                                  
+E38-445A                  61   PUBLIC LAVATORY    DP OF FACILITIES                                  
+E38-446                  297   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-450                  207   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-454                  112   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-456                  118   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-464                  129   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-467                  558   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-468                  135   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-470                  133   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-472                  199   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-473T                  54   TELECOM CLOSET     DP OF FACILITIES                                  
+E38-474                  147   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-475                  145   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-476                  136   ALTER/CONVERSION   PROVOST RESERVE                                   
+                    --------                                                                        
+                       7,996                                                                        
+                                                                                                    
+E38-500CA                956   CORRIDOR           DP OF FACILITIES                                  
+E38-500E1                 49   ELEVATOR           DP OF FACILITIES                                  
+E38-500E2                107   ELEVATOR           DP OF FACILITIES                                  
+E38-500LA                 93   LOBBY              DP OF FACILITIES                                  
+E38-500SA                 88   STAIRWAY           DP OF FACILITIES                                  
+E38-500SB                132   STAIRWAY           DP OF FACILITIES                                  
+E38-500Z                  20   SHAFT SPACE        DP OF FACILITIES                                  
+E38-501E                  28   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E38-502                  136   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-502E                  44   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E38-504                  146   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-505                  195   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-506                  146   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-508                  113   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-510                  227   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-512                  113   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-519                  441   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-519A                  69   UTILITY/MECH RM    DP OF FACILITIES                                  
+E38-524                  360   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-526                  111   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-527                    6   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-528                  111   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-530                  150   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-532                  262   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-534                  218   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-535                  182   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-537                  207   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-537A                  19   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-539                  123   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-540                   86   MALE LAVATORY      DP OF FACILITIES                                  
+E38-541                   55   PUBLIC LAVATORY    DP OF FACILITIES                                  
+E38-543                  127   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-543A                 118   UTILITY/MECH RM    DP OF FACILITIES                                  
+E38-544                   97   FEMALE LAVATORY    DP OF FACILITIES                                  
+E38-545J                  31   JANITOR CLOSET     DP OF FACILITIES                                  
+E38-546                  272   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-554                  758   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-555                  448   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-564                  132   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-566                  136   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-568                  142   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-570                  128   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-572                  183   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-574                  145   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-575                  217   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-576                  117   ALTER/CONVERSION   PROVOST RESERVE                                   
+                    --------                                                                        
+                       8,041                                                                        
+                                                                                                    
+E38-600E1                 70   ELEVATOR           DP OF FACILITIES                                  
+E38-600E2                122   ELEVATOR           DP OF FACILITIES                                  
+E38-600LA                129   LOBBY              DP OF FACILITIES                                  
+E38-600SA                106   STAIRWAY           DP OF FACILITIES                                  
+E38-600SB                116   STAIRWAY           DP OF FACILITIES                                  
+E38-600Z                  26   SHAFT SPACE        DP OF FACILITIES                                  
+E38-601                   29   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-601E                  14   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E38-602                  128   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-602A                  39   UTILITY/MECH RM    DP OF FACILITIES                                  
+E38-602E                  34   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E38-602T                  22   TELECOM CLOSET     DP OF FACILITIES                                  
+E38-603                  148   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-604                   39   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-610                  235   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-614                  266   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-615                  587   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-615A                  48   UTILITY/MECH RM    DP OF FACILITIES                                  
+E38-616                  167   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-620                  160   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-624                  132   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-628                  133   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-630                  120   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-632                  147   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-633                   56   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-634                  134   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-635                   76   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-636                   73   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-638                  131   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-639J                  41   JANITOR CLOSET     DP OF FACILITIES                                  
+E38-640                   79   FEMALE LAVATORY    DP OF FACILITIES                                  
+E38-641                   58   FEMALE LAVATORY    DP OF FACILITIES                                  
+E38-642                1,594   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-642D                  33   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-642G                  64   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-642H                  74   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-643                  110   UTILITY/MECH RM    DP OF FACILITIES                                  
+E38-644                   79   MALE LAVATORY      DP OF FACILITIES                                  
+E38-645                   57   MALE LAVATORY      DP OF FACILITIES                                  
+E38-647                   89   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-648                  101   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-649                  132   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-650                  140   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-651                  119   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-656                  136   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-658                  150   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-659                  150   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-664                  166   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-668                  132   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-670                  278   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-674                  230   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-675                  415   ALTER/CONVERSION   PROVOST RESERVE                                   
+                    --------                                                                        
+                       7,914                                                                        
+                                                                                                    
+E38-700CB                 81   CORRIDOR           DP OF FACILITIES                                  
+E38-700CC                 29   UTILITY/MECH RM    DP OF FACILITIES                                  
+E38-700E2                116   ELEVATOR           DP OF FACILITIES                                  
+E38-700LA                 43   LOBBY              DP OF FACILITIES                                  
+E38-700SA                 68   STAIRWAY           DP OF FACILITIES                                  
+E38-700SB                113   STAIRWAY           DP OF FACILITIES                                  
+E38-700Z                  17   SHAFT SPACE        DP OF FACILITIES                                  
+E38-701                   35   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-701E                  14   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E38-702                  139   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-702E                  14   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E38-702T                   4   TELECOM CLOSET     DP OF FACILITIES                                  
+E38-704                   70   UTILITY/MECH RM    DP OF FACILITIES                                  
+E38-712                  180   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-714                  861   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-714A                 234   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-724                  135   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-728                  175   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-734                  142   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-736                  173   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-739J                  26   JANITOR CLOSET     DP OF FACILITIES                                  
+E38-742                  307   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-742A                  92   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-743                   63   UTILITY/MECH RM    DP OF FACILITIES                                  
+E38-744                  101   FEMALE LAVATORY    DP OF FACILITIES                                  
+E38-746                   73   MALE LAVATORY      DP OF FACILITIES                                  
+E38-752                  197   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-754                  164   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-755                  169   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-756                  186   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-762                   97   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-762A                 204   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-762B                 208   ALTER/CONVERSION   PROVOST RESERVE                                   
+E38-762C                 241   ALTER/CONVERSION   PROVOST RESERVE     

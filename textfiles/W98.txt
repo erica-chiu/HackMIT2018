@@ -1,0 +1,569 @@
+W98-000CA                905   CORRIDOR           DP OF FACILITIES                                  
+W98-000E1                 60   ELEVATOR           DP OF FACILITIES                                  
+W98-000E2                 89   ELEVATOR           DP OF FACILITIES                                  
+W98-000SA                107   STAIRWAY           DP OF FACILITIES                                  
+W98-000SC                154   STAIRWAY           DP OF FACILITIES                                  
+W98-000Z                 846   SHAFT SPACE        DP OF FACILITIES                                  
+W98-001                  110   OFFICE SERVICE     RESOURCE DEVLMNT                                  
+W98-001A                  48   OFFICE             RESOURCE DEVLMNT                                  
+W98-001B                  43   OFFICE             RESOURCE DEVLMNT                                  
+W98-001C                  23   OFFICE             RESOURCE DEVLMNT                                  
+W98-002                  155   OFFICE             RESOURCE DEVLMNT                                  
+W98-003                  834   OFFICE SERVICE     RESOURCE DEVLMNT                                  
+W98-003A                  77   OFFICE             RESOURCE DEVLMNT                                  
+W98-003B                  73   OFFICE             RESOURCE DEVLMNT                                  
+W98-003C                  74   OFFICE             RESOURCE DEVLMNT                                  
+W98-003D                  73   OFFICE             RESOURCE DEVLMNT                                  
+W98-003F                  58   OFFICE             RESOURCE DEVLMNT                                  
+W98-003G                  73   OFFICE             RESOURCE DEVLMNT                                  
+W98-003H                  53   OFFICE             RESOURCE DEVLMNT                                  
+W98-004                  159   CONFERENCE ROOM    RESOURCE DEVLMNT                                  
+W98-006                  154   OFFICE             RESOURCE DEVLMNT                                  
+W98-008                  511   OFFICE SERVICE     RESOURCE DEVLMNT                                  
+W98-008A                  66   OFFICE             RESOURCE DEVLMNT                                  
+W98-008B                  65   OFFICE             RESOURCE DEVLMNT                                  
+W98-008C                  66   OFFICE             RESOURCE DEVLMNT                                  
+W98-008D                  60   OFFICE             RESOURCE DEVLMNT                                  
+W98-008F                  66   OFFICE             RESOURCE DEVLMNT                                  
+W98-008G                  65   OFFICE             RESOURCE DEVLMNT                                  
+W98-010A                  80   OFFICE             RESOURCE DEVLMNT                                  
+W98-010B                  72   OFFICE             RESOURCE DEVLMNT                                  
+W98-010C                  79   OFFICE             RESOURCE DEVLMNT                                  
+W98-010D                  76   OFFICE             RESOURCE DEVLMNT                                  
+W98-012                  158   OFFICE SERVICE     RESOURCE DEVLMNT                                  
+W98-012A                  48   OFFICE             RESOURCE DEVLMNT                                  
+W98-012B                  63   OFFICE             RESOURCE DEVLMNT                                  
+W98-012C                  54   OFFICE             RESOURCE DEVLMNT                                  
+W98-012D                  54   OFFICE             RESOURCE DEVLMNT                                  
+W98-012F                  48   OFFICE             RESOURCE DEVLMNT                                  
+W98-012G                  49   OFFICE             RESOURCE DEVLMNT                                  
+W98-012H                  60   OFFICE             RESOURCE DEVLMNT                                  
+W98-012K                  53   OFFICE             RESOURCE DEVLMNT                                  
+W98-012L                  56   OFFICE             RESOURCE DEVLMNT                                  
+W98-014                  567   OFFICE SERVICE     EXEC VICE PRES                                    
+W98-014A                  93   OFFICE SERVICE     RESOURCE DEVLMNT                                  
+W98-014B                  65   OFFICE             RESOURCE DEVLMNT                                  
+W98-020                  529   OFFICE SERVICE     EXEC VICE PRES                                    
+W98-022                   70   OFFICE SERVICE     RESOURCE DEVLMNT                                  
+W98-024                   45   NON-ATH LOCKR RM   DP OF FACIL ADM                                   
+W98-026T                 138   TELECOM CLOSET     DP OF FACILITIES                                  
+W98-028                  114   MAIL ROOM          DP OF FACIL ADM                                   
+W98-028E                  23   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W98-028J                  77   JANITOR CLOSET     DP OF FACILITIES                                  
+W98-040                  119   MALE LAVATORY      DP OF FACILITIES                                  
+W98-041                  146   OFFICE SERVICE     RESOURCE DEVLMNT                                  
+W98-041A                  60   OFFICE             RESOURCE DEVLMNT                                  
+W98-041B                  68   OFFICE             RESOURCE DEVLMNT                                  
+W98-041C                 110   OFFICE             RESOURCE DEVLMNT                                  
+W98-041D                  79   OFFICE             RESOURCE DEVLMNT                                  
+W98-041F                  81   OFFICE             RESOURCE DEVLMNT                                  
+W98-042                  124   FEMALE LAVATORY    DP OF FACILITIES                                  
+W98-043                  173   OFFICE SERVICE     RESOURCE DEVLMNT                                  
+W98-044E                 196   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W98-045                  283   CONFERENCE ROOM    RESOURCE DEVLMNT                                  
+W98-045A                  41   OFFICE SERVICE     RESOURCE DEVLMNT                                  
+W98-046E                  38   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W98-046T                  64   TELECOM CLOSET     DP OF FACILITIES                                  
+W98-047E                 188   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W98-048                  274   UTILITY/MECH RM    DP OF FACILITIES                                  
+W98-049                  370   UTILITY/MECH RM    DP OF FACILITIES                                  
+W98-050                  187   OFFICE             RESOURCE DEVLMNT                                  
+W98-050A                  88   OFFICE             RESOURCE DEVLMNT                                  
+W98-053A                  81   OFFICE             RESOURCE DEVLMNT                                  
+W98-053B                  75   OFFICE             RESOURCE DEVLMNT                                  
+W98-056A                  94   OFFICE             RESOURCE DEVLMNT                                  
+W98-056B                  72   OFFICE             RESOURCE DEVLMNT                                  
+W98-056C                  62   OFFICE             RESOURCE DEVLMNT                                  
+W98-056D                  72   OFFICE             RESOURCE DEVLMNT                                  
+W98-056F                  70   OFFICE             RESOURCE DEVLMNT                                  
+W98-056G                  64   OFFICE             RESOURCE DEVLMNT                                  
+W98-056H                  72   OFFICE             RESOURCE DEVLMNT                                  
+W98-056K                  68   OFFICE             RESOURCE DEVLMNT                                  
+                    --------                                                                        
+                      11,154                                                                        
+                                                                                                    
+W98-100                   94   CORRIDOR           DP OF FACILITIES                                  
+W98-100CA                822   CORRIDOR           DP OF FACILITIES                                  
+W98-100CB                704   CORRIDOR           DP OF FACILITIES                                  
+W98-100E1                 60   ELEVATOR           DP OF FACILITIES                                  
+W98-100E2                 91   ELEVATOR           DP OF FACILITIES                                  
+W98-100SA                 98   STAIRWAY           DP OF FACILITIES                                  
+W98-100SC                134   STAIRWAY           DP OF FACILITIES                                  
+W98-100Z                 101   SHAFT SPACE        DP OF FACILITIES                                  
+W98-101                  531   LOBBY              DP OF FACILITIES                                  
+W98-101A                  12   OFFICE SERVICE     EXEC VICE PRES                                    
+W98-101B                  20   OFFICE SERVICE     EXEC VICE PRES                                    
+W98-101C                  50   OFFICE SERVICE     EXEC VICE PRES                                    
+W98-101D                  85   SECY/RECEPTION     EXEC VICE PRES                                    
+W98-106                  179   OFFICE             ALUMNI/AE ASSOC                                   
+W98-107                  773   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-107A                 101   OFFICE             ALUMNI/AE ASSOC                                   
+W98-107B                  82   OFFICE             ALUMNI/AE ASSOC                                   
+W98-107C                  90   OFFICE             ALUMNI/AE ASSOC                                   
+W98-110                1,710   OFFICE SERVICE     EXEC VICE PRES                                    
+W98-110A                 103   OFFICE             ALUMNI/AE ASSOC                                   
+W98-110B                 110   OFFICE             ALUMNI/AE ASSOC                                   
+W98-110C                  97   OFFICE             ALUMNI/AE ASSOC                                   
+W98-110D                  87   OFFICE             ALUMNI/AE ASSOC                                   
+W98-112                  127   OFFICE             ALUMNI/AE ASSOC                                   
+W98-112A                   8   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-114                  120   OFFICE             ALUMNI/AE ASSOC                                   
+W98-116                  164   OFFICE             ALUMNI/AE ASSOC                                   
+W98-118                  123   OFFICE             ALUMNI/AE ASSOC                                   
+W98-118A                  71   OFFICE             ALUMNI/AE ASSOC                                   
+W98-124                  265   MERCHAND FACIL     EXEC VICE PRES                                    
+W98-124A                  82   MERCHAND SVC       EXEC VICE PRES                                    
+W98-124B                  23   OFFICE SERVICE     EXEC VICE PRES                                    
+W98-124J                  31   JANITOR CLOSET     DP OF FACILITIES                                  
+W98-126                   64   CORRIDOR           DP OF FACILITIES                                  
+W98-128                   91   UTILITY/MECH RM    DP OF FACILITIES                                  
+W98-140                  147   FEMALE LAVATORY    DP OF FACILITIES                                  
+W98-142                  149   MALE LAVATORY      DP OF FACILITIES                                  
+W98-144                   50   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-144A                  59   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-144E                  87   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W98-144T                  44   TELECOM CLOSET     DP OF FACILITIES                                  
+W98-146E                   7   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W98-146J                  26   JANITOR CLOSET     DP OF FACILITIES                                  
+W98-148                  181   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-148A                 116   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-148B                  87   OFFICE             ALUMNI/AE ASSOC                                   
+W98-148C                  34   OFFICE             ALUMNI/AE ASSOC                                   
+W98-149                  179   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-149A                  62   OFFICE             ALUMNI/AE ASSOC                                   
+W98-149B                  67   OFFICE             ALUMNI/AE ASSOC                                   
+W98-149C                  70   OFFICE             ALUMNI/AE ASSOC                                   
+W98-149D                  70   OFFICE             ALUMNI/AE ASSOC                                   
+W98-149F                  80   OFFICE             ALUMNI/AE ASSOC                                   
+W98-149G                  29   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-149H                  68   OFFICE             ALUMNI/AE ASSOC                                   
+W98-149K                 100   OFFICE             ALUMNI/AE ASSOC                                   
+W98-151                  105   OFFICE             ALUMNI/AE ASSOC                                   
+W98-152A                  68   OFFICE             ALUMNI/AE ASSOC                                   
+W98-152B                 100   OFFICE             ALUMNI/AE ASSOC                                   
+W98-152C                  58   OFFICE             ALUMNI/AE ASSOC                                   
+W98-152D                  58   OFFICE             ALUMNI/AE ASSOC                                   
+W98-152F                  69   OFFICE             ALUMNI/AE ASSOC                                   
+W98-153                  161   OFFICE             ALUMNI/AE ASSOC                                   
+W98-154A                  58   OFFICE             ALUMNI/AE ASSOC                                   
+W98-154B                  58   OFFICE             ALUMNI/AE ASSOC                                   
+W98-154C                  69   OFFICE             ALUMNI/AE ASSOC                                   
+W98-154D                  58   OFFICE             ALUMNI/AE ASSOC                                   
+W98-154F                  58   OFFICE             ALUMNI/AE ASSOC                                   
+W98-154G                  69   OFFICE             ALUMNI/AE ASSOC                                   
+W98-155                  106   OFFICE             ALUMNI/AE ASSOC                                   
+W98-157                  121   OFFICE             ALUMNI/AE ASSOC                                   
+W98-158                  228   OFFICE             ALUMNI/AE ASSOC                                   
+W98-158A                 102   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-158B                  99   SECY/RECEPTION     ALUMNI/AE ASSOC                                   
+W98-159                  161   CONFERENCE ROOM    ALUMNI/AE ASSOC                                   
+                    --------                                                                        
+                      10,823                                                                        
+                                                                                                    
+W98-200CA                531   CORRIDOR           DP OF FACILITIES                                  
+W98-200CB                486   CORRIDOR           DP OF FACILITIES                                  
+W98-200CC                807   CORRIDOR           DP OF FACILITIES                                  
+W98-200CD              1,052   CORRIDOR           DP OF FACILITIES                                  
+W98-200E1                 60   ELEVATOR           DP OF FACILITIES                                  
+W98-200E2                 92   ELEVATOR           DP OF FACILITIES                                  
+W98-200SA                 99   STAIRWAY           DP OF FACILITIES                                  
+W98-200SC                132   STAIRWAY           DP OF FACILITIES                                  
+W98-200Z                 104   SHAFT SPACE        DP OF FACILITIES                                  
+W98-201                   68   SECY/RECEPTION     ALUMNI/AE ASSOC                                   
+W98-201A                  43   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-202                  346   CONFERENCE ROOM    ALUMNI/AE ASSOC                                   
+W98-203                  119   OFFICE             ALUMNI/AE ASSOC                                   
+W98-204                  166   OFFICE             ALUMNI/AE ASSOC                                   
+W98-205                  123   OFFICE             ALUMNI/AE ASSOC                                   
+W98-206A                  73   OFFICE             ALUMNI/AE ASSOC                                   
+W98-206B                 102   OFFICE             ALUMNI/AE ASSOC                                   
+W98-206C                  67   OFFICE             ALUMNI/AE ASSOC                                   
+W98-206D                 100   OFFICE             ALUMNI/AE ASSOC                                   
+W98-207                   95   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-208A                  50   OFFICE             ALUMNI/AE ASSOC                                   
+W98-208B                 100   OFFICE             ALUMNI/AE ASSOC                                   
+W98-208C                  57   OFFICE             ALUMNI/AE ASSOC                                   
+W98-208D                  57   OFFICE             ALUMNI/AE ASSOC                                   
+W98-208F                  57   OFFICE             ALUMNI/AE ASSOC                                   
+W98-209                  124   OFFICE             ALUMNI/AE ASSOC                                   
+W98-210A                  57   OFFICE             ALUMNI/AE ASSOC                                   
+W98-210B                  57   OFFICE             ALUMNI/AE ASSOC                                   
+W98-210C                  57   OFFICE             ALUMNI/AE ASSOC                                   
+W98-210D                  67   OFFICE             ALUMNI/AE ASSOC                                   
+W98-210F                 100   OFFICE             ALUMNI/AE ASSOC                                   
+W98-211                  130   OFFICE             ALUMNI/AE ASSOC                                   
+W98-212A                  67   OFFICE             ALUMNI/AE ASSOC                                   
+W98-212B                 100   OFFICE             ALUMNI/AE ASSOC                                   
+W98-213                  123   OFFICE             ALUMNI/AE ASSOC                                   
+W98-214                   77   OFFICE             ALUMNI/AE ASSOC                                   
+W98-214A                  86   OFFICE             ALUMNI/AE ASSOC                                   
+W98-215                  123   OFFICE             ALUMNI/AE ASSOC                                   
+W98-216                  189   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-216A                  73   OFFICE             ALUMNI/AE ASSOC                                   
+W98-216B                  69   OFFICE             ALUMNI/AE ASSOC                                   
+W98-216BA                 17   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-216C                  69   OFFICE             ALUMNI/AE ASSOC                                   
+W98-216D                  69   OFFICE             ALUMNI/AE ASSOC                                   
+W98-220                  116   OFFICE             ALUMNI/AE ASSOC                                   
+W98-224                   74   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-224A                 101   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-224B                  67   OFFICE             ALUMNI/AE ASSOC                                   
+W98-224C                  69   OFFICE             ALUMNI/AE ASSOC                                   
+W98-228                  121   OFFICE             ALUMNI/AE ASSOC                                   
+W98-230                  140   OFFICE             ALUMNI/AE ASSOC                                   
+W98-232                  160   OFFICE             ALUMNI/AE ASSOC                                   
+W98-234                  157   OFFICE             ALUMNI/AE ASSOC                                   
+W98-240                  147   FEMALE LAVATORY    DP OF FACILITIES                                  
+W98-242                  149   MALE LAVATORY      DP OF FACILITIES                                  
+W98-244E                  87   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W98-244T                  44   TELECOM CLOSET     DP OF FACILITIES                                  
+W98-246J                  26   JANITOR CLOSET     DP OF FACILITIES                                  
+W98-246T                 103   TELECOM CLOSET     DP OF FACILITIES                                  
+W98-248                   88   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-248A                  69   OFFICE             ALUMNI/AE ASSOC                                   
+W98-248B                  69   OFFICE             ALUMNI/AE ASSOC                                   
+W98-248C                  81   OFFICE             ALUMNI/AE ASSOC                                   
+W98-248E                   7   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W98-249                  136   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-249A                  68   OFFICE             ALUMNI/AE ASSOC                                   
+W98-249B                  69   OFFICE             ALUMNI/AE ASSOC                                   
+W98-249C                  69   OFFICE             ALUMNI/AE ASSOC                                   
+W98-250                  175   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-251                   87   OFFICE             ALUMNI/AE ASSOC                                   
+W98-252A                  67   OFFICE             ALUMNI/AE ASSOC                                   
+W98-252B                 100   OFFICE             ALUMNI/AE ASSOC                                   
+W98-253                  123   OFFICE             ALUMNI/AE ASSOC                                   
+W98-255                  118   OFFICE             ALUMNI/AE ASSOC                                   
+W98-256A                  67   OFFICE             ALUMNI/AE ASSOC                                   
+W98-256B                 100   OFFICE             ALUMNI/AE ASSOC                                   
+W98-256C                  67   OFFICE             ALUMNI/AE ASSOC                                   
+W98-256D                 100   OFFICE             ALUMNI/AE ASSOC                                   
+W98-257                   92   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-258A                  66   OFFICE             ALUMNI/AE ASSOC                                   
+W98-258B                  99   OFFICE             ALUMNI/AE ASSOC                                   
+W98-261                  124   OFFICE             ALUMNI/AE ASSOC                                   
+W98-262                  123   OFFICE             ALUMNI/AE ASSOC                                   
+W98-262A                  58   OFFICE             ALUMNI/AE ASSOC                                   
+W98-262B                 128   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-262C                  97   OFFICE             ALUMNI/AE ASSOC                                   
+W98-263                  163   OFFICE             ALUMNI/AE ASSOC                                   
+                    --------                                                                        
+                      10,808                                                                        
+                                                                                                    
+W98-300CA                542   CORRIDOR           DP OF FACILITIES                                  
+W98-300CB                597   CORRIDOR           DP OF FACILITIES                                  
+W98-300CC                739   CORRIDOR           DP OF FACILITIES                                  
+W98-300CD                940   CORRIDOR           DP OF FACILITIES                                  
+W98-300E1                 60   ELEVATOR           DP OF FACILITIES                                  
+W98-300E2                 92   ELEVATOR           DP OF FACILITIES                                  
+W98-300SA                 94   STAIRWAY           DP OF FACILITIES                                  
+W98-300SC                136   STAIRWAY           DP OF FACILITIES                                  
+W98-300Z                 104   SHAFT SPACE        DP OF FACILITIES                                  
+W98-301                   68   SECY/RECEPTION     RESOURCE DEVLMNT                                  
+W98-301A                  25   OFFICE SERVICE     RESOURCE DEVLMNT                                  
+W98-302                  346   CONFERENCE ROOM    RESOURCE DEVLMNT                                  
+W98-303                  158   CONFERENCE ROOM    RESOURCE DEVLMNT                                  
+W98-304                  128   OFFICE             RESOURCE DEVLMNT                                  
+W98-304A                  78   OFFICE             RESOURCE DEVLMNT                                  
+W98-304B                  66   OFFICE             RESOURCE DEVLMNT                                  
+W98-305                  120   OFFICE             RESOURCE DEVLMNT                                  
+W98-306                  166   OFFICE             RESOURCE DEVLMNT                                  
+W98-306A                  62   OFFICE             RESOURCE DEVLMNT                                  
+W98-306B                  67   OFFICE             RESOURCE DEVLMNT                                  
+W98-306C                  69   OFFICE             RESOURCE DEVLMNT                                  
+W98-307                  120   OFFICE             RESOURCE DEVLMNT                                  
+W98-308                  179   OFFICE             RESOURCE DEVLMNT                                  
+W98-308A                  66   OFFICE             RESOURCE DEVLMNT                                  
+W98-308B                  66   OFFICE             RESOURCE DEVLMNT                                  
+W98-309                  120   OFFICE             RESOURCE DEVLMNT                                  
+W98-311                  109   OFFICE SERVICE     RESOURCE DEVLMNT                                  
+W98-312A                  57   OFFICE             ALUMNI/AE ASSOC                                   
+W98-312B                  57   OFFICE             ALUMNI/AE ASSOC                                   
+W98-312C                  57   OFFICE             ALUMNI/AE ASSOC                                   
+W98-312D                  66   OFFICE             ALUMNI/AE ASSOC                                   
+W98-312F                  57   OFFICE             ALUMNI/AE ASSOC                                   
+W98-312G                  57   OFFICE             ALUMNI/AE ASSOC                                   
+W98-314                   91   OFFICE             ALUMNI/AE ASSOC                                   
+W98-314A                  45   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-314B                  86   OFFICE             ALUMNI/AE ASSOC                                   
+W98-316                  136   OFFICE             ALUMNI/AE ASSOC                                   
+W98-317                  151   OFFICE             RESOURCE DEVLMNT                                  
+W98-318                  134   OFFICE             ALUMNI/AE ASSOC                                   
+W98-319                  128   OFFICE             ALUMNI/AE ASSOC                                   
+W98-320                  198   OFFICE             ALUMNI/AE ASSOC                                   
+W98-321                  129   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-322                  117   OFFICE             ALUMNI/AE ASSOC                                   
+W98-324                  117   OFFICE             ALUMNI/AE ASSOC                                   
+W98-328                  122   OFFICE             RESOURCE DEVLMNT                                  
+W98-330A                 100   OFFICE             RESOURCE DEVLMNT                                  
+W98-330B                 100   OFFICE             RESOURCE DEVLMNT                                  
+W98-330C                 100   OFFICE             RESOURCE DEVLMNT                                  
+W98-330D                 103   OFFICE             RESOURCE DEVLMNT                                  
+W98-340                  147   FEMALE LAVATORY    DP OF FACILITIES                                  
+W98-342                  149   MALE LAVATORY      DP OF FACILITIES                                  
+W98-344                   37   OFFICE SERVICE     RESOURCE DEVLMNT                                  
+W98-344E                  91   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W98-346                   45   OFFICE SERVICE     RESOURCE DEVLMNT                                  
+W98-346E                   7   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W98-346T                  44   TELECOM CLOSET     DP OF FACILITIES                                  
+W98-348                  191   OFFICE             RESOURCE DEVLMNT                                  
+W98-348J                  26   JANITOR CLOSET     DP OF FACILITIES                                  
+W98-349A                  92   OFFICE             RESOURCE DEVLMNT                                  
+W98-349B                  85   OFFICE             RESOURCE DEVLMNT                                  
+W98-349C                  84   OFFICE             RESOURCE DEVLMNT                                  
+W98-349D                  83   OFFICE             RESOURCE DEVLMNT                                  
+W98-350                  182   OFFICE             RESOURCE DEVLMNT                                  
+W98-351                  160   OFFICE             RESOURCE DEVLMNT                                  
+W98-352A                  65   OFFICE             RESOURCE DEVLMNT                                  
+W98-352B                  64   OFFICE             RESOURCE DEVLMNT                                  
+W98-352C                  62   OFFICE             RESOURCE DEVLMNT                                  
+W98-352D                  60   OFFICE             RESOURCE DEVLMNT                                  
+W98-352F                  60   OFFICE             RESOURCE DEVLMNT                                  
+W98-352G                  63   OFFICE             RESOURCE DEVLMNT                                  
+W98-353                  129   OFFICE             RESOURCE DEVLMNT                                  
+W98-355                  130   OFFICE             RESOURCE DEVLMNT                                  
+W98-356B                  70   OFFICE             RESOURCE DEVLMNT                                  
+W98-356C                  71   OFFICE             RESOURCE DEVLMNT                                  
+W98-356D                  72   OFFICE             RESOURCE DEVLMNT                                  
+W98-356F                  74   OFFICE             RESOURCE DEVLMNT                                  
+W98-356G                  72   OFFICE             RESOURCE DEVLMNT                                  
+W98-356H                  74   OFFICE             RESOURCE DEVLMNT                                  
+W98-357                  112   OFFICE SERVICE     RESOURCE DEVLMNT                                  
+W98-359                  121   OFFICE             RESOURCE DEVLMNT                                  
+W98-360                  163   OFFICE             RESOURCE DEVLMNT                                  
+W98-361                  121   OFFICE             RESOURCE DEVLMNT                                  
+W98-362                  128   OFFICE             RESOURCE DEVLMNT                                  
+W98-363                  121   OFFICE             RESOURCE DEVLMNT                                  
+                    --------                                                                        
+                      10,782                                                                        
+                                                                                                    
+W98-400CA                491   CORRIDOR           DP OF FACILITIES                                  
+W98-400CB                565   CORRIDOR           DP OF FACILITIES                                  
+W98-400CC                965   CORRIDOR           DP OF FACILITIES                                  
+W98-400CD              1,092   CORRIDOR           DP OF FACILITIES                                  
+W98-400E1                 60   ELEVATOR           DP OF FACILITIES                                  
+W98-400E2                 92   ELEVATOR           DP OF FACILITIES                                  
+W98-400SA                 98   STAIRWAY           DP OF FACILITIES                                  
+W98-400SC                134   STAIRWAY           DP OF FACILITIES                                  
+W98-400Z                 104   SHAFT SPACE        DP OF FACILITIES                                  
+W98-401                   67   SECY/RECEPTION     RESOURCE DEVLMNT                                  
+W98-401A                  40   OFFICE SERVICE     RESOURCE DEVLMNT                                  
+W98-402                  344   CONFERENCE ROOM    RESOURCE DEVLMNT                                  
+W98-403                  120   OFFICE             RESOURCE DEVLMNT                                  
+W98-404                  120   OFFICE             RESOURCE DEVLMNT                                  
+W98-405                  120   OFFICE             RESOURCE DEVLMNT                                  
+W98-406                  120   OFFICE             RESOURCE DEVLMNT                                  
+W98-407                  120   OFFICE             RESOURCE DEVLMNT                                  
+W98-408                  162   OFFICE             RESOURCE DEVLMNT                                  
+W98-408A                 106   OFFICE             RESOURCE DEVLMNT                                  
+W98-409                  120   OFFICE             RESOURCE DEVLMNT                                  
+W98-410A                  98   OFFICE             RESOURCE DEVLMNT                                  
+W98-410B                  92   OFFICE             RESOURCE DEVLMNT                                  
+W98-410C                  65   OFFICE             RESOURCE DEVLMNT                                  
+W98-410D                  82   OFFICE             RESOURCE DEVLMNT                                  
+W98-411                  120   OFFICE             RESOURCE DEVLMNT                                  
+W98-412A                  65   OFFICE             RESOURCE DEVLMNT                                  
+W98-412B                  82   OFFICE             RESOURCE DEVLMNT                                  
+W98-412C                  66   OFFICE             RESOURCE DEVLMNT                                  
+W98-412D                  81   OFFICE             RESOURCE DEVLMNT                                  
+W98-412F                  66   OFFICE             RESOURCE DEVLMNT                                  
+W98-412G                  81   OFFICE             RESOURCE DEVLMNT                                  
+W98-414                  175   CONFERENCE ROOM    RESOURCE DEVLMNT                                  
+W98-414A                  35   OFFICE SERVICE     RESOURCE DEVLMNT                                  
+W98-414B                  71   OFFICE             RESOURCE DEVLMNT                                  
+W98-415                  120   OFFICE             RESOURCE DEVLMNT                                  
+W98-417                  105   OFFICE SERVICE     RESOURCE DEVLMNT                                  
+W98-419                  121   OFFICE             RESOURCE DEVLMNT                                  
+W98-420                  124   OFFICE             RESOURCE DEVLMNT                                  
+W98-420A                  32   OFFICE SERVICE     RESOURCE DEVLMNT                                  
+W98-420B                  68   OFFICE             RESOURCE DEVLMNT                                  
+W98-421                  121   OFFICE             RESOURCE DEVLMNT                                  
+W98-422                  117   OFFICE             RESOURCE DEVLMNT                                  
+W98-424                  115   OFFICE             RESOURCE DEVLMNT                                  
+W98-428                  184   CONFERENCE ROOM    RESOURCE DEVLMNT                                  
+W98-430                  135   OFFICE             RESOURCE DEVLMNT                                  
+W98-432                  119   OFFICE             RESOURCE DEVLMNT                                  
+W98-434                  142   OFFICE             RESOURCE DEVLMNT                                  
+W98-440                  147   FEMALE LAVATORY    DP OF FACILITIES                                  
+W98-442                  149   MALE LAVATORY      DP OF FACILITIES                                  
+W98-444E                 113   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W98-444T                  44   TELECOM CLOSET     DP OF FACILITIES                                  
+W98-446                  176   OFFICE             RESOURCE DEVLMNT                                  
+W98-446E                   7   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W98-446J                  25   JANITOR CLOSET     DP OF FACILITIES                                  
+W98-446T                 103   TELECOM CLOSET     DP OF FACILITIES                                  
+W98-448A                 118   OFFICE             RESOURCE DEVLMNT                                  
+W98-449A                  70   OFFICE             RESOURCE DEVLMNT                                  
+W98-449B                  71   OFFICE             RESOURCE DEVLMNT                                  
+W98-449C                  73   OFFICE             RESOURCE DEVLMNT                                  
+W98-450                  169   CONFERENCE ROOM    RESOURCE DEVLMNT                                  
+W98-451                   26   OFFICE SERVICE     RESOURCE DEVLMNT                                  
+W98-452A                  65   OFFICE SERVICE     RESOURCE DEVLMNT                                  
+W98-452B                 111   OFFICE             RESOURCE DEVLMNT                                  
+W98-453                  122   OFFICE             RESOURCE DEVLMNT                                  
+W98-455                  118   OFFICE             RESOURCE DEVLMNT                                  
+W98-456A                  66   OFFICE             RESOURCE DEVLMNT                                  
+W98-456B                  82   OFFICE             RESOURCE DEVLMNT                                  
+W98-456C                  65   OFFICE             RESOURCE DEVLMNT                                  
+W98-456D                  82   OFFICE             RESOURCE DEVLMNT                                  
+W98-457                  104   OFFICE SERVICE     RESOURCE DEVLMNT                                  
+W98-458A                  66   OFFICE             RESOURCE DEVLMNT                                  
+W98-458B                  82   OFFICE             RESOURCE DEVLMNT                                  
+W98-458C                  65   OFFICE             RESOURCE DEVLMNT                                  
+W98-458D                  82   OFFICE             RESOURCE DEVLMNT                                  
+W98-459                  125   OFFICE             RESOURCE DEVLMNT                                  
+W98-460                  120   OFFICE             RESOURCE DEVLMNT                                  
+W98-461                  124   OFFICE             RESOURCE DEVLMNT                                  
+W98-462                  120   OFFICE             RESOURCE DEVLMNT                                  
+W98-463                  124   OFFICE             RESOURCE DEVLMNT                                  
+                    --------                                                                        
+                      10,742                                                                        
+                                                                                                    
+W98-500CA                504   CORRIDOR           DP OF FACILITIES                                  
+W98-500CB                627   CORRIDOR           DP OF FACILITIES                                  
+W98-500CC                811   CORRIDOR           DP OF FACILITIES                                  
+W98-500CD                806   CORRIDOR           DP OF FACILITIES                                  
+W98-500E1                 60   ELEVATOR           DP OF FACILITIES                                  
+W98-500E2                 92   ELEVATOR           DP OF FACILITIES                                  
+W98-500SA                122   STAIRWAY           DP OF FACILITIES                                  
+W98-500SB                 89   STAIRWAY           DP OF FACILITIES                                  
+W98-500SC                133   STAIRWAY           DP OF FACILITIES                                  
+W98-500Z                 104   SHAFT SPACE        DP OF FACILITIES                                  
+W98-501                   68   SECY/RECEPTION     ALUMNI/AE ASSOC                                   
+W98-501A                  34   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-502                  346   CONFERENCE ROOM    ALUMNI/AE ASSOC                                   
+W98-503                  121   OFFICE             ALUMNI/AE ASSOC                                   
+W98-504                  119   OFFICE             ALUMNI/AE ASSOC                                   
+W98-505                  120   OFFICE             ALUMNI/AE ASSOC                                   
+W98-506                  119   OFFICE             ALUMNI/AE ASSOC                                   
+W98-507                  120   OFFICE             ALUMNI/AE ASSOC                                   
+W98-508                  178   OFFICE             ALUMNI/AE ASSOC                                   
+W98-509                  120   OFFICE             ALUMNI/AE ASSOC                                   
+W98-510                  130   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-510A                  68   OFFICE             ALUMNI/AE ASSOC                                   
+W98-510B                  68   OFFICE             ALUMNI/AE ASSOC                                   
+W98-510C                  68   OFFICE             ALUMNI/AE ASSOC                                   
+W98-510D                  61   OFFICE             ALUMNI/AE ASSOC                                   
+W98-510F                  61   OFFICE             ALUMNI/AE ASSOC                                   
+W98-510G                  64   OFFICE             ALUMNI/AE ASSOC                                   
+W98-511                  123   OFFICE             ALUMNI/AE ASSOC                                   
+W98-512A                  61   OFFICE             ALUMNI/AE ASSOC                                   
+W98-512B                  61   OFFICE             ALUMNI/AE ASSOC                                   
+W98-512C                  63   OFFICE             ALUMNI/AE ASSOC                                   
+W98-512D                  61   OFFICE             ALUMNI/AE ASSOC                                   
+W98-512F                  61   OFFICE             ALUMNI/AE ASSOC                                   
+W98-512G                  63   OFFICE             ALUMNI/AE ASSOC                                   
+W98-513                  120   OFFICE             ALUMNI/AE ASSOC                                   
+W98-514                  206   CONFERENCE ROOM    ALUMNI/AE ASSOC                                   
+W98-514A                  61   OFFICE             ALUMNI/AE ASSOC                                   
+W98-514B                  61   OFFICE             ALUMNI/AE ASSOC                                   
+W98-514C                  63   OFFICE             ALUMNI/AE ASSOC                                   
+W98-516                   59   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-516A                  51   OFFICE             ALUMNI/AE ASSOC                                   
+W98-516B                  50   OFFICE             ALUMNI/AE ASSOC                                   
+W98-518                  128   OFFICE             ALUMNI/AE ASSOC                                   
+W98-519                   35   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-520                  127   OFFICE             ALUMNI/AE ASSOC                                   
+W98-520A                  48   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-522                  119   OFFICE             ALUMNI/AE ASSOC                                   
+W98-523                  119   OFFICE             ALUMNI/AE ASSOC                                   
+W98-524                  116   OFFICE             ALUMNI/AE ASSOC                                   
+W98-525                  120   OFFICE             ALUMNI/AE ASSOC                                   
+W98-526                  121   OFFICE             ALUMNI/AE ASSOC                                   
+W98-528                  121   OFFICE             ALUMNI/AE ASSOC                                   
+W98-530                   65   OFFICE             ALUMNI/AE ASSOC                                   
+W98-530A                  56   OFFICE             ALUMNI/AE ASSOC                                   
+W98-532                   77   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-540                  147   FEMALE LAVATORY    DP OF FACILITIES                                  
+W98-542                  149   MALE LAVATORY      DP OF FACILITIES                                  
+W98-544                   25   PVT CIRCULATION    DP OF FACIL ADM                                   
+W98-544E                  87   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W98-544T                  44   TELECOM CLOSET     DP OF FACILITIES                                  
+W98-546E                   7   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W98-546J                  26   JANITOR CLOSET     DP OF FACILITIES                                  
+W98-546T                 104   TELECOM CLOSET     DP OF FACILITIES                                  
+W98-548A                  67   OFFICE             ALUMNI/AE ASSOC                                   
+W98-548B                  71   OFFICE             ALUMNI/AE ASSOC                                   
+W98-548C                  68   OFFICE             ALUMNI/AE ASSOC                                   
+W98-549A                  85   OFFICE             ALUMNI/AE ASSOC                                   
+W98-549B                  90   OFFICE             ALUMNI/AE ASSOC                                   
+W98-549C                  83   OFFICE             ALUMNI/AE ASSOC                                   
+W98-550                  184   OFFICE             ALUMNI/AE ASSOC                                   
+W98-551                  122   OFFICE             ALUMNI/AE ASSOC                                   
+W98-552A                  66   OFFICE             ALUMNI/AE ASSOC                                   
+W98-552B                  99   OFFICE             ALUMNI/AE ASSOC                                   
+W98-553                  164   OFFICE             ALUMNI/AE ASSOC                                   
+W98-555                  124   OFFICE             ALUMNI/AE ASSOC                                   
+W98-556A                  66   OFFICE             ALUMNI/AE ASSOC                                   
+W98-556B                  82   OFFICE             ALUMNI/AE ASSOC                                   
+W98-556C                  66   OFFICE             ALUMNI/AE ASSOC                                   
+W98-556D                  82   OFFICE             ALUMNI/AE ASSOC                                   
+W98-557                  103   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-558A                  66   OFFICE             ALUMNI/AE ASSOC                                   
+W98-558B                  82   OFFICE             ALUMNI/AE ASSOC                                   
+W98-558C                  66   OFFICE             ALUMNI/AE ASSOC                                   
+W98-558D                  82   OFFICE             ALUMNI/AE ASSOC                                   
+W98-559                  123   OFFICE             ALUMNI/AE ASSOC                                   
+W98-560                  119   OFFICE             ALUMNI/AE ASSOC                                   
+W98-561                  125   OFFICE             ALUMNI/AE ASSOC                                   
+W98-562                  119   OFFICE             ALUMNI/AE ASSOC                                   
+W98-563                  124   OFFICE             ALUMNI/AE ASSOC                                   
+                    --------                                                                        
+                      10,746                                                                        
+                                                                                                    
+W98-600CA                 68   CORRIDOR           DP OF FACILITIES                                  
+W98-600CB                205   CORRIDOR           DP OF FACILITIES                                  
+W98-600CC                294   CORRIDOR           DP OF FACILITIES                                  
+W98-600E1                 60   ELEVATOR           DP OF FACILITIES                                  
+W98-600SA                 79   STAIRWAY           DP OF FACILITIES                                  
+W98-600SB                167   STAIRWAY           DP OF FACILITIES                                  
+W98-600SC                140   STAIRWAY           DP OF FACILITIES                                  
+W98-600Z                 100   SHAFT SPACE        DP OF FACILITIES                                  
+W98-601                  453   OFFICE SERVICE     EXEC VICE PRES                                    
+W98-601A                  66   OFFICE SERVICE     EXEC VICE PRES                                    
+W98-601B                  50   OFFICE             EXEC VICE PRES                                    
+W98-601C                  50   SECY/RECEPTION     EXEC VICE PRES                                    
+W98-602                  846   CONFERENCE ROOM    EXEC VICE PRES                                    
+W98-602A                  75   OFFICE SERVICE     EXEC VICE PRES                                    
+W98-602B                  75   OFFICE SERVICE     EXEC VICE PRES                                    
+W98-603                  171   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-604                  138   OFFICE             ALUMNI/AE ASSOC                                   
+W98-606                  144   OFFICE             ALUMNI/AE ASSOC                                   
+W98-608                  165   OFFICE             ALUMNI/AE ASSOC                                   
+W98-610                  119   OFFICE             ALUMNI/AE ASSOC                                   
+W98-612                  147   OFFICE             ALUMNI/AE ASSOC                                   
+W98-614                  152   OFFICE             ALUMNI/AE ASSOC                                   
+W98-615                  289   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-615A                  75   OFFICE             ALUMNI/AE ASSOC                                   
+W98-615B                  58   OFFICE             ALUMNI/AE ASSOC                                   
+W98-615C                  58   OFFICE             ALUMNI/AE ASSOC                                   
+W98-615D                  74   OFFICE             ALUMNI/AE ASSOC                                   
+W98-615F                  73   OFFICE             ALUMNI/AE ASSOC                                   
+W98-615G                  46   OFFICE             ALUMNI/AE ASSOC                                   
+W98-615H                  46   OFFICE             ALUMNI/AE ASSOC                                   
+W98-622                   64   PVT CIRCULATION    DP OF FACIL ADM                                   
+W98-622A                 106   UTILITY/MECH RM    DP OF FACILITIES                                  
+W98-622B                  16   UTILITY/MECH RM    DP OF FACILITIES                                  
+W98-624                   69   OFFICE             ALUMNI/AE ASSOC                                   
+W98-628                  358   UTILITY/MECH RM    DP OF FACILITIES                                  
+W98-628E                  32   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W98-640                  154   FEMALE LAVATORY    DP OF FACILITIES                                  
+W98-642                  153   MALE LAVATORY      DP OF FACILITIES                                  
+W98-642A                  52   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-644E                  97   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W98-644J                  28   JANITOR CLOSET     DP OF FACILITIES                                  
+W98-644T                  45   TELECOM CLOSET     DP OF FACILITIES                                  
+W98-645                  401   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-645A                  91   OFFICE             ALUMNI/AE ASSOC                                   
+W98-645B                  62   OFFICE             ALUMNI/AE ASSOC                                   
+W98-646                   38   OFFICE SERVICE     ALUMNI/AE ASSOC                                   
+W98-647                  212   OFFICE             ALUMNI/AE ASSOC                                   
+W98-647A                   7   UTILITY/MECH RM    DP OF FACILITIES                                  
+W98-647J                  23   JANITOR CLOSET     DP OF FACILITIES                                  
+W98-652                  125   OFFICE             ALUMNI/AE ASSOC                                   
+W98-654                  333   OFFICE             ALUMNI/AE ASSOC                                   
+W98-656                  121   OFFICE             ALUMNI/AE ASSOC                                   
+W98-656A                  65   OFFICE             ALUMNI/AE ASSOC                                   
+W98-658                  150   OFFICE             ALUMNI/AE ASSOC                                   
+W98-658A                  65   OFFICE             ALUMNI/AE ASSOC                                   
+W98-660                  289   CONFERENCE ROOM    ALUMNI/AE ASSOC 

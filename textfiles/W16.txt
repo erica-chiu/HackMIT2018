@@ -1,0 +1,101 @@
+W16-000CA              1,987   CORRIDOR           DP OF FACILITIES                                  
+W16-000E1                107   ELEVATOR           DP OF FACILITIES                                  
+W16-000E2                 43   ELEVATOR           DP OF FACILITIES                                  
+W16-000LA              1,272   LOBBY              DP OF FACILITIES                                  
+W16-000SA                150   STAIRWAY           DP OF FACILITIES                                  
+W16-000SB                124   STAIRWAY           DP OF FACILITIES                                  
+W16-000Z                 104   SHAFT SPACE        DP OF FACILITIES                                  
+W16-001                  633   RECEIVING ROOM     CAMP ACTIV COMPL                                  
+W16-002                  456   OFFICE             CAMP ACTIV COMPL                                  
+W16-004                   20   PVT LAVATORY       CAMP ACTIV COMPL                                  
+W16-005                  102   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W16-005A                   8   STORAGE FACILITY   CAMP ACTIV COMPL                                  
+W16-006                  264   UTILITY/MECH RM    DP OF FACILITIES                                  
+W16-006A                 206   UTILITY/MECH RM    DP OF FACILITIES                                  
+W16-006J                  34   JANITOR CLOSET     DP OF FACILITIES                                  
+W16-008                   29   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W16-008J                   8   JANITOR CLOSET     DP OF FACILITIES                                  
+W16-010                  255   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W16-011                  128   OFFICE             CAMP ACTIV COMPL                                  
+W16-011A                  50   PUBLIC LAVATORY    DP OF FACILITIES                                  
+W16-012                1,312   UTILITY/MECH RM    DP OF FACILITIES                                  
+W16-012A                 270   UTILITY/MECH RM    DP OF FACILITIES                                  
+W16-012B                 143   UTILITY/MECH RM    DP OF FACILITIES                                  
+W16-012C                 819   UTILITY/MECH RM    DP OF FACILITIES                                  
+W16-012D                 460   UTILITY/MECH RM    DP OF FACILITIES                                  
+W16-012E                 484   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W16-013                  174   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W16-014                  464   MALE LAVATORY      DP OF FACILITIES                                  
+W16-015                  190   UTILITY/MECH RM    DP OF FACILITIES                                  
+W16-016A                 112   OFFICE             DP OF FACIL ADM                                   
+W16-017                  599   FEMALE LAVATORY    DP OF FACILITIES                                  
+W16-018                   83   OFFICE             CAMP ACTIV COMPL                                  
+W16-018T                 125   TELECOM CLOSET     DP OF FACILITIES                                  
+W16-019                1,110   UTILITY/MECH RM    DP OF FACILITIES                                  
+W16-019A                 268   UTILITY/MECH RM    DP OF FACILITIES                                  
+W16-019B                 181   UTILITY/MECH RM    DP OF FACILITIES                                  
+W16-020                   76   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W16-021                  193   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W16-022                  149   FEMALE LAVATORY    DP OF FACILITIES                                  
+W16-023                   42   UTILITY/MECH RM    DP OF FACILITIES                                  
+W16-023T                   7   TELECOM CLOSET     DP OF FACILITIES                                  
+W16-024                    7   STORAGE FACILITY   DP OF FACIL ADM                                   
+W16-025                  153   MEDIA PRODUCTION   CAMP ACTIV COMPL                                  
+W16-025A                  85   STORAGE FACILITY   DP OF FACIL ADM                                   
+W16-025AE                  6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W16-025E                  14   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W16-026                  113   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W16-027                   45   PVT CIRCULATION    DP OF FACIL ADM                                   
+W16-027AE                 75   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W16-027C                 102   UTILITY/MECH RM    DP OF FACILITIES                                  
+W16-027E                 103   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W16-028                  220   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W16-029                  390   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W16-030                1,110   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W16-030A                   8   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W16-030B                  11   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W16-033                1,106   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W16-033A                  11   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W16-033B                   7   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W16-034                  386   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W16-035                1,910   LECTURE HALL       CAMP ACTIV COMPL                                  
+W16-035A                  76   MEDIA PRODUCTION   CAMP ACTIV COMPL                                  
+W16-038                1,154   LECTURE HALL       CAMP ACTIV COMPL                                  
+                    --------                                                                        
+                      20,331                                                                        
+                                                                                                    
+W16-100CA                 86   CORRIDOR           DP OF FACILITIES                                  
+W16-100E1                109   ELEVATOR           DP OF FACILITIES                                  
+W16-100E2                 36   ELEVATOR           DP OF FACILITIES                                  
+W16-100LA              5,075   LOBBY              DP OF FACILITIES                                  
+W16-100LB                 84   LOBBY              DP OF FACILITIES                                  
+W16-100LC                 79   LOBBY              DP OF FACILITIES                                  
+W16-100SA                263   STAIRWAY           DP OF FACILITIES                                  
+W16-100SB                211   STAIRWAY           DP OF FACILITIES                                  
+W16-100SC                197   STAIRWAY           DP OF FACILITIES                                  
+W16-100SD                119   STAIRWAY           DP OF FACILITIES                                  
+W16-100SE                122   STAIRWAY           DP OF FACILITIES                                  
+W16-100SG                 84   STAIRWAY           DP OF FACILITIES                                  
+W16-100Z                 189   SHAFT SPACE        DP OF FACILITIES                                  
+W16-101                1,225   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W16-101A                  12   MEDIA SERVICE      CAMP ACTIV COMPL                                  
+W16-101B                  33   MEDIA SERVICE      CAMP ACTIV COMPL                                  
+W16-105                   71   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W16-108                1,228   LECTURE HALL       CAMP ACTIV COMPL                                  
+W16-109                7,044   LECTURE HALL       CAMP ACTIV COMPL                                  
+W16-109J                   8   JANITOR CLOSET     DP OF FACILITIES                                  
+W16-112                   79   JANITOR STORAGE    DP OF FACILITIES                                  
+                    --------                                                                        
+                      16,353                                                                        
+                                                                                                    
+W16-200Z                  93   SHAFT SPACE        DP OF FACILITIES                                  
+W16-201                  229   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W16-202                   96   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+W16-203                  322   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+W16-204                   27   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W16-205                  201   OFFICE SERVICE     CAMP ACTIV COMPL                                  
+W16-206                  312   MULTI-PURPOSE RM   CAMP ACTIV COMPL                                  
+W16-207E                  99   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W16-210M                 149   MEDIA PRODUCTION   CAMP ACTIV COMPL       GRAPHIC ARTS               
+W16-211M                 240   MEDIA PRODUCTION   CAMP ACTIV COMPL       GRAPHIC ARTS               
+W16-212M                 156   MEDIA PRODUCTION   CAMP ACTIV COMPL       GRAPHIC ARTS    

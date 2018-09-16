@@ -1,0 +1,590 @@
+E18-000CA                756   CORRIDOR           DP OF FACILITIES                                  
+E18-000CB                360   CORRIDOR           DP OF FACILITIES                                  
+E18-000CC              1,131   CORRIDOR           DP OF FACILITIES                                  
+E18-000CD                359   CORRIDOR           DP OF FACILITIES                                  
+E18-000CE                157   CORRIDOR           DP OF FACILITIES                                  
+E18-000CF                667   CORRIDOR           DP OF FACILITIES                                  
+E18-000CG                370   CORRIDOR           DP OF FACILITIES                                  
+E18-000CH                615   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+E18-000E1                 76   ELEVATOR           DP OF FACILITIES                                  
+E18-000E2                129   ELEVATOR           DP OF FACILITIES                                  
+E18-000SA                133   STAIRWAY           DP OF FACILITIES                                  
+E18-000SB                136   STAIRWAY           DP OF FACILITIES                                  
+E18-000SC                127   STAIRWAY           DP OF FACILITIES                                  
+E18-000Z                  27   SHAFT SPACE        DP OF FACILITIES                                  
+E18-001                  563   UTILITY/MECH RM    DP OF FACILITIES                                  
+E18-011                  438   STORAGE FACILITY   DP OF FACIL ADM                                   
+E18-013                  105   UTILITY/MECH RM    DP OF FACILITIES                                  
+E18-015                  163   STORAGE FACILITY   DP OF FACIL ADM                                   
+E18-017                   15   OFFICE SERVICE     DP OF FACIL ADM                                   
+E18-020                  181   OFFICE SERVICE     INFO SVCS & TECH                                  
+E18-021                  602   CONFERENCE ROOM    DP OF FACIL ADM                                   
+E18-022                  263   MAINTENANCE SHOP   DP OF FACIL ADM                                   
+E18-027                  550   OFFICE SERVICE     PROVOST RESERVE                                   
+E18-030                  900   OFFICE             DP OF FACIL ADM                                   
+E18-031                  462   OFFICE SERVICE     PROVOST RESERVE                                   
+E18-032                  392   OFFICE SERVICE     INFO SVCS & TECH                                  
+E18-034                  787   STORAGE FACILITY   DP OF FACIL ADM                                   
+E18-034A                 156   UTILITY/MECH RM    DP OF FACILITIES                                  
+E18-035                  339   OFFICE SERVICE     PROVOST RESERVE                                   
+E18-037                  305   OFFICE SERVICE     INFO SVCS & TECH                                  
+E18-039                  175   LABORATORY SVC     PROVOST RESERVE                                   
+E18-041                  229   OFFICE SERVICE     HUMAN RESOURCES                                   
+E18-042                  440   STORAGE FACILITY   DP OF FACIL ADM                                   
+E18-042A                 325   UTILITY/MECH RM    DP OF FACILITIES                                  
+E18-043                  110   STORAGE FACILITY   DP OF FACIL ADM                                   
+E18-043A                  62   STORAGE FACILITY   DP OF FACIL ADM                                   
+E18-066                  993   UTILITY/MECH RM    DP OF FACILITIES                                  
+E18-068                   47   UTILITY/MECH RM    DP OF FACILITIES                                  
+E18-070                  366   STORAGE FACILITY   DP OF FACIL ADM                                   
+E18-070F                  13   UTILITY/MECH RM    DP OF FACILITIES                                  
+E18-071                1,939   UTILITY/MECH RM    DP OF FACILITIES                                  
+E18-072                  249   JANITOR STORAGE    DP OF FACILITIES                                  
+E18-074                  694   JANITOR STORAGE    DP OF FACILITIES                                  
+E18-078                  418   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      17,322                                                                        
+                                                                                                    
+E18-100CB                896   CORRIDOR           DP OF FACILITIES                                  
+E18-100CC                415   CORRIDOR           DP OF FACILITIES                                  
+E18-100CD                133   CORRIDOR           DP OF FACILITIES                                  
+E18-100E1                 75   ELEVATOR           DP OF FACILITIES                                  
+E18-100E2                140   ELEVATOR           DP OF FACILITIES                                  
+E18-100LA                 96   LOBBY              DP OF FACILITIES                                  
+E18-100LD                139   LOBBY              DP OF FACILITIES                                  
+E18-100SA                256   STAIRWAY           DP OF FACILITIES                                  
+E18-100SB                239   STAIRWAY           DP OF FACILITIES                                  
+E18-100Z                 140   SHAFT SPACE        DP OF FACILITIES                                  
+E18-102                  104   OFFICE             DP OF FACIL ADM                                   
+E18-103                   78   OFFICE             DP OF FACIL ADM                                   
+E18-105                1,080   MAINTENANCE SHOP   DP OF FACIL ADM                                   
+E18-105A                  31   SHOP SERVICE       DP OF FACIL ADM                                   
+E18-107                  397   RECEIVING ROOM     DP OF FACIL ADM                                   
+E18-109                  260   RECEIVING ROOM     DP OF FACIL ADM                                   
+E18-113                  143   OFFICE             DP OF FACIL ADM                                   
+E18-115                  749   RECEIVING ROOM     DP OF FACIL ADM                                   
+E18-120                3,250   MAINTENANCE SHOP   DP OF FACIL ADM                                   
+E18-120A                  77   OFFICE SERVICE     DP OF FACIL ADM                                   
+E18-121                   90   OFFICE             DP OF FACIL ADM                                   
+E18-165                2,104   MAINTENANCE SHOP   DP OF FACIL ADM                                   
+E18-168                  213   MAINTENANCE SHOP   DP OF FACIL ADM                                   
+E18-169                  126   MAINTENANCE SHOP   DP OF FACIL ADM                                   
+E18-170                  117   OFFICE             DP OF FACIL ADM                                   
+E18-170E                  20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E18-171                  569   MAINTENANCE SHOP   DP OF FACIL ADM                                   
+E18-171A                 120   OFFICE             DP OF FACIL ADM                                   
+E18-171B                 113   OFFICE SERVICE     DP OF FACIL ADM                                   
+E18-171C                  40   OFFICE SERVICE     DP OF FACIL ADM                                   
+E18-171D                  23   MAINTENANCE SHOP   DP OF FACIL ADM                                   
+E18-172                  132   OFFICE             DP OF FACIL ADM                                   
+E18-173                  305   MAINTENANCE SHOP   DP OF FACIL ADM                                   
+E18-175                  518   MAINTENANCE SHOP   DP OF FACIL ADM                                   
+E18-175E                  32   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                      13,220                                                                        
+                                                                                                    
+E18-200CA              1,614   CORRIDOR           DP OF FACILITIES                                  
+E18-200E1                 76   ELEVATOR           DP OF FACILITIES                                  
+E18-200LA                222   LOBBY              DP OF FACILITIES                                  
+E18-200SA                113   STAIRWAY           DP OF FACILITIES                                  
+E18-200SB                132   STAIRWAY           DP OF FACILITIES                                  
+E18-200Z                 188   SHAFT SPACE        DP OF FACILITIES                                  
+E18-205                  286   CONFERENCE ROOM    VP-RSCH                INTL SCHOLAR OFF           
+E18-209                  803   OFFICE SERVICE     VP-RSCH                INTL SCHOLAR OFF           
+E18-209A                 143   OFFICE             VP-RSCH                INTL SCHOLAR OFF           
+E18-209B                 196   OFFICE             VP-RSCH                INTL SCHOLAR OFF           
+E18-209C                 123   OFFICE             VP-RSCH                INTL SCHOLAR OFF           
+E18-209CC                245   PVT CIRCULATION    VP-RSCH                INTL SCHOLAR OFF           
+E18-209D                 122   OFFICE             VP-RSCH                INTL SCHOLAR OFF           
+E18-209F                 123   OFFICE             VP-RSCH                INTL SCHOLAR OFF           
+E18-209G                 126   OFFICE             VP-RSCH                INTL SCHOLAR OFF           
+E18-209H                  48   OFFICE             VP-RSCH                INTL SCHOLAR OFF           
+E18-209K                  35   SECY/RECEPTION     VP-RSCH                INTL SCHOLAR OFF           
+E18-209N                  35   SECY/RECEPTION     VP-RSCH                INTL SCHOLAR OFF           
+E18-211                  162   OFFICE SERVICE     VP-RSCH                INTL SCHOLAR OFF           
+E18-213E                  15   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E18-215                  233   CONFERENCE ROOM    DEAN-GRAD STU          INTL STUDENT OFF           
+E18-219                  573   PVT CIRCULATION    DEAN-GRAD STU          INTL STUDENT OFF           
+E18-219B                 144   SECY/RECEPTION     DEAN-GRAD STU          INTL STUDENT OFF           
+E18-219C                  98   OFFICE             DEAN-GRAD STU          INTL STUDENT OFF           
+E18-219D                  98   OFFICE             DEAN-GRAD STU          INTL STUDENT OFF           
+E18-219F                 101   OFFICE             DEAN-GRAD STU          INTL STUDENT OFF           
+E18-219G                 102   OFFICE             DEAN-GRAD STU          INTL STUDENT OFF           
+E18-219H                 100   OFFICE             DEAN-GRAD STU          INTL STUDENT OFF           
+E18-219K                 142   OFFICE             DEAN-GRAD STU          INTL STUDENT OFF           
+E18-219L                 100   OFFICE             DEAN-GRAD STU          INTL STUDENT OFF           
+E18-219N                  97   OFFICE             DEAN-GRAD STU          INTL STUDENT OFF           
+E18-219P                 100   OFFICE             DEAN-GRAD STU          INTL STUDENT OFF           
+E18-219Q                 124   OFFICE SERVICE     DEAN-GRAD STU          INTL STUDENT OFF           
+E18-219R                 100   OFFICE             DEAN-GRAD STU          INTL STUDENT OFF           
+E18-219S                 147   OFFICE SERVICE     DEAN-GRAD STU          INTL STUDENT OFF           
+E18-219U                  17   OFFICE SERVICE     DEAN-GRAD STU          INTL STUDENT OFF           
+E18-222                  392   PVT CIRCULATION    CAREER SERVICES        GECD                       
+E18-222A                  82   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E18-222B                  77   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E18-222C                  85   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E18-222CA                 30   PVT CIRCULATION    CAREER SERVICES        GECD                       
+E18-222D                  68   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E18-222F                  68   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E18-222G                  22   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E18-222H                  66   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E18-222J                  27   JANITOR CLOSET     DP OF FACILITIES                                  
+E18-222K                  66   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E18-222L                  66   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E18-222N                 106   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E18-222P                  73   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E18-222Q                  82   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E18-222Z                 642   SHAFT SPACE        DP OF FACILITIES                                  
+E18-228                  354   PVT CIRCULATION    COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-228A                  18   OFFICE SERVICE     COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-228B                  89   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-228C                 145   OFFICE SERVICE     COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-228D                 125   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-228F                 151   CONFERENCE ROOM    COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-228G                 223   CONFERENCE ROOM    COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-228H                 114   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-228K                 120   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-228L                  69   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-228N                  71   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-228P                  69   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-228Q                 116   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-228R                 107   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-233                  274   PVT CIRCULATION    COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-233A                  49   OFFICE SERVICE     COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-233AA                 76   OFFICE SERVICE     COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-233B                 145   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-233C                  75   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-233D                  74   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-233F                  75   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-233G                  75   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-233H                  69   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-233K                  70   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-233L                  72   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-233N                  65   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-240                  322   PVT CIRCULATION    COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-240A                 118   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-240B                 118   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-240C                 118   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-240D                 118   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-240F                 118   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-240G                 138   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E18-240H                 172   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+                    --------                                                                        
+                      13,151                                                                        
+                                                                                                    
+E18-300CA                343   CORRIDOR           DP OF FACILITIES                                  
+E18-300E1                 76   ELEVATOR           DP OF FACILITIES                                  
+E18-300LA                239   LOBBY              DP OF FACILITIES                                  
+E18-300SA                121   STAIRWAY           DP OF FACILITIES                                  
+E18-300SB                144   STAIRWAY           DP OF FACILITIES                                  
+E18-300Z                  12   SHAFT SPACE        DP OF FACILITIES                                  
+E18-301                  408   PVT CIRCULATION    INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-303                  199   CONFERENCE ROOM    SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E18-304                  685   CONFERENCE ROOM    INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-304A                 586   CONFERENCE ROOM    INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-304B                  97   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-304J                  29   JANITOR CLOSET     DP OF FACILITIES                                  
+E18-305                   98   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E18-307                   98   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E18-309                  482   PVT CIRCULATION    SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E18-309A                  67   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E18-309B                 143   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E18-309C                 346   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E18-309D                 132   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E18-309F                 124   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E18-309G                 230   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E18-309H                  87   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E18-309K                  87   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E18-309N                  57   OFFICE SERVICE     SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E18-311                  380   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E18-313E                  13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E18-315                  233   CONFERENCE ROOM    SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E18-316                2,501   PVT CIRCULATION    PROVOST RESERVE                                   
+E18-317                   83   OFFICE             PROVOST RESERVE                                   
+E18-318A                  41   OFFICE             PROVOST RESERVE                                   
+E18-318B                  44   OFFICE             PROVOST RESERVE                                   
+E18-318C                  46   OFFICE             PROVOST RESERVE                                   
+E18-318D                  43   OFFICE             PROVOST RESERVE                                   
+E18-319                  148   OFFICE             PROVOST RESERVE                                   
+E18-320A                  72   OFFICE             PROVOST RESERVE                                   
+E18-320B                  44   OFFICE             PROVOST RESERVE                                   
+E18-320C                  41   OFFICE             PROVOST RESERVE                                   
+E18-321                  108   OFFICE             PROVOST RESERVE                                   
+E18-323                  106   OFFICE             PROVOST RESERVE                                   
+E18-324C                  83   OFFICE             PROVOST RESERVE                                   
+E18-324T                 256   TELECOM CLOSET     DP OF FACILITIES                                  
+E18-327                  206   CONFERENCE ROOM    PROVOST RESERVE                                   
+E18-328A                  41   OFFICE             PROVOST RESERVE                                   
+E18-328B                  41   OFFICE             PROVOST RESERVE                                   
+E18-328C                  42   OFFICE             PROVOST RESERVE                                   
+E18-329                  208   OFFICE             PROVOST RESERVE                                   
+E18-332A                  42   OFFICE             PROVOST RESERVE                                   
+E18-332B                  41   OFFICE             PROVOST RESERVE                                   
+E18-332C                  40   OFFICE             PROVOST RESERVE                                   
+E18-332D                  41   OFFICE             PROVOST RESERVE                                   
+E18-333                  230   OFFICE             PROVOST RESERVE                                   
+E18-334A                  44   OFFICE             PROVOST RESERVE                                   
+E18-334B                  39   OFFICE             PROVOST RESERVE                                   
+E18-334C                  40   OFFICE             PROVOST RESERVE                                   
+E18-334D                  40   OFFICE             PROVOST RESERVE                                   
+E18-335                  164   OFFICE             PROVOST RESERVE                                   
+E18-337                  167   OFFICE             PROVOST RESERVE                                   
+E18-338A                  40   OFFICE             PROVOST RESERVE                                   
+E18-338B                  40   OFFICE             PROVOST RESERVE                                   
+E18-338C                  40   OFFICE             PROVOST RESERVE                                   
+E18-338D                  41   OFFICE             PROVOST RESERVE                                   
+E18-339                  167   OFFICE             PROVOST RESERVE                                   
+E18-340A                  41   OFFICE             PROVOST RESERVE                                   
+E18-340B                  41   OFFICE             PROVOST RESERVE                                   
+E18-340C                  41   OFFICE             PROVOST RESERVE                                   
+E18-340D                  40   OFFICE             PROVOST RESERVE                                   
+E18-340F                  43   OFFICE             PROVOST RESERVE                                   
+E18-340Z                 634   SHAFT SPACE        DP OF FACILITIES                                  
+E18-341                  169   OFFICE             PROVOST RESERVE                                   
+E18-342A                  42   OFFICE             PROVOST RESERVE                                   
+E18-342B                  40   OFFICE             PROVOST RESERVE                                   
+E18-342C                  41   OFFICE SERVICE     PROVOST RESERVE                                   
+E18-342D                  41   OFFICE SERVICE     PROVOST RESERVE                                   
+                    --------                                                                        
+                      12,063                                                                        
+                                                                                                    
+E18-400CA                516   CORRIDOR           DP OF FACILITIES                                  
+E18-400E1                 77   ELEVATOR           DP OF FACILITIES                                  
+E18-400SA                112   STAIRWAY           DP OF FACILITIES                                  
+E18-400SB                136   STAIRWAY           DP OF FACILITIES                                  
+E18-400Z                 646   SHAFT SPACE        DP OF FACILITIES                                  
+E18-401                1,806   PVT CIRCULATION    INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-401A                 477   LOUNGE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-402                  131   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-403                  293   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-403A                 346   CONFERENCE ROOM    INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-404                  142   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-406                  144   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-407                  372   CONFERENCE ROOM    INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-407A                 113   SECY/RECEPTION     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-411                   92   COAT ROOM          INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-411A                 617   CONFERENCE ROOM    INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-411AA                118   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-413E                  13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E18-415                  226   CONFERENCE ROOM    INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-419                  129   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-420                   87   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-420A                  27   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-420J                  25   JANITOR CLOSET     DP OF FACILITIES                                  
+E18-421                  143   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-422                  106   CONFERENCE ROOM    INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-423                  142   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-424                  125   CONFERENCE ROOM    INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-425                  670   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-426                   85   CONFERENCE ROOM    INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-427                  453   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-430                  452   OFFICE             INST FOR DATA SYS &    MIT PORTUGAL               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-431                  152   CONFERENCE ROOM    INST FOR DATA SYS &    MIT PORTUGAL               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-433                  200   OFFICE             INST FOR DATA SYS &    MIT PORTUGAL               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-435                  189   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-436                  519   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-437                  187   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-438                  173   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-439                  159   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-440                  342   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E18-440Z                 638   SHAFT SPACE        DP OF FACILITIES                                  
+E18-441                  378   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+                    --------                                                                        
+                      11,757                                                                        
+                                                                                                    
+E18-500CA              1,705   CORRIDOR           DP OF FACILITIES                                  
+E18-500LA                 73   LOBBY              DP OF FACILITIES                                  
+E18-500SA                117   STAIRWAY           DP OF FACILITIES                                  
+E18-500SB                149   STAIRWAY           DP OF FACILITIES                                  
+E18-500Z                 119   SHAFT SPACE        DP OF FACILITIES                                  
+E18-508                  263   LABORATORY SVC     CHEMICAL ENG                                      
+E18-508A                 153   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+E18-508B                 292   RESEARCH LAB       CHEMICAL ENG                                      
+E18-508C                 132   RESEARCH LAB       CHEMICAL ENG                                      
+E18-508D                 126   RESEARCH LAB       CHEMICAL ENG                                      
+E18-509                1,115   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+E18-513                   79   LABORATORY SVC     CHEMICAL ENG                                      
+E18-514                  659   RESEARCH LAB       CHEMICAL ENG                                      
+E18-514A                 203   RESEARCH LAB       CHEMICAL ENG                                      
+E18-517                  159   RESEARCH LAB       CHEMICAL ENG                                      
+E18-518                   90   LABORATORY SVC     CHEMICAL ENG                                      
+E18-519J                  29   JANITOR CLOSET     DP OF FACILITIES                                  
+E18-520                  435   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+E18-521                  165   LABORATORY SVC     CHEMICAL ENG                                      
+E18-521A                  47   LABORATORY SVC     CHEMICAL ENG                                      
+E18-522                  413   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+E18-523                  156   MALE LAVATORY      DP OF FACILITIES                                  
+E18-524                1,504   RESEARCH LAB       CHEMICAL ENG                                      
+E18-525                  172   LABORATORY SVC     CHEMICAL ENG                                      
+E18-558                  214   OFFICE             CHEMICAL ENG                                      
+E18-566                1,877   RESEARCH LAB       CHEMICAL ENG                                      
+E18-566A                 717   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+E18-570E                  16   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E18-573                  994   RESEARCH LAB       CHEMICAL ENG                                      
+E18-573A                  78   LABORATORY SVC     CHEMICAL ENG                                      
+                    --------                                                                        
+                      12,250                                                                        
+                                                                                                    
+E18-600CB                454   CORRIDOR           DP OF FACILITIES                                  
+E18-600CC                198   CORRIDOR           DP OF FACILITIES                                  
+E18-600CD                216   CORRIDOR           DP OF FACILITIES                                  
+E18-600CE                179   CORRIDOR           DP OF FACILITIES                                  
+E18-600CF                386   PVT CIRCULATION    DIV OF COMP MED                                   
+E18-600E1                 76   ELEVATOR           DP OF FACILITIES                                  
+E18-600LA                222   LOBBY              DP OF FACILITIES                                  
+E18-600SA                151   STAIRWAY           DP OF FACILITIES                                  
+E18-600SB                145   STAIRWAY           DP OF FACILITIES                                  
+E18-600SC                145   STAIRWAY           DP OF FACILITIES                                  
+E18-600Z                 927   SHAFT SPACE        DP OF FACILITIES                                  
+E18-601                  161   OFFICE             PROVOST RESERVE                                   
+E18-601A                  14   UTILITY/MECH RM    DP OF FACILITIES                                  
+E18-602                   42   LABORATORY SVC     DIV OF COMP MED                                   
+E18-602A                  19   LABORATORY SVC     DIV OF COMP MED                                   
+E18-603                  241   OFFICE SERVICE     MEDIA LABORATORY                                  
+E18-605                  998   RESEARCH LAB       MEDIA LABORATORY                                  
+E18-606                  242   RESEARCH LAB       MEDIA LABORATORY                                  
+E18-608                  132   RESEARCH LAB       MEDIA LABORATORY                                  
+E18-610                  118   RESEARCH LAB       MEDIA LABORATORY                                  
+E18-612                   80   LABORATORY SVC     MEDIA LABORATORY                                  
+E18-615                  129   LABORATORY SVC     DIV OF COMP MED                                   
+E18-617                   13   ANIMAL SERVICE     DIV OF COMP MED                                   
+E18-619                  207   ANIMAL SERVICE     DIV OF COMP MED                                   
+E18-620                  943   PVT CIRCULATION    DIV OF COMP MED                                   
+E18-621                  262   ANIMAL SERVICE     DIV OF COMP MED                                   
+E18-622                  176   OFFICE             PROVOST RESERVE                                   
+E18-623                   39   ANIMAL SERVICE     DIV OF COMP MED                                   
+E18-623A                  35   ANIMAL SERVICE     DIV OF COMP MED                                   
+E18-624                  153   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-624A                  38   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-624B                  39   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-624C                  40   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-624D                  34   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-624F                  33   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-624G                  32   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-625                  253   RESEARCH LAB       DIV OF COMP MED                                   
+E18-627                  263   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-628                  216   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-628A                  39   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-628B                  40   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-628C                  34   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-628D                  33   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-629                  261   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-630                  230   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-633                  274   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-634                  227   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-635                  220   ANIMAL SERVICE     DIV OF COMP MED                                   
+E18-636                  250   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-637                  225   ANIMAL SERVICE     DIV OF COMP MED                                   
+E18-639                  615   ANIMAL SERVICE     DIV OF COMP MED                                   
+E18-643                  496   ANIMAL SERVICE     DIV OF COMP MED                                   
+E18-643A                  64   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-643B                  59   ANIMAL SERVICE     DIV OF COMP MED                                   
+E18-643C                  62   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-643D                  58   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-643F                  54   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-643G                  58   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-643H                  55   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-643K                  68   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-643L                  68   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E18-643M                  38   ANIMAL SERVICE     DIV OF COMP MED                                   
+E18-649                  676   ANIMAL SERVICE     DIV OF COMP MED                                   
+E18-652                  147   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+E18-664                  157   RESEARCH LAB       MEDIA LABORATORY                                  
+E18-665                   78   OFFICE             DIV OF COMP MED                                   
+E18-666                   90   RESEARCH LAB       MEDIA LABORATORY                                  
+E18-666A                 137   RESEARCH LAB       MEDIA LABORATORY                                  
+E18-667                   63   RESEARCH LAB       DIV OF COMP MED                                   
+E18-667A                 101   RESEARCH LAB       DIV OF COMP MED                                   
+E18-669                   65   RESEARCH LAB       DIV OF COMP MED                                   
+E18-669A                 104   RESEARCH LAB       DIV OF COMP MED                                   
+E18-670                  121   OFFICE             PROVOST RESERVE                                   
+E18-670E                  22   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E18-671                   59   RESEARCH LAB       DIV OF COMP MED                                   
+E18-671A                  94   RESEARCH LAB       DIV OF COMP MED                                   
+E18-672                  109   OFFICE             PROVOST RESERVE                                   
+E18-673                   62   RESEARCH LAB       DIV OF COMP MED                                   
+E18-673A                 100   RESEARCH LAB       DIV OF COMP MED                                   
+E18-674                  182   RSCH LAB-OFFICE    MEDIA LABORATORY                                  
+E18-675                   87   LABORATORY SVC     DIV OF COMP MED                                   
+E18-676                1,254   RESEARCH LAB       CHEMICAL ENG                                      
+E18-676A                 118   RESEARCH LAB       CHEMICAL ENG                                      
+E18-676B                 140   RESEARCH LAB       CHEMICAL ENG                                      
+E18-676C                 547   LABORATORY SVC     CHEMICAL ENG                                      
+E18-677                   61   RESEARCH LAB       DIV OF COMP MED                                   
+E18-677A                 106   RESEARCH LAB       DIV OF COMP MED                                   
+E18-677E                  31   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E18-677T                  77   TELECOM CLOSET     DP OF FACILITIES                                  
+E18-679                   63   RESEARCH LAB       DIV OF COMP MED                                   
+E18-679A                 112   RESEARCH LAB       DIV OF COMP MED 

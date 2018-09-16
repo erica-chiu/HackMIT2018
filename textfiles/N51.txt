@@ -1,0 +1,137 @@
+N51-000SA                108   STAIRWAY           DP OF FACILITIES                                  
+N51-000SB                 16   STAIRWAY           DP OF FACILITIES                                  
+N51-002                  645   OFFICE SERVICE     PROVOST RESERVE                                   
+N51-072                  421   OFFICE SERVICE     PROVOST RESERVE                                   
+                    --------                                                                        
+                       1,190                                                                        
+                                                                                                    
+N51-100CA                425   CORRIDOR           DP OF FACILITIES                                  
+N51-100SA                114   STAIRWAY           DP OF FACILITIES                                  
+N51-100SB                 53   STAIRWAY           DP OF FACILITIES                                  
+N51-100SC                 84   STAIRWAY           DP OF FACILITIES                                  
+N51-100SD                 42   STAIRWAY           DP OF FACILITIES                                  
+N51-100SF                266   STAIRWAY           DP OF FACILITIES                                  
+N51-100Z                  86   SHAFT SPACE        DP OF FACILITIES                                  
+N51-102                   75   OFFICE SERVICE     MIT MUSEUM                                        
+N51-118                  133   UTILITY/MECH RM    DP OF FACILITIES                                  
+N51-118T                  34   TELECOM CLOSET     DP OF FACILITIES                                  
+N51-123                  188   OFFICE SERVICE     MIT MUSEUM                                        
+N51-123A                  58   SECY/RECEPTION     MIT MUSEUM                                        
+N51-126                4,684   EXHIBITION FACIL   MIT MUSEUM                                        
+N51-127                  311   OFFICE SERVICE     MIT MUSEUM                                        
+N51-127A                  23   OFFICE SERVICE     MIT MUSEUM                                        
+N51-127B                  57   OFFICE SERVICE     MIT MUSEUM                                        
+N51-127E                 168   ELECTRIC CLOSET    DP OF FACILITIES                                  
+N51-129                   63   PUBLIC LAVATORY    DP OF FACILITIES                                  
+N51-130                  262   OFFICE SERVICE     MIT MUSEUM                                        
+N51-131                  191   FEMALE LAVATORY    DP OF FACILITIES                                  
+N51-132                  150   OFFICE             MIT MUSEUM                                        
+N51-133                  243   UTILITY/MECH RM    DP OF FACILITIES                                  
+N51-133T                  58   TELECOM CLOSET     DP OF FACILITIES                                  
+N51-134                  138   OFFICE             MIT MUSEUM                                        
+N51-137                1,160   OFFICE SERVICE     DEAN-UNDERGRD ED                                  
+N51-139                1,201   OFFICE SERVICE     DEAN-UNDERGRD ED                                  
+N51-141                  210   OFFICE SERVICE     DEAN-UNDERGRD ED                                  
+N51-143                  108   OFFICE SERVICE     DEAN-UNDERGRD ED                                  
+N51-144                  133   OFFICE             DEAN-UNDERGRD ED                                  
+N51-145                1,140   OFFICE SERVICE     DEAN-UNDERGRD ED                                  
+N51-147                  213   OFFICE SERVICE     DEAN-UNDERGRD ED                                  
+N51-150                1,821   OFFICE SERVICE     DEAN-UNDERGRD ED                                  
+N51-151                   51   UTILITY/MECH RM    DP OF FACILITIES                                  
+N51-153                   31   UTILITY/MECH RM    DP OF FACILITIES                                  
+N51-160                1,798   TEACHING LAB       ARCHITECTURE                                      
+N51-160A                 109   LABORATORY SVC     ARCHITECTURE                                      
+N51-160B                  99   LABORATORY SVC     ARCHITECTURE                                      
+                    --------                                                                        
+                      15,980                                                                        
+                                                                                                    
+N51-200CA                818   CORRIDOR           DP OF FACILITIES                                  
+N51-200CB                835   CORRIDOR           DP OF FACILITIES                                  
+N51-200SA                114   STAIRWAY           DP OF FACILITIES                                  
+N51-200SB                125   STAIRWAY           DP OF FACILITIES                                  
+N51-200SC                112   STAIRWAY           DP OF FACILITIES                                  
+N51-200Z                  40   SHAFT SPACE        DP OF FACILITIES                                  
+N51-201                  216   OFFICE             MIT MUSEUM                                        
+N51-203                  135   SECY/RECEPTION     MIT MUSEUM                                        
+N51-204                  133   OFFICE             MIT MUSEUM                                        
+N51-205                  177   OFFICE             MIT MUSEUM                                        
+N51-206                1,028   EXHIBITION SVC     MIT MUSEUM                                        
+N51-207                  188   OFFICE             MIT MUSEUM             EXH                        
+N51-209                  163   OFFICE             MIT MUSEUM             COLL                       
+N51-211                  150   OFFICE             MIT MUSEUM             COLL                       
+N51-211A                  11   STORAGE FACILITY   MIT MUSEUM                                        
+N51-213                  235   OFFICE             MIT MUSEUM             EXH                        
+N51-217A                 152   OFFICE             MIT MUSEUM                                        
+N51-217AA                 83   OFFICE             MIT MUSEUM                                        
+N51-217AB                 58   OFFICE             MIT MUSEUM                                        
+N51-217AC                 67   OFFICE             MIT MUSEUM                                        
+N51-217B                 134   OFFICE             MIT MUSEUM                                        
+N51-217C                  55   OFFICE             MIT MUSEUM                                        
+N51-217CA                 63   OFFICE SERVICE     MIT MUSEUM                                        
+N51-218T                  96   TELECOM CLOSET     DP OF FACILITIES                                  
+N51-221                  126   EXHIBITION SVC     MIT MUSEUM                                        
+N51-223                  407   EXHIBITION SVC     MIT MUSEUM                                        
+N51-223A                  59   EXHIBITION SVC     MIT MUSEUM                                        
+N51-225                  279   OFFICE SERVICE     MIT MUSEUM                                        
+N51-226                  212   OFFICE SERVICE     MIT MUSEUM             COLL                       
+N51-227                  242   FEMALE LAVATORY    DP OF FACILITIES                                  
+N51-227A                  39   UTILITY/MECH RM    DP OF FACILITIES                                  
+N51-227J                  13   JANITOR CLOSET     DP OF FACILITIES                                  
+N51-229                  221   MALE LAVATORY      DP OF FACILITIES                                  
+N51-229Z                  40   SHAFT SPACE        DP OF FACILITIES                                  
+N51-231J                  63   JANITOR CLOSET     DP OF FACILITIES                                  
+N51-233                1,549   EXHIBITION SVC     MIT MUSEUM             COLL                       
+N51-233A                 164   OFFICE             MIT MUSEUM             COLL                       
+N51-235                  342   EXHIBITION SVC     MIT MUSEUM             COLL                       
+N51-235A                 109   EXHIBITION SVC     MIT MUSEUM             COLL                       
+N51-239                2,206   EXHIBITION SVC     MIT MUSEUM                                        
+N51-239A                 229   EXHIBITION SVC     MIT MUSEUM             COLL                       
+N51-239B                 343   EXHIBITION SVC     MIT MUSEUM             COLL                       
+                    --------                                                                        
+                      11,830                                                                        
+                                                                                                    
+N51-300CA              2,478   CORRIDOR           DP OF FACILITIES                                  
+N51-300SA                113   STAIRWAY           DP OF FACILITIES                                  
+N51-300SB                 96   STAIRWAY           DP OF FACILITIES                                  
+N51-300Z                  53   SHAFT SPACE        DP OF FACILITIES                                  
+N51-301                  133   OFFICE             PROVOST RESERVE                                   
+N51-302                  131   OFFICE             PROVOST RESERVE                                   
+N51-304                  163   CLASSROOM SVC      PROVOST RESERVE                                   
+N51-305                  369   CONFERENCE ROOM    PROVOST RESERVE                                   
+N51-307                   68   OFFICE SERVICE     PROVOST RESERVE                                   
+N51-309                  221   OFFICE             PROVOST RESERVE                                   
+N51-310                  948   CLASSROOM          PROVOST RESERVE                                   
+N51-310A                  23   CLASSROOM SVC      PROVOST RESERVE                                   
+N51-310B                  23   CLASSROOM SVC      PROVOST RESERVE                                   
+N51-310C                 181   CLASSROOM SVC      PROVOST RESERVE                                   
+N51-311                  247   OFFICE             PROVOST RESERVE                                   
+N51-313                  204   OFFICE             PROVOST RESERVE                                   
+N51-315                  174   OFFICE             PROVOST RESERVE                                   
+N51-316                   42   UTILITY/MECH RM    DP OF FACILITIES                                  
+N51-317                  160   OFFICE             PROVOST RESERVE                                   
+N51-319                  144   OFFICE             PROVOST RESERVE                                   
+N51-321                  112   OFFICE SERVICE     PROVOST RESERVE                                   
+N51-322                   67   OFFICE SERVICE     PROVOST RESERVE                                   
+N51-323                  128   OFFICE SERVICE     PROVOST RESERVE                                   
+N51-325                  218   OFFICE SERVICE     PROVOST RESERVE                                   
+N51-325A                  15   OFFICE SERVICE     PROVOST RESERVE                                   
+N51-326                  296   UTILITY/MECH RM    DP OF FACILITIES                                  
+N51-327                   45   OFFICE SERVICE     PROVOST RESERVE                                   
+N51-329                  184   FEMALE LAVATORY    DP OF FACILITIES                                  
+N51-331                  174   MALE LAVATORY      DP OF FACILITIES                                  
+N51-331M                 278   STORAGE FACILITY   DP OF FACIL ADM                                   
+N51-332                  332   OFFICE SERVICE     PROVOST RESERVE                                   
+N51-332A                 126   CONFERENCE ROOM    PROVOST RESERVE                                   
+N51-332B                 133   OFFICE             PROVOST RESERVE                                   
+N51-333J                  61   JANITOR CLOSET     DP OF FACILITIES                                  
+N51-333M                  51   STORAGE FACILITY   DP OF FACIL ADM                                   
+N51-334                  403   LAB SUPPORT SHOP   PROVOST RESERVE                                   
+N51-337                  987   LAB SUPPORT SHOP   PROVOST RESERVE                                   
+N51-338                  170   LAB SUPPORT SHOP   PROVOST RESERVE                                   
+N51-340                  472   LAB SUPPORT SHOP   PROVOST RESERVE                                   
+N51-344                  191   RESEARCH LAB       ARCHITECTURE                                      
+N51-347                  405   RESEARCH LAB       ARCHITECTURE                                      
+N51-347A                 127   RESEARCH LAB       ARCHITECTURE                                      
+N51-347B                 153   RESEARCH LAB       ARCHITECTURE                                      
+N51-349                  231   CLASSROOM SVC      PROVOST RESERVE                                   
+N51-350                  732   CLASSROOM          PROVOST RESERVE  

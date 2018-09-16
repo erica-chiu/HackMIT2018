@@ -1,0 +1,567 @@
+E90-9/001              4,995   PVT CIRCULATION    SCH OF MANAGEMNT                                  
+E90-9/003                289   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/004                132   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/007A                45   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/007B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/007C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/007D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/007F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/007G                45   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/017A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/017B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/017C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/017D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/017F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/017G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/021A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/021B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/021C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/021D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/021F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/021G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/024                261   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/025A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/025B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/025C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/025D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/025F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/025G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/028                 28   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/029                203   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/030                166   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/031                108   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/032                119   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/033                496   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E90-9/036                118   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/040                105   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/041                243   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E90-9/042                105   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/045                232   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/048                261   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/049A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/049B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/049C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/049D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/049F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/049G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/052                 28   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/053A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/053B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/053C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/053D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/053F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/053G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/054                 77   PVT LAVATORY       SCH OF MANAGEMNT                                  
+E90-9/054A                57   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/056                 70   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/058                 74   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/060                 28   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/063A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/063B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/063C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/063D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/063F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/063G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/064                261   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/067A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/067B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/067C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/067D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/067F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/067G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/070A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/070B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/070C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/070D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/070F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/070G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/071A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/071B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/071C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/071D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/071F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/071G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/073A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/073B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/073C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/073D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/073F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/073G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/075                402   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E90-9/078A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/078B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/078C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/078D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/081                682   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/081A               407   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/083                136   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/085                151   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/087                304   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/088K                36   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/090                128   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/092                128   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/101              4,774   PVT CIRCULATION    SCH OF MANAGEMNT                                  
+E90-9/104                133   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/105A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/105B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/105C                42   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/105D                41   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/105F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/105G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/109A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/109B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/109C                49   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/109D                44   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/109F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/109G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/113                214   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/113A                33   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/113B                32   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/116                261   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/117A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/117B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/117C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/117D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/117F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/117G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/121A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/121B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/121C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/121D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/121F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/121G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/122                 28   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/124                 28   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/125A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/125B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/125C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/125D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/125F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/125G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/128                261   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/131A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/131B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/131C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/131D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/131F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/131G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/132                152   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/135A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/135B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/135C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/135D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/135F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/135G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/136                104   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/139                232   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/140                 89   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/145                175   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/148                105   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/150                105   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/153                355   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/154                141   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/156                 74   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/158T                70   TELECOM CLOSET     DP OF FACILITIES                                  
+E90-9/160                 28   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/163A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/163B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/163C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/163D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/163F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/163G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/166                261   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/167A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/167B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/167C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/167D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/167F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/167G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/170A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/170B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/170C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/170D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/170F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/170G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/170H                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/170K                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/171A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/171B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/171C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/171D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/171F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/171G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/175A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/175B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/175C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/175D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/175F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/175G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/179                415   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E90-9/183A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/183B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/183C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/183D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/183F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/183G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/187A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/187B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/187C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/187D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/187F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/187G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/188A                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/188B                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/188C                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/188D                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/188F                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/188G                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/188H                39   OFFICE             SCH OF MANAGEMNT                                  
+E90-9/190                261   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+                    --------                                                                        
+                      25,556                                                                        
+                                                                                                    
+E90-1200               2,181   PVT CIRCULATION    OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1200A                257   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1200T                346   TELECOM CLOSET     DP OF FACILITIES                                  
+E90-1200Z                 63   SHAFT SPACE        DP OF FACILITIES                                  
+E90-1201               3,393   PVT CIRCULATION    OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201A                 68   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201AA                68   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201AB                68   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201AC                68   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201AD                68   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201AF                68   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201AG                68   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201AH                70   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201AK                70   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201AL                68   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201B                 68   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201C                 68   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201D                 70   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201F                 70   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201G                 68   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201H                 68   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201K                 68   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201KA                20   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201L                 67   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201N                 65   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201P                 65   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201PA                20   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201S                110   SECY/RECEPTION     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201U                 68   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201V                 70   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201VA               184   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201W                 70   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201X                 68   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1201Y                 68   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1202                 386   OFFICE SERVICE     SPONSORED PGMS         DCAA                       
+E90-1202U                 50   OFFICE SERVICE     SPONSORED PGMS         DCAA                       
+E90-1202V                 28   OFFICE SERVICE     SPONSORED PGMS         DCAA                       
+E90-1202W                150   OFFICE SERVICE     SPONSORED PGMS         DCAA                       
+E90-1202X                261   CONFERENCE ROOM    SPONSORED PGMS         DCAA                       
+E90-1202ZA                50   OFFICE             SPONSORED PGMS         DCAA                       
+E90-1202ZB                50   OFFICE             SPONSORED PGMS         DCAA                       
+E90-1202ZC                50   OFFICE             SPONSORED PGMS         DCAA                       
+E90-1202ZD                50   OFFICE             SPONSORED PGMS         DCAA                       
+E90-1203                 121   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1204                 492   PVT CIRCULATION    OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1205                 121   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1206                 478   PVT CIRCULATION    OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1206A                 37   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1206B                205   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1206C                104   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1206ZA                43   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1206ZB                39   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1206ZC                39   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1206ZD                48   PVT CIRCULATION    OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1206ZF                48   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1206ZG                39   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1206ZH                39   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1206ZK                39   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1206ZL                39   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1206ZN                48   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1207                 119   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1208                 993   FOOD FACILITY      OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1208A              1,472   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1208B                661   CONFERENCE ROOM    OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1208BA               660   CONFERENCE ROOM    OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1208C                 67   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1208D                 66   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1208F                139   CONFERENCE ROOM    OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1209                  64   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1210                 738   PVT CIRCULATION    OFF OF PRESIDENT       COFHE                      
+E90-1210A                 59   SECY/RECEPTION     OFF OF PRESIDENT       COFHE                      
+E90-1210B                105   OFFICE SERVICE     OFF OF PRESIDENT       COFHE                      
+E90-1210C                119   OFFICE SERVICE     OFF OF PRESIDENT       COFHE                      
+E90-1210D                133   OFFICE             OFF OF PRESIDENT       COFHE                      
+E90-1210F                138   OFFICE             OFF OF PRESIDENT       COFHE                      
+E90-1210G                150   OFFICE             OFF OF PRESIDENT       COFHE                      
+E90-1210H                 11   OFFICE SERVICE     OFF OF PRESIDENT       COFHE                      
+E90-1210K                107   OFFICE             OFF OF PRESIDENT       COFHE                      
+E90-1210L                123   OFFICE             OFF OF PRESIDENT       COFHE                      
+E90-1210N                260   CONFERENCE ROOM    OFF OF PRESIDENT       COFHE                      
+E90-1210P                 28   OFFICE SERVICE     OFF OF PRESIDENT       COFHE                      
+E90-1210Q                 51   OFFICE SERVICE     OFF OF PRESIDENT       COFHE                      
+E90-1210R                 38   OFFICE             OFF OF PRESIDENT       COFHE                      
+E90-1210S                 38   OFFICE             OFF OF PRESIDENT       COFHE                      
+E90-1210U                 38   OFFICE             OFF OF PRESIDENT       COFHE                      
+E90-1210V                 38   OFFICE             OFF OF PRESIDENT       COFHE                      
+E90-1210W                 37   OFFICE             OFF OF PRESIDENT       COFHE                      
+E90-1210X                 37   OFFICE             OFF OF PRESIDENT       COFHE                      
+E90-1211                 172   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1213                 118   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1215                 123   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1217                 121   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1219                 169   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1228                 144   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1230                 123   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1231                 118   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1232                 121   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1233                 118   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1234                 121   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1235                 121   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1236                  35   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1236A                 22   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1237                 119   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1238                  81   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1239                 119   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1240                 119   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1241                 121   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1242                 119   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1243                 118   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1244                 123   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1245                 118   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1246                 160   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1247                 121   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1248                 183   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1249                 119   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1252                 297   CONFERENCE ROOM    OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1253                 275   CONFERENCE ROOM    OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1254                  88   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1255                 274   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1259                 121   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1261                 118   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1263                 119   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1265                 121   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1267                 119   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1269                 206   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1271                 211   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1273                 166   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1275                 150   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1277                 147   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1279                 115   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1281                 123   OFFICE             OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1283                 626   CONFERENCE ROOM    OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1291T                 89   TELECOM CLOSET     DP OF FACILITIES                                  
+E90-1293                 173   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1296                 383   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS                                         
+                                                                                                    
+E90-1299                 111   OFFICE SERVICE     OFFICE OF CORPORATE                               
+                                                  RELATIONS            

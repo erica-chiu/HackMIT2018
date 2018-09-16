@@ -1,0 +1,175 @@
+NW12-000E2                49   ELEVATOR           DP OF FACILITIES                                  
+NW12-000SC               210   STAIRWAY           DP OF FACILITIES                                  
+NW12-000SD                67   STAIRWAY           DP OF FACILITIES                                  
+NW12-000SE                37   STAIRWAY           DP OF FACILITIES                                  
+NW12-000Z                 43   SHAFT SPACE        DP OF FACILITIES                                  
+NW12-001               1,016   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-002                 160   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW12-003                 129   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW12-004                 342   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW12-005               1,202   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-006                 153   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-007                  55   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-008                 185   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW12-009                  25   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW12-010                 335   LABORATORY SVC     NUCL REACTOR LAB                                  
+                    --------                                                                        
+                       4,007                                                                        
+                                                                                                    
+NW12-100               3,658   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW12-100A                 93   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-100AM               169   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW12-100B                408   RECEIVING ROOM     NUCL REACTOR LAB                                  
+NW12-100BM               291   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW12-100C                 90   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-100CA                73   CORRIDOR           DP OF FACILITIES                                  
+NW12-100CB               384   CORRIDOR           DP OF FACILITIES                                  
+NW12-100CC               120   CORRIDOR           DP OF FACILITIES                                  
+NW12-100CD               706   CORRIDOR           DP OF FACILITIES                                  
+NW12-100CG               182   CORRIDOR           DP OF FACILITIES                                  
+NW12-100CI               116   CORRIDOR           DP OF FACILITIES                                  
+NW12-100CJ               130   CORRIDOR           DP OF FACILITIES                                  
+NW12-100CK               891   CORRIDOR           DP OF FACILITIES                                  
+NW12-100CM               728   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-100D              1,145   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-100DM               123   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW12-100E1                86   ELEVATOR           DP OF FACILITIES                                  
+NW12-100FM               231   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW12-100H                 52   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW12-100K                 26   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW12-100LA               382   LOBBY              DP OF FACILITIES                                  
+NW12-100M                335   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW12-100SA               107   STAIRWAY           DP OF FACILITIES                                  
+NW12-100SB               200   STAIRWAY           DP OF FACILITIES                                  
+NW12-100SC               128   STAIRWAY           DP OF FACILITIES                                  
+NW12-100SD                22   STAIRWAY           DP OF FACILITIES                                  
+NW12-100SM                50   STAIRWAY           DP OF FACILITIES                                  
+NW12-101                 120   MALE LAVATORY      DP OF FACILITIES                                  
+NW12-101A                149   MALE LAVATORY      DP OF FACILITIES                                  
+NW12-101M                283   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-103                 401   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-104                 583   RECEIVING ROOM     NUCL REACTOR LAB                                  
+NW12-105                 160   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW12-105A                 56   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-105AA                74   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-106                 429   LAB SUPPORT SHOP   NUCL REACTOR LAB                                  
+NW12-106A                326   OFFICE             NUCL REACTOR LAB                                  
+NW12-106B                136   OFFICE             NUCL REACTOR LAB                                  
+NW12-107                 183   FEMALE LAVATORY    DP OF FACILITIES                                  
+NW12-107Z                 54   SHAFT SPACE        DP OF FACILITIES                                  
+NW12-108                 151   OFFICE             NUCL REACTOR LAB                                  
+NW12-108A                104   OFFICE             NUCL REACTOR LAB                                  
+NW12-108AA                 6   OFFICE SERVICE     NUCL REACTOR LAB                                  
+NW12-108B                110   SECY/RECEPTION     NUCL REACTOR LAB                                  
+NW12-109                  97   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-109A                 94   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-110                  92   OFFICE             NUCL REACTOR LAB                                  
+NW12-111                 182   RECEIVING ROOM     NUCL REACTOR LAB                                  
+NW12-112                 162   OFFICE             NUCL REACTOR LAB                                  
+NW12-112A                178   OFFICE             NUCL REACTOR LAB                                  
+NW12-112B                 85   OFFICE SERVICE     NUCL REACTOR LAB                                  
+NW12-113                 348   LAB SUPPORT SHOP   NUCL REACTOR LAB                                  
+NW12-114                 225   OFFICE             NUCL REACTOR LAB                                  
+NW12-114A                  6   OFFICE SERVICE     NUCL REACTOR LAB                                  
+NW12-116                 509   OFFICE             NUCL REACTOR LAB                                  
+NW12-116A                106   OFFICE             NUCL REACTOR LAB                                  
+NW12-116B                100   OFFICE             NUCL REACTOR LAB                                  
+NW12-117                 281   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-117A                124   OFFICE             NUCL REACTOR LAB                                  
+NW12-118                 151   OFFICE SERVICE     NUCL REACTOR LAB                                  
+NW12-118A                 86   OFFICE SERVICE     NUCL REACTOR LAB                                  
+NW12-119                 631   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-121                 332   LAB SUPPORT SHOP   NUCL REACTOR LAB                                  
+NW12-122                 353   OFFICE             NUCL REACTOR LAB                                  
+NW12-123                 127   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW12-125                 102   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-126                 214   OFFICE             NUCL REACTOR LAB                                  
+NW12-127                 112   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-133               1,858   TEACHING LAB       NUCLEAR SCI & ENG                                 
+NW12-133A                208   LABORATORY SVC     NUCLEAR SCI & ENG                                 
+NW12-134                 379   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-134A                610   OFFICE             NUCL REACTOR LAB                                  
+NW12-134B                217   OFFICE             NUCL REACTOR LAB                                  
+NW12-135                 129   RESEARCH LAB       ENV HLTH & SAFE                                   
+NW12-139                 948   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-139A                206   RESEARCH LAB       NUCL REACTOR LAB                                  
+NW12-139AA               318   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-139B                312   LABORATORY SVC     ENV HLTH & SAFE                                   
+NW12-139C                371   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-139D                135   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-139DA                99   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-144                 138   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-144A                  5   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-148                 545   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW12-152                 207   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-154                 120   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW12-154A                232   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW12-154AA                34   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW12-154AB               702   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW12-190                  59   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-191                 160   LABORATORY SVC     NUCL REACTOR LAB                                  
+                    --------                                                                        
+                      26,936                                                                        
+                                                                                                    
+NW12-200CA               495   CORRIDOR           DP OF FACILITIES                                  
+NW12-200CB               575   CORRIDOR           DP OF FACILITIES                                  
+NW12-200E1               104   ELEVATOR           DP OF FACILITIES                                  
+NW12-200SA               124   STAIRWAY           DP OF FACILITIES                                  
+NW12-200SB               194   STAIRWAY           DP OF FACILITIES                                  
+NW12-202                 404   CONFERENCE ROOM    NUCL REACTOR LAB                                  
+NW12-204                 229   OFFICE             NUCL REACTOR LAB                                  
+NW12-205                 161   FEMALE LAVATORY    DP OF FACILITIES                                  
+NW12-205Z                 19   SHAFT SPACE        DP OF FACILITIES                                  
+NW12-207                 139   MALE LAVATORY      DP OF FACILITIES                                  
+NW12-208                 122   SECY/RECEPTION     NUCL REACTOR LAB                                  
+NW12-208A                168   OFFICE             NUCL REACTOR LAB                                  
+NW12-209                 137   OFFICE             NUCLEAR SCI & ENG                                 
+NW12-210                 175   OFFICE SERVICE     NUCL REACTOR LAB                                  
+NW12-210A                134   OFFICE             NUCL REACTOR LAB                                  
+NW12-210B                105   OFFICE             NUCL REACTOR LAB                                  
+NW12-211                 139   OFFICE             NUCLEAR SCI & ENG                                 
+NW12-212                  98   OFFICE SERVICE     NUCL REACTOR LAB                                  
+NW12-212A                 17   OFFICE SERVICE     NUCL REACTOR LAB                                  
+NW12-213                 117   VAULT              NUCLEAR SCI & ENG                                 
+NW12-213J                 24   JANITOR CLOSET     DP OF FACILITIES                                  
+NW12-214                 103   OFFICE SERVICE     NUCL REACTOR LAB                                  
+NW12-214A                 79   OFFICE SERVICE     NUCL REACTOR LAB                                  
+NW12-215                 228   OFFICE             NUCLEAR SCI & ENG                                 
+NW12-216                 101   TELECOM CLOSET     DP OF FACILITIES                                  
+NW12-218                  94   OFFICE             NUCL REACTOR LAB                                  
+NW12-219                 110   OFFICE             NUCLEAR SCI & ENG                                 
+NW12-220                  98   OFFICE             NUCLEAR SCI & ENG                                 
+NW12-222               1,156   CLASSROOM          NUCLEAR SCI & ENG                                 
+NW12-228                 662   OFFICE SERVICE     NUCLEAR SCI & ENG                                 
+NW12-228A                 23   OFFICE SERVICE     NUCLEAR SCI & ENG                                 
+NW12-230                  96   OFFICE             NUCLEAR SCI & ENG                                 
+NW12-232                 110   OFFICE             NUCLEAR SCI & ENG                                 
+NW12-234                 210   OFFICE             NUCLEAR SCI & ENG                                 
+NW12-236                 130   OFFICE             NUCLEAR SCI & ENG                                 
+NW12-238                 128   OFFICE             NUCLEAR SCI & ENG                                 
+                    --------                                                                        
+                       7,010                                                                        
+                                                                                                    
+NW12-300CA                29   CORRIDOR           DP OF FACILITIES                                  
+NW12-300CB               659   CORRIDOR           DP OF FACILITIES                                  
+NW12-300CC               142   CORRIDOR           DP OF FACILITIES                                  
+NW12-300E1               107   ELEVATOR           DP OF FACILITIES                                  
+NW12-300SA               118   STAIRWAY           DP OF FACILITIES                                  
+NW12-300SB               208   STAIRWAY           DP OF FACILITIES                                  
+NW12-301J                 51   JANITOR CLOSET     DP OF FACILITIES                                  
+NW12-303                 124   OFFICE             NUCLEAR SCI & ENG                                 
+NW12-305                 122   OFFICE             NUCLEAR SCI & ENG                                 
+NW12-306                 901   OFFICE             NUCLEAR SCI & ENG                                 
+NW12-307                 302   OFFICE             NUCLEAR SCI & ENG                                 
+NW12-309                 300   OFFICE             NUCLEAR SCI & ENG                                 
+NW12-311                 265   OFFICE             NUCLEAR SCI & ENG                                 
+NW12-312                 380   OFFICE             NUCLEAR SCI & ENG                                 
+NW12-313T                112   TELECOM CLOSET     DP OF FACILITIES       DCNS MITNET                
+NW12-319                 198   LABORATORY SVC     NUCL REACTOR LAB                                  
+NW12-320                 567   LABORATORY SVC     NUCLEAR SCI & ENG                                 
+NW12-324                  65   LABORATORY SVC     NUCLEAR SCI & ENG                                 
+NW12-326                 904   LABORATORY SVC     NUCLEAR SCI & ENG                                 
+NW12-326A                 29   LABORATORY SVC     NUCLEAR SCI & ENG                                 
+NW12-326C                168   LABORATORY SVC     NUCLEAR SCI & ENG                                 
+NW12-326T                 42   TELECOM CLOSET     DP OF FACILITIES                                  
+NW12-330                 905   COMPUTER FACIL     INFO SVCS & TECH 

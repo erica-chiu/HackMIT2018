@@ -1,0 +1,218 @@
+W35-000CA                 99   CORRIDOR           DP OF FACILITIES                                  
+W35-000LA                 69   LOBBY              DP OF FACILITIES                                  
+W35-000SB                121   STAIRWAY           DP OF FACILITIES                                  
+W35-000Z                 345   SHAFT SPACE        DP OF FACILITIES                                  
+W35-066                  475   UTILITY/MECH RM    DP OF FACILITIES                                  
+W35-068                   53   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                       1,162                                                                        
+                                                                                                    
+W35-100CA                 28   CORRIDOR           DP OF FACILITIES                                  
+W35-100CB                358   CORRIDOR           DP OF FACILITIES                                  
+W35-100CC              3,688   CORRIDOR           DP OF FACILITIES                                  
+W35-100CD                522   CORRIDOR           DP OF FACILITIES                                  
+W35-100CE                145   CORRIDOR           DP OF FACILITIES                                  
+W35-100CF                162   CORRIDOR           DP OF FACILITIES                                  
+W35-100CG                310   ATHLETIC SERVICE   ATHLETICS                                         
+W35-100CH                190   CORRIDOR           DP OF FACILITIES                                  
+W35-100CJ                113   CORRIDOR           DP OF FACILITIES                                  
+W35-100E2                 75   ELEVATOR           DP OF FACILITIES                                  
+W35-100EI                 64   ELEVATOR           DP OF FACILITIES                                  
+W35-100LA                118   LOBBY              DP OF FACILITIES                                  
+W35-100LB                395   LOBBY              DP OF FACILITIES                                  
+W35-100LC                104   LOBBY              DP OF FACILITIES                                  
+W35-100LD                188   LOBBY              DP OF FACILITIES                                  
+W35-100SA                291   STAIRWAY           DP OF FACILITIES                                  
+W35-100SB                244   STAIRWAY           DP OF FACILITIES                                  
+W35-100SC                 38   STAIRWAY           DP OF FACILITIES                                  
+W35-100SD                269   STAIRWAY           DP OF FACILITIES                                  
+W35-100Z                 306   SHAFT SPACE        DP OF FACILITIES                                  
+W35-102                   66   ATHLETIC SERVICE   ATHLETICS                                         
+W35-104                  129   MERCHAND FACIL     ATHLETICS                                         
+W35-105E                  62   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W35-106                   82   MERCHAND FACIL     ATHLETICS                                         
+W35-107                   60   UTILITY/MECH RM    DP OF FACILITIES                                  
+W35-108                   59   MERCHAND FACIL     ATHLETICS                                         
+W35-113                   80   OFFICE             ATHLETICS                                         
+W35-113A                  79   ATHLETIC SERVICE   ATHLETICS                                         
+W35-115                2,117   ATHLETIC SERVICE   ATHLETICS                                         
+W35-115A                  94   OFFICE             ATHLETICS                                         
+W35-115B                 105   SECY/RECEPTION     ATHLETICS                                         
+W35-117                  143   ATHLETIC SERVICE   ATHLETICS                                         
+W35-119                  247   ATHLETIC SERVICE   ATHLETICS                                         
+W35-121                  381   ATHLETIC SERVICE   ATHLETICS                                         
+W35-121A                  79   ATHLETIC SERVICE   ATHLETICS                                         
+W35-122J                 132   JANITOR CLOSET     DP OF FACILITIES                                  
+W35-125                  567   ATHLETIC SERVICE   ATHLETICS                                         
+W35-125A                 332   ATHLETIC SERVICE   ATHLETICS                                         
+W35-127                   93   ATH LOCKER ROOM    ATHLETICS                                         
+W35-127A                  93   PVT LAVATORY       ATHLETICS                                         
+W35-129                   94   ATH LOCKER ROOM    ATHLETICS                                         
+W35-131T                 242   TELECOM CLOSET     DP OF FACILITIES                                  
+W35-133                   66   ATHLETIC SERVICE   ATHLETICS                                         
+W35-135E                  15   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W35-137                  116   SECY/RECEPTION     ATHLETICS                                         
+W35-137E                  34   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W35-139                1,131   ATH LOCKER ROOM    ATHLETICS                                         
+W35-139A                  64   ATH SHOWER ROOM    ATHLETICS                                         
+W35-139AA                119   ATH SHOWER ROOM    ATHLETICS                                         
+W35-139B                 217   MALE LAVATORY      DP OF FACILITIES                                  
+W35-139C                 374   ATH LOCKER ROOM    ATHLETICS                                         
+W35-140                  258   ATHLETIC SERVICE   ATHLETICS                                         
+W35-141                  198   LAUNDRY FACIL      ATHLETICS                                         
+W35-143J                  38   JANITOR CLOSET     DP OF FACILITIES                                  
+W35-145                1,344   ATH LOCKER ROOM    ATHLETICS                                         
+W35-145A                 233   FEMALE LAVATORY    DP OF FACILITIES                                  
+W35-145B                 289   ATH SHOWER ROOM    ATHLETICS                                         
+W35-145C                 310   ATH LOCKER ROOM    ATHLETICS                                         
+W35-162                  117   OFFICE             ATHLETICS                                         
+W35-164                  120   OFFICE             ATHLETICS                                         
+W35-166                  103   ATH LOCKER ROOM    ATHLETICS                                         
+W35-166A                  45   PVT LAVATORY       ATHLETICS                                         
+W35-168                   78   ATHLETIC SERVICE   ATHLETICS                                         
+W35-168E                  45   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W35-170                  132   OFFICE             ATHLETICS                                         
+W35-172                  112   OFFICE             ATHLETICS                                         
+W35-173               20,185   ATHLETIC FACIL     ATHLETICS                                         
+W35-180                5,703   ATHLETIC FACIL     ATHLETICS                                         
+W35-190                  394   ATHLETIC SERVICE   ATHLETICS                                         
+W35-192                1,178   ATHLETIC SERVICE   ATHLETICS                                         
+W35-192A                 133   ATHLETIC SERVICE   ATHLETICS                                         
+W35-195                  649   OFFICE             ATHLETICS                                         
+W35-196                  888   STORAGE FACILITY   ATHLETICS                                         
+W35-196A                  85   ATHLETIC SERVICE   ATHLETICS                                         
+W35-197T                 124   TELECOM CLOSET     DP OF FACILITIES                                  
+W35-198                  238   CONFERENCE ROOM    ATHLETICS                                         
+W35-199                  573   CONFERENCE ROOM    ATHLETICS                                         
+                    --------                                                                        
+                      48,654                                                                        
+                                                                                                    
+W35-200CA                668   CORRIDOR           DP OF FACILITIES                                  
+W35-200CB              1,926   CORRIDOR           DP OF FACILITIES                                  
+W35-200CC                 89   CORRIDOR           DP OF FACILITIES                                  
+W35-200CD                131   CORRIDOR           DP OF FACILITIES                                  
+W35-200E2                 75   ELEVATOR           DP OF FACILITIES                                  
+W35-200EI                 64   ELEVATOR           DP OF FACILITIES                                  
+W35-200LA                932   LOBBY              DP OF FACILITIES                                  
+W35-200LD                637   LOBBY              DP OF FACILITIES                                  
+W35-200SA                302   STAIRWAY           DP OF FACILITIES                                  
+W35-200SB                329   STAIRWAY           DP OF FACILITIES                                  
+W35-200SD                129   STAIRWAY           DP OF FACILITIES                                  
+W35-200Z                 505   SHAFT SPACE        DP OF FACILITIES                                  
+W35-210                  234   FEMALE LAVATORY    DP OF FACILITIES                                  
+W35-211                   45   LOBBY              DP OF FACILITIES                                  
+W35-212                  214   MALE LAVATORY      DP OF FACILITIES                                  
+W35-214                   73   ATHLETIC SERVICE   ATHLETICS                                         
+W35-214A                 286   ATH LOCKER ROOM    ATHLETICS                                         
+W35-214B                 136   MALE LAVATORY      DP OF FACILITIES                                  
+W35-216                   69   ATHLETIC SERVICE   ATHLETICS                                         
+W35-216A                 289   ATH LOCKER ROOM    ATHLETICS                                         
+W35-216B                  31   ATH SHOWER ROOM    ATHLETICS                                         
+W35-216C                  81   FEMALE LAVATORY    DP OF FACILITIES                                  
+W35-218                   58   ATHLETIC SERVICE   ATHLETICS                                         
+W35-218A                 309   ATH LOCKER ROOM    ATHLETICS                                         
+W35-218B                 182   FEMALE LAVATORY    DP OF FACILITIES                                  
+W35-218C                 151   ATH SHOWER ROOM    ATHLETICS                                         
+W35-218D                 300   ATH LOCKER ROOM    ATHLETICS                                         
+W35-219Z                 866   SHAFT SPACE        DP OF FACILITIES                                  
+W35-222                   74   ATHLETIC SERVICE   ATHLETICS                                         
+W35-222A                 359   ATH LOCKER ROOM    ATHLETICS                                         
+W35-222B                 198   MALE LAVATORY      DP OF FACILITIES                                  
+W35-222CA                154   ATH SHOWER ROOM    ATHLETICS                                         
+W35-222D                 343   ATH LOCKER ROOM    ATHLETICS                                         
+W35-228E                 157   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W35-269                   45   PVT LAVATORY       ATHLETICS                                         
+W35-271                   45   PVT LAVATORY       ATHLETICS                                         
+W35-271J                  29   JANITOR CLOSET     DP OF FACILITIES                                  
+W35-273                3,458   ATHLETIC FACIL     ATHLETICS                                         
+W35-273J                  40   JANITOR CLOSET     DP OF FACILITIES                                  
+W35-274                1,943   ATHLETIC FACIL     ATHLETICS                                         
+W35-275                6,472   ATHLETIC FACIL     ATHLETICS                                         
+W35-276                  173   OFFICE             ATHLETICS                                         
+W35-277                  109   OFFICE             ATHLETICS                                         
+W35-278                  111   OFFICE             ATHLETICS                                         
+W35-279                  110   OFFICE             ATHLETICS                                         
+W35-280                  118   OFFICE             ATHLETICS                                         
+W35-281                  107   OFFICE             ATHLETICS                                         
+W35-282                  113   OFFICE             ATHLETICS                                         
+W35-283                  115   OFFICE             ATHLETICS                                         
+W35-284                  114   OFFICE             ATHLETICS                                         
+W35-285                  107   OFFICE             ATHLETICS                                         
+W35-286                  113   OFFICE             ATHLETICS                                         
+W35-287                  111   OFFICE             ATHLETICS                                         
+W35-288                  118   OFFICE             ATHLETICS                                         
+W35-289                  107   OFFICE             ATHLETICS                                         
+W35-290                  112   OFFICE             ATHLETICS                                         
+W35-291                  112   OFFICE             ATHLETICS                                         
+W35-292                  120   OFFICE             ATHLETICS                                         
+W35-293                  107   OFFICE             ATHLETICS                                         
+W35-294                  108   OFFICE             ATHLETICS                                         
+W35-295                   49   OFFICE SERVICE     ATHLETICS                                         
+W35-296                  120   OFFICE             ATHLETICS                                         
+W35-297                  336   SECY/RECEPTION     ATHLETICS                                         
+W35-297A               1,430   ATHLETIC SERVICE   ATHLETICS                                         
+W35-297B                  56   OFFICE             ATHLETICS                                         
+W35-297C                  56   OFFICE             ATHLETICS                                         
+W35-297D                  72   OFFICE             ATHLETICS                                         
+W35-297F                  72   OFFICE             ATHLETICS                                         
+W35-297G                  56   OFFICE             ATHLETICS                                         
+W35-297H                  56   OFFICE             ATHLETICS                                         
+W35-297K                  56   OFFICE             ATHLETICS                                         
+W35-297L                  56   OFFICE             ATHLETICS                                         
+W35-297M                  89   OFFICE SERVICE     ATHLETICS                                         
+W35-297N                 150   OFFICE SERVICE     ATHLETICS                                         
+W35-297P                  25   OFFICE SERVICE     ATHLETICS                                         
+W35-297Q                  56   OFFICE             ATHLETICS                                         
+W35-297R                  56   OFFICE             ATHLETICS                                         
+W35-297S                  56   OFFICE             ATHLETICS                                         
+W35-297U                  56   OFFICE             ATHLETICS                                         
+W35-297V                  72   OFFICE             ATHLETICS                                         
+W35-297W                  76   OFFICE             ATHLETICS                                         
+W35-297X                  56   OFFICE             ATHLETICS                                         
+W35-297Y                  56   OFFICE             ATHLETICS                                         
+W35-298                  160   CONFERENCE ROOM    ATHLETICS                                         
+W35-299                  400   CONFERENCE ROOM    ATHLETICS                                         
+                    --------                                                                        
+                      28,332                                                                        
+                                                                                                    
+W35-300CA                883   CORRIDOR           DP OF FACILITIES                                  
+W35-300CB                855   CORRIDOR           DP OF FACILITIES                                  
+W35-300CC                912   CORRIDOR           DP OF FACILITIES                                  
+W35-300CD                395   CORRIDOR           DP OF FACILITIES                                  
+W35-300CE                806   CORRIDOR           DP OF FACILITIES                                  
+W35-300CF                 63   CORRIDOR           DP OF FACILITIES                                  
+W35-300E1                 66   ELEVATOR           DP OF FACILITIES                                  
+W35-300E2                 75   ELEVATOR           DP OF FACILITIES                                  
+W35-300LA              1,384   LOBBY              DP OF FACILITIES                                  
+W35-300LB                312   LOBBY              DP OF FACILITIES                                  
+W35-300SA                327   STAIRWAY           DP OF FACILITIES                                  
+W35-300SB                329   STAIRWAY           DP OF FACILITIES                                  
+W35-300SD                179   STAIRWAY           DP OF FACILITIES                                  
+W35-300SE                109   STAIRWAY           DP OF FACILITIES                                  
+W35-300Z                 169   SHAFT SPACE        DP OF FACILITIES                                  
+W35-326                4,311   UTILITY/MECH RM    DP OF FACILITIES                                  
+W35-326A                 150   UTILITY/MECH RM    DP OF FACILITIES                                  
+W35-328E                 143   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W35-330                  137   OFFICE SERVICE     ATHLETICS                                         
+W35-366                  111   OFFICE             ATHLETICS                                         
+W35-368                   96   OFFICE             ATHLETICS                                         
+W35-369                   16   OFFICE SERVICE     ATHLETICS                                         
+W35-371T                 131   TELECOM CLOSET     DP OF FACILITIES                                  
+W35-373                  113   ATHLETIC SERVICE   ATHLETICS                                         
+W35-374                1,979   ATHLETIC FACIL     ATHLETICS                                         
+W35-375                7,121   ATHLETIC FACIL     ATHLETICS                                         
+W35-376                  219   ATHLETIC SERVICE   ATHLETICS                                         
+W35-376E                   5   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W35-377E                  18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W35-378                  105   ATHLETIC SERVICE   ATHLETICS                                         
+W35-378A                  11   ATHLETIC SERVICE   ATHLETICS                                         
+W35-379                  186   MALE LAVATORY      DP OF FACILITIES                                  
+W35-379J                  31   JANITOR CLOSET     DP OF FACILITIES                                  
+W35-380                  186   FEMALE LAVATORY    DP OF FACILITIES                                  
+W35-390                1,842   ATHLETIC FACIL     ATHLETICS                                         
+W35-394                  672   ATHLETIC FACIL     ATHLETICS                                         
+W35-395                  672   ATHLETIC FACIL     ATHLETICS                                         
+W35-396                  672   ATHLETIC FACIL     ATHLETICS                                         
+W35-397                  672   ATHLETIC FACIL     ATHLETICS                                         
+W35-398                  672   ATHLETIC FACIL     ATHLETICS                                         
+W35-399                  672   ATHLETIC FACIL     ATHLETICS        

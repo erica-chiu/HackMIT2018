@@ -1,0 +1,160 @@
+E70-610                  862   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E70-610A               1,598   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E70-610AA                 15   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E70-610B                 113   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E70-610C                 116   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E70-610D                 115   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E70-610F               1,277   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E70-610G                  71   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E70-610H                  68   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E70-610K                  80   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E70-610L                  12   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E70-654                  476   PVT CIRCULATION    SCH OF MANAGEMNT                                  
+E70-654A                  21   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E70-654B                  35   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E70-654C                 262   OFFICE             SCH OF MANAGEMNT                                  
+E70-654D                 156   OFFICE             SCH OF MANAGEMNT                                  
+E70-654F                 158   OFFICE             SCH OF MANAGEMNT                                  
+E70-654G                 345   OFFICE             SCH OF MANAGEMNT                                  
+E70-654H                 217   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E70-654K                  72   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E70-676                  601   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E70-676A                  55   SECY/RECEPTION     SCH OF MANAGEMNT                                  
+E70-676B                  82   OFFICE             SCH OF MANAGEMNT                                  
+E70-676C                 108   OFFICE             SCH OF MANAGEMNT                                  
+E70-676D                 108   OFFICE             SCH OF MANAGEMNT                                  
+E70-676F                 109   OFFICE             SCH OF MANAGEMNT                                  
+E70-676G                 110   OFFICE             SCH OF MANAGEMNT                                  
+E70-676H                 106   OFFICE             SCH OF MANAGEMNT                                  
+E70-676K                 105   OFFICE             SCH OF MANAGEMNT                                  
+E70-676L                 110   OFFICE             SCH OF MANAGEMNT                                  
+E70-676N                 137   OFFICE             SCH OF MANAGEMNT                                  
+E70-676P                 120   OFFICE             SCH OF MANAGEMNT                                  
+E70-676Q                 120   OFFICE             SCH OF MANAGEMNT                                  
+E70-676R                 107   OFFICE             SCH OF MANAGEMNT                                  
+E70-676S                 107   OFFICE             SCH OF MANAGEMNT                                  
+E70-676U                 114   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E70-676UA                326   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E70-676V                 119   OFFICE             SCH OF MANAGEMNT                                  
+E70-676W                 119   OFFICE             SCH OF MANAGEMNT                                  
+E70-676X                  83   OFFICE             SCH OF MANAGEMNT                                  
+E70-676Y                 125   OFFICE             SCH OF MANAGEMNT                                  
+E70-676YA                 52   OFFICE             SCH OF MANAGEMNT                                  
+E70-676YB                148   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+                    --------                                                                        
+                       9,239                                                                        
+                                                                                                    
+E70-1201A              1,414   OFFICE SERVICE     PROVOST                                           
+E70-1201AA               207   OFFICE             PROVOST                                           
+E70-1201AB                 5   OFFICE SERVICE     PROVOST                                           
+E70-1201B                258   OFFICE             PROVOST                                           
+E70-1201C                 34   OFFICE SERVICE     PROVOST                                           
+E70-1201D                 96   OFFICE             PROVOST                                           
+E70-1201F                116   OFFICE             PROVOST                                           
+E70-1201G                 66   OFFICE SERVICE     PROVOST                                           
+E70-1202                 110   OFFICE SERVICE     PROVOST                                           
+E70-1205                   7   OFFICE SERVICE     PROVOST                                           
+E70-1211                 533   PVT CIRCULATION    PROVOST                                           
+E70-1211A                 19   OFFICE SERVICE     PROVOST                                           
+E70-1211B                 14   OFFICE SERVICE     PROVOST                                           
+E70-1211C                113   OFFICE             PROVOST                                           
+E70-1211D                106   OFFICE             PROVOST                                           
+E70-1211F                152   SECY/RECEPTION     PROVOST                                           
+E70-1211G                111   OFFICE             PROVOST                                           
+E70-1211H                105   OFFICE             PROVOST                                           
+E70-1211K                111   OFFICE             PROVOST                                           
+E70-1211L                111   OFFICE             PROVOST                                           
+E70-1211N                105   OFFICE SERVICE     PROVOST                                           
+E70-1211PA               111   OFFICE             PROVOST                                           
+E70-1211PB               111   OFFICE             PROVOST                                           
+E70-1211Q                 90   OFFICE SERVICE     PROVOST                                           
+E70-1211R                 46   OFFICE SERVICE     PROVOST                                           
+E70-1211S                 38   OFFICE SERVICE     PROVOST                                           
+E70-1211U                 40   OFFICE SERVICE     PROVOST                                           
+E70-1211V                117   OFFICE SERVICE     PROVOST                                           
+E70-1219                  56   OFFICE SERVICE     PROVOST                                           
+E70-1223               2,344   PVT CIRCULATION    PROVOST                                           
+E70-1223A                642   OFFICE SERVICE     PROVOST                                           
+E70-1224                  28   OFFICE SERVICE     PROVOST                                           
+E70-1225                 111   OFFICE             PROVOST                                           
+E70-1226                  37   OFFICE SERVICE     PROVOST                                           
+E70-1227                 105   OFFICE             PROVOST                                           
+E70-1229                 111   OFFICE             PROVOST                                           
+E70-1230                 104   OFFICE SERVICE     PROVOST                                           
+E70-1231                 200   OFFICE SERVICE     PROVOST                                           
+E70-1232                  17   OFFICE SERVICE     PROVOST                                           
+E70-1234                 553   OFFICE             PROVOST                                           
+E70-1241                 127   OFFICE             PROVOST                                           
+E70-1242                 214   OFFICE SERVICE     PROVOST                                           
+E70-1243                 127   OFFICE             PROVOST                                           
+E70-1244                 713   CONFERENCE ROOM    PROVOST                                           
+E70-1245                 193   OFFICE             PROVOST                                           
+E70-1246                  19   OFFICE SERVICE     PROVOST                                           
+E70-1247                 511   OFFICE             PROVOST                                           
+E70-1248                 118   OFFICE SERVICE     PROVOST                                           
+E70-1253                 200   OFFICE SERVICE     PROVOST                                           
+E70-1255                 110   OFFICE             PROVOST                                           
+E70-1256                  42   OFFICE SERVICE     PROVOST                                           
+E70-1257                 104   OFFICE             PROVOST                                           
+E70-1258                  28   OFFICE SERVICE     PROVOST                                           
+E70-1259                 111   OFFICE             PROVOST                                           
+E70-1260                  98   OFFICE SERVICE     PROVOST                                           
+E70-1263                 338   RESEARCH LAB       PROVOST                                           
+E70-1264                 103   COMPUTER FACIL     INFO SVCS & TECH                                  
+E70-1267                 112   OFFICE             PROVOST                                           
+E70-1268                  40   OFFICE SERVICE     PROVOST                                           
+E70-1269                 111   OFFICE             PROVOST                                           
+E70-1270                  40   OFFICE SERVICE     PROVOST                                           
+E70-1271                 104   OFFICE             PROVOST                                           
+E70-1272A                 55   OFFICE SERVICE     PROVOST                                           
+E70-1272B                 54   OFFICE SERVICE     PROVOST                                           
+E70-1273                 111   OFFICE             PROVOST                                           
+E70-1275                 153   SECY/RECEPTION     PROVOST                                           
+E70-1277                 104   OFFICE             PROVOST                                           
+E70-1278                 115   OFFICE SERVICE     PROVOST                                           
+E70-1279                 111   OFFICE             PROVOST                                           
+E70-1280                 104   OFFICE             PROVOST                                           
+E70-1281                 111   OFFICE SERVICE     PROVOST                                           
+E70-1282                 104   OFFICE             PROVOST                                           
+E70-1283                 111   OFFICE             PROVOST                                           
+E70-1284                  12   OFFICE SERVICE     PROVOST                                           
+E70-1290                 581   CONFERENCE ROOM    PROVOST                                           
+E70-1290A                 32   OFFICE SERVICE     PROVOST                                           
+                    --------                                                                        
+                      13,973                                                                        
+                                                                                                    
+E70-1301                 100   PVT CIRCULATION    SCH OF MANAGEMNT                                  
+E70-1303T                 98   TELECOM CLOSET     DP OF FACILITIES                                  
+E70-1305               1,841   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E70-1311E                 37   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E70-1370                 323   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E70-1372                  81   SECY/RECEPTION     SCH OF MANAGEMNT                                  
+E70-1373                 139   OFFICE             SCH OF MANAGEMNT                                  
+E70-1375                 263   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E70-1378                 106   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E70-1380                 106   OFFICE             SCH OF MANAGEMNT                                  
+E70-1382                 106   OFFICE             SCH OF MANAGEMNT                                  
+E70-1385               1,538   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E70-1385A                 24   OFFICE             SCH OF MANAGEMNT                                  
+E70-1385B                 18   OFFICE             SCH OF MANAGEMNT                                  
+E70-1385C                 18   OFFICE             SCH OF MANAGEMNT                                  
+E70-1385D                 24   OFFICE             SCH OF MANAGEMNT                                  
+E70-1385F                 18   OFFICE             SCH OF MANAGEMNT                                  
+E70-1385G                 18   OFFICE             SCH OF MANAGEMNT                                  
+E70-1385H                 24   OFFICE             SCH OF MANAGEMNT                                  
+E70-1385K                 18   OFFICE             SCH OF MANAGEMNT                                  
+E70-1385L                 18   OFFICE             SCH OF MANAGEMNT                                  
+E70-1385N                 24   OFFICE             SCH OF MANAGEMNT                                  
+E70-1385P                 18   OFFICE             SCH OF MANAGEMNT                                  
+E70-1385Q                 18   OFFICE             SCH OF MANAGEMNT                                  
+E70-1385R                 24   OFFICE             SCH OF MANAGEMNT                                  
+E70-1385S                 18   OFFICE             SCH OF MANAGEMNT                                  
+E70-1385U                 18   OFFICE             SCH OF MANAGEMNT                                  
+E70-1385V                 24   OFFICE             SCH OF MANAGEMNT                                  
+E70-1385W                 18   OFFICE             SCH OF MANAGEMNT                                  
+E70-1385Y                 18   OFFICE             SCH OF MANAGEMNT                                  
+E70-1388                 135   OFFICE             SCH OF MANAGEMNT                                  
+E70-1390                 167   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E70-1392                 119   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E70-1394                 116   OFFICE             SCH OF MANAGEMNT                                  
+E70-1396                 117   OFFICE             SCH OF MANAGEMNT   

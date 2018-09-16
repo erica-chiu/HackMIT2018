@@ -1,0 +1,272 @@
+8-000CA                  390   CORRIDOR           DP OF FACILITIES                                  
+8-000CB                1,143   CORRIDOR           DP OF FACILITIES                                  
+8-000CC                  986   CORRIDOR           DP OF FACILITIES                                  
+8-000CE                  180   CORRIDOR           DP OF FACILITIES                                  
+8-000E1                   97   ELEVATOR           DP OF FACILITIES                                  
+8-000SA                   46   STAIRWAY           DP OF FACILITIES                                  
+8-000SC                   13   LABORATORY SVC     MATS SCI & ENG                                    
+8-000Z                    74   SHAFT SPACE        DP OF FACILITIES                                  
+8-002                    277   ALTER/CONVERSION   DP OF FACIL ADM                                   
+8-003                    359   OFFICE SERVICE     PROVOST RESERVE        ARCH                       
+8-004                    225   UTILITY/MECH RM    DP OF FACILITIES                                  
+8-004A                   105   UTILITY/MECH RM    DP OF FACILITIES                                  
+8-005                    310   LABORATORY SVC     PHYSICS                                           
+8-005E                     7   ELECTRIC CLOSET    DP OF FACILITIES                                  
+8-006                    283   RSCH LAB-OFFICE    MATS SCI & ENG                                    
+8-007                    939   UTILITY/MECH RM    DP OF FACILITIES                                  
+8-007Z                    22   SHAFT SPACE        DP OF FACILITIES                                  
+8-010                    738   RESEARCH LAB       MATS SCI & ENG         MET                        
+8-013                    241   MAIL ROOM          DP OF FACIL ADM                                   
+8-013A                    18   JANITOR STORAGE    DP OF FACILITIES                                  
+8-013E                    19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+8-013T                    22   TELECOM CLOSET     DP OF FACILITIES                                  
+8-014                    488   LABORATORY SVC     AUDIO-VISUAL SVC                                  
+8-014A                   156   LABORATORY SVC     AUDIO-VISUAL SVC                                  
+8-015                    377   OFFICE SERVICE     AUDIO-VISUAL SVC                                  
+8-015E                    45   ELECTRIC CLOSET    DP OF FACILITIES                                  
+8-016E                   161   ELECTRIC CLOSET    DP OF FACILITIES                                  
+8-019                    152   UTILITY/MECH RM    DP OF FACILITIES                                  
+8-021E                   328   ELECTRIC CLOSET    DP OF FACILITIES                                  
+8-023                    203   UTILITY/MECH RM    DP OF FACILITIES                                  
+8-025                    406   OFFICE SERVICE     MATS SCI & ENG         DEPT-GEN                   
+8-025A                   317   UTILITY/MECH RM    DP OF FACILITIES                                  
+8-027                     19   VAULT              MATS SCI & ENG         MET                        
+8-029                    310   OFFICE SERVICE     MATS SCI & ENG         MAT-ENG                    
+8-029A                   140   OFFICE SERVICE     MATS SCI & ENG                                    
+8-030                     45   LABORATORY SVC     MATS SCI & ENG                                    
+8-030T                    21   TELECOM CLOSET     DP OF FACILITIES                                  
+8-031                    467   OFFICE             MATS SCI & ENG                                    
+8-031E                    26   ELECTRIC CLOSET    DP OF FACILITIES                                  
+8-032                    650   RESEARCH LAB       MATS SCI & ENG         DEPT-GEN                   
+8-032A                    50   LABORATORY SVC     MATS SCI & ENG                                    
+8-032B                   224   RESEARCH LAB       MATS SCI & ENG                                    
+8-035                    812   RESEARCH LAB       MATS SCI & ENG         MAT-ENG                    
+                    --------                                                                        
+                      11,892                                                                        
+                                                                                                    
+8-100CA                1,552   CORRIDOR           DP OF FACILITIES                                  
+8-100CB                  145   CORRIDOR           DP OF FACILITIES                                  
+8-100CC                  603   CORRIDOR           DP OF FACILITIES                                  
+8-100CE                   81   CORRIDOR           DP OF FACILITIES                                  
+8-100E1                  109   ELEVATOR           DP OF FACILITIES                                  
+8-100E1M                 119   ELEVATOR           DP OF FACILITIES                                  
+8-100SA                  138   STAIRWAY           DP OF FACILITIES                                  
+8-100SB                   13   LABORATORY SVC     MATS SCI & ENG                                    
+8-100SD                   19   PVT CIRCULATION    MATS SCI & ENG                                    
+8-100Z                   271   SHAFT SPACE        DP OF FACILITIES                                  
+8-101                    317   RESEARCH LAB       MATS SCI & ENG                                    
+8-102                    285   RESEARCH LAB       MATS SCI & ENG                                    
+8-102A                   224   RESEARCH LAB       MATS SCI & ENG                                    
+8-102B                   490   RESEARCH LAB       MATS SCI & ENG                                    
+8-102BA                   11   LABORATORY SVC     MATS SCI & ENG                                    
+8-102C                   250   RESEARCH LAB       MATS SCI & ENG                                    
+8-107                    836   TEACHING LAB       MATS SCI & ENG                                    
+8-107A                   156   TEACHING LAB       MATS SCI & ENG                                    
+8-107B                   337   TEACHING LAB       MATS SCI & ENG                                    
+8-110A                   686   RESEARCH LAB       MATS SCI & ENG                                    
+8-111                    334   RSCH LAB-OFFICE    MATS SCI & ENG                                    
+8-113                    252   FEMALE LAVATORY    DP OF FACILITIES                                  
+8-113E                    12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+8-113J                    31   JANITOR CLOSET     DP OF FACILITIES                                  
+8-113Z                    33   SHAFT SPACE        DP OF FACILITIES                                  
+8-114                    220   RSCH LAB-OFFICE    MATS SCI & ENG                                    
+8-115                    222   LABORATORY SVC     MATS SCI & ENG                                    
+8-115E                    45   ELECTRIC CLOSET    DP OF FACILITIES                                  
+8-116                    140   UTILITY/MECH RM    DP OF FACILITIES                                  
+8-117T                    72   TELECOM CLOSET     DP OF FACILITIES                                  
+8-119                    512   CLASSROOM          REGISTRAR                                         
+8-135                    159   SECY/RECEPTION     MATS SCI & ENG                                    
+8-135A                   238   OFFICE             MATS SCI & ENG                                    
+8-137                    132   OFFICE             MATS SCI & ENG                                    
+8-137A                   154   OFFICE             MATS SCI & ENG                                    
+8-138                    223   OFFICE             MATS SCI & ENG                                    
+8-139                    860   OFFICE             MATS SCI & ENG                                    
+8-139M                   536   OFFICE             MATS SCI & ENG                                    
+8-139MA                  134   OFFICE             MATS SCI & ENG                                    
+8-139MB                   16   OFFICE SERVICE     MATS SCI & ENG                                    
+8-139MC                   17   OFFICE SERVICE     MATS SCI & ENG                                    
+8-140                    934   RESEARCH LAB       MATS SCI & ENG                                    
+8-140M                   413   CONFERENCE ROOM    MATS SCI & ENG                                    
+                    --------                                                                        
+                      12,333                                                                        
+                                                                                                    
+8-200CA                1,274   CORRIDOR           DP OF FACILITIES                                  
+8-200CB                  182   CORRIDOR           DP OF FACILITIES                                  
+8-200CC                  617   CORRIDOR           DP OF FACILITIES                                  
+8-200E1                  109   ELEVATOR           DP OF FACILITIES                                  
+8-200SA                  305   STAIRWAY           DP OF FACILITIES                                  
+8-200Z                   217   SHAFT SPACE        DP OF FACILITIES                                  
+8-201                    148   SECY/RECEPTION     MATS SCI & ENG                                    
+8-201A                   137   OFFICE             MATS SCI & ENG                                    
+8-202                    315   OFFICE             MATS SCI & ENG                                    
+8-203                    173   OFFICE             MATS SCI & ENG                                    
+8-203A                   162   OFFICE SERVICE     MATS SCI & ENG                                    
+8-204                    350   OFFICE             MATS SCI & ENG         MAT-ENG                    
+8-205                    634   CLASSROOM          REGISTRAR                                         
+8-206                    415   RESEARCH LAB       MATS SCI & ENG         POLYMERS                   
+8-206A                   126   RESEARCH LAB       MATS SCI & ENG                                    
+8-206B                   136   RESEARCH LAB       MATS SCI & ENG                                    
+8-209                    184   SECY/RECEPTION     MATS SCI & ENG         POLYMERS                   
+8-209A                   134   OFFICE             MATS SCI & ENG         POLYMERS                   
+8-211                    333   OFFICE             MATS SCI & ENG         POLYMERS                   
+8-212                    344   RESEARCH LAB       MATS SCI & ENG         POLYMERS                   
+8-213                    263   MALE LAVATORY      DP OF FACILITIES                                  
+8-213A                    39   UTILITY/MECH RM    DP OF FACILITIES                                  
+8-213E                     9   ELECTRIC CLOSET    DP OF FACILITIES                                  
+8-213Z                    31   SHAFT SPACE        DP OF FACILITIES                                  
+8-214                    314   LABORATORY SVC     MATS SCI & ENG                                    
+8-214A                   211   RESEARCH LAB       MATS SCI & ENG                                    
+8-214B                    91   LABORATORY SVC     MATS SCI & ENG                                    
+8-214C                   187   RSCH LAB-OFFICE    MATS SCI & ENG                                    
+8-215                    208   FEMALE LAVATORY    DP OF FACILITIES                                  
+8-215E                    34   ELECTRIC CLOSET    DP OF FACILITIES                                  
+8-215J                    37   JANITOR CLOSET     DP OF FACILITIES                                  
+8-215T                    43   TELECOM CLOSET     DP OF FACILITIES                                  
+8-216                     59   LABORATORY SVC     MATS SCI & ENG         DEPT-GEN                   
+8-219                    390   OFFICE SERVICE     DP OF FACIL ADM                                   
+8-219A                     9   OFFICE SERVICE     DP OF FACIL ADM                                   
+8-219B                    50   OFFICE SERVICE     DP OF FACIL ADM                                   
+8-219C                     4   OFFICE SERVICE     DP OF FACIL ADM                                   
+8-219D                     3   OFFICE SERVICE     DP OF FACIL ADM                                   
+8-219F                     3   OFFICE SERVICE     DP OF FACIL ADM                                   
+8-219G                     3   OFFICE SERVICE     DP OF FACIL ADM                                   
+8-235                    373   OFFICE             MATS SCI & ENG         MAT-ENG                    
+8-236                    202   OFFICE             MATS SCI & ENG         POLYMERS                   
+8-237                    212   OFFICE SERVICE     MATS SCI & ENG         MAT-ENG                    
+8-237A                   215   OFFICE             MATS SCI & ENG         MAT-ENG                    
+8-240                    620   OFFICE             MATS SCI & ENG                                    
+8-241                    655   TEACHING LAB       MATS SCI & ENG         MAT-ENG                    
+8-241B                   179   TEACHING LAB       MATS SCI & ENG         MAT-ENG                    
+8-241C                    17   EXHIBITION FACIL   MATS SCI & ENG                                    
+8-242                    185   OFFICE             MATS SCI & ENG                                    
+                    --------                                                                        
+                      10,938                                                                        
+                                                                                                    
+8-300CA                1,092   CORRIDOR           DP OF FACILITIES                                  
+8-300CB                1,102   CORRIDOR           DP OF FACILITIES                                  
+8-300CC                  704   CORRIDOR           DP OF FACILITIES                                  
+8-300E1                  109   ELEVATOR           DP OF FACILITIES                                  
+8-300SA                  304   STAIRWAY           DP OF FACILITIES                                  
+8-300Z                   240   SHAFT SPACE        DP OF FACILITIES                                  
+8-301                    167   OFFICE             PHYSICS                                           
+8-302                     72   PVT CIRCULATION    PHYSICS                                           
+8-302A                    78   OFFICE SERVICE     PHYSICS                                           
+8-302B                    77   OFFICE             PHYSICS                                           
+8-302C                    90   OFFICE SERVICE     PHYSICS                                           
+8-303                    172   OFFICE             PHYSICS                                           
+8-304                    321   CONFERENCE ROOM    PHYSICS                                           
+8-305                    172   OFFICE             PHYSICS                                           
+8-306                     95   OFFICE SERVICE     PHYSICS                                           
+8-307                    172   OFFICE             PHYSICS                                           
+8-308                    236   OFFICE SERVICE     PHYSICS                                           
+8-309                    172   OFFICE             PHYSICS                                           
+8-310                    168   OFFICE             PHYSICS                                           
+8-311                    172   OFFICE             PHYSICS                                           
+8-313                    172   OFFICE             PHYSICS                                           
+8-314                    638   OFFICE SERVICE     PHYSICS                                           
+8-315                    145   OFFICE             PHYSICS                                           
+8-315E                     6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+8-316                    101   OFFICE SERVICE     PHYSICS                                           
+8-317                    163   MALE LAVATORY      DP OF FACILITIES                                  
+8-317E                     8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+8-318                     89   OFFICE SERVICE     PHYSICS                                           
+8-319                    133   FEMALE LAVATORY    DP OF FACILITIES                                  
+8-319B                    45   UTILITY/MECH RM    DP OF FACILITIES                                  
+8-319T                    70   TELECOM CLOSET     DP OF FACILITIES                                  
+8-320                    214   OFFICE SERVICE     PHYSICS                                           
+8-320J                    36   JANITOR CLOSET     DP OF FACILITIES                                  
+8-321                    141   OFFICE SERVICE     PHYSICS                                           
+8-322                     70   OFFICE SERVICE     MATS SCI & ENG                                    
+8-323                    310   OFFICE             PHYSICS                                           
+8-326E                    19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+8-328                    374   OFFICE SERVICE     MATS SCI & ENG                                    
+8-328A                   159   OFFICE             MATS SCI & ENG         MAT-SCI                    
+8-328B                   121   OFFICE             MATS SCI & ENG                                    
+8-328C                   114   OFFICE             MATS SCI & ENG                                    
+8-328D                    50   OFFICE             MATS SCI & ENG                                    
+8-328F                    49   OFFICE             MATS SCI & ENG                                    
+8-328G                    69   OFFICE             MATS SCI & ENG                                    
+8-328GA                   55   OFFICE             MATS SCI & ENG                                    
+8-328H                    57   OFFICE             MATS SCI & ENG                                    
+8-328K                    97   SECY/RECEPTION     MATS SCI & ENG                                    
+8-328L                    44   OFFICE             MATS SCI & ENG                                    
+8-329                  1,168   OFFICE SERVICE     PHYSICS                                           
+8-331                    291   OFFICE             MATS SCI & ENG         MAT-ENG                    
+8-331A                   132   OFFICE             MATS SCI & ENG                                    
+                    --------                                                                        
+                      10,857                                                                        
+                                                                                                    
+8-400CA                1,138   CORRIDOR           DP OF FACILITIES                                  
+8-400CB                  172   CORRIDOR           DP OF FACILITIES                                  
+8-400CC                  675   CORRIDOR           DP OF FACILITIES                                  
+8-400E1                  113   ELEVATOR           DP OF FACILITIES                                  
+8-400SA                  310   STAIRWAY           DP OF FACILITIES                                  
+8-400Z                   293   SHAFT SPACE        DP OF FACILITIES                                  
+8-402                    306   OFFICE             MATS SCI & ENG         MS&E CMI/SMA               
+8-403                    251   PVT CIRCULATION    MATS SCI & ENG         CAMBR-MIT INST             
+8-403A                   106   OFFICE SERVICE     MATS SCI & ENG         CAMBR-MIT INST             
+8-403B                   135   OFFICE             MATS SCI & ENG         CAMBR-MIT INST             
+8-403C                   150   OFFICE             MATS SCI & ENG         CAMBR-MIT INST             
+8-403D                   129   OFFICE             MATS SCI & ENG         CAMBR-MIT INST             
+8-403F                     4   OFFICE SERVICE     MATS SCI & ENG         CAMBR-MIT INST             
+8-403G                    35   OFFICE             MATS SCI & ENG                                    
+8-403H                    30   OFFICE             MATS SCI & ENG                                    
+8-403K                    25   OFFICE             MATS SCI & ENG                                    
+8-403KA                   25   OFFICE             MATS SCI & ENG                                    
+8-403L                    30   OFFICE             MATS SCI & ENG                                    
+8-403N                    35   OFFICE             MATS SCI & ENG                                    
+8-404                    275   RSCH LAB-OFFICE    MATS SCI & ENG         MS&E CMI/SMA               
+8-406                    443   RESEARCH LAB       MATS SCI & ENG         MS&E CMI/SMA               
+8-408                    277   CONFERENCE ROOM    MATS SCI & ENG         MS&E CMI/SMA               
+8-408A                     8   OFFICE SERVICE     MATS SCI & ENG         MS&E CMI/SMA               
+8-408B                    17   OFFICE SERVICE     MATS SCI & ENG         MS&E CMI/SMA               
+8-409                    180   OFFICE SERVICE     MATS SCI & ENG         MS&E SIGNAPR/MIT           
+8-409A                    81   OFFICE SERVICE     MATS SCI & ENG         MS&E SIGNAPR/MIT           
+8-409B                   162   OFFICE             MATS SCI & ENG         MS&E SIGNAPR/MIT           
+8-409C                   102   OFFICE             MATS SCI & ENG         MS&E SIGNAPR/MIT           
+8-409D                   103   OFFICE             MATS SCI & ENG         MS&E SIGNAPR/MIT           
+8-409F                   154   CONFERENCE ROOM    MATS SCI & ENG         MS&E SIGNAPR/MIT           
+8-409G                    99   OFFICE SERVICE     MATS SCI & ENG         MS&E SIGNAPR/MIT           
+8-409H                    42   OFFICE             MATS SCI & ENG                                    
+8-409K                    40   SECY/RECEPTION     MATS SCI & ENG                                    
+8-409L                     5   OFFICE SERVICE     MATS SCI & ENG                                    
+8-410                    673   RESEARCH LAB       MATS SCI & ENG         MAT-ENG                    
+8-410A                    76   RESEARCH LAB       MATS SCI & ENG                                    
+8-410B                   221   RESEARCH LAB       MATS SCI & ENG                                    
+8-414                     17   LABORATORY SVC     MATS SCI & ENG                                    
+8-415                    245   MALE LAVATORY      DP OF FACILITIES                                  
+8-415AE                   39   ELECTRIC CLOSET    DP OF FACILITIES                                  
+8-415E                    13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+8-415Z                    33   SHAFT SPACE        DP OF FACILITIES                                  
+8-416                    110   UTILITY/MECH RM    DP OF FACILITIES                                  
+8-417                    250   LABORATORY SVC     MATS SCI & ENG         MAT-ENG                    
+8-417T                    70   TELECOM CLOSET     DP OF FACILITIES                                  
+8-419                    482   OFFICE SERVICE     MATS SCI & ENG         MAT-ENG                    
+8-419A                     6   OFFICE SERVICE     MATS SCI & ENG                                    
+8-419B                    11   OFFICE SERVICE     MATS SCI & ENG                                    
+8-425                    140   OFFICE SERVICE     MATS SCI & ENG         MAT-ENG                    
+8-425A                   215   OFFICE             MATS SCI & ENG         MAT-ENG                    
+8-431                     60   OFFICE SERVICE     MATS SCI & ENG         MAT-SCI                    
+8-431A                   401   OFFICE             MATS SCI & ENG         MAT-SCI                    
+8-432                    228   RESEARCH LAB       MATS SCI & ENG         CMRAE                      
+8-432A                   269   RESEARCH LAB       MATS SCI & ENG         CMRAE                      
+8-433                    225   OFFICE             MATS SCI & ENG         MAT-ENG                    
+8-433A                    60   OFFICE             MATS SCI & ENG         MAT-ENG                    
+8-434                    413   RESEARCH LAB       MATS SCI & ENG         MAT-ENG                    
+8-434A                   119   LABORATORY SVC     MATS SCI & ENG                                    
+8-435                    136   OFFICE SERVICE     MATS SCI & ENG         MAT-ENG                    
+8-435A                    19   PVT CIRCULATION    MATS SCI & ENG                                    
+8-435B                    43   OFFICE SERVICE     MATS SCI & ENG         MAT-ENG                    
+8-436                    178   OFFICE             MATS SCI & ENG         MAT-ENG                    
+8-437                    231   OFFICE             MATS SCI & ENG         MAT-ENG                    
+8-437A                    58   OFFICE             MATS SCI & ENG         MAT-ENG                    
+                    --------                                                                        
+                      10,991                                                                        
+                                                                                                    
+8-500CF                   16   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+8-500SA                   56   STAIRWAY           DP OF FACILITIES                                  
+8-506                    420   UTILITY/MECH RM    DP OF FACILITIES                                  
+8-508                    420   UTILITY/MECH RM    DP OF FACILITIES                                  
+8-510                     64   UTILITY/MECH RM    DP OF FACILITIES                                  
+8-514                     53   UTILITY/MECH RM    DP OF FACILITIES                                  
+8-516                    248   UTILITY/MECH RM    DP OF FACILITIES               

@@ -1,0 +1,180 @@
+33-000CA                 133   CORRIDOR           DP OF FACILITIES                                  
+33-000SA                 134   STAIRWAY           DP OF FACILITIES                                  
+33-000SB                 114   STAIRWAY           DP OF FACILITIES                                  
+33-000SD                  45   STAIRWAY           DP OF FACILITIES                                  
+33-000Z                  124   SHAFT SPACE        DP OF FACILITIES                                  
+33-001                   291   UTILITY/MECH RM    DP OF FACILITIES                                  
+33-002                    83   UTILITY/MECH RM    DP OF FACILITIES                                  
+33-003                   383   TEACHING LAB       AERO & ASTRO                                      
+33-004                   703   TEACHING LAB       AERO & ASTRO                                      
+33-004A                   52   LABORATORY SVC     AERO & ASTRO                                      
+33-009                 1,687   TEACHING LAB       AERO & ASTRO                                      
+33-009A                  145   OFFICE             AERO & ASTRO                                      
+33-014                 2,746   TEACHING LAB       AERO & ASTRO                                      
+33-014A                  126   LABORATORY SVC     AERO & ASTRO                                      
+33-014B                  126   LABORATORY SVC     AERO & ASTRO                                      
+33-014C                  135   LABORATORY SVC     AERO & ASTRO                                      
+33-017                   820   TEACHING LAB       AERO & ASTRO                                      
+33-017A                  154   OFFICE             AERO & ASTRO                                      
+33-022E                  594   ELECTRIC CLOSET    DP OF FACILITIES                                  
+33-024                    59   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                       8,655                                                                        
+                                                                                                    
+33-100CA               1,024   CORRIDOR           DP OF FACILITIES                                  
+33-100CB                 940   CORRIDOR           DP OF FACILITIES                                  
+33-100LA                 246   LOBBY              DP OF FACILITIES                                  
+33-100SA                 111   STAIRWAY           DP OF FACILITIES                                  
+33-100SB                 126   STAIRWAY           DP OF FACILITIES                                  
+33-100SD                 109   STAIRWAY           DP OF FACILITIES                                  
+33-100SE                  89   STAIRWAY           DP OF FACILITIES                                  
+33-100SF                 163   STAIRWAY           DP OF FACILITIES                                  
+33-100SG                  91   STAIRWAY           DP OF FACILITIES                                  
+33-100Z                  156   SHAFT SPACE        DP OF FACILITIES                                  
+33-102                   102   LABORATORY SVC     AERO & ASTRO                                      
+33-104                   451   LABORATORY SVC     AERO & ASTRO                                      
+33-106                 1,940   LABORATORY SVC     AERO & ASTRO                                      
+33-106B                  138   LABORATORY SVC     AERO & ASTRO                                      
+33-106BB                 148   LABORATORY SVC     AERO & ASTRO                                      
+33-114                    81   LABORATORY SVC     AERO & ASTRO                                      
+33-114A                   31   LABORATORY SVC     AERO & ASTRO                                      
+33-115                 1,353   OFFICE             AERO & ASTRO                                      
+33-115A                  145   OFFICE             AERO & ASTRO                                      
+33-115B                    3   OFFICE SERVICE     AERO & ASTRO                                      
+33-115C                   94   OFFICE             AERO & ASTRO                                      
+33-115CA                  10   OFFICE SERVICE     AERO & ASTRO                                      
+33-115CB                 110   OFFICE             AERO & ASTRO                                      
+33-115D                  149   OFFICE             AERO & ASTRO                                      
+33-115F                  160   OFFICE             AERO & ASTRO                                      
+33-115G                  160   CONFERENCE ROOM    AERO & ASTRO                                      
+33-116                   985   LABORATORY SVC     AERO & ASTRO                                      
+33-116A                    9   LABORATORY SVC     AERO & ASTRO                                      
+33-122E                   56   ELECTRIC CLOSET    DP OF FACILITIES                                  
+33-122EE                   3   ELECTRIC CLOSET    DP OF FACILITIES                                  
+33-123                   164   UTILITY/MECH RM    DP OF FACILITIES                                  
+33-136                 2,364   TEACHING LAB       AERO & ASTRO                                      
+33-136A                  176   LABORATORY SVC     AERO & ASTRO                                      
+33-140                   147   OFFICE             AERO & ASTRO                                      
+33-141                   106   LABORATORY SVC     AERO & ASTRO                                      
+                    --------                                                                        
+                      12,141                                                                        
+                                                                                                    
+33-200CA                 193   CORRIDOR           DP OF FACILITIES                                  
+33-200CB                 816   CORRIDOR           DP OF FACILITIES                                  
+33-200CC                 425   CORRIDOR           DP OF FACILITIES                                  
+33-200SA                 358   STAIRWAY           DP OF FACILITIES                                  
+33-200SB                 337   STAIRWAY           DP OF FACILITIES                                  
+33-200SE                  47   STAIRWAY           DP OF FACILITIES                                  
+33-200SF                 271   STAIRWAY           DP OF FACILITIES                                  
+33-200Z                  177   SHAFT SPACE        DP OF FACILITIES                                  
+33-202                    72   OFFICE SERVICE     AERO & ASTRO                                      
+33-202A                  201   OFFICE             AERO & ASTRO                                      
+33-202B                  130   OFFICE             AERO & ASTRO                                      
+33-205                   414   OFFICE             AERO & ASTRO                                      
+33-206                   753   CONFERENCE ROOM    AERO & ASTRO                                      
+33-206A                   13   OFFICE SERVICE     AERO & ASTRO                                      
+33-206B                   85   OFFICE SERVICE     AERO & ASTRO                                      
+33-207                   418   SECY/RECEPTION     AERO & ASTRO                                      
+33-208                   137   PVT CIRCULATION    AERO & ASTRO                                      
+33-208A                  146   OFFICE             AERO & ASTRO                                      
+33-208B                  132   OFFICE             AERO & ASTRO                                      
+33-208C                  149   OFFICE             AERO & ASTRO                                      
+33-208D                  166   OFFICE             AERO & ASTRO                                      
+33-208F                  108   OFFICE             AERO & ASTRO                                      
+33-208G                   35   OFFICE SERVICE     AERO & ASTRO                                      
+33-211                   215   OFFICE             AERO & ASTRO                                      
+33-213                   211   OFFICE             AERO & ASTRO                                      
+33-214                   186   OFFICE SERVICE     AERO & ASTRO                                      
+33-214A                   79   OFFICE             AERO & ASTRO                                      
+33-214B                  181   OFFICE             AERO & ASTRO                                      
+33-214C                  209   OFFICE             AERO & ASTRO                                      
+33-214D                  191   OFFICE             AERO & ASTRO                                      
+33-215                   218   OFFICE             AERO & ASTRO                                      
+33-217                   211   OFFICE             AERO & ASTRO                                      
+33-218                   868   OFFICE SERVICE     AERO & ASTRO                                      
+33-218A                  154   OFFICE             AERO & ASTRO                                      
+33-218B                  148   OFFICE SERVICE     AERO & ASTRO                                      
+33-218C                  185   OFFICE SERVICE     AERO & ASTRO                                      
+33-218D                   47   OFFICE SERVICE     AERO & ASTRO                                      
+33-219                   237   OFFICE             AERO & ASTRO                                      
+33-222E                   24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+33-223                   504   PVT CIRCULATION    AERO & ASTRO                                      
+33-230                   843   TEACHING LAB       AERO & ASTRO                                      
+33-230A                   86   LABORATORY SVC     AERO & ASTRO                                      
+33-240                   152   OFFICE             AERO & ASTRO                                      
+                    --------                                                                        
+                      10,531                                                                        
+                                                                                                    
+33-300CA                 280   CORRIDOR           DP OF FACILITIES                                  
+33-300CB                 634   CORRIDOR           DP OF FACILITIES                                  
+33-300CC                 439   CORRIDOR           DP OF FACILITIES                                  
+33-300SA                 241   STAIRWAY           DP OF FACILITIES                                  
+33-300SB                 241   STAIRWAY           DP OF FACILITIES                                  
+33-300Z                  151   SHAFT SPACE        DP OF FACILITIES                                  
+33-303                   282   OFFICE             AERO & ASTRO                                      
+33-304                    54   MALE LAVATORY      DP OF FACILITIES                                  
+33-305                   213   OFFICE             AERO & ASTRO                                      
+33-306                   206   FEMALE LAVATORY    DP OF FACILITIES                                  
+33-307                   180   OFFICE             AERO & ASTRO                                      
+33-308                   196   CONFERENCE ROOM    AERO & ASTRO                                      
+33-309                   242   SECY/RECEPTION     AERO & ASTRO                                      
+33-310                   218   OFFICE             AERO & ASTRO                                      
+33-311                   180   OFFICE             AERO & ASTRO                                      
+33-312                   224   OFFICE             AERO & ASTRO                                      
+33-313                   212   OFFICE             AERO & ASTRO                                      
+33-314                   207   OFFICE             AERO & ASTRO                                      
+33-315                   220   OFFICE             AERO & ASTRO                                      
+33-316                   207   OFFICE             AERO & ASTRO                                      
+33-318                   218   OFFICE             AERO & ASTRO                                      
+33-319                   708   CLASSROOM          REGISTRAR                                         
+33-319A                   22   CLASSROOM SVC      REGISTRAR                                         
+33-320                   196   OFFICE             AERO & ASTRO                                      
+33-322                   377   PVT CIRCULATION    AERO & ASTRO                                      
+33-322A                  132   OFFICE             AERO & ASTRO                                      
+33-322B                  111   OFFICE SERVICE     AERO & ASTRO                                      
+33-322C                  178   SECY/RECEPTION     AERO & ASTRO                                      
+33-324                   203   OFFICE SERVICE     AERO & ASTRO                                      
+33-326                   207   OFFICE             AERO & ASTRO                                      
+33-328                   172   OFFICE             AERO & ASTRO                                      
+33-330                   172   OFFICE             AERO & ASTRO                                      
+33-332                   172   OFFICE             AERO & ASTRO                                      
+33-334                   301   OFFICE             AERO & ASTRO                                      
+33-334A                   15   OFFICE SERVICE     AERO & ASTRO                                      
+33-334E                   34   ELECTRIC CLOSET    DP OF FACILITIES                                  
+33-336                   330   SECY/RECEPTION     AERO & ASTRO                                      
+33-336A                  123   SECY/RECEPTION     AERO & ASTRO                                      
+33-336B                  111   SECY/RECEPTION     AERO & ASTRO                                      
+33-336E                   15   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       8,626                                                                        
+                                                                                                    
+33-400CA                 201   CORRIDOR           DP OF FACILITIES                                  
+33-400CB                 528   CORRIDOR           DP OF FACILITIES                                  
+33-400CC                 770   CORRIDOR           DP OF FACILITIES                                  
+33-400SA                 236   STAIRWAY           DP OF FACILITIES                                  
+33-400SB                 268   STAIRWAY           DP OF FACILITIES                                  
+33-400Z                  111   SHAFT SPACE        DP OF FACILITIES                                  
+33-402                   266   MALE LAVATORY      DP OF FACILITIES                                  
+33-402J                   18   JANITOR CLOSET     DP OF FACILITIES                                  
+33-404                   200   OFFICE             AERO & ASTRO                                      
+33-406                   208   OFFICE             AERO & ASTRO                                      
+33-407                   547   OFFICE             AERO & ASTRO                                      
+33-407A                  131   OFFICE             AERO & ASTRO                                      
+33-407B                  209   OFFICE             AERO & ASTRO                                      
+33-407C                  143   OFFICE             AERO & ASTRO                                      
+33-407D                  140   OFFICE             AERO & ASTRO                                      
+33-408                   231   OFFICE             AERO & ASTRO                                      
+33-409                   957   OFFICE             AERO & ASTRO                                      
+33-410                   189   OFFICE             AERO & ASTRO                                      
+33-411                   305   OFFICE             AERO & ASTRO                                      
+33-412                   218   SECY/RECEPTION     AERO & ASTRO                                      
+33-412A                  257   OFFICE             AERO & ASTRO                                      
+33-413                   144   SECY/RECEPTION     AERO & ASTRO                                      
+33-413A                  235   OFFICE             AERO & ASTRO                                      
+33-418                   648   CLASSROOM          REGISTRAR                                         
+33-419                   941   CLASSROOM          REGISTRAR                                         
+33-421J                  129   JANITOR CLOSET     DP OF FACILITIES                                  
+33-422                   527   CLASSROOM          REGISTRAR                                         
+33-422A                   29   UTILITY/MECH RM    DP OF FACILITIES                                  
+33-422E                   24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+33-424                    20   JANITOR STORAGE    DP OF FACILITIES   

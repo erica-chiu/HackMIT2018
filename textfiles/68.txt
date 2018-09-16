@@ -1,0 +1,984 @@
+68-0000CA                576   CORRIDOR           DP OF FACILITIES                                  
+68-0000CB                423   CORRIDOR           DP OF FACILITIES                                  
+68-0000CC                659   CORRIDOR           DP OF FACILITIES                                  
+68-0000CD                689   CORRIDOR           DP OF FACILITIES                                  
+68-0000CE                401   CORRIDOR           DP OF FACILITIES                                  
+68-0000CF                522   CORRIDOR           DP OF FACILITIES                                  
+68-0000CG                593   CORRIDOR           DP OF FACILITIES                                  
+68-0000CH                589   CORRIDOR           DP OF FACILITIES                                  
+68-0000CJ                392   CORRIDOR           DP OF FACILITIES                                  
+68-0000CK                428   CORRIDOR           DP OF FACILITIES                                  
+68-0000CL                160   CORRIDOR           DP OF FACILITIES                                  
+68-0000E1                 67   ELEVATOR           DP OF FACILITIES                                  
+68-0000E2                 89   ELEVATOR           DP OF FACILITIES                                  
+68-0000E3                 58   ELEVATOR           DP OF FACILITIES                                  
+68-0000LA                 71   LOBBY              DP OF FACILITIES                                  
+68-0000LB                300   LOBBY              DP OF FACILITIES                                  
+68-0000SA                172   STAIRWAY           DP OF FACILITIES                                  
+68-0000SD                219   STAIRWAY           DP OF FACILITIES                                  
+68-0000Z                 117   SHAFT SPACE        DP OF FACILITIES                                  
+68-0001                  134   UTILITY/MECH RM    DP OF FACILITIES                                  
+68-0002                   83   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0002A                 164   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0004                  430   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0004A                  52   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0004B                  51   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0004C                  51   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0004D                  52   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0004E                  51   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0004F                  50   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0004G                  50   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0005                  132   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0005A                  48   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0005B                  46   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0005C                  45   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0005D                  38   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0005E                  42   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0005F                 175   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0006                  375   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0006A                  59   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0006B                  56   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0006C                  57   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0006D                  43   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0006E                  56   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0006F                  57   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0006G                  57   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0006H                  56   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0008                  211   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0008J                  23   JANITOR CLOSET     DP OF FACILITIES                                  
+68-0009                  141   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0009A                  43   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0009B                  39   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0009C                  45   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0009D                  45   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0009E                  38   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0009F                  42   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0009G                 144   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0010                  123   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0012                   73   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0012A                  17   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0014                  106   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0016                  211   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0017                  141   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0017A                  43   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0017B                  39   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0017C                  45   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0017D                  45   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0017E                  39   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0017F                  42   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0017G                 144   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0018                  152   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0020                  153   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0022                   69   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0022E                  83   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-0023                  139   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0023A                  43   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0023B                  39   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0023C                  45   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0023D                  47   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0023E                  38   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0023F                  42   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0023G                 144   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0024                   60   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0024A                  44   LABORATORY SVC     DIV OF COMP MED                                   
+68-0026                  301   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0026A                  37   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0028                  281   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0030                  282   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0031                  165   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0031A                 171   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0031B                 172   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0032                  120   OFFICE             DIV OF COMP MED                                   
+68-0034                  108   OFFICE             DIV OF COMP MED                                   
+68-0035                  179   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0036                  638   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0038                  859   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0039                  179   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0040                  254   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0041                  179   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0042                  279   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0044                  253   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0045                  179   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0046                  282   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0048                  221   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0048A                  65   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0049                  179   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0050                  280   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0052                  221   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0053                  179   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0054                  279   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0056                  220   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0057                  179   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0058                  253   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0059                   40   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0060                  218   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0061                  179   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0063                  179   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0064                  922   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0066                  598   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0066A                  60   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0066B                  50   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0067                  179   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0068                  398   ANIMAL SERVICE     BIOLOGY                                           
+68-0068A                 654   UTILITY/MECH RM    DP OF FACILITIES                                  
+68-0068B                 652   UTILITY/MECH RM    DP OF FACILITIES                                  
+68-0068C                 508   ANIMAL SERVICE     BIOLOGY                                           
+68-0069                  179   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0070                  226   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0072E                  68   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-0073                  179   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+68-0074                  192   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0076                   63   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0077                  179   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0078                   82   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0078A                 152   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0079                  179   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+68-0080                  191   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0082                  291   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0083                  179   OFFICE             DIV OF COMP MED                                   
+68-0084                  227   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0086                  292   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0087                  179   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0088                  152   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0088A                  44   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0088B                  44   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0088C                  33   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0088D                  44   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0088E                  44   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0090                  261   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0090A                  47   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0090B                  52   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0090C                  52   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0090D                  52   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0090E                  53   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0091                  185   ANIMAL QUARTERS    DIV OF COMP MED                                   
+68-0093                  176   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0094                  350   ANIMAL RSCH LAB    BIOLOGY                                           
+68-0096                  421   ANIMAL RSCH LAB    BIOLOGY                                           
+68-0097                  340   ANIMAL RSCH LAB    BIOLOGY                                           
+68-0098                  388   ANIMAL RSCH LAB    BIOLOGY                                           
+68-0099                   70   ANIMAL SERVICE     DIV OF COMP MED                                   
+68-0099J                  25   JANITOR CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      29,287                                                                        
+                                                                                                    
+68-000CA               1,352   CORRIDOR           DP OF FACILITIES                                  
+68-000CB                 574   CORRIDOR           DP OF FACILITIES                                  
+68-000CC                 509   CORRIDOR           DP OF FACILITIES                                  
+68-000CD                 906   CORRIDOR           DP OF FACILITIES                                  
+68-000CE                 272   CORRIDOR           DP OF FACILITIES                                  
+68-000CF                 964   CORRIDOR           DP OF FACILITIES                                  
+68-000CG               3,398   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+68-000CM                 179   CORRIDOR           DP OF FACILITIES                                  
+68-000E1                  65   ELEVATOR           DP OF FACILITIES                                  
+68-000E2                  86   ELEVATOR           DP OF FACILITIES                                  
+68-000E3                  59   ELEVATOR           DP OF FACILITIES                                  
+68-000LA                 257   LOBBY              DP OF FACILITIES                                  
+68-000LC                 580   LOBBY              DP OF FACILITIES                                  
+68-000SA                 250   STAIRWAY           DP OF FACILITIES                                  
+68-000SC                  63   STAIRWAY           DP OF FACILITIES                                  
+68-000SD                 210   STAIRWAY           DP OF FACILITIES                                  
+68-000SDM                209   STAIRWAY           DP OF FACILITIES                                  
+68-000SE                  65   STAIRWAY           DP OF FACILITIES                                  
+68-000SF                 109   STAIRWAY           DP OF FACILITIES                                  
+68-000SFM                116   STAIRWAY           DP OF FACILITIES                                  
+68-000Z                  372   SHAFT SPACE        DP OF FACILITIES                                  
+68-004                   491   LABORATORY SVC     BIOLOGY                                           
+68-004A                  616   UTILITY/MECH RM    DP OF FACILITIES                                  
+68-004B                  106   LABORATORY SVC     BIOLOGY                                           
+68-005T                  239   TELECOM CLOSET     DP OF FACILITIES                                  
+68-008                   527   UTILITY/MECH RM    DP OF FACILITIES                                  
+68-011                   243   UTILITY/MECH RM    DP OF FACILITIES                                  
+68-014E                1,034   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-016                   151   LABORATORY SVC     BIOLOGY                                           
+68-017                   394   LABORATORY SVC     BIOLOGY                                           
+68-018                   174   LABORATORY SVC     BIOLOGY                                           
+68-022E                  152   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-023                   132   JANITOR STORAGE    DP OF FACILITIES                                  
+68-025                   584   JANITOR STORAGE    DP OF FACILITIES                                  
+68-025J                   22   JANITOR CLOSET     DP OF FACILITIES                                  
+68-026                10,571   UTILITY/MECH RM    DP OF FACILITIES                                  
+68-026A                  229   LABORATORY SVC     BIOLOGY                                           
+68-026B                2,191   UTILITY/MECH RM    DP OF FACILITIES                                  
+68-026M                  230   UTILITY/MECH RM    DP OF FACILITIES                                  
+68-069                    48   PUBLIC LAVATORY    DP OF FACILITIES                                  
+68-069A                  168   LABORATORY SVC     BIOLOGY                                           
+68-071                    47   PUBLIC LAVATORY    DP OF FACILITIES                                  
+68-074                 2,230   TEACHING LAB       BIOLOGY                                           
+68-074A                  195   LABORATORY SVC     BIOLOGY                                           
+68-074B                   77   OFFICE             BIOLOGY                                           
+68-074C                   67   OFFICE             BIOLOGY                                           
+68-074D                   68   LABORATORY SVC     BIOLOGY                                           
+68-074E                   49   LABORATORY SVC     BIOLOGY                                           
+68-074F                   64   LABORATORY SVC     BIOLOGY                                           
+68-074G                   86   LABORATORY SVC     BIOLOGY                                           
+68-074H                   72   LABORATORY SVC     BIOLOGY                                           
+68-074K                   49   LABORATORY SVC     BIOLOGY                                           
+68-074L                   64   LABORATORY SVC     BIOLOGY                                           
+68-074M                    6   LABORATORY SVC     BIOLOGY                                           
+68-075E                  152   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-076E                   44   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-077                   932   TEACHING LAB       BIOLOGY                                           
+68-077E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-077T                   11   TELECOM CLOSET     DP OF FACILITIES                                  
+68-080                    21   LABORATORY SVC     BIOLOGY                                           
+68-081J                   16   JANITOR CLOSET     DP OF FACILITIES                                  
+68-082                    52   LABORATORY SVC     BIOLOGY                                           
+68-082A                   84   LABORATORY SVC     BIOLOGY                                           
+68-083                   181   OFFICE             BIOLOGY                                           
+68-084                   256   LABORATORY SVC     BIOLOGY                                           
+68-085                    10   LABORATORY SVC     BIOLOGY                                           
+68-087                     8   LABORATORY SVC     BIOLOGY                                           
+68-088                    98   LABORATORY SVC     BIOLOGY                                           
+68-089                   927   TEACHING LAB       BIOLOGY                                           
+68-090                   106   LABORATORY SVC     BIOLOGY                                           
+68-092                    43   LABORATORY SVC     BIOLOGY                                           
+68-094                   153   LABORATORY SVC     BIOLOGY                                           
+68-094A                   41   LABORATORY SVC     BIOLOGY                                           
+68-095M                1,793   LABORATORY SVC     BIOLOGY                                           
+                    --------                                                                        
+                      36,906                                                                        
+                                                                                                    
+68-100CA                 900   CORRIDOR           DP OF FACILITIES                                  
+68-100CB                 428   CORRIDOR           DP OF FACILITIES                                  
+68-100CC                 143   CORRIDOR           DP OF FACILITIES                                  
+68-100CD                 331   CORRIDOR           DP OF FACILITIES                                  
+68-100CE                 492   CORRIDOR           DP OF FACILITIES                                  
+68-100CF                 165   CORRIDOR           DP OF FACILITIES                                  
+68-100E1                  64   ELEVATOR           DP OF FACILITIES                                  
+68-100E2                  91   ELEVATOR           DP OF FACILITIES                                  
+68-100E3                  62   ELEVATOR           DP OF FACILITIES                                  
+68-100LA               2,335   LOBBY              DP OF FACILITIES                                  
+68-100LB               1,502   LOBBY              DP OF FACILITIES                                  
+68-100LD                 125   LOBBY              DP OF FACILITIES                                  
+68-100LE                 146   LOBBY              DP OF FACILITIES                                  
+68-100LF                 942   LOBBY              DP OF FACILITIES                                  
+68-100LH                 329   LOBBY              DP OF FACILITIES                                  
+68-100LK                  68   LOBBY              DP OF FACILITIES                                  
+68-100SA                 225   STAIRWAY           DP OF FACILITIES                                  
+68-100SB                 257   STAIRWAY           DP OF FACILITIES                                  
+68-100SC                 247   STAIRWAY           DP OF FACILITIES                                  
+68-100SD                 217   STAIRWAY           DP OF FACILITIES                                  
+68-100Z                  345   SHAFT SPACE        DP OF FACILITIES                                  
+68-102                   386   RECEIVING ROOM     BIOLOGY                                           
+68-102A                  119   OFFICE SERVICE     BIOLOGY                                           
+68-102AA                 250   OFFICE SERVICE     BIOLOGY                                           
+68-102B                  140   OFFICE             BIOLOGY                                           
+68-102C                  133   OFFICE             BIOLOGY                                           
+68-102D                   60   OFFICE SERVICE     BIOLOGY                                           
+68-102E                   19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-102J                   22   JANITOR CLOSET     DP OF FACILITIES                                  
+68-109                    66   UTILITY/MECH RM    DP OF FACILITIES                                  
+68-110Z                  111   SHAFT SPACE        DP OF FACILITIES                                  
+68-120                   261   OFFICE SERVICE     BIOLOGY                                           
+68-120A                  352   CONFERENCE ROOM    BIOLOGY                                           
+68-120B                  170   OFFICE             BIOLOGY                                           
+68-120C                  120   OFFICE             BIOLOGY                                           
+68-120D                  122   OFFICE             BIOLOGY                                           
+68-120F                  102   SECY/RECEPTION     BIOLOGY                                           
+68-120G                   71   OFFICE             BIOLOGY                                           
+68-120H                   98   OFFICE             BIOLOGY                                           
+68-121                   691   CLASSROOM          BIOLOGY                                           
+68-121A                   60   CLASSROOM SVC      BIOLOGY                                           
+68-121E                   24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-132                   145   SECY/RECEPTION     BIOLOGY                                           
+68-132A                  147   OFFICE             BIOLOGY                                           
+68-132B                  230   OFFICE             BIOLOGY                                           
+68-132C                  119   OFFICE             BIOLOGY                                           
+68-132D                   58   OFFICE SERVICE     BIOLOGY                                           
+68-132F                  347   OFFICE SERVICE     BIOLOGY                                           
+68-132G                  356   OFFICE             BIOLOGY                                           
+68-133                   192   OFFICE             BIOLOGY                                           
+68-135                   863   RECREATION FACIL   BIOLOGY                                           
+68-135A                  553   OFFICE SERVICE     BIOLOGY                                           
+68-135B                    5   LABORATORY SVC     BIOLOGY                                           
+68-139                   194   OFFICE             BIOLOGY                                           
+68-139A                  158   OFFICE SERVICE     BIOLOGY                                           
+68-140E                   16   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-140T                   16   TELECOM CLOSET     DP OF FACILITIES                                  
+68-144                   390   OFFICE             BIOLOGY                                           
+68-144A                   16   PVT LAVATORY       BIOLOGY                                           
+68-144B                    7   OFFICE SERVICE     BIOLOGY                                           
+68-145                   235   OFFICE SERVICE     COPY TECH CENTER                                  
+68-150                   333   CONFERENCE ROOM    BIOLOGY                                           
+68-150A                   13   OFFICE SERVICE     BIOLOGY                                           
+68-151                   121   OFFICE SERVICE     BIOLOGY                                           
+68-151A                    7   OFFICE SERVICE     BIOLOGY                                           
+68-151B                   61   OFFICE             BIOLOGY                                           
+68-151C                   61   OFFICE             BIOLOGY                                           
+68-152Z                  115   SHAFT SPACE        DP OF FACILITIES                                  
+68-154                     5   UTILITY/MECH RM    DP OF FACILITIES                                  
+68-156                   396   CONFERENCE ROOM    BIOLOGY                                           
+68-157                   455   OFFICE SERVICE     BIOLOGY                                           
+68-157A                  204   OFFICE             BIOLOGY                                           
+68-157B                   55   OFFICE             BIOLOGY                                           
+68-157C                   49   OFFICE             BIOLOGY                                           
+68-157D                   35   OFFICE             BIOLOGY                                           
+68-157F                   55   OFFICE             BIOLOGY                                           
+68-157G                   55   OFFICE             BIOLOGY                                           
+68-157H                   73   OFFICE             BIOLOGY                                           
+68-157K                   86   OFFICE             BIOLOGY                                           
+68-159                   151   OFFICE             BIOLOGY                                           
+68-163                   192   FEMALE LAVATORY    DP OF FACILITIES                                  
+68-164                   511   OFFICE SERVICE     PROVOST RESERVE                                   
+68-169                   193   MALE LAVATORY      DP OF FACILITIES                                  
+68-170                   192   DAY CARE           PROVOST RESERVE                                   
+68-170A                   81   DAY CARE SV        PROVOST RESERVE                                   
+68-170B                  101   DAY CARE           PROVOST RESERVE                                   
+68-170C                   86   DAY CARE SV        PROVOST RESERVE                                   
+68-170D                   65   PVT LAVATORY       PROVOST RESERVE                                   
+68-171                   208   OFFICE             BIOLOGY                                           
+68-171A                  171   OFFICE SERVICE     BIOLOGY                                           
+68-171B                  153   OFFICE             BIOLOGY                                           
+68-171C                   91   OFFICE             BIOLOGY                                           
+68-171CA                 101   OFFICE             BIOLOGY                                           
+68-171D                  139   OFFICE SERVICE     BIOLOGY                                           
+68-171DA                  31   OFFICE SERVICE     BIOLOGY                                           
+68-171DB                  47   OFFICE             BIOLOGY                                           
+68-171DC                  30   OFFICE             BIOLOGY                                           
+68-171E                    6   OFFICE SERVICE     BIOLOGY                                           
+68-171F                  121   OFFICE SERVICE     BIOLOGY                                           
+68-175E                   41   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-177E                   18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-180                   936   CONFERENCE ROOM    BIOLOGY                                           
+68-180A                   47   OFFICE SERVICE     BIOLOGY                                           
+68-180B                   37   OFFICE SERVICE     BIOLOGY                                           
+68-181                 1,468   CONFERENCE ROOM    BIOLOGY                                           
+68-181A                   28   OFFICE SERVICE     BIOLOGY                                           
+68-181B                   27   OFFICE SERVICE     BIOLOGY                                           
+68-181C                   27   OFFICE SERVICE     BIOLOGY                                           
+68-181D                   55   OFFICE SERVICE     BIOLOGY                                           
+68-192                   647   LABORATORY SVC     BIOLOGY                                           
+68-193                   165   FEMALE LAVATORY    DP OF FACILITIES                                  
+68-194Z                  106   SHAFT SPACE        DP OF FACILITIES                                  
+68-195                   154   MALE LAVATORY      DP OF FACILITIES                                  
+68-195J                   12   JANITOR CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      25,458                                                                        
+                                                                                                    
+68-200CA                 395   CORRIDOR           DP OF FACILITIES                                  
+68-200CB               1,018   CORRIDOR           DP OF FACILITIES                                  
+68-200CC                 373   CORRIDOR           DP OF FACILITIES                                  
+68-200CD                 523   CORRIDOR           DP OF FACILITIES                                  
+68-200E1                  65   ELEVATOR           DP OF FACILITIES                                  
+68-200E2                  89   ELEVATOR           DP OF FACILITIES                                  
+68-200E3                  58   ELEVATOR           DP OF FACILITIES                                  
+68-200LA                 310   LOBBY              DP OF FACILITIES                                  
+68-200LB               1,039   LOBBY              DP OF FACILITIES                                  
+68-200LF                 484   LOBBY              DP OF FACILITIES                                  
+68-200SA                 228   STAIRWAY           DP OF FACILITIES                                  
+68-200SB                 244   STAIRWAY           DP OF FACILITIES                                  
+68-200SC                 209   STAIRWAY           DP OF FACILITIES                                  
+68-200SD                 215   STAIRWAY           DP OF FACILITIES                                  
+68-200Z                  404   SHAFT SPACE        DP OF FACILITIES                                  
+68-202J                   22   JANITOR CLOSET     DP OF FACILITIES                                  
+68-204                   199   LABORATORY SVC     BIOLOGY                                           
+68-204A                  115   LABORATORY SVC     BIOLOGY                                           
+68-204B                  714   LABORATORY SVC     BIOLOGY                                           
+68-204C                  320   LABORATORY SVC     BIOLOGY                                           
+68-204CA                 185   LABORATORY SVC     BIOLOGY                                           
+68-204D                   84   LABORATORY SVC     BIOLOGY                                           
+68-204E                   84   SECY/RECEPTION     BIOLOGY                                           
+68-204J                   19   JANITOR CLOSET     DP OF FACILITIES                                  
+68-205T                   20   TELECOM CLOSET     DP OF FACILITIES                                  
+68-211                   557   RESEARCH LAB       BIOLOGY                                           
+68-212                    59   LABORATORY SVC     BIOLOGY                                           
+68-214                    62   LABORATORY SVC     BIOLOGY                                           
+68-216                   172   LABORATORY SVC     BIOLOGY                                           
+68-216B                  106   LABORATORY SVC     BIOLOGY                                           
+68-216D                  249   RESEARCH LAB       BIOLOGY                                           
+68-216E                   63   LABORATORY SVC     BIOLOGY                                           
+68-217                   537   RESEARCH LAB       BIOLOGY                                           
+68-218                    60   LABORATORY SVC     BIOLOGY                                           
+68-218E                    6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-218T                   10   TELECOM CLOSET     DP OF FACILITIES                                  
+68-220                   159   LABORATORY SVC     BIOLOGY                                           
+68-222                   505   RESEARCH LAB       BIOLOGY                                           
+68-223                   121   SECY/RECEPTION     BIOLOGY                                           
+68-223A                  161   OFFICE             BIOLOGY                                           
+68-223B                  264   OFFICE             BIOLOGY                                           
+68-226                   389   LABORATORY SVC     BIOLOGY                                           
+68-229                   450   LABORATORY SVC     BIOLOGY                                           
+68-230                   251   SECY/RECEPTION     BIOLOGY                                           
+68-230A                  128   RSCH LAB-OFFICE    BIOLOGY                                           
+68-230B                  128   RSCH LAB-OFFICE    BIOLOGY                                           
+68-232                   109   LABORATORY SVC     BIOLOGY                                           
+68-233                   144   SECY/RECEPTION     BIOLOGY                                           
+68-233A                  275   OFFICE             BIOLOGY                                           
+68-234                   149   FEMALE LAVATORY    DP OF FACILITIES                                  
+68-234E                   52   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-235                   132   LABORATORY SVC     BIOLOGY                                           
+68-240                   219   LABORATORY SVC     BIOLOGY                                           
+68-240B                   53   LABORATORY SVC     BIOLOGY                                           
+68-240C                   13   LABORATORY SVC     BIOLOGY                                           
+68-240D                  505   RESEARCH LAB       BIOLOGY                                           
+68-241                   537   RESEARCH LAB       BIOLOGY                                           
+68-246                   181   LABORATORY SVC     BIOLOGY                                           
+68-246A                   91   LABORATORY SVC     BIOLOGY                                           
+68-246B                   77   LABORATORY SVC     BIOLOGY                                           
+68-246C                  100   LABORATORY SVC     BIOLOGY                                           
+68-246D                  513   RESEARCH LAB       BIOLOGY                                           
+68-247                   537   RESEARCH LAB       BIOLOGY                                           
+68-252                   185   LABORATORY SVC     BIOLOGY                                           
+68-252A                   96   LABORATORY SVC     BIOLOGY                                           
+68-252B                   96   LABORATORY SVC     BIOLOGY                                           
+68-252C                   94   LABORATORY SVC     BIOLOGY                                           
+68-252D                  505   RESEARCH LAB       BIOLOGY                                           
+68-252E                   79   LABORATORY SVC     BIOLOGY                                           
+68-252J                   18   JANITOR CLOSET     DP OF FACILITIES                                  
+68-252Z                  116   SHAFT SPACE        DP OF FACILITIES                                  
+68-253                   537   RSCH LAB-OFFICE    BIOLOGY                                           
+68-258                   185   LABORATORY SVC     BIOLOGY                                           
+68-258D                  505   RESEARCH LAB       BIOLOGY                                           
+68-258E                  108   LABORATORY SVC     BIOLOGY                                           
+68-258EA                  54   LABORATORY SVC     BIOLOGY                                           
+68-258F                  103   LABORATORY SVC     BIOLOGY                                           
+68-258G                   73   LABORATORY SVC     BIOLOGY                                           
+68-259                   537   RESEARCH LAB       BIOLOGY                                           
+68-260                    52   LABORATORY SVC     BIOLOGY                                           
+68-262                    77   LABORATORY SVC     BIOLOGY                                           
+68-264                   163   LABORATORY SVC     BIOLOGY                                           
+68-264B                  100   LABORATORY SVC     BIOLOGY                                           
+68-264C                   71   LABORATORY SVC     BIOLOGY                                           
+68-264D                  510   RESEARCH LAB       BIOLOGY                                           
+68-264E                  110   LABORATORY SVC     BIOLOGY                                           
+68-265                   537   RESEARCH LAB       BIOLOGY                                           
+68-266                   153   MALE LAVATORY      DP OF FACILITIES                                  
+68-266E                   51   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-268                    48   DARK ROOM          BIOLOGY                                           
+68-270                   242   LABORATORY SVC     BIOLOGY                                           
+68-270A                  128   RSCH LAB-OFFICE    BIOLOGY                                           
+68-270B                  128   LABORATORY SVC     BIOLOGY                                           
+68-271                   264   LABORATORY SVC     BIOLOGY                                           
+68-271A                  129   RSCH LAB-OFFICE    BIOLOGY                                           
+68-271AA                 132   LABORATORY SVC     BIOLOGY                                           
+68-274                   478   CONFERENCE ROOM    BIOLOGY                                           
+68-277                   499   LABORATORY SVC     BIOLOGY                                           
+68-280                   123   SECY/RECEPTION     BIOLOGY                                           
+68-280A                  260   RSCH LAB-OFFICE    BIOLOGY                                           
+68-280AA                 116   LABORATORY SVC     BIOLOGY                                           
+68-283                   537   RESEARCH LAB       BIOLOGY                                           
+68-284                    96   LABORATORY SVC     BIOLOGY                                           
+68-284T                   60   TELECOM CLOSET     DP OF FACILITIES                                  
+68-288                   217   LABORATORY SVC     BIOLOGY                                           
+68-288A                   50   LABORATORY SVC     BIOLOGY                                           
+68-288B                   13   LABORATORY SVC     BIOLOGY                                           
+68-288C                  143   LABORATORY SVC     BIOLOGY                                           
+68-288D                  509   RESEARCH LAB       BIOLOGY                                           
+68-288E                   55   LABORATORY SVC     BIOLOGY                                           
+68-288F                  125   LABORATORY SVC     BIOLOGY                                           
+68-289                   537   RESEARCH LAB       BIOLOGY                                           
+68-290                    53   LABORATORY SVC     BIOLOGY                                           
+68-292                    53   LABORATORY SVC     BIOLOGY                                           
+68-294                   188   LABORATORY SVC     BIOLOGY                                           
+68-294C                   79   LABORATORY SVC     BIOLOGY                                           
+68-294CA                  74   LABORATORY SVC     BIOLOGY                                           
+68-294D                  524   RESEARCH LAB       BIOLOGY                                           
+68-294G                   18   LABORATORY SVC     BIOLOGY                                           
+68-294Z                  129   SHAFT SPACE        DP OF FACILITIES                                  
+68-295                   555   RESEARCH LAB       BIOLOGY                                           
+                    --------                                                                        
+                      27,217                                                                        
+                                                                                                    
+68-300CA                 360   CORRIDOR           DP OF FACILITIES                                  
+68-300CB               1,028   CORRIDOR           DP OF FACILITIES                                  
+68-300CC                 374   CORRIDOR           DP OF FACILITIES                                  
+68-300CD                 520   CORRIDOR           DP OF FACILITIES                                  
+68-300CE                 263   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+68-300E1                  66   ELEVATOR           DP OF FACILITIES                                  
+68-300E2                  86   ELEVATOR           DP OF FACILITIES                                  
+68-300E3                  58   ELEVATOR           DP OF FACILITIES                                  
+68-300LA                 316   LOBBY              DP OF FACILITIES                                  
+68-300LB               1,091   LOBBY              DP OF FACILITIES                                  
+68-300LF                 484   LOBBY              DP OF FACILITIES                                  
+68-300SA                 226   STAIRWAY           DP OF FACILITIES                                  
+68-300SB                 182   STAIRWAY           DP OF FACILITIES                                  
+68-300SC                 209   STAIRWAY           DP OF FACILITIES                                  
+68-300SD                 215   STAIRWAY           DP OF FACILITIES                                  
+68-300Z                  348   SHAFT SPACE        DP OF FACILITIES                                  
+68-302J                   19   JANITOR CLOSET     DP OF FACILITIES                                  
+68-304                   187   LABORATORY SVC     BIOLOGY                                           
+68-304A                  106   LABORATORY SVC     BIOLOGY                                           
+68-304AA                  49   LABORATORY SVC     BIOLOGY                                           
+68-304B                  108   LABORATORY SVC     BIOLOGY                                           
+68-304C                  123   RSCH LAB-OFFICE    BIOLOGY                                           
+68-304CA                  64   LABORATORY SVC     BIOLOGY                                           
+68-304D                   97   RSCH LAB-OFFICE    BIOLOGY                                           
+68-304F                  779   RESEARCH LAB       BIOLOGY                                           
+68-304G                   81   LABORATORY SVC     BIOLOGY                                           
+68-305T                   20   TELECOM CLOSET     DP OF FACILITIES                                  
+68-310Z                  112   SHAFT SPACE        DP OF FACILITIES                                  
+68-311                   552   RESEARCH LAB       BIOLOGY                                           
+68-316                    67   LABORATORY SVC     BIOLOGY                                           
+68-316A                  140   LABORATORY SVC     BIOLOGY                                           
+68-316B                  149   LABORATORY SVC     BIOLOGY                                           
+68-316C                   95   LABORATORY SVC     BIOLOGY                                           
+68-316D                  245   RESEARCH LAB       BIOLOGY                                           
+68-316E                  106   LABORATORY SVC     BIOLOGY                                           
+68-316F                  152   LABORATORY SVC     BIOLOGY                                           
+68-317                   533   RESEARCH LAB       BIOLOGY                                           
+68-317A                  262   RSCH LAB-OFFICE    BIOLOGY                                           
+68-318                    36   LABORATORY SVC     BIOLOGY                                           
+68-318A                   10   UTILITY/MECH RM    DP OF FACILITIES                                  
+68-318E                    6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-320                    90   LABORATORY SVC     BIOLOGY                                           
+68-321                    11   UTILITY/MECH RM    DP OF FACILITIES                                  
+68-322                   499   RESEARCH LAB       BIOLOGY                                           
+68-323                   121   OFFICE             BIOLOGY                                           
+68-323A                  159   OFFICE             BIOLOGY                                           
+68-326                   388   LABORATORY SVC     BIOLOGY                                           
+68-329                   240   LABORATORY SVC     BIOLOGY                                           
+68-330                   131   SECY/RECEPTION     BIOLOGY                                           
+68-330A                  213   RSCH LAB-OFFICE    BIOLOGY                                           
+68-330AA                 156   LABORATORY SVC     BIOLOGY                                           
+68-332                    97   LABORATORY SVC     BIOLOGY                                           
+68-333                   216   SECY/RECEPTION     BIOLOGY                                           
+68-333A                  156   OFFICE             BIOLOGY                                           
+68-333B                  167   OFFICE             BIOLOGY                                           
+68-334                   151   MALE LAVATORY      DP OF FACILITIES                                  
+68-334E                   52   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-340                   184   LABORATORY SVC     BIOLOGY                                           
+68-340A                   58   LABORATORY SVC     BIOLOGY                                           
+68-340B                   53   LABORATORY SVC     BIOLOGY                                           
+68-340D                  499   RESEARCH LAB       BIOLOGY                                           
+68-340E                   82   LABORATORY SVC     BIOLOGY                                           
+68-340F                   65   LABORATORY SVC     BIOLOGY                                           
+68-341                   531   RESEARCH LAB       BIOLOGY                                           
+68-342                    67   LABORATORY SVC     BIOLOGY                                           
+68-346                   184   LABORATORY SVC     BIOLOGY                                           
+68-346D                  499   RESEARCH LAB       BIOLOGY                                           
+68-346E                  115   RESEARCH LAB       BIOLOGY                                           
+68-346F                   89   LABORATORY SVC     BIOLOGY                                           
+68-346G                   43   LABORATORY SVC     BIOLOGY                                           
+68-347                   531   RESEARCH LAB       BIOLOGY                                           
+68-348                    47   LABORATORY SVC     BIOLOGY                                           
+68-352                   198   LABORATORY SVC     BIOLOGY                                           
+68-352A                    9   LABORATORY SVC     BIOLOGY                                           
+68-352D                  499   RESEARCH LAB       BIOLOGY                                           
+68-352E                  103   LABORATORY SVC     BIOLOGY                                           
+68-352J                   19   JANITOR CLOSET     DP OF FACILITIES                                  
+68-352Z                  116   SHAFT SPACE        DP OF FACILITIES                                  
+68-353                   529   RSCH LAB-OFFICE    BIOLOGY                                           
+68-358                   185   LABORATORY SVC     BIOLOGY                                           
+68-358D                  499   RESEARCH LAB       BIOLOGY                                           
+68-358E                  147   LABORATORY SVC     BIOLOGY                                           
+68-358F                  122   LABORATORY SVC     BIOLOGY                                           
+68-358G                   72   LABORATORY SVC     BIOLOGY                                           
+68-359                   531   RESEARCH LAB       BIOLOGY                                           
+68-360                    52   LABORATORY SVC     BIOLOGY                                           
+68-362                   108   LABORATORY SVC     BIOLOGY                                           
+68-364                   162   LABORATORY SVC     BIOLOGY                                           
+68-364C                  134   LABORATORY SVC     BIOLOGY                                           
+68-364D                  499   RESEARCH LAB       BIOLOGY                                           
+68-364E                   63   LABORATORY SVC     BIOLOGY                                           
+68-364EA                  95   LABORATORY SVC     BIOLOGY                                           
+68-365                   531   RESEARCH LAB       BIOLOGY                                           
+68-366                   154   FEMALE LAVATORY    DP OF FACILITIES                                  
+68-366E                   51   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-370                   121   SECY/RECEPTION     BIOLOGY                                           
+68-370A                  254   RSCH LAB-OFFICE    BIOLOGY                                           
+68-370AA                 116   LABORATORY SVC     BIOLOGY                                           
+68-371                   217   SECY/RECEPTION     BIOLOGY                                           
+68-371A                  151   OFFICE             BIOLOGY                                           
+68-371B                  151   OFFICE             BIOLOGY                                           
+68-374                   476   CONFERENCE ROOM    BIOLOGY                                           
+68-377                   497   LABORATORY SVC     BIOLOGY                                           
+68-380                   123   SECY/RECEPTION     BIOLOGY                                           
+68-380A                  255   OFFICE             BIOLOGY                                           
+68-380B                  116   LABORATORY SVC     BIOLOGY                                           
+68-383                   530   RESEARCH LAB       BIOLOGY                                           
+68-384                    61   LABORATORY SVC     BIOLOGY                                           
+68-384T                   60   TELECOM CLOSET     DP OF FACILITIES                                  
+68-388                   180   LABORATORY SVC     BIOLOGY                                           
+68-388A                   50   LABORATORY SVC     BIOLOGY                                           
+68-388B                   48   LABORATORY SVC     BIOLOGY                                           
+68-388C                   91   LABORATORY SVC     BIOLOGY                                           
+68-388CA                  72   RSCH LAB-OFFICE    BIOLOGY                                           
+68-388D                  500   RESEARCH LAB       BIOLOGY                                           
+68-388E                  143   RESEARCH LAB       BIOLOGY                                           
+68-388G                  124   LABORATORY SVC     BIOLOGY                                           
+68-389                   531   RESEARCH LAB       BIOLOGY                                           
+68-390                   118   LABORATORY SVC     BIOLOGY                                           
+68-394                   235   LABORATORY SVC     BIOLOGY                                           
+68-394C                   79   LABORATORY SVC     BIOLOGY                                           
+68-394D                  518   RESEARCH LAB       BIOLOGY                                           
+68-394G                   18   LABORATORY SVC     BIOLOGY                                           
+68-394Z                  126   SHAFT SPACE        DP OF FACILITIES                                  
+68-395                   548   RESEARCH LAB       BIOLOGY                                           
+                    --------                                                                        
+                      27,204                                                                        
+                                                                                                    
+68-400CA                 407   CORRIDOR           DP OF FACILITIES                                  
+68-400CB               1,028   CORRIDOR           DP OF FACILITIES                                  
+68-400CC                 372   CORRIDOR           DP OF FACILITIES                                  
+68-400CD                 520   CORRIDOR           DP OF FACILITIES                                  
+68-400E1                  66   ELEVATOR           DP OF FACILITIES                                  
+68-400E2                  87   ELEVATOR           DP OF FACILITIES                                  
+68-400E3                  58   ELEVATOR           DP OF FACILITIES                                  
+68-400LA                 307   LOBBY              DP OF FACILITIES                                  
+68-400LB               1,039   LOBBY              DP OF FACILITIES                                  
+68-400LF                 484   LOBBY              DP OF FACILITIES                                  
+68-400SA                 219   STAIRWAY           DP OF FACILITIES                                  
+68-400SB                 244   STAIRWAY           DP OF FACILITIES                                  
+68-400SC                 209   STAIRWAY           DP OF FACILITIES                                  
+68-400SD                 215   STAIRWAY           DP OF FACILITIES                                  
+68-400Z                  323   SHAFT SPACE        DP OF FACILITIES                                  
+68-402J                   20   JANITOR CLOSET     DP OF FACILITIES                                  
+68-404                   136   LABORATORY SVC     BIOLOGY                                           
+68-404A                  115   LABORATORY SVC     BIOLOGY                                           
+68-404B                  703   LABORATORY SVC     BIOLOGY                                           
+68-404C                  363   LABORATORY SVC     BIOLOGY                                           
+68-404CA                 187   LABORATORY SVC     BIOLOGY                                           
+68-404J                   21   JANITOR CLOSET     DP OF FACILITIES                                  
+68-405T                   20   TELECOM CLOSET     DP OF FACILITIES                                  
+68-410                   172   LABORATORY SVC     BIOLOGY                                           
+68-410Z                  112   SHAFT SPACE        DP OF FACILITIES                                  
+68-411                   550   RESEARCH LAB       BIOLOGY                                           
+68-414                   196   RESEARCH LAB       BIOLOGY                                           
+68-416                   178   LABORATORY SVC     BIOLOGY                                           
+68-416D                  246   RESEARCH LAB       BIOLOGY                                           
+68-416E                  110   LABORATORY SVC     BIOLOGY                                           
+68-416H                    6   LABORATORY SVC     BIOLOGY                                           
+68-417                   531   RESEARCH LAB       BIOLOGY                                           
+68-417A                  133   LABORATORY SVC     BIOLOGY                                           
+68-418                   115   LABORATORY SVC     BIOLOGY                                           
+68-418E                    6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-418T                    6   TELECOM CLOSET     DP OF FACILITIES                                  
+68-420                    89   LABORATORY SVC     BIOLOGY                                           
+68-422                   499   RESEARCH LAB       BIOLOGY                                           
+68-425                   133   SECY/RECEPTION     BIOLOGY                                           
+68-425A                  277   OFFICE             BIOLOGY                                           
+68-426                   390   LABORATORY SVC     BIOLOGY                                           
+68-429                   449   LABORATORY SVC     BIOLOGY                                           
+68-430                   131   LABORATORY SVC     BIOLOGY                                           
+68-430A                  213   RSCH LAB-OFFICE    BIOLOGY                                           
+68-430B                  156   LABORATORY SVC     BIOLOGY                                           
+68-433                   555   RESEARCH LAB       BIOLOGY                                           
+68-434                   149   FEMALE LAVATORY    DP OF FACILITIES                                  
+68-434E                   52   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-440                   184   LABORATORY SVC     BIOLOGY                                           
+68-440B                   53   LABORATORY SVC     BIOLOGY                                           
+68-440C                  158   LABORATORY SVC     BIOLOGY                                           
+68-440D                  499   RESEARCH LAB       BIOLOGY                                           
+68-440E                   82   RESEARCH LAB       BIOLOGY                                           
+68-440F                   66   LABORATORY SVC     BIOLOGY                                           
+68-441                   531   RESEARCH LAB       BIOLOGY                                           
+68-442                    68   LABORATORY SVC     BIOLOGY                                           
+68-446                   179   LABORATORY SVC     BIOLOGY                                           
+68-446D                  499   RESEARCH LAB       BIOLOGY                                           
+68-446E                  122   LABORATORY SVC     BIOLOGY                                           
+68-446F                  123   LABORATORY SVC     BIOLOGY                                           
+68-447                   531   RESEARCH LAB       BIOLOGY                                           
+68-448                    34   LABORATORY SVC     BIOLOGY                                           
+68-450                    34   LABORATORY SVC     BIOLOGY                                           
+68-452                   216   LABORATORY SVC     BIOLOGY                                           
+68-452D                  499   RESEARCH LAB       BIOLOGY                                           
+68-452E                   79   LABORATORY SVC     BIOLOGY                                           
+68-452J                   18   JANITOR CLOSET     DP OF FACILITIES                                  
+68-452Z                  116   SHAFT SPACE        DP OF FACILITIES                                  
+68-453                   531   RESEARCH LAB       BIOLOGY                                           
+68-458                   181   LABORATORY SVC     BIOLOGY                                           
+68-458D                  501   RESEARCH LAB       BIOLOGY                                           
+68-458E                  133   LABORATORY SVC     BIOLOGY                                           
+68-458F                   62   LABORATORY SVC     BIOLOGY                                           
+68-459                   100   RSCH LAB-OFFICE    BIOLOGY                                           
+68-459A                  158   RSCH LAB-OFFICE    BIOLOGY                                           
+68-462                   104   LABORATORY SVC     BIOLOGY                                           
+68-462A                  112   LABORATORY SVC     BIOLOGY                                           
+68-464                    94   LABORATORY SVC     BIOLOGY                                           
+68-464B                   86   LABORATORY SVC     BIOLOGY                                           
+68-464BA                  58   LABORATORY SVC     BIOLOGY                                           
+68-464D                  691   LABORATORY SVC     BIOLOGY                                           
+68-464DD                  45   LABORATORY SVC     BIOLOGY                                           
+68-465                   531   RESEARCH LAB       BIOLOGY                                           
+68-465A                  261   LABORATORY SVC     BIOLOGY                                           
+68-466                   154   MALE LAVATORY      DP OF FACILITIES                                  
+68-466E                   51   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-468                   105   LABORATORY SVC     BIOLOGY                                           
+68-470                   507   RESEARCH LAB       BIOLOGY                                           
+68-471                   531   RESEARCH LAB       BIOLOGY                                           
+68-474                   476   CONFERENCE ROOM    BIOLOGY                                           
+68-477                   497   LABORATORY SVC     BIOLOGY                                           
+68-480                   220   LABORATORY SVC     BIOLOGY                                           
+68-480A                  137   RSCH LAB-OFFICE    BIOLOGY                                           
+68-480B                  137   RSCH LAB-OFFICE    BIOLOGY                                           
+68-482                   143   LABORATORY SVC     BIOLOGY                                           
+68-483                   138   SECY/RECEPTION     BIOLOGY                                           
+68-483A                  256   OFFICE             BIOLOGY                                           
+68-483AA                 125   LABORATORY SVC     BIOLOGY                                           
+68-484T                   60   TELECOM CLOSET     DP OF FACILITIES                                  
+68-488                   185   LABORATORY SVC     BIOLOGY                                           
+68-488A                   50   LABORATORY SVC     BIOLOGY                                           
+68-488B                  128   LABORATORY SVC     BIOLOGY                                           
+68-488D                  500   RESEARCH LAB       BIOLOGY                                           
+68-488E                  146   LABORATORY SVC     BIOLOGY                                           
+68-488F                  115   LABORATORY SVC     BIOLOGY                                           
+68-489                   531   RESEARCH LAB       BIOLOGY                                           
+68-490                   119   LABORATORY SVC     BIOLOGY                                           
+68-494                   235   LABORATORY SVC     BIOLOGY                                           
+68-494C                   80   LABORATORY SVC     BIOLOGY                                           
+68-494D                  518   RESEARCH LAB       BIOLOGY                                           
+68-494G                   18   LABORATORY SVC     BIOLOGY                                           
+68-494Z                  129   SHAFT SPACE        DP OF FACILITIES                                  
+68-495                   548   RESEARCH LAB       BIOLOGY                                           
+                    --------                                                                        
+                      27,173                                                                        
+                                                                                                    
+68-500CA                 392   CORRIDOR           DP OF FACILITIES                                  
+68-500CB               1,032   CORRIDOR           DP OF FACILITIES                                  
+68-500CC                 372   CORRIDOR           DP OF FACILITIES                                  
+68-500CD                 521   CORRIDOR           DP OF FACILITIES                                  
+68-500E1                  66   ELEVATOR           DP OF FACILITIES                                  
+68-500E2                  87   ELEVATOR           DP OF FACILITIES                                  
+68-500E3                  58   ELEVATOR           DP OF FACILITIES                                  
+68-500LA                 310   LOBBY              DP OF FACILITIES                                  
+68-500LB               1,045   LOBBY              DP OF FACILITIES                                  
+68-500LF                 484   LOBBY              DP OF FACILITIES                                  
+68-500LK                   0   LOBBY              DP OF FACILITIES                                  
+68-500SA                 227   STAIRWAY           DP OF FACILITIES                                  
+68-500SB                 228   STAIRWAY           DP OF FACILITIES                                  
+68-500SC                 209   STAIRWAY           DP OF FACILITIES                                  
+68-500SD                 215   STAIRWAY           DP OF FACILITIES                                  
+68-500Z                  355   SHAFT SPACE        DP OF FACILITIES                                  
+68-502J                   20   JANITOR CLOSET     DP OF FACILITIES                                  
+68-504                   140   LABORATORY SVC     BIOLOGY                                           
+68-504A                  115   LABORATORY SVC     BIOLOGY                                           
+68-504B                  703   LABORATORY SVC     BIOLOGY                                           
+68-504C                  370   LABORATORY SVC     BIOLOGY                                           
+68-504CA                 185   LABORATORY SVC     BIOLOGY                                           
+68-504D                   84   LABORATORY SVC     BIOLOGY                                           
+68-504E                   84   LABORATORY SVC     BIOLOGY                                           
+68-504J                   19   JANITOR CLOSET     DP OF FACILITIES                                  
+68-505T                   20   TELECOM CLOSET     DP OF FACILITIES                                  
+68-510Z                  112   SHAFT SPACE        DP OF FACILITIES                                  
+68-511                   550   RESEARCH LAB       BIOLOGY                                           
+68-514                   196   LABORATORY SVC     BIOLOGY                                           
+68-516                   172   LABORATORY SVC     BIOLOGY                                           
+68-516A                    6   LABORATORY SVC     BIOLOGY                                           
+68-516D                  246   RESEARCH LAB       BIOLOGY                                           
+68-516E                   87   RESEARCH LAB       BIOLOGY                                           
+68-516F                   60   LABORATORY SVC     BIOLOGY                                           
+68-517                   531   RESEARCH LAB       BIOLOGY                                           
+68-518                    80   LABORATORY SVC     BIOLOGY                                           
+68-518E                    6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-518T                    6   TELECOM CLOSET     DP OF FACILITIES                                  
+68-520                    89   RESEARCH LAB       BIOLOGY                                           
+68-522                   499   RESEARCH LAB       BIOLOGY                                           
+68-523                   124   SECY/RECEPTION     BIOLOGY                                           
+68-523A                  151   OFFICE             BIOLOGY                                           
+68-523AA                 261   RESEARCH LAB       BIOLOGY                                           
+68-526                   385   LABORATORY SVC     BIOLOGY                                           
+68-529                   248   LABORATORY SVC     BIOLOGY                                           
+68-530                   131   LABORATORY SVC     BIOLOGY                                           
+68-530A                  213   RSCH LAB-OFFICE    BIOLOGY                                           
+68-530B                  156   RSCH LAB-OFFICE    BIOLOGY                                           
+68-532                    50   RESEARCH LAB       BIOLOGY                                           
+68-533                   111   SECY/RECEPTION     BIOLOGY                                           
+68-533A                  167   RSCH LAB-OFFICE    BIOLOGY                                           
+68-533AA                 261   LABORATORY SVC     BIOLOGY                                           
+68-534                   149   MALE LAVATORY      DP OF FACILITIES                                  
+68-534E                   52   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-540                   184   LABORATORY SVC     BIOLOGY                                           
+68-540B                   53   LABORATORY SVC     BIOLOGY                                           
+68-540C                  104   LABORATORY SVC     BIOLOGY                                           
+68-540D                  499   RESEARCH LAB       BIOLOGY                                           
+68-540E                   81   LABORATORY SVC     BIOLOGY                                           
+68-540F                  135   LABORATORY SVC     BIOLOGY                                           
+68-541                   531   RESEARCH LAB       BIOLOGY                                           
+68-546                   220   LABORATORY SVC     BIOLOGY                                           
+68-546D                  499   RESEARCH LAB       BIOLOGY                                           
+68-546E                  169   LABORATORY SVC     BIOLOGY                                           
+68-547                   531   RESEARCH LAB       BIOLOGY                                           
+68-548                    55   LABORATORY SVC     BIOLOGY                                           
+68-550                    56   LABORATORY SVC     BIOLOGY                                           
+68-552                   214   LABORATORY SVC     BIOLOGY                                           
+68-552D                  499   RESEARCH LAB       BIOLOGY                                           
+68-552J                   19   JANITOR CLOSET     DP OF FACILITIES                                  
+68-552Z                  115   SHAFT SPACE        DP OF FACILITIES                                  
+68-553                   531   RESEARCH LAB       BIOLOGY                                           
+68-558                   167   LABORATORY SVC     BIOLOGY                                           
+68-558C                   89   LABORATORY SVC     BIOLOGY                                           
+68-558D                  499   RESEARCH LAB       BIOLOGY                                           
+68-558E                  150   LABORATORY SVC     BIOLOGY                                           
+68-558F                  117   LABORATORY SVC     BIOLOGY                                           
+68-559                   531   RESEARCH LAB       BIOLOGY                                           
+68-560                   110   LABORATORY SVC     BIOLOGY                                           
+68-562                   108   LABORATORY SVC     BIOLOGY                                           
+68-564                   162   LABORATORY SVC     BIOLOGY                                           
+68-564C                  169   LABORATORY SVC     BIOLOGY                                           
+68-564D                  499   RESEARCH LAB       BIOLOGY                                           
+68-564E                  163   RESEARCH LAB       BIOLOGY                                           
+68-565                   531   RESEARCH LAB       BIOLOGY                                           
+68-566                   153   FEMALE LAVATORY    DP OF FACILITIES                                  
+68-566E                   51   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-570                   505   RESEARCH LAB       BIOLOGY                                           
+68-571                   172   SECY/RECEPTION     BIOLOGY                                           
+68-571A                  215   OFFICE             BIOLOGY                                           
+68-571B                  132   LABORATORY SVC     BIOLOGY                                           
+68-574                   476   CONFERENCE ROOM    BIOLOGY                                           
+68-577                   497   LABORATORY SVC     BIOLOGY                                           
+68-577A                  126   OFFICE             BIOLOGY                                           
+68-580                   195   RSCH LAB-OFFICE    BIOLOGY                                           
+68-580A                  150   RSCH LAB-OFFICE    BIOLOGY                                           
+68-580B                  150   RSCH LAB-OFFICE    BIOLOGY                                           
+68-583                   131   OFFICE             BIOLOGY                                           
+68-584T                   60   TELECOM CLOSET     DP OF FACILITIES                                  
+68-585                   132   LABORATORY SVC     BIOLOGY                                           
+68-585A                  126   RSCH LAB-OFFICE    BIOLOGY                                           
+68-588                   182   LABORATORY SVC     BIOLOGY                                           
+68-588A                   50   LABORATORY SVC     BIOLOGY                                           
+68-588B                  295   RESEARCH LAB       BIOLOGY                                           
+68-588D                  500   RSCH LAB-OFFICE    BIOLOGY                                           
+68-588E                  146   LABORATORY SVC     BIOLOGY                                           
+68-588F                  119   LABORATORY SVC     BIOLOGY                                           
+68-589                   531   RESEARCH LAB       BIOLOGY                                           
+68-590                    65   LABORATORY SVC     BIOLOGY                                           
+68-592                    48   LABORATORY SVC     BIOLOGY                                           
+68-594                   119   LABORATORY SVC     BIOLOGY                                           
+68-594C                  150   RESEARCH LAB       BIOLOGY                                           
+68-594D                  192   RESEARCH LAB       BIOLOGY                                           
+68-594DA                 316   RESEARCH LAB       BIOLOGY                                           
+68-594G                   24   LABORATORY SVC     BIOLOGY                                           
+68-594Z                  123   SHAFT SPACE        DP OF FACILITIES                                  
+68-595                   548   RESEARCH LAB       BIOLOGY                                           
+                    --------                                                                        
+                      26,902                                                                        
+                                                                                                    
+68-600CA                 458   CORRIDOR           DP OF FACILITIES                                  
+68-600CB               1,022   CORRIDOR           DP OF FACILITIES                                  
+68-600CC                 371   CORRIDOR           DP OF FACILITIES                                  
+68-600CD                 519   CORRIDOR           DP OF FACILITIES                                  
+68-600E1                  66   ELEVATOR           DP OF FACILITIES                                  
+68-600E2                  89   ELEVATOR           DP OF FACILITIES                                  
+68-600E3                  58   ELEVATOR           DP OF FACILITIES                                  
+68-600LB                 813   LOBBY              DP OF FACILITIES                                  
+68-600LF                 447   LOBBY              DP OF FACILITIES                                  
+68-600LK                   0   LOBBY              DP OF FACILITIES                                  
+68-600SA                 216   STAIRWAY           DP OF FACILITIES                                  
+68-600SB                 225   STAIRWAY           DP OF FACILITIES                                  
+68-600SC                 191   STAIRWAY           DP OF FACILITIES                                  
+68-600SD                 215   STAIRWAY           DP OF FACILITIES                                  
+68-600Z                  391   SHAFT SPACE        DP OF FACILITIES                                  
+68-602                     0   UTILITY/MECH RM    DP OF FACILITIES                                  
+68-602E                  116   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-602J                   12   JANITOR CLOSET     DP OF FACILITIES                                  
+68-604                   180   LABORATORY SVC     BIOLOGY                                           
+68-604A                   10   LABORATORY SVC     BIOLOGY                                           
+68-604D                  517   RSCH LAB-OFFICE    BIOLOGY                                           
+68-604E                   71   LABORATORY SVC     BIOLOGY                                           
+68-604T                   14   TELECOM CLOSET     DP OF FACILITIES                                  
+68-610Z                  110   SHAFT SPACE        DP OF FACILITIES                                  
+68-611                   550   RESEARCH LAB       BIOLOGY                                           
+68-612                   120   LABORATORY SVC     BIOLOGY                                           
+68-614                   121   LABORATORY SVC     BIOLOGY                                           
+68-616                   185   LABORATORY SVC     BIOLOGY                                           
+68-616C                  143   LABORATORY SVC     BIOLOGY                                           
+68-616D                  499   RESEARCH LAB       BIOLOGY                                           
+68-616E                   89   LABORATORY SVC     BIOLOGY                                           
+68-616F                   38   LABORATORY SVC     BIOLOGY                                           
+68-616G                   37   LABORATORY SVC     BIOLOGY                                           
+68-617                   531   RESEARCH LAB       BIOLOGY                                           
+68-618E                    6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-618T                    6   TELECOM CLOSET     DP OF FACILITIES                                  
+68-620                    41   LABORATORY SVC     BIOLOGY                                           
+68-622                    93   RSCH LAB-OFFICE    BIOLOGY                                           
+68-622A                  151   RSCH LAB-OFFICE    BIOLOGY                                           
+68-622AA                 243   RESEARCH LAB       BIOLOGY                                           
+68-623                   133   LABORATORY SVC     BIOLOGY                                           
+68-623A                  128   RSCH LAB-OFFICE    BIOLOGY                                           
+68-625                   275   OFFICE             BIOLOGY                                           
+68-626                   378   LABORATORY SVC     BIOLOGY                                           
+68-629                   302   LABORATORY SVC     BIOLOGY                                           
+68-630                   188   SECY/RECEPTION     BIOLOGY                                           
+68-630A                  150   OFFICE             BIOLOGY                                           
+68-630B                  150   OFFICE             BIOLOGY                                           
+68-633                   139   SECY/RECEPTION     BIOLOGY                                           
+68-633A                  230   OFFICE             BIOLOGY                                           
+68-634                   149   FEMALE LAVATORY    DP OF FACILITIES                                  
+68-634E                   52   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-635                   172   LABORATORY SVC     BIOLOGY                                           
+68-640                   187   LABORATORY SVC     BIOLOGY                                           
+68-640B                   53   LABORATORY SVC     BIOLOGY                                           
+68-640C                  143   LABORATORY SVC     BIOLOGY                                           
+68-640D                  505   RESEARCH LAB       BIOLOGY                                           
+68-640E                   70   LABORATORY SVC     BIOLOGY                                           
+68-640F                   71   LABORATORY SVC     BIOLOGY                                           
+68-641                   531   RESEARCH LAB       BIOLOGY                                           
+68-642                    71   LABORATORY SVC     BIOLOGY                                           
+68-646                   185   LABORATORY SVC     BIOLOGY                                           
+68-646D                  499   RESEARCH LAB       BIOLOGY                                           
+68-646E                  128   LABORATORY SVC     BIOLOGY                                           
+68-646F                  106   LABORATORY SVC     BIOLOGY                                           
+68-646G                  109   LABORATORY SVC     BIOLOGY                                           
+68-647                   531   RESEARCH LAB       BIOLOGY                                           
+68-652                   153   LABORATORY SVC     BIOLOGY                                           
+68-652D                  499   RESEARCH LAB       BIOLOGY                                           
+68-652E                  126   LABORATORY SVC     BIOLOGY                                           
+68-652J                   19   JANITOR CLOSET     DP OF FACILITIES                                  
+68-652Z                  116   SHAFT SPACE        DP OF FACILITIES                                  
+68-653                   531   RESEARCH LAB       BIOLOGY                                           
+68-658                   162   LABORATORY SVC     BIOLOGY                                           
+68-658D                  508   RESEARCH LAB       BIOLOGY                                           
+68-658E                  118   LABORATORY SVC     BIOLOGY                                           
+68-658F                   48   LABORATORY SVC     BIOLOGY                                           
+68-658G                   77   LABORATORY SVC     BIOLOGY                                           
+68-659                   531   RESEARCH LAB       BIOLOGY                                           
+68-662                    47   LABORATORY SVC     BIOLOGY                                           
+68-662A                   79   LABORATORY SVC     BIOLOGY                                           
+68-664                   165   LABORATORY SVC     BIOLOGY                                           
+68-664B                  154   LABORATORY SVC     BIOLOGY                                           
+68-664C                  113   LABORATORY SVC     BIOLOGY                                           
+68-664D                  499   RESEARCH LAB       BIOLOGY                                           
+68-664E                  142   RESEARCH LAB       BIOLOGY                                           
+68-665                   531   RESEARCH LAB       BIOLOGY                                           
+68-666                   153   MALE LAVATORY      DP OF FACILITIES                                  
+68-666E                   51   ELECTRIC CLOSET    DP OF FACILITIES                                  
+68-670                   116   SECY/RECEPTION     BIOLOGY                                           
+68-670A                  254   RSCH LAB-OFFICE    BIOLOGY                                           
+68-670AA                 116   LABORATORY SVC     BIOLOGY                                           
+68-671                   132   SECY/RECEPTION     BIOLOGY                                           
+68-671A                  256   OFFICE             BIOLOGY                                           
+68-671AA                 132   LABORATORY SVC     BIOLOGY                                           
+68-674                   387   CONFERENCE ROOM    BIOLOGY                                           
+68-677                   319   LABORATORY SVC     BIOLOGY                                           
+68-680                   116   SECY/RECEPTION     BIOLOGY                                           
+68-680A                  255   RSCH LAB-OFFICE    BIOLOGY                                           
+68-680AA                 116   LABORATORY SVC     BIOLOGY                                           
+68-682                   131   LABORATORY SVC     BIOLOGY                                           
+68-683                   530   RESEARCH LAB       BIOLOGY                                           
+68-684                   109   LABORATORY SVC     BIOLOGY                                           
+68-684T                   60   TELECOM CLOSET     DP OF FACILITIES                                  
+68-688                   220   LABORATORY SVC     BIOLOGY                                           
+68-688A                   50   LABORATORY SVC     BIOLOGY                                           
+68-688D                  500   RESEARCH LAB       BIOLOGY                                           
+68-688F                  259   RESEARCH LAB       BIOLOGY                                           
+68-688G                  120   LABORATORY SVC     BIOLOGY                                           
+68-689                   531   RESEARCH LAB       BIOLOGY                                           
+68-694                   188   LABORATORY SVC     BIOLOGY                                           
+68-694C                   79   LABORATORY SVC     BIOLOGY                                           
+68-694D                  518   RESEARCH LAB       BIOLOGY                                           
+68-694G                   18   LABORATORY SVC     BIOLOGY                                           
+68-694Z                  126   SHAFT SPACE        DP OF FACILITIES                                  
+68-695                   548   RESEARCH LAB       BIOLOGY                                           
+                    --------                                                                        
+                      25,607                                                                        
+                                                                                                    
+68-700E2                  85   ELEVATOR           DP OF FACILITIES                                  
+68-700SA                  87   STAIRWAY           DP OF FACILITIES                                  
+68-700SD                 182   STAIRWAY           DP OF FACILITIES                                  
+68-700SE                  73   STAIRWAY           DP OF FACILITIES                                  
+68-700SEM                 57   STAIRWAY           DP OF FACILITIES                                  
+68-700SF                  27   LABORATORY SVC     BIOLOGY                                           
+68-700SG                  21   LABORATORY SVC     BIOLOGY                                           
+68-700SM                 239   STAIRWAY           DP OF FACILITIES                                  
+68-700Z                  167   SHAFT SPACE        DP OF FACILITIES                                  
+68-701                 5,571   LABORATORY SVC     BIOLOGY                                           
+68-701A                  286   UTILITY/MECH RM    DP OF FACILITIES                                  
+68-701AM                 672   LABORATORY SVC     BIOLOGY                                           
+68-701B                  101   UTILITY/MECH RM    DP OF FACILITIES                                  
+68-701BM                 101   LABORATORY SVC     BIOLOGY                                           
+68-701C                  343   LABORATORY SVC     BIOLOGY                                           
+68-701CM                 416   LABORATORY SVC     BIOLOGY                                           
+68-701D                  101   UTILITY/MECH RM    DP OF FACILITIES                                  
+68-701DM                 810   LABORATORY SVC     BIOLOGY                                           
+68-701F                1,532   UTILITY/MECH RM    DP OF FACILITIES 

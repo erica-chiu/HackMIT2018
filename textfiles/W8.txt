@@ -1,0 +1,35 @@
+W8-000SA                 246   STAIRWAY           DP OF FACILITIES                                  
+W8-001                 6,168   ATHLETIC SERVICE   ATHLETICS                                         
+W8-002                 1,350   ATHLETIC SERVICE   ATHLETICS                                         
+W8-002A                   36   ATHLETIC SERVICE   ATHLETICS                                         
+W8-003                   367   UTILITY/MECH RM    DP OF FACILITIES                                  
+W8-003A                   58   PVT CIRCULATION    ATHLETICS                                         
+W8-003AA                 239   ATHLETIC SERVICE   ATHLETICS                                         
+W8-003AE                 115   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W8-006                   295   ATHLETIC SERVICE   ATHLETICS                                         
+W8-006A                  313   UTILITY/MECH RM    DP OF FACILITIES                                  
+W8-010                 1,038   ATHLETIC SERVICE   ATHLETICS                                         
+                    --------                                                                        
+                      10,225                                                                        
+                                                                                                    
+W8-100CA                 824   CORRIDOR           DP OF FACILITIES                                  
+W8-100LA                 463   LOBBY              DP OF FACILITIES                                  
+W8-100SA                 325   STAIRWAY           DP OF FACILITIES                                  
+W8-100Z                   33   SHAFT SPACE        DP OF FACILITIES                                  
+W8-101                   955   ATH LOCKER ROOM    ATHLETICS                                         
+W8-101A                  163   MALE LAVATORY      DP OF FACILITIES                                  
+W8-101B                  171   ATH SHOWER ROOM    ATHLETICS                                         
+W8-101C                  120   ATHLETIC SERVICE   ATHLETICS                                         
+W8-105                   685   ATH LOCKER ROOM    ATHLETICS                                         
+W8-105A                  166   FEMALE LAVATORY    DP OF FACILITIES                                  
+W8-105B                  178   ATH SHOWER ROOM    ATHLETICS                                         
+W8-107                 2,050   ATHLETIC FACIL     ATHLETICS                                         
+W8-108                   781   ATHLETIC SERVICE   ATHLETICS                                         
+W8-109                 1,416   ATHLETIC FACIL     ATHLETICS                                         
+W8-109A                  610   ATHLETIC FACIL     ATHLETICS                                         
+W8-111                   499   OFFICE             ATHLETICS                                         
+W8-115                   100   PUBLIC LAVATORY    DP OF FACILITIES                                  
+W8-115A                  244   ATH LOCKER ROOM    ATHLETICS                                         
+W8-115AA                  68   ATH SHOWER ROOM    ATHLETICS                                         
+W8-117                   161   ATHLETIC SERVICE   ATHLETICS                                         
+W8-117A                  110   UTILITY/MECH RM    DP OF FACILITIES   

@@ -1,0 +1,65 @@
+W64-100CA                676   CORRIDOR           DP OF FACILITIES                                  
+W64-100E1                 58   ELEVATOR           DP OF FACILITIES                                  
+W64-100LA                733   LOBBY              DP OF FACILITIES                                  
+W64-100SA                111   STAIRWAY           DP OF FACILITIES                                  
+W64-100Z                   5   SHAFT SPACE        DP OF FACILITIES                                  
+W64-101                   66   OFFICE             CHILD CARE                                        
+W64-102                   61   DAY CARE SV        CHILD CARE                                        
+W64-103                  138   OFFICE             CHILD CARE                                        
+W64-104                   80   UTILITY/MECH RM    DP OF FACILITIES                                  
+W64-106E                  76   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W64-107                  131   DAY CARE SV        CHILD CARE                                        
+W64-108T                 101   TELECOM CLOSET     DP OF FACILITIES                                  
+W64-109                  293   OFFICE SERVICE     CHILD CARE                                        
+W64-110                   55   UTILITY/MECH RM    DP OF FACILITIES                                  
+W64-111                   47   PVT LAVATORY       CHILD CARE                                        
+W64-113                  382   DAY CARE           CHILD CARE                                        
+W64-113A                  96   DAY CARE SV        CHILD CARE                                        
+W64-113B                  45   DAY CARE SV        CHILD CARE                                        
+W64-113C                  32   DAY CARE SV        CHILD CARE                                        
+W64-115                   57   DAY CARE SV        CHILD CARE                                        
+W64-116                  418   DAY CARE           CHILD CARE                                        
+W64-116A                  26   DAY CARE SV        CHILD CARE                                        
+W64-118                  393   DAY CARE           CHILD CARE                                        
+W64-118A                  13   DAY CARE SV        CHILD CARE                                        
+W64-119                  390   DAY CARE           CHILD CARE                                        
+W64-119A                  13   DAY CARE SV        CHILD CARE                                        
+W64-121                   45   DAY CARE SV        CHILD CARE                                        
+W64-123                  418   DAY CARE           CHILD CARE                                        
+W64-123A                  95   DAY CARE SV        CHILD CARE                                        
+W64-123B                  47   DAY CARE SV        CHILD CARE                                        
+W64-123C                  13   DAY CARE SV        CHILD CARE                                        
+W64-124                  396   DAY CARE           CHILD CARE                                        
+W64-124A                  58   DAY CARE SV        CHILD CARE                                        
+W64-124D                  15   DAY CARE SV        CHILD CARE                                        
+W64-125                  404   DAY CARE           CHILD CARE                                        
+W64-125A                  12   DAY CARE SV        CHILD CARE                                        
+W64-126                  421   DAY CARE           CHILD CARE                                        
+W64-126A                  12   DAY CARE SV        CHILD CARE                                        
+                    --------                                                                        
+                       6,428                                                                        
+                                                                                                    
+W64-200CA                579   CORRIDOR           DP OF FACILITIES                                  
+W64-200E1                 58   ELEVATOR           DP OF FACILITIES                                  
+W64-200SA                123   STAIRWAY           DP OF FACILITIES                                  
+W64-200Z                  43   SHAFT SPACE        DP OF FACILITIES                                  
+W64-203                  917   DAY CARE           CHILD CARE                                        
+W64-203A                  22   DAY CARE SV        CHILD CARE                                        
+W64-203B                  34   DAY CARE SV        CHILD CARE                                        
+W64-203C                  61   DAY CARE SV        CHILD CARE                                        
+W64-205                   46   PVT LAVATORY       CHILD CARE                                        
+W64-206                  185   OFFICE             CHILD CARE                                        
+W64-206A                  13   OFFICE SERVICE     CHILD CARE                                        
+W64-207                   46   PVT LAVATORY       CHILD CARE                                        
+W64-209                   47   DAY CARE SV        CHILD CARE                                        
+W64-211                  985   DAY CARE           CHILD CARE                                        
+W64-211A                  30   DAY CARE SV        CHILD CARE                                        
+W64-211B                  87   DAY CARE SV        CHILD CARE                                        
+W64-212                   76   UTILITY/MECH RM    DP OF FACILITIES                                  
+W64-214E                  46   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W64-216                   50   DAY CARE SV        CHILD CARE                                        
+W64-218                1,066   DAY CARE SV        CHILD CARE                                        
+W64-218A                 163   DAY CARE SV        CHILD CARE                                        
+W64-219                1,001   DAY CARE           CHILD CARE                                        
+W64-219A                  17   DAY CARE SV        CHILD CARE                                        
+W64-219B                  17   DAY CARE SV        CHILD CARE  

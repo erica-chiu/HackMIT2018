@@ -1,0 +1,129 @@
+E36-6/001               863   PVT CIRCULATION    PROVOST RESERVE                                   
+NE36-6/002               790   CONFERENCE ROOM    PROVOST RESERVE                                   
+NE36-6/003T              107   TELECOM CLOSET     DP OF FACILITIES                                  
+NE36-6/101             2,953   PVT CIRCULATION    LIBRARIES                                         
+NE36-6/101A               34   OFFICE SERVICE     LIBRARIES                                         
+NE36-6/101B               36   OFFICE SERVICE     LIBRARIES                                         
+NE36-6/101C               44   OFFICE SERVICE     LIBRARIES                                         
+NE36-6/102                56   OFFICE SERVICE     LIBRARIES                                         
+NE36-6/103               167   OFFICE             LIBRARIES                                         
+NE36-6/104               167   OFFICE             LIBRARIES                                         
+NE36-6/105               400   CONFERENCE ROOM    LIBRARIES                                         
+NE36-6/106               477   CONFERENCE ROOM    LIBRARIES                                         
+NE36-6/107               217   OFFICE SERVICE     LIBRARIES                                         
+NE36-6/108                58   OFFICE             LIBRARIES                                         
+NE36-6/109                45   OFFICE             LIBRARIES                                         
+NE36-6/110                45   OFFICE             LIBRARIES                                         
+NE36-6/111                39   OFFICE             LIBRARIES                                         
+NE36-6/112                39   OFFICE             LIBRARIES                                         
+NE36-6/113               130   OFFICE             LIBRARIES                                         
+NE36-6/113A               18   OFFICE SERVICE     LIBRARIES                                         
+NE36-6/113B               35   OFFICE SERVICE     LIBRARIES                                         
+NE36-6/114                41   OFFICE             LIBRARIES                                         
+NE36-6/115                41   OFFICE             LIBRARIES                                         
+NE36-6/116                44   OFFICE             LIBRARIES                                         
+NE36-6/117                44   OFFICE             LIBRARIES                                         
+NE36-6/118               132   OFFICE             LIBRARIES                                         
+NE36-6/119                48   OFFICE             LIBRARIES                                         
+NE36-6/120                48   OFFICE             LIBRARIES                                         
+NE36-6/121                44   OFFICE             LIBRARIES                                         
+NE36-6/122                44   OFFICE             LIBRARIES                                         
+NE36-6/123                55   OFFICE             LIBRARIES                                         
+NE36-6/124                43   OFFICE             LIBRARIES                                         
+NE36-6/125               136   OFFICE             LIBRARIES                                         
+NE36-6/126               136   OFFICE             LIBRARIES                                         
+NE36-6/127               111   CONFERENCE ROOM    LIBRARIES                                         
+NE36-6/128                63   OFFICE             LIBRARIES                                         
+NE36-6/129                63   OFFICE             LIBRARIES                                         
+NE36-6/130                61   OFFICE             LIBRARIES                                         
+NE36-6/131                52   OFFICE             LIBRARIES                                         
+NE36-6/132               112   CONFERENCE ROOM    LIBRARIES                                         
+NE36-6/133               459   OFFICE SERVICE     LIBRARIES                                         
+NE36-6/134                39   OFFICE             LIBRARIES                                         
+NE36-6/135                42   OFFICE             LIBRARIES                                         
+NE36-6/136                41   OFFICE             LIBRARIES                                         
+NE36-6/137                33   OFFICE             LIBRARIES                                         
+NE36-6/138                34   OFFICE             LIBRARIES                                         
+NE36-6/139                31   OFFICE             LIBRARIES                                         
+NE36-6/140               259   CONFERENCE ROOM    LIBRARIES                                         
+NE36-6/141                31   OFFICE             LIBRARIES                                         
+NE36-6/142                34   OFFICE             LIBRARIES                                         
+NE36-6/143                33   OFFICE             LIBRARIES                                         
+NE36-6/144                42   OFFICE             LIBRARIES                                         
+NE36-6/145                44   OFFICE             LIBRARIES                                         
+NE36-6/146                40   OFFICE             LIBRARIES                                         
+NE36-6/147               258   CONFERENCE ROOM    LIBRARIES                                         
+NE36-6/148                40   OFFICE             LIBRARIES                                         
+NE36-6/149                44   OFFICE             LIBRARIES                                         
+NE36-6/150                42   OFFICE             LIBRARIES                                         
+NE36-6/151                53   OFFICE             LIBRARIES                                         
+NE36-6/152                56   OFFICE             LIBRARIES                                         
+NE36-6/153                51   OFFICE             LIBRARIES                                         
+NE36-6/154               486   OFFICE SERVICE     LIBRARIES                                         
+NE36-6/155               139   CONFERENCE ROOM    LIBRARIES                                         
+NE36-6/156               123   CONFERENCE ROOM    LIBRARIES                                         
+NE36-6/157                45   OFFICE SERVICE     LIBRARIES                                         
+NE36-6/158               125   OFFICE             LIBRARIES                                         
+NE36-6/159                50   OFFICE             LIBRARIES                                         
+NE36-6/160                50   OFFICE             LIBRARIES                                         
+NE36-6/161                39   OFFICE             LIBRARIES                                         
+NE36-6/162                51   OFFICE             LIBRARIES                                         
+NE36-6/163                56   OFFICE             LIBRARIES                                         
+NE36-6/164                44   OFFICE             LIBRARIES                                         
+NE36-6/165               125   OFFICE             LIBRARIES                                         
+NE36-6/166               234   CONFERENCE ROOM    LIBRARIES                                         
+NE36-6/167                43   OFFICE             LIBRARIES                                         
+NE36-6/168                55   OFFICE             LIBRARIES                                         
+NE36-6/169                49   OFFICE             LIBRARIES                                         
+NE36-6/170                38   OFFICE             LIBRARIES                                         
+NE36-6/171                43   OFFICE             LIBRARIES                                         
+NE36-6/172                43   OFFICE             LIBRARIES                                         
+NE36-6/173                43   OFFICE             LIBRARIES                                         
+NE36-6/174                43   OFFICE             LIBRARIES                                         
+NE36-6/175                38   OFFICE             LIBRARIES                                         
+NE36-6/176                49   OFFICE             LIBRARIES                                         
+NE36-6/177               157   OFFICE             LIBRARIES                                         
+NE36-6/178               152   OFFICE             LIBRARIES                                         
+NE36-6/179                52   OFFICE SERVICE     LIBRARIES                                         
+NE36-6/180                56   OFFICE             LIBRARIES                                         
+NE36-6/181                56   OFFICE             LIBRARIES                                         
+NE36-6/182                53   OFFICE             LIBRARIES                                         
+NE36-6/183                53   OFFICE             LIBRARIES                                         
+NE36-6/184                54   OFFICE             LIBRARIES                                         
+NE36-6/185                54   OFFICE             LIBRARIES                                         
+NE36-6/186                50   OFFICE             LIBRARIES                                         
+NE36-6/187                50   OFFICE             LIBRARIES                                         
+NE36-6/201             1,433   PVT CIRCULATION    EXEC VICE PRES                                    
+NE36-6/201A               23   OFFICE SERVICE     EXEC VICE PRES                                    
+NE36-6/201B               12   OFFICE SERVICE     EXEC VICE PRES                                    
+NE36-6/202               119   OFFICE SERVICE     EXEC VICE PRES                                    
+NE36-6/202A               13   OFFICE SERVICE     EXEC VICE PRES                                    
+NE36-6/203               344   CONFERENCE ROOM    EXEC VICE PRES                                    
+NE36-6/204               368   CONFERENCE ROOM    EXEC VICE PRES                                    
+NE36-6/205               193   OFFICE             EXEC VICE PRES                                    
+NE36-6/206               203   OFFICE             EXEC VICE PRES                                    
+NE36-6/207               150   OFFICE             EXEC VICE PRES                                    
+NE36-6/208               143   OFFICE             EXEC VICE PRES                                    
+NE36-6/210               133   OFFICE             EXEC VICE PRES                                    
+NE36-6/212               131   OFFICE             EXEC VICE PRES                                    
+NE36-6/213A               49   OFFICE             EXEC VICE PRES                                    
+NE36-6/213B               73   OFFICE             EXEC VICE PRES                                    
+NE36-6/214               146   OFFICE             EXEC VICE PRES                                    
+NE36-6/216               144   OFFICE             EXEC VICE PRES                                    
+NE36-6/217A               69   OFFICE             EXEC VICE PRES                                    
+NE36-6/217B               54   OFFICE             EXEC VICE PRES                                    
+NE36-6/217C               75   OFFICE             EXEC VICE PRES                                    
+NE36-6/218               142   OFFICE             EXEC VICE PRES                                    
+NE36-6/219               123   OFFICE             EXEC VICE PRES                                    
+NE36-6/220               146   OFFICE             EXEC VICE PRES                                    
+NE36-6/221               128   OFFICE             EXEC VICE PRES                                    
+NE36-6/222               147   OFFICE             EXEC VICE PRES                                    
+NE36-6/223               190   OFFICE SERVICE     EXEC VICE PRES                                    
+NE36-6/224               140   OFFICE             EXEC VICE PRES                                    
+NE36-6/225               141   OFFICE             EXEC VICE PRES                                    
+NE36-6/226               144   OFFICE             EXEC VICE PRES                                    
+NE36-6/228               199   CONFERENCE ROOM    EXEC VICE PRES                                    
+NE36-6/230               127   OFFICE             EXEC VICE PRES                                    
+NE36-6/232               179   OFFICE             EXEC VICE PRES                                    
+NE36-6/233               141   OFFICE             EXEC VICE PRES                                    
+NE36-6/234                13   OFFICE SERVICE     EXEC VICE PRES 

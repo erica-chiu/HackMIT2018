@@ -1,0 +1,336 @@
+24-000CA                 759   CORRIDOR           DP OF FACILITIES                                  
+24-000CB                 751   CORRIDOR           DP OF FACILITIES                                  
+24-000CC               1,410   CORRIDOR           DP OF FACILITIES                                  
+24-000E1                  74   ELEVATOR           DP OF FACILITIES                                  
+24-000LA                 152   LOBBY              DP OF FACILITIES                                  
+24-000LB                  74   LOBBY              DP OF FACILITIES                                  
+24-000LC                  74   LOBBY              DP OF FACILITIES                                  
+24-000SA                 216   STAIRWAY           DP OF FACILITIES                                  
+24-000SB                 211   STAIRWAY           DP OF FACILITIES                                  
+24-000Z                  264   SHAFT SPACE        DP OF FACILITIES                                  
+24-002                   141   UTILITY/MECH RM    DP OF FACILITIES                                  
+24-003                    65   UTILITY/MECH RM    DP OF FACILITIES                                  
+24-004                   663   COMPUTER FACIL     INFO SVCS & TECH                                  
+24-005                   379   MALE LAVATORY      DP OF FACILITIES                                  
+24-008                    71   MERCHAND FACIL     CAMPUS DINING                                     
+24-009                   254   COMPUTER SERVICE   INFO SVCS & TECH                                  
+24-011                    94   OFFICE SERVICE     OFF OF PROVOST                                    
+24-013                   350   OFFICE SERVICE     DEAN-UNDERGRD ED                                  
+24-013A                  159   OFFICE             DEAN-UNDERGRD ED                                  
+24-013B                   56   OFFICE SERVICE     DEAN-UNDERGRD ED                                  
+24-013C                   60   OFFICE             DEAN-UNDERGRD ED                                  
+24-013D                   76   OFFICE             DEAN-UNDERGRD ED                                  
+24-013F                   76   OFFICE             DEAN-UNDERGRD ED                                  
+24-015                   260   UTILITY/MECH RM    DP OF FACILITIES                                  
+24-016                 1,059   COMPUTER FACIL     INFO SVCS & TECH                                  
+24-017E                  568   ELECTRIC CLOSET    DP OF FACILITIES                                  
+24-018                   204   UTILITY/MECH RM    DP OF FACILITIES                                  
+24-018A                   16   STORAGE FACILITY   DP OF FACIL ADM                                   
+24-020                    88   OFFICE SERVICE     NUCLEAR SCI & ENG                                 
+24-020EE                 271   ELECTRIC CLOSET    DP OF FACILITIES                                  
+24-021                   290   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+24-022E                  153   ELECTRIC CLOSET    DP OF FACILITIES                                  
+24-023                   208   OFFICE             LAB FOR NUCL SCI                                  
+24-023A                   82   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+24-027T                   56   TELECOM CLOSET     DP OF FACILITIES                                  
+24-029                   164   OFFICE SERVICE     DP OF FACIL ADM                                   
+24-029M                  328   UTILITY/MECH RM    DP OF FACILITIES                                  
+24-030                   269   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+24-030A                  216   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+24-030B                  216   OFFICE             LAB FOR NUCL SCI                                  
+24-030C                  104   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+24-030D                  200   OFFICE             LAB FOR NUCL SCI                                  
+24-030F                  155   OFFICE             LAB FOR NUCL SCI                                  
+24-030G                  192   OFFICE             LAB FOR NUCL SCI                                  
+24-030H                  192   OFFICE             LAB FOR NUCL SCI                                  
+24-031                    95   MAIL ROOM          DP OF FACIL ADM                                   
+24-032                    76   PVT CIRCULATION    LAB FOR NUCL SCI                                  
+24-032A                  121   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+24-032B                  739   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+24-033                   323   PVT CIRCULATION    MUSIC & THEATER ART                               
+24-033A                  280   MUSIC PRACTICE     MUSIC & THEATER ART                               
+24-033AA                  54   LABORATORY SVC     MUSIC & THEATER ART                               
+24-033AB                  58   MUSIC PRACTICE     MUSIC & THEATER ART                               
+24-033B                  171   LABORATORY SVC     MUSIC & THEATER ART                               
+24-033C                  115   OFFICE             MUSIC & THEATER ART                               
+24-033D                   24   LABORATORY SVC     MUSIC & THEATER ART                               
+24-033F                  429   MUSIC PRACTICE     MUSIC & THEATER ART                               
+24-033G                  270   LABORATORY SVC     MUSIC & THEATER ART                               
+24-034                   380   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+24-035                   151   LABORATORY SVC     LAB FOR NUCL SCI                                  
+24-035A                  307   RSCH LAB-OFFICE    LAB FOR NUCL SCI                                  
+24-035B                  812   RESEARCH LAB       LAB FOR NUCL SCI                                  
+24-035C                  284   RSCH LAB-OFFICE    LAB FOR NUCL SCI                                  
+24-036                   816   RESEARCH LAB       LAB FOR NUCL SCI                                  
+24-036A                  167   RESEARCH LAB       LAB FOR NUCL SCI                                  
+24-037                   321   LABORATORY SVC     LAB FOR NUCL SCI                                  
+24-037A                  601   LAB SUPPORT SHOP   LAB FOR NUCL SCI                                  
+24-037AA                  29   LABORATORY SVC     LAB FOR NUCL SCI                                  
+24-037AB                 112   LABORATORY SVC     LAB FOR NUCL SCI                                  
+24-037B                  152   RESEARCH LAB       LAB FOR NUCL SCI                                  
+24-038                   520   OFFICE SERVICE     ENV HLTH & SAFE                                   
+24-038A                   44   OFFICE SERVICE     ENV HLTH & SAFE                                   
+24-038B                  268   OFFICE SERVICE     ENV HLTH & SAFE                                   
+24-038BA                 160   UTILITY/MECH RM    DP OF FACILITIES                                  
+24-038C                  165   OFFICE SERVICE     ENV HLTH & SAFE                                   
+24-038D                  152   OFFICE SERVICE     ENV HLTH & SAFE                                   
+24-038F                   15   UTILITY/MECH RM    DP OF FACILITIES                                  
+24-038M                  157   UTILITY/MECH RM    DP OF FACILITIES                                  
+24-039A                  348   LABORATORY SVC     LAB FOR NUCL SCI                                  
+24-039AA                 243   RESEARCH LAB       LAB FOR NUCL SCI                                  
+24-039AAA                 72   RESEARCH LAB       LAB FOR NUCL SCI                                  
+24-039B                  249   RESEARCH LAB       LAB FOR NUCL SCI                                  
+24-039E                   55   ELECTRIC CLOSET    DP OF FACILITIES                                  
+24-040                   451   UTILITY/MECH RM    DP OF FACILITIES                                  
+24-041                   556   LABORATORY SVC     OFF OF PROVOST                                    
+24-041B                   60   RSCH LAB-OFFICE    OFF OF PROVOST                                    
+24-041C                  248   RESEARCH LAB       OFF OF PROVOST                                    
+24-041D                  145   LABORATORY SVC     OFF OF PROVOST                                    
+24-041F                  218   RESEARCH LAB       OFF OF PROVOST                                    
+24-041G                  184   LABORATORY SVC     OFF OF PROVOST                                    
+24-041H                   69   UTILITY/MECH RM    DP OF FACILITIES                                  
+24-041HA                  14   LABORATORY SVC     OFF OF PROVOST                                    
+24-041K                  464   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+24-041KA                 190   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+24-042                   108   OFFICE SERVICE     LIBRARIES                                         
+24-042A                  189   UTILITY/MECH RM    DP OF FACILITIES                                  
+24-042B                  436   OFFICE SERVICE     LIBRARIES                                         
+24-042C                    9   OFFICE SERVICE     LIBRARIES                                         
+24-042D                  122   OFFICE SERVICE     LIBRARIES                                         
+24-043                   195   LABORATORY SVC     OFF OF PROVOST                                    
+                    --------                                                                        
+                      24,712                                                                        
+                                                                                                    
+24-100CA               1,435   CORRIDOR           DP OF FACILITIES                                  
+24-100E1                  74   ELEVATOR           DP OF FACILITIES                                  
+24-100SA                 218   STAIRWAY           DP OF FACILITIES                                  
+24-100SB                 258   STAIRWAY           DP OF FACILITIES                                  
+24-100Z                    2   SHAFT SPACE        DP OF FACILITIES                                  
+24-101T                   51   TELECOM CLOSET     DP OF FACILITIES                                  
+24-102                   392   OFFICE             NUCLEAR SCI & ENG                                 
+24-102A                  109   OFFICE             NUCLEAR SCI & ENG                                 
+24-103                   184   FEMALE LAVATORY    DP OF FACILITIES                                  
+24-103Z                   17   SHAFT SPACE        DP OF FACILITIES                                  
+24-106                   243   OFFICE             NUCLEAR SCI & ENG                                 
+24-107                   265   SECY/RECEPTION     NUCLEAR SCI & ENG                                 
+24-107A                    5   OFFICE SERVICE     NUCLEAR SCI & ENG                                 
+24-107B                  151   CONFERENCE ROOM    NUCLEAR SCI & ENG                                 
+24-107C                  284   OFFICE             NUCLEAR SCI & ENG                                 
+24-108                   159   SECY/RECEPTION     NUCLEAR SCI & ENG                                 
+24-108A                   89   OFFICE             NUCLEAR SCI & ENG                                 
+24-109                   134   OFFICE SERVICE     NUCLEAR SCI & ENG                                 
+24-111                   304   OFFICE             NUCLEAR SCI & ENG                                 
+24-112                   495   CLASSROOM          REGISTRAR                                         
+24-114T                  243   TELECOM CLOSET     DP OF FACILITIES                                  
+24-115                   870   CLASSROOM          REGISTRAR                                         
+24-120                   483   COMPUTER FACIL     INFO SVCS & TECH                                  
+24-121                   887   CLASSROOM          REGISTRAR                                         
+24-122                   120   OFFICE SERVICE     NUCLEAR SCI & ENG                                 
+24-122A                  129   SECY/RECEPTION     NUCLEAR SCI & ENG                                 
+24-122B                    6   OFFICE SERVICE     NUCLEAR SCI & ENG                                 
+24-124                   110   OFFICE             NUCLEAR SCI & ENG                                 
+24-124A                  115   OFFICE             NUCLEAR SCI & ENG                                 
+24-126E                    5   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       7,836                                                                        
+                                                                                                    
+24-200CA               1,489   CORRIDOR           DP OF FACILITIES                                  
+24-200E1                  74   ELEVATOR           DP OF FACILITIES                                  
+24-200SA                 230   STAIRWAY           DP OF FACILITIES                                  
+24-200SB                 259   STAIRWAY           DP OF FACILITIES                                  
+24-200Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+24-202                   258   OFFICE             NUCLEAR SCI & ENG                                 
+24-203                   181   MALE LAVATORY      DP OF FACILITIES                                  
+24-203Z                   21   SHAFT SPACE        DP OF FACILITIES                                  
+24-204                   137   OFFICE SERVICE     NUCLEAR SCI & ENG                                 
+24-204A                  113   OFFICE             NUCLEAR SCI & ENG                                 
+24-205                   277   OFFICE             NUCLEAR SCI & ENG                                 
+24-205T                    6   TELECOM CLOSET     DP OF FACILITIES                                  
+24-206                   253   OFFICE             NUCLEAR SCI & ENG                                 
+24-208                   250   OFFICE             NUCLEAR SCI & ENG                                 
+24-209                   164   SECY/RECEPTION     NUCLEAR SCI & ENG                                 
+24-209A                  167   OFFICE             NUCLEAR SCI & ENG                                 
+24-209B                   95   OFFICE SERVICE     NUCLEAR SCI & ENG                                 
+24-209C                  155   OFFICE             NUCLEAR SCI & ENG                                 
+24-210                   245   OFFICE             NUCLEAR SCI & ENG                                 
+24-212                   119   OFFICE SERVICE     NUCLEAR SCI & ENG                                 
+24-212A                  128   OFFICE             NUCLEAR SCI & ENG                                 
+24-212T                    9   TELECOM CLOSET     DP OF FACILITIES                                  
+24-213                   577   CONFERENCE ROOM    NUCLEAR SCI & ENG                                 
+24-214                   229   OFFICE             NUCLEAR SCI & ENG                                 
+24-215                   269   SECY/RECEPTION     NUCLEAR SCI & ENG                                 
+24-215A                  167   OFFICE             NUCLEAR SCI & ENG                                 
+24-215B                  158   OFFICE             NUCLEAR SCI & ENG                                 
+24-216                   164   OFFICE SERVICE     NUCLEAR SCI & ENG                                 
+24-216A                  140   OFFICE             NUCLEAR SCI & ENG                                 
+24-216B                  137   OFFICE             NUCLEAR SCI & ENG                                 
+24-216C                  138   OFFICE             NUCLEAR SCI & ENG                                 
+24-216D                   48   OFFICE             NUCLEAR SCI & ENG                                 
+24-216F                   60   OFFICE             NUCLEAR SCI & ENG                                 
+24-216G                   17   OFFICE SERVICE     NUCLEAR SCI & ENG                                 
+24-216J                   17   JANITOR CLOSET     DP OF FACILITIES                                  
+24-219                   288   CONFERENCE ROOM    NUCLEAR SCI & ENG                                 
+24-220                   229   OFFICE             NUCLEAR SCI & ENG                                 
+24-220E                   10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+24-221                   292   OFFICE             NUCLEAR SCI & ENG                                 
+24-223                   275   OFFICE             NUCLEAR SCI & ENG                                 
+                    --------                                                                        
+                       7,855                                                                        
+                                                                                                    
+24-300CA               1,499   CORRIDOR           DP OF FACILITIES                                  
+24-300E1                  74   ELEVATOR           DP OF FACILITIES                                  
+24-300SA                 230   STAIRWAY           DP OF FACILITIES                                  
+24-300SB                 259   STAIRWAY           DP OF FACILITIES                                  
+24-300Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+24-302                   258   OFFICE             NUCLEAR SCI & ENG                                 
+24-303                   181   FEMALE LAVATORY    DP OF FACILITIES                                  
+24-303Z                   21   SHAFT SPACE        DP OF FACILITIES                                  
+24-304                   255   OFFICE             NUCLEAR SCI & ENG                                 
+24-305A                    6   UTILITY/MECH RM    DP OF FACILITIES                                  
+24-306                   253   OFFICE             NUCLEAR SCI & ENG                                 
+24-307                   858   CLASSROOM          REGISTRAR                                         
+24-308                   256   CLASSROOM          ELEC ENG&COMP SC                                  
+24-309Z                   17   SHAFT SPACE        DP OF FACILITIES                                  
+24-310                   250   CLASSROOM          ELEC ENG&COMP SC                                  
+24-311                   272   OFFICE             ELEC ENG&COMP SC       EECS                       
+24-312                   228   OFFICE             ELEC ENG&COMP SC       EECS                       
+24-312T                    9   TELECOM CLOSET     DP OF FACILITIES                                  
+24-313                   265   OFFICE             ELEC ENG&COMP SC       EECS                       
+24-313A                   11   UTILITY/MECH RM    DP OF FACILITIES                                  
+24-314                   228   OFFICE             ELEC ENG&COMP SC       EECS                       
+24-315                   277   OFFICE             ELEC ENG&COMP SC       EECS                       
+24-316                   255   CLASSROOM          ELEC ENG&COMP SC                                  
+24-316Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+24-317                   292   OFFICE             ELEC ENG&COMP SC       EECS                       
+24-318                   219   OFFICE             ELEC ENG&COMP SC       EECS                       
+24-318J                   21   JANITOR CLOSET     DP OF FACILITIES                                  
+24-319                   294   OFFICE             ELEC ENG&COMP SC       EECS                       
+24-320                   239   CLASSROOM          ELEC ENG&COMP SC                                  
+24-321                   267   OFFICE             ELEC ENG&COMP SC       EECS                       
+24-321E                    7   ELECTRIC CLOSET    DP OF FACILITIES       EECS                       
+24-322                   226   CLASSROOM          ELEC ENG&COMP SC                                  
+24-322E                    8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+24-323                   289   OFFICE             ELEC ENG&COMP SC       EECS                       
+                    --------                                                                        
+                       7,860                                                                        
+                                                                                                    
+24-400CA               1,486   CORRIDOR           DP OF FACILITIES                                  
+24-400E1                  73   ELEVATOR           DP OF FACILITIES                                  
+24-400SA                 228   STAIRWAY           DP OF FACILITIES                                  
+24-400SB                 258   STAIRWAY           DP OF FACILITIES                                  
+24-400Z                   10   SHAFT SPACE        DP OF FACILITIES                                  
+24-401                    17   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+24-402                   227   OFFICE             LAB FOR NUCL SCI                                  
+24-403                   177   MALE LAVATORY      DP OF FACILITIES                                  
+24-403Z                   21   SHAFT SPACE        DP OF FACILITIES                                  
+24-404                   247   OFFICE             LAB FOR NUCL SCI                                  
+24-406                   247   OFFICE             LAB FOR NUCL SCI                                  
+24-407                   574   OFFICE             LAB FOR NUCL SCI                                  
+24-407T                    6   TELECOM CLOSET     DP OF FACILITIES                                  
+24-408                   225   OFFICE             LAB FOR NUCL SCI                                  
+24-409                   259   OFFICE             LAB FOR NUCL SCI                                  
+24-409Z                   18   SHAFT SPACE        DP OF FACILITIES                                  
+24-410                   104   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+24-410A                  146   OFFICE             LAB FOR NUCL SCI                                  
+24-411                   269   OFFICE             LAB FOR NUCL SCI                                  
+24-411A                    9   UTILITY/MECH RM    DP OF FACILITIES                                  
+24-412                    97   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+24-412A                  142   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+24-412T                    9   TELECOM CLOSET     DP OF FACILITIES                                  
+24-413                   273   OFFICE             LAB FOR NUCL SCI                                  
+24-414                   225   OFFICE             LAB FOR NUCL SCI                                  
+24-415                   305   OFFICE             LAB FOR NUCL SCI                                  
+24-416                   231   OFFICE             LAB FOR NUCL SCI                                  
+24-416A                   21   UTILITY/MECH RM    DP OF FACILITIES                                  
+24-417                   275   OFFICE             LAB FOR NUCL SCI                                  
+24-418                   212   OFFICE             LAB FOR NUCL SCI                                  
+24-418J                   21   JANITOR CLOSET     DP OF FACILITIES                                  
+24-420                   237   OFFICE             LAB FOR NUCL SCI                                  
+24-421                   587   OFFICE             LAB FOR NUCL SCI                                  
+24-422                   243   OFFICE             LAB FOR NUCL SCI                                  
+24-422E                    8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+24-423                   272   OFFICE             LAB FOR NUCL SCI                                  
+                    --------                                                                        
+                       7,758                                                                        
+                                                                                                    
+24-500CA               1,495   CORRIDOR           DP OF FACILITIES                                  
+24-500E1                  74   ELEVATOR           DP OF FACILITIES                                  
+24-500SA                 230   STAIRWAY           DP OF FACILITIES                                  
+24-500SB                 259   STAIRWAY           DP OF FACILITIES                                  
+24-500Z                   31   SHAFT SPACE        DP OF FACILITIES                                  
+24-502                   250   OFFICE             LAB FOR NUCL SCI                                  
+24-503                   181   FEMALE LAVATORY    DP OF FACILITIES                                  
+24-503Z                   21   SHAFT SPACE        DP OF FACILITIES                                  
+24-504                   251   OFFICE             LAB FOR NUCL SCI                                  
+24-506                   500   CONFERENCE ROOM    LAB FOR NUCL SCI                                  
+24-507                   559   CONFERENCE ROOM    LAB FOR NUCL SCI                                  
+24-507T                    6   TELECOM CLOSET     DP OF FACILITIES                                  
+24-509A                   15   UTILITY/MECH RM    DP OF FACILITIES                                  
+24-510                   245   OFFICE             LAB FOR NUCL SCI                                  
+24-511                   549   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+24-511A                    9   UTILITY/MECH RM    DP OF FACILITIES                                  
+24-512                   488   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+24-512T                    9   TELECOM CLOSET     DP OF FACILITIES                                  
+24-513                   267   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+24-516A                   21   UTILITY/MECH RM    DP OF FACILITIES                                  
+24-517                   226   PVT CIRCULATION    VP-RSCH                                           
+24-517A                   57   OFFICE SERVICE     VP-RSCH                                           
+24-517B                   59   OFFICE SERVICE     VP-RSCH                                           
+24-517C                   57   OFFICE SERVICE     VP-RSCH                                           
+24-517D                   98   CONFERENCE ROOM    VP-RSCH                                           
+24-517F                  145   OFFICE             VP-RSCH                                           
+24-517G                  144   OFFICE             VP-RSCH                                           
+24-517H                  144   OFFICE             VP-RSCH                                           
+24-517K                  144   OFFICE             VP-RSCH                                           
+24-517L                  144   OFFICE             VP-RSCH                                           
+24-517N                   90   OFFICE             VP-RSCH                                           
+24-517P                   44   OFFICE SERVICE     VP-RSCH                                           
+24-517Q                   44   SECY/RECEPTION     VP-RSCH                                           
+24-518                   437   CONFERENCE ROOM    VP-RSCH                                           
+24-518A                   17   OFFICE SERVICE     VP-RSCH                                           
+24-518J                   21   JANITOR CLOSET     DP OF FACILITIES                                  
+24-520                   240   OFFICE             VP-RSCH                                           
+24-521E                    7   ELECTRIC CLOSET    DP OF FACILITIES                                  
+24-522                   237   OFFICE SERVICE     VP-RSCH                                           
+24-522E                    8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       7,819                                                                        
+                                                                                                    
+24-600CA                 346   CORRIDOR           DP OF FACILITIES                                  
+24-600CB                 513   CORRIDOR           DP OF FACILITIES                                  
+24-600CC                 550   CORRIDOR           DP OF FACILITIES                                  
+24-600E1                  74   ELEVATOR           DP OF FACILITIES                                  
+24-600SA                 213   STAIRWAY           DP OF FACILITIES                                  
+24-600SB                 256   STAIRWAY           DP OF FACILITIES                                  
+24-602                   195   OFFICE             PROVOST RESERVE        ESTDY                      
+24-603                   190   UTILITY/MECH RM    DP OF FACILITIES                                  
+24-604                   214   OFFICE             EXPER STUDY GRP        ESTDY                      
+24-606                   220   OFFICE             EXPER STUDY GRP                                   
+24-607                   226   OFFICE             NUCLEAR SCI & ENG                                 
+24-607A                  133   OFFICE SERVICE     NUCLEAR SCI & ENG                                 
+24-607B                  125   OFFICE             NUCLEAR SCI & ENG                                 
+24-608                   220   OFFICE             EXPER STUDY GRP                                   
+24-610                   220   OFFICE             EXPER STUDY GRP                                   
+24-611                   253   OFFICE             EXPER STUDY GRP                                   
+24-611A                  253   CLASSROOM          EXPER STUDY GRP                                   
+24-612                   220   OFFICE             EXPER STUDY GRP                                   
+24-613                   219   CLASSROOM SVC      EXPER STUDY GRP                                   
+24-614                   455   CLASSROOM SVC      EXPER STUDY GRP                                   
+24-615                   266   CLASSROOM SVC      EXPER STUDY GRP                                   
+24-615A                   20   CLASSROOM SVC      EXPER STUDY GRP                                   
+24-616T                    8   TELECOM CLOSET     DP OF FACILITIES                                  
+24-618                   448   CLASSROOM SVC      EXPER STUDY GRP                                   
+24-619                   512   CLASSROOM          EXPER STUDY GRP                                   
+24-621                   263   CLASSROOM          EXPER STUDY GRP                                   
+24-622                   216   CLASSROOM          EXPER STUDY GRP                                   
+24-622E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+24-623                   249   CLASSROOM          EXPER STUDY GRP                                   
+                    --------                                                                        
+                       7,089                                                                        
+                                                                                                    
+24-700SB                  73   STAIRWAY           DP OF FACILITIES                                  
+24-701                   132   UTILITY/MECH RM    DP OF FACILITIES

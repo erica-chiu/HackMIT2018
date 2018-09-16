@@ -1,0 +1,413 @@
+1-000CA                  677   CORRIDOR           DP OF FACILITIES                                  
+1-000CB                1,700   CORRIDOR           DP OF FACILITIES                                  
+1-000CC                1,032   CORRIDOR           DP OF FACILITIES                                  
+1-000SA                  181   STAIRWAY           DP OF FACILITIES                                  
+1-000SB                   97   STAIRWAY           DP OF FACILITIES                                  
+1-000SC                   87   STAIRWAY           DP OF FACILITIES                                  
+1-000Z                   636   SHAFT SPACE        DP OF FACILITIES                                  
+1-001E                   338   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-004                    958   TEACHING LAB       MECHANICAL ENG                                    
+1-004A                   172   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+1-005                    573   TEACHING LAB       MECHANICAL ENG                                    
+1-007                  1,236   RESEARCH LAB       MECHANICAL ENG                                    
+1-010                  1,010   RESEARCH LAB       MECHANICAL ENG                                    
+1-010A                   246   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+1-013                    320   RESEARCH LAB       MECHANICAL ENG                                    
+1-015                    851   LABORATORY SVC     MECHANICAL ENG                                    
+1-015AE                   10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-015E                    17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-023                     50   UTILITY/MECH RM    DP OF FACILITIES                                  
+1-023A                    51   UTILITY/MECH RM    DP OF FACILITIES                                  
+1-025                  1,017   RESEARCH LAB       MECHANICAL ENG                                    
+1-025A                   144   RESEARCH LAB       MECHANICAL ENG                                    
+1-025AAZ                  26   SHAFT SPACE        DP OF FACILITIES                                  
+1-025ABZ                  10   SHAFT SPACE        DP OF FACILITIES                                  
+1-025ACZ                  13   SHAFT SPACE        DP OF FACILITIES                                  
+1-025B                    58   LABORATORY SVC     MECHANICAL ENG                                    
+1-025C                     4   LABORATORY SVC     MECHANICAL ENG                                    
+1-025Z                    13   SHAFT SPACE        DP OF FACILITIES                                  
+1-027                    158   MALE LAVATORY      DP OF FACILITIES                                  
+1-030                    147   LABORATORY SVC     CIVIL & ENV ENG                                   
+1-033                  1,033   LAB SUPPORT SHOP   CIVIL & ENV ENG                                   
+1-034                  1,152   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-034A                   123   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-037E                    11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-039E                   320   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-040                    860   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-041                    222   OFFICE             CIVIL & ENV ENG                                   
+1-042                    108   MAIL ROOM          DP OF FACIL ADM                                   
+1-042AA                   52   UTILITY/MECH RM    DP OF FACILITIES                                  
+1-044                    941   UTILITY/MECH RM    DP OF FACILITIES                                  
+1-047                  1,316   TEACHING LAB       CIVIL & ENV ENG                                   
+1-047A                   271   LABORATORY SVC     CIVIL & ENV ENG                                   
+1-047B                    35   LABORATORY SVC     CIVIL & ENV ENG                                   
+1-050                    998   LABORATORY SVC     CIVIL & ENV ENG                                   
+1-050AA                    6   UTILITY/MECH RM    DP OF FACILITIES                                  
+1-050T                    65   TELECOM CLOSET     DP OF FACILITIES                                  
+1-053                    494   TEACHING LAB       CIVIL & ENV ENG                                   
+1-053A                    70   LABORATORY SVC     CIVIL & ENV ENG                                   
+1-063                    630   TEACHING LAB       CIVIL & ENV ENG                                   
+1-065                    254   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-067                    249   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-068                    171   LABORATORY SVC     CIVIL & ENV ENG                                   
+1-068A                    92   LABORATORY SVC     CIVIL & ENV ENG                                   
+1-069J                   114   JANITOR CLOSET     DP OF FACILITIES                                  
+1-070J                    21   JANITOR CLOSET     DP OF FACILITIES                                  
+1-071                    504   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-071E                     5   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-074                    461   UTILITY/MECH RM    DP OF FACILITIES                                  
+1-078                    212   LABORATORY SVC     CIVIL & ENV ENG                                   
+1-080                    563   LABORATORY SVC     CIVIL & ENV ENG                                   
+1-081                    774   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-081A                   105   LABORATORY SVC     CIVIL & ENV ENG                                   
+1-081B                    36   LABORATORY SVC     CIVIL & ENV ENG                                   
+1-081BA                  302   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-084                    539   LABORATORY SVC     CIVIL & ENV ENG                                   
+1-084A                    90   UTILITY/MECH RM    DP OF FACILITIES                                  
+1-085                    107   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-087                    356   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-090                    761   LABORATORY SVC     CIVIL & ENV ENG                                   
+1-090A                   127   LABORATORY SVC     CIVIL & ENV ENG                                   
+                    --------                                                                        
+                      26,383                                                                        
+                                                                                                    
+1-100CA                1,316   CORRIDOR           DP OF FACILITIES                                  
+1-100CB                2,180   CORRIDOR           DP OF FACILITIES                                  
+1-100CC                  577   CORRIDOR           DP OF FACILITIES                                  
+1-100LA                   64   LOBBY              DP OF FACILITIES                                  
+1-100LB                   59   LOBBY              DP OF FACILITIES                                  
+1-100LC                  263   LOBBY              DP OF FACILITIES                                  
+1-100SA                  662   STAIRWAY           DP OF FACILITIES                                  
+1-100SB                  247   STAIRWAY           DP OF FACILITIES                                  
+1-100SC                  261   STAIRWAY           DP OF FACILITIES                                  
+1-100Z                   478   SHAFT SPACE        DP OF FACILITIES                                  
+1-101                    238   MALE LAVATORY      DP OF FACILITIES                                  
+1-101J                    40   JANITOR CLOSET     DP OF FACILITIES                                  
+1-101Z                    53   SHAFT SPACE        DP OF FACILITIES                                  
+1-103                    170   OFFICE SERVICE     MECHANICAL ENG                                    
+1-103A                     7   OFFICE SERVICE     MECHANICAL ENG                                    
+1-103B                    54   OFFICE             MECHANICAL ENG                                    
+1-103C                    55   OFFICE             MECHANICAL ENG                                    
+1-103D                    51   OFFICE             MECHANICAL ENG                                    
+1-104                    152   SECY/RECEPTION     MECHANICAL ENG                                    
+1-104A                   170   OFFICE             MECHANICAL ENG                                    
+1-104B                   326   OFFICE             MECHANICAL ENG                                    
+1-104C                   328   OFFICE             MECHANICAL ENG                                    
+1-107                    184   OFFICE SERVICE     MECHANICAL ENG                                    
+1-107A                     9   OFFICE SERVICE     MECHANICAL ENG                                    
+1-107B                    58   OFFICE             MECHANICAL ENG                                    
+1-107C                    62   OFFICE             MECHANICAL ENG                                    
+1-107D                   103   OFFICE             MECHANICAL ENG                                    
+1-107F                   109   OFFICE             MECHANICAL ENG                                    
+1-107G                    62   OFFICE             MECHANICAL ENG                                    
+1-107H                    36   SECY/RECEPTION     MECHANICAL ENG                                    
+1-107K                   304   OFFICE             MECHANICAL ENG                                    
+1-108E                    16   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-110                    143   SECY/RECEPTION     MECHANICAL ENG                                    
+1-110A                   156   OFFICE             MECHANICAL ENG                                    
+1-110AA                  174   OFFICE             MECHANICAL ENG                                    
+1-112                    154   OFFICE SERVICE     MECHANICAL ENG                                    
+1-112A                   170   OFFICE             MECHANICAL ENG                                    
+1-112B                   106   SECY/RECEPTION     MECHANICAL ENG                                    
+1-112C                    69   SECY/RECEPTION     MECHANICAL ENG                                    
+1-114                    899   OFFICE SERVICE     MECHANICAL ENG                                    
+1-114A                     7   OFFICE SERVICE     MECHANICAL ENG                                    
+1-115                    924   CLASSROOM          INFO SVCS & TECH       ATHENA                     
+1-115E                    78   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-123                    218   SECY/RECEPTION     SCH OF ENGINEER                                   
+1-123A                   148   OFFICE             SCH OF ENGINEER                                   
+1-123B                   211   OFFICE             SCH OF ENGINEER                                   
+1-123C                    17   OFFICE SERVICE     SCH OF ENGINEER                                   
+1-125                     98   OFFICE             SCH OF ENGINEER                                   
+1-131                    781   CLASSROOM          CIVIL & ENV ENG                                   
+1-132                    468   CLASSROOM          REGISTRAR                                         
+1-132E                     5   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-134                    652   CLASSROOM          REGISTRAR                                         
+1-134E                     7   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-135                    643   CLASSROOM          REGISTRAR                                         
+1-136                    309   CLASSROOM          REGISTRAR                                         
+1-137E                    10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-138                    136   OFFICE             CIVIL & ENV ENG                                   
+1-138A                   138   OFFICE             CIVIL & ENV ENG                                   
+1-139                    396   OFFICE             CIVIL & ENV ENG                                   
+1-139A                   131   OFFICE             CIVIL & ENV ENG                                   
+1-139B                    88   OFFICE             CIVIL & ENV ENG                                   
+1-142                    900   RESEARCH LAB       OFF OF PROVOST                                    
+1-142T                    45   TELECOM CLOSET     DP OF FACILITIES                                  
+1-143                  1,080   CLASSROOM          CIVIL & ENV ENG                                   
+1-143A                    46   CLASSROOM SVC      CIVIL & ENV ENG                                   
+1-143B                   176   OFFICE             CIVIL & ENV ENG                                   
+1-150                    827   CLASSROOM          REGISTRAR                                         
+1-150A                    23   CLASSROOM SVC      REGISTRAR                                         
+1-150AA                    7   UTILITY/MECH RM    DP OF FACILITIES                                  
+1-150AB                    4   JANITOR STORAGE    DP OF FACILITIES                                  
+1-151                    475   OFFICE             CIVIL & ENV ENG                                   
+1-151A                    17   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-153                    137   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-153B                   178   OFFICE             CIVIL & ENV ENG                                   
+1-163                    110   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-163A                   122   OFFICE             CIVIL & ENV ENG                                   
+1-163B                    35   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-163C                   375   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-165                    290   OFFICE             CIVIL & ENV ENG                                   
+1-165A                    30   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-166E                    12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-167                    285   FEMALE LAVATORY    DP OF FACILITIES                                  
+1-167J                    31   JANITOR CLOSET     DP OF FACILITIES                                  
+1-167Z                    26   SHAFT SPACE        DP OF FACILITIES                                  
+1-170                    162   OFFICE             CIVIL & ENV ENG                                   
+1-171                    223   OFFICE             CIVIL & ENV ENG                                   
+1-171E                     7   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-172                    148   OFFICE             CIVIL & ENV ENG                                   
+1-173                    282   OFFICE             CIVIL & ENV ENG                                   
+1-174                    157   OFFICE             CIVIL & ENV ENG                                   
+1-175                    249   OFFICE             CIVIL & ENV ENG                                   
+1-175A                   238   OFFICE             CIVIL & ENV ENG                                   
+1-176                    148   OFFICE             CIVIL & ENV ENG                                   
+1-178                    147   OFFICE             CIVIL & ENV ENG                                   
+1-179                    112   OFFICE             CIVIL & ENV ENG                                   
+1-179A                   113   OFFICE             CIVIL & ENV ENG                                   
+1-180                    153   OFFICE             CIVIL & ENV ENG                                   
+1-181                    301   OFFICE             CIVIL & ENV ENG                                   
+1-182                     41   UTILITY/MECH RM    DP OF FACILITIES                                  
+1-190                  1,656   LECTURE HALL       REGISTRAR                                         
+1-190A                    19   UTILITY/MECH RM    DP OF FACILITIES                                  
+1-190B                    24   UTILITY/MECH RM    DP OF FACILITIES                                  
+1-190C                    28   UTILITY/MECH RM    DP OF FACILITIES                                  
+1-190D                    26   UTILITY/MECH RM    DP OF FACILITIES                                  
+1-190E                    13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                      25,510                                                                        
+                                                                                                    
+1-200CA                1,430   CORRIDOR           DP OF FACILITIES                                  
+1-200CB                1,570   CORRIDOR           DP OF FACILITIES                                  
+1-200CC                1,180   CORRIDOR           DP OF FACILITIES                                  
+1-200SA                  689   STAIRWAY           DP OF FACILITIES                                  
+1-200SB                  215   STAIRWAY           DP OF FACILITIES                                  
+1-200SC                  129   STAIRWAY           DP OF FACILITIES                                  
+1-200Z                   431   SHAFT SPACE        DP OF FACILITIES                                  
+1-201                    167   MALE LAVATORY      DP OF FACILITIES                                  
+1-201J                    41   JANITOR CLOSET     DP OF FACILITIES                                  
+1-201Z                    54   SHAFT SPACE        DP OF FACILITIES                                  
+1-203                    158   SECY/RECEPTION     SCH OF ENGINEER                                   
+1-203A                   188   OFFICE             SCH OF ENGINEER                                   
+1-203B                   214   OFFICE             SCH OF ENGINEER                                   
+1-203C                    87   OFFICE SERVICE     SCH OF ENGINEER                                   
+1-206                    468   OFFICE SERVICE     SCH OF ENGINEER                                   
+1-206A                   462   OFFICE             SCH OF ENGINEER                                   
+1-206B                   292   OFFICE SERVICE     SCH OF ENGINEER                                   
+1-206C                     9   OFFICE SERVICE     SCH OF ENGINEER                                   
+1-206D                   111   OFFICE             SCH OF ENGINEER                                   
+1-206E                   327   OFFICE             SCH OF ENGINEER                                   
+1-207                     89   OFFICE SERVICE     SCH OF ENGINEER                                   
+1-207A                   208   OFFICE             SCH OF ENGINEER                                   
+1-207B                   201   OFFICE             SCH OF ENGINEER                                   
+1-207C                    44   OFFICE             SCH OF ENGINEER                                   
+1-207D                    97   CONFERENCE ROOM    SCH OF ENGINEER                                   
+1-208E                    16   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-208F                   141   SECY/RECEPTION     SCH OF ENGINEER                                   
+1-208G                   153   SECY/RECEPTION     SCH OF ENGINEER                                   
+1-211                    204   SECY/RECEPTION     SCH OF ENGINEER        MITES & EIP                
+1-211A                   129   OFFICE             SCH OF ENGINEER        MITES & EIP                
+1-211B                   189   OFFICE             SCH OF ENGINEER        MITES & EIP                
+1-213T                   131   TELECOM CLOSET     DP OF FACILITIES                                  
+1-214                    683   CONFERENCE ROOM    SCH OF ENGINEER                                   
+1-215                    324   CONFERENCE ROOM    CIVIL & ENV ENG                                   
+1-215B                    17   UTILITY/MECH RM    DP OF FACILITIES                                  
+1-225                    516   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+1-225A                   694   RESEARCH LAB       MECHANICAL ENG         OCEAN                      
+1-228T                    92   TELECOM CLOSET     DP OF FACILITIES                                  
+1-229                    169   OFFICE SERVICE     SCH OF ENGINEER                                   
+1-229A                   100   OFFICE             SCH OF ENGINEER                                   
+1-229B                   273   OFFICE             SCH OF ENGINEER                                   
+1-230                    148   OFFICE             SCH OF ENGINEER                                   
+1-232                    170   OFFICE             CIVIL & ENV ENG                                   
+1-235                    262   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-235C                   292   OFFICE             CIVIL & ENV ENG                                   
+1-235D                   166   OFFICE             CIVIL & ENV ENG                                   
+1-235F                   155   OFFICE             CIVIL & ENV ENG                                   
+1-235G                   153   OFFICE             CIVIL & ENV ENG                                   
+1-235H                   106   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-235HA                   14   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-235K                   127   OFFICE             CIVIL & ENV ENG                                   
+1-235L                   113   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-235P                    50   OFFICE             CIVIL & ENV ENG                                   
+1-236                    633   CONFERENCE ROOM    CIVIL & ENV ENG                                   
+1-236B                    38   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-237E                    10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-238                    214   OFFICE             CIVIL & ENV ENG                                   
+1-238A                    68   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-239                    185   SECY/RECEPTION     CIVIL & ENV ENG                                   
+1-239A                   170   OFFICE             CIVIL & ENV ENG                                   
+1-240                    129   SECY/RECEPTION     CIVIL & ENV ENG                                   
+1-240A                   155   OFFICE             CIVIL & ENV ENG                                   
+1-241                    333   OFFICE             CIVIL & ENV ENG                                   
+1-242                    574   CLASSROOM          REGISTRAR                                         
+1-242A                     6   CLASSROOM SVC      REGISTRAR                                         
+1-242B                     7   CLASSROOM SVC      REGISTRAR                                         
+1-242C                     7   CLASSROOM SVC      REGISTRAR                                         
+1-245                    654   OFFICE             CIVIL & ENV ENG                                   
+1-246                    591   CLASSROOM          REGISTRAR                                         
+1-246E                    13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-249                    711   OFFICE             CIVIL & ENV ENG                                   
+1-250                    323   OFFICE             CIVIL & ENV ENG                                   
+1-250AA                    7   UTILITY/MECH RM    DP OF FACILITIES                                  
+1-251                     98   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-252                    252   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-252T                    93   TELECOM CLOSET     DP OF FACILITIES                                  
+1-253                    241   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-253B                   153   OFFICE             CIVIL & ENV ENG                                   
+1-253C                   306   OFFICE             CIVIL & ENV ENG                                   
+1-253D                     7   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-253F                    12   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-263                    211   OFFICE             CIVIL & ENV ENG                                   
+1-265                    254   FEMALE LAVATORY    DP OF FACILITIES                                  
+1-267                    220   MALE LAVATORY      DP OF FACILITIES                                  
+1-267J                    30   JANITOR CLOSET     DP OF FACILITIES                                  
+1-267Z                    26   SHAFT SPACE        DP OF FACILITIES                                  
+1-270                    182   OFFICE             CIVIL & ENV ENG                                   
+1-271                    252   OFFICE             CIVIL & ENV ENG                                   
+1-271E                     6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-272                    162   OFFICE             CIVIL & ENV ENG                                   
+1-273                    473   CLASSROOM          REGISTRAR                                         
+1-274                    148   OFFICE             CIVIL & ENV ENG                                   
+1-276                    157   OFFICE             CIVIL & ENV ENG                                   
+1-277                    416   CLASSROOM          REGISTRAR                                         
+1-278                    149   OFFICE             CIVIL & ENV ENG                                   
+1-280                    147   OFFICE             CIVIL & ENV ENG                                   
+1-281                    283   OFFICE             CIVIL & ENV ENG                                   
+1-282                    150   OFFICE             CIVIL & ENV ENG                                   
+1-284                    198   OFFICE             CIVIL & ENV ENG                                   
+1-290                    336   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-290A                    58   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-290B                   311   OFFICE             CIVIL & ENV ENG                                   
+1-290C                   124   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-290D                   170   OFFICE             CIVIL & ENV ENG                                   
+1-290F                   122   OFFICE             CIVIL & ENV ENG                                   
+1-290G                   189   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-290H                   114   SECY/RECEPTION     CIVIL & ENV ENG                                   
+1-290K                   105   SECY/RECEPTION     CIVIL & ENV ENG                                   
+1-290L                    63   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-290N                   224   OFFICE             CIVIL & ENV ENG                                   
+                    --------                                                                        
+                      25,715                                                                        
+                                                                                                    
+1-300CA                1,112   CORRIDOR           DP OF FACILITIES                                  
+1-300CB                1,796   CORRIDOR           DP OF FACILITIES                                  
+1-300CC                1,044   CORRIDOR           DP OF FACILITIES                                  
+1-300SA                  686   STAIRWAY           DP OF FACILITIES                                  
+1-300SB                  215   STAIRWAY           DP OF FACILITIES                                  
+1-300SC                  133   STAIRWAY           DP OF FACILITIES                                  
+1-300SD                   69   CLASSROOM SVC      REGISTRAR                                         
+1-300Z                   122   SHAFT SPACE        DP OF FACILITIES                                  
+1-301                    241   FEMALE LAVATORY    DP OF FACILITIES                                  
+1-301J                    41   JANITOR CLOSET     DP OF FACILITIES                                  
+1-301Z                    53   SHAFT SPACE        DP OF FACILITIES                                  
+1-303A                   309   LAB SUPPORT SHOP   MECHANICAL ENG                                    
+1-304                    182   SECY/RECEPTION     MECHANICAL ENG                                    
+1-304A                   326   OFFICE             MECHANICAL ENG                                    
+1-304C                   138   OFFICE             MECHANICAL ENG                                    
+1-304D                   326   OFFICE             MECHANICAL ENG                                    
+1-307                  1,324   TEACHING LAB       MECHANICAL ENG                                    
+1-308                    322   OFFICE             MECHANICAL ENG                                    
+1-308E                    16   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-310                    297   SECY/RECEPTION     MECHANICAL ENG                                    
+1-310A                   184   OFFICE             MECHANICAL ENG                                    
+1-310B                   179   OFFICE             MECHANICAL ENG                                    
+1-310C                   335   OFFICE             MECHANICAL ENG                                    
+1-313                    585   LAB SUPPORT SHOP   MECHANICAL ENG                                    
+1-313A                    80   RSCH LAB-OFFICE    MECHANICAL ENG                                    
+1-313E                    17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-314                    233   RESEARCH LAB       MECHANICAL ENG                                    
+1-314A                   101   LABORATORY SVC     MECHANICAL ENG                                    
+1-321                    428   OFFICE SERVICE     MECHANICAL ENG                                    
+1-321A                    28   OFFICE             MECHANICAL ENG                                    
+1-321B                    30   OFFICE             MECHANICAL ENG                                    
+1-321C                    30   OFFICE             MECHANICAL ENG                                    
+1-321D                    35   OFFICE             MECHANICAL ENG                                    
+1-321F                    34   OFFICE             MECHANICAL ENG                                    
+1-321G                    32   OFFICE             MECHANICAL ENG                                    
+1-321H                    29   OFFICE             MECHANICAL ENG                                    
+1-321K                    30   OFFICE             MECHANICAL ENG                                    
+1-321L                    31   OFFICE             MECHANICAL ENG                                    
+1-321N                    28   OFFICE             MECHANICAL ENG                                    
+1-321P                    27   OFFICE             MECHANICAL ENG                                    
+1-321Q                    26   OFFICE             MECHANICAL ENG                                    
+1-321R                    29   OFFICE             MECHANICAL ENG                                    
+1-321S                    29   OFFICE             MECHANICAL ENG                                    
+1-321U                    30   OFFICE             MECHANICAL ENG                                    
+1-321V                   125   OFFICE SERVICE     MECHANICAL ENG                                    
+1-321W                    58   OFFICE             MECHANICAL ENG                                    
+1-321X                    62   OFFICE             MECHANICAL ENG                                    
+1-321Y                    40   OFFICE             MECHANICAL ENG                                    
+1-330                    195   OFFICE             CIVIL & ENV ENG                                   
+1-331                    263   OFFICE             CIVIL & ENV ENG                                   
+1-333                     90   LABORATORY SVC     CIVIL & ENV ENG                                   
+1-333A                   108   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-334                    371   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-334A                   255   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-334AB                  205   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-335                    415   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-335A                   240   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-336                     76   LABORATORY SVC     CIVIL & ENV ENG                                   
+1-336A                   191   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-336B                    55   LABORATORY SVC     CIVIL & ENV ENG                                   
+1-337                    470   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-337A                    71   LABORATORY SVC     CIVIL & ENV ENG                                   
+1-337B                   119   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-337C                   259   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-337E                     9   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-339                     15   LABORATORY SVC     CIVIL & ENV ENG                                   
+1-340                    363   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-340A                    75   LABORATORY SVC     CIVIL & ENV ENG                                   
+1-340B                   246   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-342                    134   SECY/RECEPTION     CIVIL & ENV ENG                                   
+1-342A                   192   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-342B                   263   OFFICE             CIVIL & ENV ENG                                   
+1-342C                    69   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-343                     58   PVT CIRCULATION    CIVIL & ENV ENG                                   
+1-343A                   245   OFFICE             CIVIL & ENV ENG                                   
+1-343B                   195   OFFICE             CIVIL & ENV ENG                                   
+1-343C                    76   OFFICE             CIVIL & ENV ENG                                   
+1-345                     72   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-346                    335   OFFICE             CIVIL & ENV ENG                                   
+1-347                     67   PVT CIRCULATION    CIVIL & ENV ENG                                   
+1-347A                   233   RSCH LAB-OFFICE    CIVIL & ENV ENG                                   
+1-347B                   547   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-348                    122   SECY/RECEPTION     CIVIL & ENV ENG                                   
+1-348A                   177   OFFICE             CIVIL & ENV ENG                                   
+1-350                    625   OFFICE             CIVIL & ENV ENG                                   
+1-350AA                    7   UTILITY/MECH RM    DP OF FACILITIES                                  
+1-350T                    78   TELECOM CLOSET     DP OF FACILITIES                                  
+1-351                    299   RESEARCH LAB       CIVIL & ENV ENG                                   
+1-353                    183   SECY/RECEPTION     CIVIL & ENV ENG                                   
+1-353A                   132   OFFICE             CIVIL & ENV ENG                                   
+1-353B                     5   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-363                    160   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-363A                   320   OFFICE             CIVIL & ENV ENG                                   
+1-363B                   203   OFFICE             CIVIL & ENV ENG                                   
+1-363C                   163   CONFERENCE ROOM    CIVIL & ENV ENG                                   
+1-367                    220   MALE LAVATORY      DP OF FACILITIES                                  
+1-367J                    30   JANITOR CLOSET     DP OF FACILITIES                                  
+1-367Z                    32   SHAFT SPACE        DP OF FACILITIES                                  
+1-370                    161   OFFICE             CIVIL & ENV ENG                                   
+1-370A                    15   OFFICE SERVICE     CIVIL & ENV ENG                                   
+1-371                    492   CLASSROOM          REGISTRAR                                         
+1-371E                     6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-372                    147   OFFICE             CIVIL & ENV ENG                                   
+1-374                    148   OFFICE             CIVIL & ENV ENG                                   
+1-375                    474   CLASSROOM          REGISTRAR                                         
+1-376                    157   OFFICE             CIVIL & ENV ENG                                   
+1-377E                     9   ELECTRIC CLOSET    DP OF FACILITIES                                  
+1-378                    149   OFFICE             CIVIL & ENV ENG                                   
+1-379                    466   CLASSROOM          REGISTRAR                                         
+1-380                    150   OFFICE             CIVIL & ENV ENG                                   
+1-382                    181   OFFICE             CIVIL & ENV ENG                                   
+1-383                    117   OFFICE             CIVIL & ENV ENG                                   
+1-384                    148   LOUNGE             DP OF FACIL ADM                                   
+1-385                     23   UTILITY/MECH RM    DP OF FACILITIES                                  
+1-386                     16   CLASSROOM SVC      REGISTRAR                                         
+1-387                     18   JANITOR STORAGE    DP OF FACILITIES                                  
+1-389                     84   CLASSROOM SVC      REGISTRAR                                         
+1-390                  1,352   LECTURE HALL       REGISTRAR                                         
+1-390A                    30   CLASSROOM SVC      REGISTRAR

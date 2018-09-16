@@ -1,0 +1,53 @@
+44-000LA                 228   LOBBY              DP OF FACILITIES                                  
+44-000SA                  46   STAIRWAY           DP OF FACILITIES                                  
+44-000Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+44-004                   787   RESEARCH LAB       LAB FOR NUCL SCI                                  
+44-004A                   25   LABORATORY SVC     LAB FOR NUCL SCI                                  
+44-004B                   15   LABORATORY SVC     LAB FOR NUCL SCI                                  
+44-004C                   89   RESEARCH LAB       LAB FOR NUCL SCI                                  
+44-005                   381   RESEARCH LAB       LAB FOR NUCL SCI                                  
+44-006                    45   RESEARCH LAB       LAB FOR NUCL SCI                                  
+44-006A                   56   RESEARCH LAB       LAB FOR NUCL SCI                                  
+44-008                   866   LABORATORY SVC     LAB FOR NUCL SCI                                  
+44-013                 1,154   RESEARCH LAB       LAB FOR NUCL SCI                                  
+44-016                   816   LAB SUPPORT SHOP   LAB FOR NUCL SCI                                  
+44-016A                  392   LAB SUPPORT SHOP   LAB FOR NUCL SCI                                  
+44-016AA                 183   LABORATORY SVC     LAB FOR NUCL SCI                                  
+44-016B                  316   LABORATORY SVC     LAB FOR NUCL SCI                                  
+44-016C                  238   LABORATORY SVC     LAB FOR NUCL SCI                                  
+44-017J                   55   JANITOR CLOSET     DP OF FACILITIES                                  
+44-018                    42   PVT LAVATORY       LAB FOR NUCL SCI                                  
+44-020                   211   SECY/RECEPTION     LAB FOR NUCL SCI                                  
+44-022                   133   OFFICE             EDGERTON CENTER                                   
+44-023                 1,673   LAB SUPPORT SHOP   EDGERTON CENTER                                   
+44-024                   125   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                       7,900                                                                        
+                                                                                                    
+44-100CA                 284   CORRIDOR           DP OF FACILITIES                                  
+44-100CB                 313   CORRIDOR           DP OF FACILITIES                                  
+44-100SA                 140   STAIRWAY           DP OF FACILITIES                                  
+44-100Z                   62   SHAFT SPACE        DP OF FACILITIES                                  
+44-109                   512   OFFICE             LAB FOR NUCL SCI                                  
+44-111                   512   UTILITY/MECH RM    DP OF FACILITIES                                  
+44-112                   657   UTILITY/MECH RM    DP OF FACILITIES                                  
+44-113                   156   MALE LAVATORY      DP OF FACILITIES                                  
+44-114                   235   OFFICE             LAB FOR NUCL SCI                                  
+44-115                   114   FEMALE LAVATORY    DP OF FACILITIES                                  
+44-116                   148   OFFICE             LAB FOR NUCL SCI                                  
+44-117                   293   CONFERENCE ROOM    LAB FOR NUCL SCI                                  
+44-118                   169   OFFICE             LAB FOR NUCL SCI                                  
+44-119                   355   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+44-119A                   59   LABORATORY SVC     LAB FOR NUCL SCI                                  
+44-119B                   74   OFFICE             LAB FOR NUCL SCI                                  
+44-119C                   69   OFFICE             LAB FOR NUCL SCI                                  
+44-119D                   69   OFFICE             LAB FOR NUCL SCI                                  
+44-119F                   69   OFFICE             LAB FOR NUCL SCI                                  
+44-119G                   69   OFFICE             LAB FOR NUCL SCI                                  
+44-119H                   53   OFFICE             LAB FOR NUCL SCI                                  
+44-120                   307   OFFICE             LAB FOR NUCL SCI                                  
+44-123                   967   OFFICE SERVICE     LAB FOR NUCL SCI                                  
+44-123A                  228   OFFICE             LAB FOR NUCL SCI                                  
+44-123B                  187   OFFICE             LAB FOR NUCL SCI                                  
+44-123C                  186   OFFICE             LAB FOR NUCL SCI                                  
+44-124                   146   OFFICE             LAB FOR NUCL SCI   

@@ -1,0 +1,204 @@
+11-000E1                  61   ELEVATOR           DP OF FACILITIES                                  
+11-000LA                 164   LOBBY              DP OF FACILITIES                                  
+11-000SA                 114   STAIRWAY           DP OF FACILITIES                                  
+11-000Z                    4   SHAFT SPACE        DP OF FACILITIES                                  
+11-002                   117   UTILITY/MECH RM    DP OF FACILITIES                                  
+11-003                 1,075   PRINT/DUP SHOP     COPY TECH CENTER                                  
+11-003A                   83   OFFICE SERVICE     COPY TECH CENTER                                  
+11-003B                   28   OFFICE SERVICE     COPY TECH CENTER                                  
+11-003C                   50   PVT LAVATORY       COPY TECH CENTER                                  
+11-003D                  210   OFFICE             COPY TECH CENTER                                  
+11-003F                  118   PRINT/DUP SHOP     COPY TECH CENTER                                  
+11-004                 1,277   PRINT/DUP SHOP     COPY TECH CENTER                                  
+11-004A                  349   OFFICE             COPY TECH CENTER                                  
+11-004B                  110   OFFICE             COPY TECH CENTER                                  
+11-019                    55   OFFICE SERVICE     COPY TECH CENTER                                  
+11-025                    46   UTILITY/MECH RM    DP OF FACILITIES                                  
+11-029E                   44   ELECTRIC CLOSET    DP OF FACILITIES                                  
+11-030                   224   OFFICE             COPY TECH CENTER                                  
+11-032                   346   PRINT/DUP SHOP     COPY TECH CENTER                                  
+11-032A                   34   OFFICE SERVICE     COPY TECH CENTER                                  
+11-033A                   36   UTILITY/MECH RM    DP OF FACILITIES                                  
+11-034                    60   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                       4,602                                                                        
+                                                                                                    
+11-100CC                  18   CORRIDOR           DP OF FACILITIES                                  
+11-100E1                  61   ELEVATOR           DP OF FACILITIES                                  
+11-100LA                 555   LOBBY              DP OF FACILITIES                                  
+11-100LB                  96   LOBBY              DP OF FACILITIES                                  
+11-100SA                 189   STAIRWAY           DP OF FACILITIES                                  
+11-100SB                 137   STAIRWAY           DP OF FACILITIES                                  
+11-100SM                 164   STAIRWAY           DP OF FACILITIES                                  
+11-100Z                   84   SHAFT SPACE        DP OF FACILITIES                                  
+11-103                   232   CONFERENCE ROOM    STU SERVICES CTR                                  
+11-112                   255   OFFICE SERVICE     STU SERVICES CTR       ATHENA                     
+11-112M                  243   OFFICE SERVICE     STU SERVICES CTR                                  
+11-116                    14   OFFICE SERVICE     STU SERVICES CTR                                  
+11-116M                  295   UTILITY/MECH RM    DP OF FACILITIES                                  
+11-120                   989   OFFICE SERVICE     STU SERVICES CTR                                  
+11-120Q                  349   OFFICE             STU SERVICES CTR                                  
+11-134                   202   OFFICE             STU SERVICES CTR                                  
+11-138A                    4   OFFICE SERVICE     STU SERVICES CTR                                  
+11-144                   114   OFFICE             STU SERVICES CTR                                  
+11-145                   341   OFFICE SERVICE     STU SERVICES CTR                                  
+11-145A                  136   OFFICE             STU SERVICES CTR                                  
+11-145B                   28   OFFICE SERVICE     STU SERVICES CTR                                  
+11-145C                   34   OFFICE SERVICE     STU SERVICES CTR                                  
+11-145D                  117   OFFICE SERVICE     STU SERVICES CTR                                  
+11-145F                  134   OFFICE             STU SERVICES CTR                                  
+11-145G                   95   OFFICE             STU SERVICES CTR                                  
+11-145H                   95   OFFICE             STU SERVICES CTR                                  
+11-145K                   95   OFFICE             STU SERVICES CTR                                  
+11-145L                   95   OFFICE             STU SERVICES CTR                                  
+11-145M                   88   OFFICE             STU SERVICES CTR                                  
+11-145N                  110   OFFICE             STU SERVICES CTR                                  
+11-145P                   51   OFFICE SERVICE     STU SERVICES CTR                                  
+11-145QA                  97   OFFICE             STU SERVICES CTR                                  
+11-154                   112   OFFICE             STU SERVICES CTR                                  
+11-156                   112   OFFICE             STU SERVICES CTR                                  
+11-160                   329   OFFICE SERVICE     STU SERVICES CTR                                  
+11-160A                   75   OFFICE             STU SERVICES CTR                                  
+11-160B                   63   OFFICE             STU SERVICES CTR                                  
+11-160C                   63   OFFICE             STU SERVICES CTR                                  
+11-173AE                   9   ELECTRIC CLOSET    DP OF FACILITIES                                  
+11-173E                   37   ELECTRIC CLOSET    DP OF FACILITIES                                  
+11-173T                   44   TELECOM CLOSET     DP OF FACILITIES                                  
+11-178                    20   OFFICE SERVICE     STU SERVICES CTR                                  
+11-178M                  105   UTILITY/MECH RM    DP OF FACILITIES                                  
+11-182                   101   OFFICE             STU SERVICES CTR                                  
+11-184                   255   OFFICE             STU SERVICES CTR                                  
+11-184A                   16   OFFICE SERVICE     STU SERVICES CTR                                  
+                    --------                                                                        
+                       6,859                                                                        
+                                                                                                    
+11-200CA                 512   CORRIDOR           DP OF FACILITIES                                  
+11-200E1                  62   ELEVATOR           DP OF FACILITIES                                  
+11-200LA                  62   LOBBY              DP OF FACILITIES                                  
+11-200SA                 134   STAIRWAY           DP OF FACILITIES                                  
+11-200Z                  137   SHAFT SPACE        DP OF FACILITIES                                  
+11-225                   157   SECY/RECEPTION     EXEC VICE PRES                                    
+11-225A                  180   OFFICE             EXEC VICE PRES                                    
+11-229                    42   OFFICE SERVICE     OFF OF PROVOST                                    
+11-245                   243   SECY/RECEPTION     OFF OF PRESIDENT                                  
+11-245A                   80   OFFICE             OFF OF PRESIDENT                                  
+11-245AA                  44   OFFICE SERVICE     OFF OF PRESIDENT                                  
+11-245B                  138   OFFICE             OFF OF PRESIDENT                                  
+11-245C                  119   SECY/RECEPTION     OFF OF PRESIDENT                                  
+11-245D                  110   SECY/RECEPTION     OFF OF PRESIDENT                                  
+11-249                    66   OFFICE SERVICE     STU SERVICES CTR                                  
+11-255                    77   OFFICE SERVICE     STU SERVICES CTR                                  
+11-255A                   29   OFFICE SERVICE     STU SERVICES CTR                                  
+11-255B                   13   OFFICE SERVICE     STU SERVICES CTR                                  
+11-255C                   84   OFFICE             STU SERVICES CTR                                  
+11-255D                  103   OFFICE             STU SERVICES CTR                                  
+11-255F                   33   OFFICE SERVICE     STU SERVICES CTR                                  
+11-268                   316   OFFICE SERVICE     OFF OF PROVOST                                    
+11-268A                   21   OFFICE SERVICE     OFF OF PROVOST                                    
+11-268B                   98   OFFICE             OFF OF PROVOST                                    
+11-268C                   57   OFFICE             OFF OF PROVOST                                    
+11-268D                   56   OFFICE             OFF OF PROVOST                                    
+11-268F                   58   OFFICE             OFF OF PROVOST                                    
+11-268G                   55   OFFICE             OFF OF PROVOST                                    
+11-268H                  142   OFFICE             OFF OF PROVOST                                    
+11-268K                   82   OFFICE SERVICE     OFF OF PROVOST                                    
+11-268L                   93   OFFICE             OFF OF PROVOST                                    
+11-268M                  319   OFFICE SERVICE     OFF OF PRESIDENT                                  
+11-268N                   95   OFFICE             OFF OF PROVOST                                    
+11-268P                   91   OFFICE             OFF OF PROVOST                                    
+11-268Q                   48   OFFICE             OFF OF PROVOST                                    
+11-268QA                  48   OFFICE             OFF OF PROVOST                                    
+11-268R                  118   OFFICE SERVICE     OFF OF PROVOST                                    
+11-268S                   57   OFFICE             OFF OF PROVOST                                    
+11-268U                   74   OFFICE             OFF OF PROVOST                                    
+11-268V                   36   SECY/RECEPTION     OFF OF PROVOST                                    
+11-268W                   91   OFFICE SERVICE     OFF OF PROVOST                                    
+11-273                    28   UTILITY/MECH RM    DP OF FACILITIES                                  
+11-273E                   10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+11-273T                   30   TELECOM CLOSET     DP OF FACILITIES                                  
+11-275                   133   OFFICE             STU SERVICES CTR                                  
+                    --------                                                                        
+                       4,579                                                                        
+                                                                                                    
+11-300E1                  62   ELEVATOR           DP OF FACILITIES                                  
+11-300LA                 103   LOBBY              DP OF FACILITIES                                  
+11-300SA                 115   STAIRWAY           DP OF FACILITIES                                  
+11-300SB                 241   STAIRWAY           DP OF FACILITIES                                  
+11-300Z                   33   SHAFT SPACE        DP OF FACILITIES                                  
+11-320                   678   PVT CIRCULATION    STU SERVICES CTR                                  
+11-320A                   78   OFFICE             STU SERVICES CTR                                  
+11-320B                   73   SECY/RECEPTION     STU SERVICES CTR                                  
+11-320C                  109   SECY/RECEPTION     STU SERVICES CTR                                  
+11-320D                   77   OFFICE             STU SERVICES CTR                                  
+11-320F                   79   OFFICE             STU SERVICES CTR                                  
+11-320G                   96   OFFICE             STU SERVICES CTR                                  
+11-320H                   84   OFFICE             STU SERVICES CTR                                  
+11-320K                   88   OFFICE             STU SERVICES CTR                                  
+11-320L                   88   OFFICE             STU SERVICES CTR                                  
+11-330                   141   OFFICE SERVICE     STU SERVICES CTR                                  
+11-332                    78   OFFICE             STU SERVICES CTR                                  
+11-334                   146   OFFICE             STU SERVICES CTR                                  
+11-335                   100   OFFICE             STU SERVICES CTR                                  
+11-337                   152   OFFICE             STU SERVICES CTR                                  
+11-345                   268   PVT CIRCULATION    STU SERVICES CTR                                  
+11-345A                   91   OFFICE             STU SERVICES CTR                                  
+11-345B                   91   OFFICE             STU SERVICES CTR                                  
+11-345C                   24   OFFICE SERVICE     STU SERVICES CTR                                  
+11-345D                   94   OFFICE             STU SERVICES CTR                                  
+11-345F                   99   OFFICE             STU SERVICES CTR                                  
+11-365                    69   OFFICE SERVICE     STU SERVICES CTR                                  
+11-373                    54   UTILITY/MECH RM    DP OF FACILITIES                                  
+11-373E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+11-373T                   13   TELECOM CLOSET     DP OF FACILITIES                                  
+11-375                   164   OFFICE SERVICE     STU SERVICES CTR                                  
+11-376                    50   PVT LAVATORY       STU SERVICES CTR                                  
+11-378                    50   PVT LAVATORY       STU SERVICES CTR                                  
+11-384                   163   OFFICE             STU SERVICES CTR                                  
+                    --------                                                                        
+                       3,863                                                                        
+                                                                                                    
+11-400CA                  80   CORRIDOR           DP OF FACILITIES                                  
+11-400E1                  63   ELEVATOR           DP OF FACILITIES                                  
+11-400LA                  42   LOBBY              DP OF FACILITIES                                  
+11-400SA                  77   STAIRWAY           DP OF FACILITIES                                  
+11-400SB                 164   STAIRWAY           DP OF FACILITIES                                  
+11-400Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+11-413                   144   OFFICE             PUBLIC REL SVCS        NEWS OFF                   
+11-417                   260   CONFERENCE ROOM    PUBLIC REL SVCS        NEWS OFF                   
+11-420                   580   PVT CIRCULATION    PUBLIC REL SVCS        NEWS OFF                   
+11-420A                   81   OFFICE             PUBLIC REL SVCS        NEWS OFF                   
+11-420B                   82   OFFICE             PUBLIC REL SVCS        NEWS OFF                   
+11-420C                   80   OFFICE             PUBLIC REL SVCS        NEWS OFF                   
+11-420D                   79   OFFICE             PUBLIC REL SVCS        NEWS OFF                   
+11-420L                   84   SECY/RECEPTION     PUBLIC REL SVCS        NEWS OFF                   
+11-420M                   84   OFFICE SERVICE     PUBLIC REL SVCS        NEWS OFF                   
+11-420P                   30   OFFICE SERVICE     PUBLIC REL SVCS        NEWS OFF                   
+11-420Q                   40   OFFICE SERVICE     PUBLIC REL SVCS        NEWS OFF                   
+11-421                    69   OFFICE SERVICE     PUBLIC REL SVCS        NEWS OFF                   
+11-422                    12   OFFICE SERVICE     PUBLIC REL SVCS        NEWS OFF                   
+11-445                   241   PVT CIRCULATION    PUBLIC REL SVCS        NEWS OFF                   
+11-445A                   78   OFFICE             PUBLIC REL SVCS        NEWS OFF                   
+11-445B                   77   OFFICE             PUBLIC REL SVCS                                   
+11-445C                   75   OFFICE             PUBLIC REL SVCS                                   
+11-445D                   77   OFFICE             PUBLIC REL SVCS        NEWS OFF                   
+11-445F                   52   OFFICE             PUBLIC REL SVCS                                   
+11-445G                  116   OFFICE             PUBLIC REL SVCS        NEWS OFF                   
+11-445K                   65   OFFICE             PUBLIC REL SVCS        NEWS OFF                   
+11-445L                   65   OFFICE             PUBLIC REL SVCS        NEWS OFF                   
+11-445M                   65   OFFICE             PUBLIC REL SVCS        NEWS OFF                   
+11-445N                   66   OFFICE             PUBLIC REL SVCS        NEWS OFF                   
+11-445P                   37   OFFICE SERVICE     PUBLIC REL SVCS        NEWS OFF                   
+11-469                    45   PVT LAVATORY       PUBLIC REL SVCS        NEWS OFF                   
+11-471                    45   PVT LAVATORY       PUBLIC REL SVCS        NEWS OFF                   
+11-473                   109   PVT CIRCULATION    PUBLIC REL SVCS        NEWS OFF                   
+11-473E                   22   ELECTRIC CLOSET    DP OF FACILITIES                                  
+11-473J                   14   JANITOR CLOSET     DP OF FACILITIES                                  
+11-473T                   16   TELECOM CLOSET     DP OF FACILITIES                                  
+11-475                   114   OFFICE             PUBLIC REL SVCS        NEWS OFF                   
+11-478                   245   UTILITY/MECH RM    DP OF FACILITIES                                  
+11-482                    67   OFFICE SERVICE     PUBLIC REL SVCS        NEWS OFF                   
+11-484                   119   OFFICE             PUBLIC REL SVCS        NEWS OFF                   
+                    --------                                                                        
+                       3,871                                                                        
+                                                                                                    
+11-580                    79   UTILITY/MECH RM    DP OF FACILITIES 

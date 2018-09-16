@@ -1,0 +1,583 @@
+E52-000CA                905   CORRIDOR           DP OF FACILITIES                                  
+E52-000CB                578   CORRIDOR           DP OF FACILITIES                                  
+E52-000CC                309   CORRIDOR           DP OF FACILITIES                                  
+E52-000E1                 65   ELEVATOR           DP OF FACILITIES                                  
+E52-000E5                 81   ELEVATOR           DP OF FACILITIES                                  
+E52-000SA                190   STAIRWAY           DP OF FACILITIES                                  
+E52-000SB                165   STAIRWAY           DP OF FACILITIES                                  
+E52-000Z                 403   SHAFT SPACE        DP OF FACILITIES                                  
+E52-001                1,974   PVT CIRCULATION    SCH OF MANAGEMNT                                  
+E52-002                   15   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-002A                  11   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-003                  115   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-005                  125   OFFICE             SCH OF MANAGEMNT                                  
+E52-007                  125   OFFICE             SCH OF MANAGEMNT                                  
+E52-009                  117   OFFICE             SCH OF MANAGEMNT                                  
+E52-011                  125   OFFICE             SCH OF MANAGEMNT                                  
+E52-012A                  72   OFFICE             SCH OF MANAGEMNT                                  
+E52-012B                  72   OFFICE             SCH OF MANAGEMNT                                  
+E52-012C                  72   OFFICE             SCH OF MANAGEMNT                                  
+E52-012D                  72   OFFICE             SCH OF MANAGEMNT                                  
+E52-012F                  56   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-012G                  62   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-013                  125   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-014                  145   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-016                  440   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-020                  389   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E52-024                  211   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-028A                  67   OFFICE             SCH OF MANAGEMNT                                  
+E52-028B                  66   OFFICE             SCH OF MANAGEMNT                                  
+E52-028C                  66   OFFICE             SCH OF MANAGEMNT                                  
+E52-028D                  66   OFFICE             SCH OF MANAGEMNT                                  
+E52-028F                  66   OFFICE             SCH OF MANAGEMNT                                  
+E52-028G                  67   OFFICE             SCH OF MANAGEMNT                                  
+E52-028H                  67   OFFICE             SCH OF MANAGEMNT                                  
+E52-028K                  66   OFFICE             SCH OF MANAGEMNT                                  
+E52-028L                  66   OFFICE             SCH OF MANAGEMNT                                  
+E52-028N                  67   OFFICE             SCH OF MANAGEMNT                                  
+E52-028P                  69   OFFICE             SCH OF MANAGEMNT                                  
+E52-030                  207   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-032                   92   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-033                  197   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-034                   92   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-035                   73   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-037                  130   OFFICE             SCH OF MANAGEMNT                                  
+E52-038A                  67   OFFICE             SCH OF MANAGEMNT                                  
+E52-038B                  66   OFFICE             SCH OF MANAGEMNT                                  
+E52-038C                  67   OFFICE             SCH OF MANAGEMNT                                  
+E52-040                  123   OFFICE             SCH OF MANAGEMNT                                  
+E52-041A                  69   OFFICE             SCH OF MANAGEMNT                                  
+E52-041B                  67   OFFICE             SCH OF MANAGEMNT                                  
+E52-041C                  70   OFFICE             SCH OF MANAGEMNT                                  
+E52-043                  130   OFFICE             SCH OF MANAGEMNT                                  
+E52-044A                  72   OFFICE             SCH OF MANAGEMNT                                  
+E52-044B                  72   OFFICE             SCH OF MANAGEMNT                                  
+E52-044C                  71   OFFICE             SCH OF MANAGEMNT                                  
+E52-045A                  76   OFFICE             SCH OF MANAGEMNT                                  
+E52-045B                  76   OFFICE             SCH OF MANAGEMNT                                  
+E52-046                   78   UTILITY/MECH RM    DP OF FACILITIES                                  
+E52-053                  348   UTILITY/MECH RM    DP OF FACILITIES                                  
+E52-056                   66   PVT CIRCULATION    FACULTY CLUB                                      
+E52-056A                 171   NON-ATH LOCKR RM   FACULTY CLUB                                      
+E52-056B                  62   PUBLIC LAVATORY    DP OF FACILITIES                                  
+E52-056C                 155   NON-ATH LOCKR RM   FACULTY CLUB                                      
+E52-057J                  74   JANITOR CLOSET     DP OF FACILITIES                                  
+E52-060                  684   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-060A                  65   OFFICE             FACULTY CLUB                                      
+E52-060B                  94   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-060BA                 96   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-060C                 113   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-060D                 302   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-060F                 130   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-060G                  94   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-060H                  85   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-067                   50   STORAGE FACILITY   DP OF FACIL ADM                                   
+E52-071E                 792   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E52-072                  630   UTILITY/MECH RM    DP OF FACILITIES                                  
+E52-072E                 189   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E52-074                  187   UTILITY/MECH RM    DP OF FACILITIES                                  
+E52-076                  187   OFFICE SERVICE     COPY TECH CENTER                                  
+E52-076A                 153   OFFICE             COPY TECH CENTER                                  
+E52-076AA                138   OFFICE             COPY TECH CENTER                                  
+E52-076AB                135   OFFICE SERVICE     COPY TECH CENTER                                  
+E52-076ABA                66   OFFICE SERVICE     COPY TECH CENTER                                  
+E52-077                  149   OFFICE SERVICE     DP OF FACIL ADM                                   
+E52-080                  187   FEMALE LAVATORY    DP OF FACILITIES                                  
+E52-082                  188   MALE LAVATORY      DP OF FACILITIES                                  
+E52-084                  523   OFFICE SERVICE     PROVOST                                           
+E52-086T                 152   TELECOM CLOSET     DP OF FACILITIES                                  
+E52-088                  251   MULTI-PURPOSE RM   SCH OF MANAGEMNT                                  
+E52-090                1,805   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+                    --------                                                                        
+                      17,968                                                                        
+                                                                                                    
+E52-100CA              3,115   CORRIDOR           DP OF FACILITIES                                  
+E52-100E1                 59   ELEVATOR           DP OF FACILITIES                                  
+E52-100E2                 60   ELEVATOR           DP OF FACILITIES                                  
+E52-100E3                 60   ELEVATOR           DP OF FACILITIES                                  
+E52-100E4                 59   ELEVATOR           DP OF FACILITIES                                  
+E52-100E5                 81   ELEVATOR           DP OF FACILITIES                                  
+E52-100LA              1,991   LOBBY              DP OF FACILITIES                                  
+E52-100LB                 63   LOBBY              DP OF FACILITIES                                  
+E52-100LC                155   LOBBY              DP OF FACILITIES                                  
+E52-100LD                 46   LOBBY              DP OF FACILITIES                                  
+E52-100SA                225   STAIRWAY           DP OF FACILITIES                                  
+E52-100SB                164   STAIRWAY           DP OF FACILITIES                                  
+E52-100SC                247   STAIRWAY           DP OF FACILITIES                                  
+E52-100SD                 91   STAIRWAY           DP OF FACILITIES                                  
+E52-100Z                 452   SHAFT SPACE        DP OF FACILITIES                                  
+E52-101                  877   PVT CIRCULATION    SCH OF MANAGEMNT                                  
+E52-101A                  69   SECY/RECEPTION     SCH OF MANAGEMNT                                  
+E52-103                  102   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-103A                  90   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-104                   80   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-105A                  69   OFFICE             SCH OF MANAGEMNT                                  
+E52-105B                  69   OFFICE             SCH OF MANAGEMNT                                  
+E52-105C                  68   OFFICE             SCH OF MANAGEMNT                                  
+E52-105D                  68   OFFICE             SCH OF MANAGEMNT                                  
+E52-109                   76   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-111                  193   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-112                   99   MULTI-PURPOSE RM   SCH OF MANAGEMNT                                  
+E52-113                  273   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E52-116                   74   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-118                  255   OFFICE             SCH OF MANAGEMNT                                  
+E52-120                  132   OFFICE             SCH OF MANAGEMNT                                  
+E52-122                  139   OFFICE             SCH OF MANAGEMNT                                  
+E52-124                  132   OFFICE             SCH OF MANAGEMNT                                  
+E52-126                  131   OFFICE             SCH OF MANAGEMNT                                  
+E52-128                  139   OFFICE             SCH OF MANAGEMNT                                  
+E52-130                  132   OFFICE             SCH OF MANAGEMNT                                  
+E52-132                  111   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-133                  984   PVT CIRCULATION    SCH OF MANAGEMNT                                  
+E52-133A                  81   SECY/RECEPTION     SCH OF MANAGEMNT                                  
+E52-133B                  80   OFFICE             SCH OF MANAGEMNT                                  
+E52-133C                  81   OFFICE             SCH OF MANAGEMNT                                  
+E52-133D                  81   OFFICE             SCH OF MANAGEMNT                                  
+E52-133F                  81   OFFICE             SCH OF MANAGEMNT                                  
+E52-134                  113   OFFICE             SCH OF MANAGEMNT                                  
+E52-135                  149   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-136                  131   OFFICE             SCH OF MANAGEMNT                                  
+E52-138                  139   OFFICE             SCH OF MANAGEMNT                                  
+E52-140                  131   OFFICE             SCH OF MANAGEMNT                                  
+E52-141                  348   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-141A                  76   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-144                  276   OFFICE             SCH OF MANAGEMNT                                  
+E52-146                  132   OFFICE             SCH OF MANAGEMNT                                  
+E52-148                  331   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E52-150                  137   OFFICE             SCH OF MANAGEMNT                                  
+E52-153                  130   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-154                  280   OFFICE             SCH OF MANAGEMNT                                  
+E52-155                  130   OFFICE             SCH OF MANAGEMNT                                  
+E52-156                  137   OFFICE             SCH OF MANAGEMNT                                  
+E52-158                   76   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-158A                  34   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-158B                  35   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-162                   78   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-164                2,064   LECTURE HALL       REGISTRAR                                         
+E52-164A                  54   CLASSROOM SVC      REGISTRAR                                         
+E52-164B                  55   CLASSROOM SVC      REGISTRAR                                         
+E52-164C                  56   CLASSROOM SVC      REGISTRAR                                         
+E52-166                  102   MAIL ROOM          DP OF FACIL ADM                                   
+E52-169                  185   MALE LAVATORY      DP OF FACILITIES                                  
+E52-169J                  76   JANITOR CLOSET     DP OF FACILITIES                                  
+E52-171                  207   FEMALE LAVATORY    DP OF FACILITIES                                  
+E52-174                  333   UTILITY/MECH RM    DP OF FACILITIES                                  
+E52-185                   68   PVT CIRCULATION    DP OF FACIL ADM                                   
+E52-185AE                 19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E52-185E                 131   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E52-185T                 156   TELECOM CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      17,999                                                                        
+                                                                                                    
+E52-200CA              3,399   CORRIDOR           DP OF FACILITIES                                  
+E52-200E1                 58   ELEVATOR           DP OF FACILITIES                                  
+E52-200E2                 59   ELEVATOR           DP OF FACILITIES                                  
+E52-200E3                 59   ELEVATOR           DP OF FACILITIES                                  
+E52-200E4                 58   ELEVATOR           DP OF FACILITIES                                  
+E52-200E5                 81   ELEVATOR           DP OF FACILITIES                                  
+E52-200LA                 64   LOBBY              DP OF FACILITIES                                  
+E52-200LB                 52   LOBBY              DP OF FACILITIES                                  
+E52-200SA                215   STAIRWAY           DP OF FACILITIES                                  
+E52-200SB                164   STAIRWAY           DP OF FACILITIES                                  
+E52-200SC                208   STAIRWAY           DP OF FACILITIES                                  
+E52-200SD                156   STAIRWAY           DP OF FACILITIES                                  
+E52-200Z                 383   SHAFT SPACE        DP OF FACILITIES                                  
+E52-201                  900   PVT CIRCULATION    SCH OF MANAGEMNT                                  
+E52-201A                  56   SECY/RECEPTION     SCH OF MANAGEMNT                                  
+E52-203                  320   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E52-205A                  68   OFFICE             SCH OF MANAGEMNT                                  
+E52-205B                  70   OFFICE             SCH OF MANAGEMNT                                  
+E52-205C                  71   OFFICE             SCH OF MANAGEMNT                                  
+E52-205D                  69   OFFICE             SCH OF MANAGEMNT                                  
+E52-209                  125   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-211                   89   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-212                   88   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-213                   63   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-214                  134   OFFICE             SCH OF MANAGEMNT                                  
+E52-216                  117   OFFICE             SCH OF MANAGEMNT                                  
+E52-218                  255   OFFICE             SCH OF MANAGEMNT                                  
+E52-220                  132   OFFICE             SCH OF MANAGEMNT                                  
+E52-222                  139   OFFICE             SCH OF MANAGEMNT                                  
+E52-224                  132   OFFICE             SCH OF MANAGEMNT                                  
+E52-226                  132   OFFICE             SCH OF MANAGEMNT                                  
+E52-228                  139   OFFICE             SCH OF MANAGEMNT                                  
+E52-229                   65   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-230                  132   OFFICE             SCH OF MANAGEMNT                                  
+E52-232                  576   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-233                  380   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E52-233A                  11   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-233B                  49   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-234                  132   OFFICE             SCH OF MANAGEMNT                                  
+E52-236                  132   OFFICE             SCH OF MANAGEMNT                                  
+E52-237                   69   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-237A                  59   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-238                  139   OFFICE             SCH OF MANAGEMNT                                  
+E52-242                  270   OFFICE             SCH OF MANAGEMNT                                  
+E52-244                  139   OFFICE             SCH OF MANAGEMNT                                  
+E52-246                  230   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E52-248                  137   OFFICE             SCH OF MANAGEMNT                                  
+E52-252                  280   OFFICE             SCH OF MANAGEMNT                                  
+E52-254                  137   OFFICE             SCH OF MANAGEMNT                                  
+E52-255                1,386   PVT CIRCULATION    SCH OF MANAGEMNT                                  
+E52-255A                  68   OFFICE             SCH OF MANAGEMNT                                  
+E52-255B                  67   OFFICE             SCH OF MANAGEMNT                                  
+E52-255C                  75   OFFICE             SCH OF MANAGEMNT                                  
+E52-255D                  68   OFFICE             SCH OF MANAGEMNT                                  
+E52-255F                  66   OFFICE             SCH OF MANAGEMNT                                  
+E52-255G                  63   OFFICE             SCH OF MANAGEMNT                                  
+E52-256                  120   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-257                  264   OFFICE             SCH OF MANAGEMNT                                  
+E52-258                  144   OFFICE             SCH OF MANAGEMNT                                  
+E52-259                  101   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-259A                  62   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-261                  177   OFFICE             SCH OF MANAGEMNT                                  
+E52-262                  283   OFFICE             SCH OF MANAGEMNT                                  
+E52-263                   18   MULTI-PURPOSE RM   SCH OF MANAGEMNT                                  
+E52-264                  144   OFFICE             SCH OF MANAGEMNT                                  
+E52-267J                  83   JANITOR CLOSET     DP OF FACILITIES                                  
+E52-268                  367   OFFICE             SCH OF MANAGEMNT                                  
+E52-269                  186   MALE LAVATORY      DP OF FACILITIES                                  
+E52-270                  128   OFFICE             SCH OF MANAGEMNT                                  
+E52-271                  218   FEMALE LAVATORY    DP OF FACILITIES                                  
+E52-272                  124   OFFICE             SCH OF MANAGEMNT                                  
+E52-274                  303   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-285                   68   PVT CIRCULATION    DP OF FACIL ADM                                   
+E52-285E                 138   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E52-285T                 154   TELECOM CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      15,865                                                                        
+                                                                                                    
+E52-300                  863   PVT CIRCULATION    ECONOMICS                                         
+E52-300CA              3,081   CORRIDOR           DP OF FACILITIES                                  
+E52-300CC                172   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+E52-300E1                 58   ELEVATOR           DP OF FACILITIES                                  
+E52-300E2                 59   ELEVATOR           DP OF FACILITIES                                  
+E52-300E3                 59   ELEVATOR           DP OF FACILITIES                                  
+E52-300E4                 58   ELEVATOR           DP OF FACILITIES                                  
+E52-300E5                 81   ELEVATOR           DP OF FACILITIES                                  
+E52-300LA                 54   LOBBY              DP OF FACILITIES                                  
+E52-300SA                220   STAIRWAY           DP OF FACILITIES                                  
+E52-300SB                166   STAIRWAY           DP OF FACILITIES                                  
+E52-300SC                213   STAIRWAY           DP OF FACILITIES                                  
+E52-300SD                297   STAIRWAY           DP OF FACILITIES                                  
+E52-300Z                 648   SHAFT SPACE        DP OF FACILITIES                                  
+E52-301                  249   OFFICE SERVICE     ECONOMICS                                         
+E52-301A                  36   SECY/RECEPTION     ECONOMICS                                         
+E52-302                  131   OFFICE             ECONOMICS                                         
+E52-304                  131   OFFICE             ECONOMICS                                         
+E52-305                  138   OFFICE SERVICE     ECONOMICS                                         
+E52-306                  144   OFFICE             ECONOMICS                                         
+E52-308                   73   OFFICE SERVICE     ECONOMICS                                         
+E52-310                  152   OFFICE             ECONOMICS                                         
+E52-311                  168   OFFICE             ECONOMICS                                         
+E52-311A                 149   OFFICE             ECONOMICS                                         
+E52-314                  282   CONFERENCE ROOM    ECONOMICS                                         
+E52-315                   99   OFFICE SERVICE     ECONOMICS                                         
+E52-317                   43   OFFICE SERVICE     ECONOMICS                                         
+E52-318                  246   SECY/RECEPTION     ECONOMICS                                         
+E52-318A                 451   OFFICE             ECONOMICS                                         
+E52-318B                 181   OFFICE             ECONOMICS                                         
+E52-324                  877   CONFERENCE ROOM    ECONOMICS                                         
+E52-326                  129   OFFICE             SCH OF MANAGEMNT                                  
+E52-327                   90   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-328                  130   OFFICE             SCH OF MANAGEMNT                                  
+E52-329                   61   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-330                  134   OFFICE             SCH OF MANAGEMNT                                  
+E52-331                1,031   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-332                  130   OFFICE             SCH OF MANAGEMNT                                  
+E52-333                  538   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-333A                  71   SECY/RECEPTION     SCH OF MANAGEMNT                                  
+E52-333B                  68   SECY/RECEPTION     SCH OF MANAGEMNT                                  
+E52-334                  130   OFFICE             SCH OF MANAGEMNT                                  
+E52-335                  507   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E52-336                  134   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-337                  284   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-338                  130   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-340                  130   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-342                  134   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-344                  130   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-346                  130   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-348                  134   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-350                  221   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-352                   53   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-353                   36   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-354                  169   OFFICE             SCH OF MANAGEMNT                                  
+E52-355                  139   OFFICE             SCH OF MANAGEMNT                                  
+E52-356                  165   OFFICE             SCH OF MANAGEMNT                                  
+E52-357                  145   OFFICE             SCH OF MANAGEMNT                                  
+E52-359                  751   PVT CIRCULATION    SCH OF MANAGEMNT                                  
+E52-359A                  70   SECY/RECEPTION     SCH OF MANAGEMNT                                  
+E52-360                  191   OFFICE             SCH OF MANAGEMNT                                  
+E52-361                  190   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-362                  138   OFFICE             SCH OF MANAGEMNT                                  
+E52-363                  103   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+E52-364                  138   OFFICE             SCH OF MANAGEMNT                                  
+E52-365                  173   CONFERENCE ROOM    SCH OF MANAGEMNT                                  
+E52-366                  145   OFFICE             SCH OF MANAGEMNT                                  
+E52-367J                  83   JANITOR CLOSET     DP OF FACILITIES                                  
+E52-369                  186   MALE LAVATORY      DP OF FACILITIES                                  
+E52-370                  366   OFFICE             SCH OF MANAGEMNT                                  
+E52-371                  218   FEMALE LAVATORY    DP OF FACILITIES                                  
+E52-372                  127   OFFICE             SCH OF MANAGEMNT                                  
+E52-373                   94   MULTI-PURPOSE RM   SCH OF MANAGEMNT                                  
+E52-374                  122   OFFICE             SCH OF MANAGEMNT                                  
+E52-385                   68   PVT CIRCULATION    DP OF FACIL ADM                                   
+E52-385AE                 19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E52-385E                 130   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E52-385T                 156   TELECOM CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      18,196                                                                        
+                                                                                                    
+E52-400CA                640   CORRIDOR           DP OF FACILITIES                                  
+E52-400CC                173   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+E52-400E1                 61   ELEVATOR           DP OF FACILITIES                                  
+E52-400E2                 62   ELEVATOR           DP OF FACILITIES                                  
+E52-400E3                 62   ELEVATOR           DP OF FACILITIES                                  
+E52-400E4                 61   ELEVATOR           DP OF FACILITIES                                  
+E52-400E5                 81   ELEVATOR           DP OF FACILITIES                                  
+E52-400LA                 37   LOBBY              DP OF FACILITIES                                  
+E52-400SA                219   STAIRWAY           DP OF FACILITIES                                  
+E52-400SB                164   STAIRWAY           DP OF FACILITIES                                  
+E52-400SC                213   STAIRWAY           DP OF FACILITIES                                  
+E52-400SE                 52   STAIRWAY           DP OF FACILITIES                                  
+E52-400Z                 477   SHAFT SPACE        DP OF FACILITIES                                  
+E52-401                4,643   PVT CIRCULATION    ECONOMICS                                         
+E52-402                  273   OFFICE             ECONOMICS                                         
+E52-403                   29   OFFICE SERVICE     ECONOMICS                                         
+E52-404                  215   OFFICE             ECONOMICS                                         
+E52-405                   92   SECY/RECEPTION     ECONOMICS                                         
+E52-406                  216   OFFICE             ECONOMICS                                         
+E52-408                  199   OFFICE             ECONOMICS                                         
+E52-409                   52   OFFICE SERVICE     ECONOMICS                                         
+E52-410                  196   OFFICE             ECONOMICS                                         
+E52-412                  184   OFFICE             ECONOMICS                                         
+E52-414                  165   OFFICE             ECONOMICS                                         
+E52-415                   90   OFFICE             ECONOMICS                                         
+E52-416                  147   OFFICE SERVICE     ECONOMICS                                         
+E52-418                  258   OFFICE             ECONOMICS                                         
+E52-420                  215   OFFICE             ECONOMICS                                         
+E52-422                  222   OFFICE             ECONOMICS                                         
+E52-423                  115   OFFICE SERVICE     ECONOMICS                                         
+E52-424                  222   OFFICE             ECONOMICS                                         
+E52-425                  131   OFFICE SERVICE     ECONOMICS                                         
+E52-426                  222   OFFICE             ECONOMICS                                         
+E52-428                  222   OFFICE             ECONOMICS                                         
+E52-432                  754   CONFERENCE ROOM    ECONOMICS                                         
+E52-434                  227   OFFICE             ECONOMICS                                         
+E52-436                  222   OFFICE             ECONOMICS                                         
+E52-438                  222   OFFICE             ECONOMICS                                         
+E52-439A                  88   OFFICE             ECONOMICS                                         
+E52-439B                  88   OFFICE             ECONOMICS                                         
+E52-440                  222   OFFICE             ECONOMICS                                         
+E52-442                  222   OFFICE             ECONOMICS                                         
+E52-444                  222   OFFICE             ECONOMICS                                         
+E52-446                  274   OFFICE             ECONOMICS                                         
+E52-448                  176   OFFICE SERVICE     ECONOMICS                                         
+E52-450                  205   OFFICE             ECONOMICS                                         
+E52-452                  223   OFFICE             ECONOMICS                                         
+E52-453                   89   OFFICE             ECONOMICS                                         
+E52-454                  214   OFFICE             ECONOMICS                                         
+E52-456                  213   OFFICE             ECONOMICS                                         
+E52-458                  214   OFFICE             ECONOMICS                                         
+E52-460                  216   OFFICE             ECONOMICS                                         
+E52-464                  383   OFFICE SERVICE     ECONOMICS                                         
+E52-466                   19   STORAGE FACILITY   DP OF FACIL ADM                                   
+E52-467J                  73   JANITOR CLOSET     DP OF FACILITIES                                  
+E52-468                  174   OFFICE             ECONOMICS                                         
+E52-469                  180   MALE LAVATORY      DP OF FACILITIES                                  
+E52-470                  190   OFFICE             ECONOMICS                                         
+E52-471                  208   FEMALE LAVATORY    DP OF FACILITIES                                  
+E52-472                  141   OFFICE SERVICE     ECONOMICS                                         
+E52-474                   94   OFFICE SERVICE     ECONOMICS                                         
+E52-480                  238   OFFICE             ECONOMICS                                         
+E52-482                   87   OFFICE SERVICE     ECONOMICS                                         
+E52-484                  313   OFFICE             ECONOMICS                                         
+E52-485                   67   PVT CIRCULATION    DP OF FACIL ADM                                   
+E52-485E                 138   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E52-485T                 154   TELECOM CLOSET     DP OF FACILITIES                                  
+E52-486                  359   OFFICE SERVICE     ECONOMICS                                         
+E52-487                  714   OFFICE             ECONOMICS                                         
+E52-489                   91   OFFICE SERVICE     ECONOMICS                                         
+                    --------                                                                        
+                      18,126                                                                        
+                                                                                                    
+E52-500CA                453   CORRIDOR           DP OF FACILITIES                                  
+E52-500E1                 58   ELEVATOR           DP OF FACILITIES                                  
+E52-500E2                 59   ELEVATOR           DP OF FACILITIES                                  
+E52-500E3                 59   ELEVATOR           DP OF FACILITIES                                  
+E52-500E4                 58   ELEVATOR           DP OF FACILITIES                                  
+E52-500E5                 78   ELEVATOR           DP OF FACILITIES                                  
+E52-500LA                 42   LOBBY              DP OF FACILITIES                                  
+E52-500SA                213   STAIRWAY           DP OF FACILITIES                                  
+E52-500SB                164   STAIRWAY           DP OF FACILITIES                                  
+E52-500SC                213   STAIRWAY           DP OF FACILITIES                                  
+E52-500SE                196   STAIRWAY           DP OF FACILITIES                                  
+E52-500Z                 474   SHAFT SPACE        DP OF FACILITIES                                  
+E52-501                4,359   PVT CIRCULATION    ECONOMICS                                         
+E52-502                  354   OFFICE             ECONOMICS                                         
+E52-503A                  27   OFFICE SERVICE     ECONOMICS                                         
+E52-503B                  13   OFFICE SERVICE     ECONOMICS                                         
+E52-504                  215   OFFICE             ECONOMICS                                         
+E52-505                   91   SECY/RECEPTION     ECONOMICS                                         
+E52-506                  216   OFFICE             ECONOMICS                                         
+E52-508                  198   OFFICE             ECONOMICS                                         
+E52-509                   48   OFFICE SERVICE     ECONOMICS                                         
+E52-510                  196   OFFICE             ECONOMICS                                         
+E52-512                  184   OFFICE             ECONOMICS                                         
+E52-514                  164   OFFICE             ECONOMICS                                         
+E52-515                   91   OFFICE             ECONOMICS                                         
+E52-516                  150   OFFICE SERVICE     ECONOMICS                                         
+E52-518                  259   OFFICE             ECONOMICS                                         
+E52-520                  224   OFFICE             ECONOMICS                                         
+E52-522                  223   OFFICE             ECONOMICS                                         
+E52-523                  115   OFFICE SERVICE     ECONOMICS                                         
+E52-524                  223   OFFICE             ECONOMICS                                         
+E52-525                  129   OFFICE SERVICE     ECONOMICS                                         
+E52-526                  223   OFFICE             ECONOMICS                                         
+E52-528                  223   OFFICE             ECONOMICS                                         
+E52-530                  227   OFFICE             ECONOMICS                                         
+E52-532                  453   CONFERENCE ROOM    ECONOMICS                                         
+E52-534                  227   OFFICE             ECONOMICS                                         
+E52-536                  223   OFFICE             ECONOMICS                                         
+E52-538                  223   OFFICE             ECONOMICS                                         
+E52-539A                  90   OFFICE             ECONOMICS                                         
+E52-539B                  90   OFFICE             ECONOMICS                                         
+E52-540                  223   OFFICE             ECONOMICS                                         
+E52-542                  223   OFFICE             ECONOMICS                                         
+E52-544                  223   OFFICE             ECONOMICS                                         
+E52-546                  271   OFFICE             ECONOMICS                                         
+E52-548                  180   OFFICE SERVICE     ECONOMICS                                         
+E52-550                  205   OFFICE             ECONOMICS                                         
+E52-552                  223   OFFICE             ECONOMICS                                         
+E52-553                   91   OFFICE             ECONOMICS                                         
+E52-554                  214   OFFICE             ECONOMICS                                         
+E52-556                  213   OFFICE             ECONOMICS                                         
+E52-558                  213   OFFICE             ECONOMICS                                         
+E52-560                  219   OFFICE             ECONOMICS                                         
+E52-562                  119   OFFICE SERVICE     ECONOMICS                                         
+E52-564                  249   OFFICE             ECONOMICS                                         
+E52-565                  341   OFFICE             ECONOMICS                                         
+E52-566                   18   OFFICE SERVICE     ECONOMICS                                         
+E52-567J                  77   JANITOR CLOSET     DP OF FACILITIES                                  
+E52-568                  161   OFFICE SERVICE     ECONOMICS                                         
+E52-569                  182   MALE LAVATORY      DP OF FACILITIES                                  
+E52-570                  177   OFFICE             ECONOMICS                                         
+E52-571                  213   FEMALE LAVATORY    DP OF FACILITIES                                  
+E52-572                  143   OFFICE SERVICE     ECONOMICS                                         
+E52-574                  262   OFFICE SERVICE     ECONOMICS                                         
+E52-580                  320   OFFICE             ECONOMICS                                         
+E52-582                   87   OFFICE SERVICE     ECONOMICS                                         
+E52-584                  313   OFFICE             ECONOMICS                                         
+E52-585                   67   PVT CIRCULATION    DP OF FACIL ADM                                   
+E52-585AE                 19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E52-585E                 130   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E52-585T                 154   TELECOM CLOSET     DP OF FACILITIES                                  
+E52-586                  360   OFFICE             ECONOMICS                                         
+E52-587                  373   OFFICE             ECONOMICS                                         
+E52-589                   91   OFFICE SERVICE     ECONOMICS                                         
+                    --------                                                                        
+                      17,878                                                                        
+                                                                                                    
+E52-600CA                808   CORRIDOR           DP OF FACILITIES                                  
+E52-600CB                165   CORRIDOR           DP OF FACILITIES                                  
+E52-600CC                245   CORRIDOR           DP OF FACILITIES                                  
+E52-600CD              2,544   CORRIDOR           DP OF FACILITIES                                  
+E52-600CE                309   CORRIDOR           DP OF FACILITIES                                  
+E52-600E1                 57   ELEVATOR           DP OF FACILITIES                                  
+E52-600E2                 59   ELEVATOR           DP OF FACILITIES                                  
+E52-600E3                 59   ELEVATOR           DP OF FACILITIES                                  
+E52-600E4                 58   ELEVATOR           DP OF FACILITIES                                  
+E52-600E5                 78   ELEVATOR           DP OF FACILITIES                                  
+E52-600LA                 75   LOBBY              DP OF FACILITIES                                  
+E52-600SA                220   STAIRWAY           DP OF FACILITIES                                  
+E52-600SB                171   STAIRWAY           DP OF FACILITIES                                  
+E52-600SC                215   STAIRWAY           DP OF FACILITIES                                  
+E52-600Z                 718   SHAFT SPACE        DP OF FACILITIES                                  
+E52-612                  222   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-618                  916   CONFERENCE ROOM    FACULTY CLUB                                      
+E52-624                2,096   CONFERENCE ROOM    FACULTY CLUB                                      
+E52-624A                 184   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-632                1,681   CONFERENCE ROOM    FACULTY CLUB                                      
+E52-632A                 112   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-640                1,471   CONFERENCE ROOM    FACULTY CLUB                                      
+E52-640A                  59   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-640B                  36   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-640C                  58   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-641E                 134   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E52-646                  699   FOOD FACILITY      FACULTY CLUB                                      
+E52-646A                  10   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-648                   40   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-649                  175   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-650                  523   FOOD FACILITY      FACULTY CLUB                                      
+E52-650A                   8   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-651                  138   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-651A                 146   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-658                   21   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-659T                 125   TELECOM CLOSET     DP OF FACILITIES                                  
+E52-660                1,695   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-660A                  34   PVT LAVATORY       FACULTY CLUB                                      
+E52-660B                  39   PVT LAVATORY       FACULTY CLUB                                      
+E52-660C                  51   OFFICE             FACULTY CLUB                                      
+E52-660D                 191   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-660G                 321   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-661                   10   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-662                   51   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-667                   41   UTILITY/MECH RM    DP OF FACILITIES                                  
+E52-669                  247   MALE LAVATORY      DP OF FACILITIES                                  
+E52-669J                  34   JANITOR CLOSET     DP OF FACILITIES                                  
+E52-671                  304   FEMALE LAVATORY    DP OF FACILITIES                                  
+E52-674                  150   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-674A                 102   FOOD FACIL SVC     FACULTY CLUB                                      
+                    --------                                                                        
+                      17,904                                                                        
+                                                                                                    
+E52-700CA                790   CORRIDOR           DP OF FACILITIES                                  
+E52-700CB                213   CORRIDOR           DP OF FACILITIES                                  
+E52-700CC                272   CORRIDOR           DP OF FACILITIES                                  
+E52-700CD              1,743   CORRIDOR           DP OF FACILITIES                                  
+E52-700E1                 53   ELEVATOR           DP OF FACILITIES                                  
+E52-700E2                 53   ELEVATOR           DP OF FACILITIES                                  
+E52-700E3                 53   ELEVATOR           DP OF FACILITIES                                  
+E52-700E4                 53   ELEVATOR           DP OF FACILITIES                                  
+E52-700E5                 78   ELEVATOR           DP OF FACILITIES                                  
+E52-700LA                 75   LOBBY              DP OF FACILITIES                                  
+E52-700SA                210   STAIRWAY           DP OF FACILITIES                                  
+E52-700SB                201   STAIRWAY           DP OF FACILITIES                                  
+E52-700SC                248   STAIRWAY           DP OF FACILITIES                                  
+E52-700Z                 486   SHAFT SPACE        DP OF FACILITIES                                  
+E52-712                  142   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-718                  577   FOOD FACILITY      FACULTY CLUB                                      
+E52-724                1,497   CONFERENCE ROOM    FACULTY CLUB                                      
+E52-724B                  35   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-732                1,866   CONFERENCE ROOM    FACULTY CLUB                                      
+E52-732E                  35   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E52-736E                  35   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E52-740                1,497   CONFERENCE ROOM    FACULTY CLUB                                      
+E52-740A                  18   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-740B                  66   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-741E                 155   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E52-750                  934   FOOD FACILITY      FACULTY CLUB                                      
+E52-758                   22   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-759T                 125   TELECOM CLOSET     DP OF FACILITIES                                  
+E52-760                  580   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-760A                  71   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-760B                  68   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-760C                 347   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-760D                 150   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-762                   69   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-766                  342   OFFICE SERVICE     FACULTY CLUB                                      
+E52-766A                 140   CONFERENCE ROOM    FACULTY CLUB                                      
+E52-766B                 136   OFFICE             FACULTY CLUB                                      
+E52-766C                  33   OFFICE SERVICE     FACULTY CLUB                                      
+E52-766D                  34   OFFICE SERVICE     FACULTY CLUB                                      
+E52-766F                  54   OFFICE             FACULTY CLUB                                      
+E52-766G                  53   OFFICE             FACULTY CLUB                                      
+E52-766H                  54   OFFICE             FACULTY CLUB                                      
+E52-766K                  53   OFFICE             FACULTY CLUB                                      
+E52-766L                  53   OFFICE             FACULTY CLUB                                      
+E52-766N                  54   OFFICE             FACULTY CLUB                                      
+E52-767J                  91   JANITOR CLOSET     DP OF FACILITIES                                  
+E52-769                  251   MALE LAVATORY      DP OF FACILITIES                                  
+E52-771                  298   FEMALE LAVATORY    DP OF FACILITIES                                  
+E52-774                  166   FOOD FACIL SVC     FACULTY CLUB                                      
+E52-774A                 112   FOOD FACIL SVC     FACULTY CLUB   

@@ -1,0 +1,112 @@
+NE48-300CA               413   CORRIDOR           DP OF FACILITIES                                  
+NE48-300CB                90   CORRIDOR           DP OF FACILITIES                                  
+NE48-300LA               247   LOBBY              DP OF FACILITIES                                  
+NE48-308                 642   OFFICE SERVICE     OFF OF PROVOST         MVP                        
+NE48-308A                 64   OFFICE             OFF OF PROVOST         MVP                        
+NE48-308B                203   CONFERENCE ROOM    OFF OF PROVOST         MVP                        
+NE48-308C                209   OFFICE             OFF OF PROVOST         MVP                        
+NE48-308D                177   OFFICE SERVICE     OFF OF PROVOST         MVP                        
+NE48-308G                185   OFFICE             OFF OF PROVOST         MVP                        
+NE48-308H                107   OFFICE             OFF OF PROVOST         MVP                        
+NE48-308HA                70   OFFICE             OFF OF PROVOST                                    
+NE48-308K                129   OFFICE             OFF OF PROVOST         MVP                        
+NE48-308LA               100   OFFICE             OFF OF PROVOST         MVP                        
+NE48-308LB               136   OFFICE             OFF OF PROVOST         MVP                        
+NE48-308LC                95   OFFICE             OFF OF PROVOST         MVP                        
+NE48-308LD                71   OFFICE             OFF OF PROVOST         MVP                        
+NE48-308LF                29   OFFICE SERVICE     OFF OF PROVOST         MVP                        
+NE48-308LG                71   OFFICE             OFF OF PROVOST         MVP                        
+NE48-308LH                91   OFFICE             OFF OF PROVOST         MVP                        
+NE48-308LK                94   OFFICE             OFF OF PROVOST         MVP                        
+NE48-308N                275   OFFICE SERVICE     OFF OF PROVOST                                    
+NE48-308P                117   RESEARCH LAB       OFF OF PROVOST         MVP                        
+NE48-308PA                88   LABORATORY SVC     OFF OF PROVOST         MVP                        
+NE48-308Q                209   OFFICE SERVICE     OFF OF PROVOST         MVP                        
+NE48-308R                163   OFFICE SERVICE     OFF OF PROVOST         MVP                        
+NE48-308S                125   OFFICE SERVICE     OFF OF PROVOST         MVP                        
+NE48-308U                133   OFFICE SERVICE     OFF OF PROVOST         MVP                        
+NE48-308V                110   OFFICE SERVICE     OFF OF PROVOST         MVP                        
+NE48-308W                 83   OFFICE SERVICE     OFF OF PROVOST         MVP                        
+NE48-308X                140   OFFICE SERVICE     OFF OF PROVOST         MVP                        
+NE48-308XA                 9   OFFICE SERVICE     OFF OF PROVOST         MVP                        
+NE48-328                 871   OFFICE SERVICE     COMPARATIVE MEDIA ST   MITILI                     
+                                                  UDIES                                             
+                                                                                                    
+NE48-328A                 42   OFFICE SERVICE     COMPARATIVE MEDIA ST   MITILI                     
+                                                  UDIES                                             
+                                                                                                    
+NE48-328B                 74   OFFICE SERVICE     COMPARATIVE MEDIA ST   MITILI                     
+                                                  UDIES                                             
+                                                                                                    
+NE48-328C                 61   OFFICE SERVICE     COMPARATIVE MEDIA ST   MITILI                     
+                                                  UDIES                                             
+                                                                                                    
+NE48-328D                256   CONFERENCE ROOM    COMPARATIVE MEDIA ST   MITILI                     
+                                                  UDIES                                             
+                                                                                                    
+NE48-328F                120   OFFICE             COMPARATIVE MEDIA ST   MITILI                     
+                                                  UDIES                                             
+                                                                                                    
+NE48-328G                122   OFFICE             COMPARATIVE MEDIA ST   MITILI                     
+                                                  UDIES                                             
+                                                                                                    
+NE48-328H                134   OFFICE             COMPARATIVE MEDIA ST   MITILI                     
+                                                  UDIES                                             
+                                                                                                    
+NE48-328K                 75   OFFICE             COMPARATIVE MEDIA ST   MITILI                     
+                                                  UDIES                                             
+                                                                                                    
+NE48-328L                132   OFFICE             COMPARATIVE MEDIA ST   MITILI                     
+                                                  UDIES                                             
+                                                                                                    
+NE48-328N                130   OFFICE             COMPARATIVE MEDIA ST   MITILI                     
+                                                  UDIES                                             
+                                                                                                    
+NE48-328P                132   OFFICE             COMPARATIVE MEDIA ST   MITILI                     
+                                                  UDIES                                             
+                                                                                                    
+NE48-328Q                130   OFFICE             COMPARATIVE MEDIA ST   MITILI                     
+                                                  UDIES                                             
+                                                                                                    
+NE48-328R                108   OFFICE SERVICE     COMPARATIVE MEDIA ST   MITILI                     
+                                                  UDIES                                             
+                                                                                                    
+NE48-328S                 29   OFFICE SERVICE     COMPARATIVE MEDIA ST   MITILI                     
+                                                  UDIES                                             
+                                                                                                    
+NE48-328T                 47   TELECOM CLOSET     DP OF FACILITIES                                  
+NE48-328U                 56   SECY/RECEPTION     COMPARATIVE MEDIA ST   MITILI                     
+                                                  UDIES                                             
+                                                                                                    
+                    --------                                                                        
+                       7,193                                                                        
+                                                                                                    
+NE48-414                 402   OFFICE SERVICE     SCH OF ENGINEER        PROF ED                    
+NE48-414A                116   OFFICE SERVICE     SCH OF ENGINEER        PROF ED                    
+NE48-415                  37   OFFICE SERVICE     SCH OF ENGINEER        PROF ED                    
+NE48-416                 819   PVT CIRCULATION    SCH OF ENGINEER        PROF ED                    
+NE48-416A                145   SECY/RECEPTION     SCH OF ENGINEER        PROF ED                    
+NE48-417                  78   OFFICE             SCH OF ENGINEER        PROF ED                    
+NE48-419                 137   OFFICE             SCH OF ENGINEER        PROF ED                    
+NE48-421                 164   OFFICE             SCH OF ENGINEER        PROF ED                    
+NE48-423                 174   OFFICE             SCH OF ENGINEER        PROF ED                    
+NE48-425                 105   OFFICE             SCH OF ENGINEER        PROF ED                    
+NE48-431                 426   CONFERENCE ROOM    SCH OF ENGINEER        PROF ED                    
+NE48-431A                152   OFFICE SERVICE     SCH OF ENGINEER        PROF ED                    
+NE48-435                 107   OFFICE             SCH OF ENGINEER        PROF ED                    
+NE48-437                 117   OFFICE             SCH OF ENGINEER        PROF ED                    
+NE48-441A                 59   OFFICE             SCH OF ENGINEER        PROF ED                    
+NE48-441B                 59   OFFICE             SCH OF ENGINEER        PROF ED                    
+NE48-441C                 44   OFFICE             SCH OF ENGINEER        PROF ED                    
+NE48-441D                 44   OFFICE             SCH OF ENGINEER        PROF ED                    
+NE48-445                  99   OFFICE             SCH OF ENGINEER        PROF ED                    
+NE48-446                  42   OFFICE             SCH OF ENGINEER        PROF ED                    
+NE48-447                 103   OFFICE             SCH OF ENGINEER        PROF ED                    
+NE48-449                  98   OFFICE             SCH OF ENGINEER        PROF ED                    
+NE48-450                  17   OFFICE SERVICE     SCH OF ENGINEER        PROF ED                    
+NE48-451                 104   OFFICE             SCH OF ENGINEER        PROF ED                    
+NE48-452                  10   OFFICE SERVICE     SCH OF ENGINEER        PROF ED                    
+NE48-453                 103   OFFICE             SCH OF ENGINEER        PROF ED                    
+NE48-454                   8   OFFICE SERVICE     SCH OF ENGINEER        PROF ED                    
+NE48-455                 131   OFFICE             SCH OF ENGINEER        PROF ED                    
+NE48-456                   7   OFFICE SERVICE     SCH OF ENGINEER        PROF ED    

@@ -1,0 +1,341 @@
+38-000CA                 418   BRIDGE/TUNNEL      DP OF FACILITIES                                  
+38-000SA                 204   STAIRWAY           DP OF FACILITIES                                  
+38-000SB                  99   STAIRWAY           DP OF FACILITIES                                  
+38-000Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+38-001                   778   LAB SUPPORT SHOP   SCH OF SCIENCE         HQG                        
+38-001A                  211   OFFICE SERVICE     SCH OF SCIENCE                                    
+38-001B                   77   OFFICE SERVICE     SCH OF SCIENCE                                    
+38-015                   457   LABORATORY SVC     SCH OF SCIENCE                                    
+38-017                 1,033   LAB SUPPORT SHOP   SCH OF SCIENCE         EECS                       
+38-028                 3,834   UTILITY/MECH RM    DP OF FACILITIES                                  
+38-029                    68   OFFICE             SCH OF SCIENCE                                    
+38-044                    74   OFFICE SERVICE     SCH OF SCIENCE                                    
+38-045                 3,097   LAB SUPPORT SHOP   SCH OF SCIENCE         HQG                        
+38-045A                   86   LAB SUPPORT SHOP   SCH OF SCIENCE         HQG                        
+38-053                   109   OFFICE             SCH OF SCIENCE         HQG                        
+38-069                   113   OFFICE             SCH OF SCIENCE         HQG                        
+38-089                   415   LAB SUPPORT SHOP   SCH OF SCIENCE         HQG                        
+38-099                   144   LABORATORY SVC     SCH OF SCIENCE         HQG                        
+                    --------                                                                        
+                      11,242                                                                        
+                                                                                                    
+38-100CA               1,152   CORRIDOR           DP OF FACILITIES                                  
+38-100SA                 168   STAIRWAY           DP OF FACILITIES                                  
+38-100SB                 113   STAIRWAY           DP OF FACILITIES                                  
+38-100Z                  538   SHAFT SPACE        DP OF FACILITIES                                  
+38-107                   166   LABORATORY SVC     MICROSYSTEMS LAB                                  
+38-107A                  209   OFFICE             MICROSYSTEMS LAB                                  
+38-107B                   85   SECY/RECEPTION     MICROSYSTEMS LAB                                  
+38-107C                  226   RSCH LAB-OFFICE    MICROSYSTEMS LAB                                  
+38-107D                   53   LABORATORY SVC     MICROSYSTEMS LAB                                  
+38-107F                1,110   RSCH LAB-OFFICE    MICROSYSTEMS LAB                                  
+38-121E                   18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-121Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+38-128J                   11   JANITOR CLOSET     DP OF FACILITIES                                  
+38-129                   661   RESEARCH LAB       MICROSYSTEMS LAB                                  
+38-129A                  167   CONFERENCE ROOM    MICROSYSTEMS LAB                                  
+38-129E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-129Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+38-136                   523   RESEARCH LAB       RES LAB OF ELEC                                   
+38-137A                   25   UTILITY/MECH RM    DP OF FACILITIES                                  
+38-137B                   13   UTILITY/MECH RM    DP OF FACILITIES                                  
+38-145                   268   RSCH LAB-OFFICE    MICROSYSTEMS LAB                                  
+38-145E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-153A                   12   UTILITY/MECH RM    DP OF FACILITIES                                  
+38-153E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-160                   797   RESEARCH LAB       RES LAB OF ELEC        IND                        
+38-161                   266   LAB SUPPORT SHOP   RES LAB OF ELEC        IND                        
+38-161A                   26   UTILITY/MECH RM    DP OF FACILITIES                                  
+38-166                   559   CLASSROOM          REGISTRAR                                         
+38-169A                   25   UTILITY/MECH RM    DP OF FACILITIES                                  
+38-173                   393   RESEARCH LAB       RES LAB OF ELEC        MAT                        
+38-177                   404   RESEARCH LAB       RES LAB OF ELEC        IND                        
+38-177A                   13   UTILITY/MECH RM    DP OF FACILITIES                                  
+38-177E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-181                   330   RESEARCH LAB       RES LAB OF ELEC        IND                        
+38-184                    43   LABORATORY SVC     RES LAB OF ELEC        IND                        
+38-184A                  385   RESEARCH LAB       RES LAB OF ELEC                                   
+38-185                   318   RESEARCH LAB       RES LAB OF ELEC        MAT                        
+38-185A                   12   UTILITY/MECH RM    DP OF FACILITIES                                  
+38-185E                   13   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-189                   125   RESEARCH LAB       RES LAB OF ELEC        MAT                        
+38-191                   115   LABORATORY SVC     RES LAB OF ELEC        MAT                        
+38-192                   602   LABORATORY SVC     RES LAB OF ELEC                                   
+38-193A                   12   UTILITY/MECH RM    DP OF FACILITIES                                  
+38-193T                   26   TELECOM CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                      10,049                                                                        
+                                                                                                    
+38-200CA                 385   CORRIDOR           DP OF FACILITIES                                  
+38-200CB                 875   CORRIDOR           DP OF FACILITIES                                  
+38-200SA                 177   STAIRWAY           DP OF FACILITIES                                  
+38-200Z                  433   SHAFT SPACE        DP OF FACILITIES                                  
+38-201                   557   LABORATORY SVC     ELEC ENG&COMP SC                                  
+38-201Z                   46   SHAFT SPACE        DP OF FACILITIES                                  
+38-221E                   18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-221Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+38-228J                    9   JANITOR CLOSET     DP OF FACILITIES                                  
+38-229                 1,588   RESEARCH LAB       MICROSYSTEMS LAB                                  
+38-229A                   54   RESEARCH LAB       MICROSYSTEMS LAB                                  
+38-229E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-229Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+38-237Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+38-245                    24   LABORATORY SVC     MICROSYSTEMS LAB                                  
+38-245E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-245Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+38-246                   376   OFFICE SERVICE     MICROSYSTEMS LAB                                  
+38-246A                  179   SECY/RECEPTION     MICROSYSTEMS LAB                                  
+38-246B                  136   OFFICE             MICROSYSTEMS LAB                                  
+38-246C                  246   OFFICE             MICROSYSTEMS LAB                                  
+38-253E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-253Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+38-256                   127   CONFERENCE ROOM    RES LAB OF ELEC        PLA                        
+38-260                   253   OFFICE             RES LAB OF ELEC        PLA                        
+38-261Z                   14   SHAFT SPACE        DP OF FACILITIES                                  
+38-264H                   42   OFFICE             RES LAB OF ELEC                                   
+38-265                   309   LABORATORY SVC     MICROSYSTEMS LAB                                  
+38-265A                  143   RSCH LAB-OFFICE    MICROSYSTEMS LAB                                  
+38-265B                  125   RSCH LAB-OFFICE    MICROSYSTEMS LAB                                  
+38-265C                  131   RSCH LAB-OFFICE    MICROSYSTEMS LAB                                  
+38-265D                  142   RSCH LAB-OFFICE    MICROSYSTEMS LAB                                  
+38-265F                   87   RSCH LAB-OFFICE    MICROSYSTEMS LAB                                  
+38-265G                   14   LABORATORY SVC     MICROSYSTEMS LAB                                  
+38-266                   365   OFFICE SERVICE     RES LAB OF ELEC                                   
+38-266A                   42   OFFICE             RES LAB OF ELEC                                   
+38-266B                   40   OFFICE             RES LAB OF ELEC                                   
+38-266C                   40   OFFICE             RES LAB OF ELEC                                   
+38-266D                   77   OFFICE             RES LAB OF ELEC                                   
+38-266F                   40   OFFICE             RES LAB OF ELEC                                   
+38-266G                   40   OFFICE             RES LAB OF ELEC                                   
+38-269Z                   23   SHAFT SPACE        DP OF FACILITIES                                  
+38-273                   695   RESEARCH LAB       RES LAB OF ELEC        OPT                        
+38-273A                   81   RESEARCH LAB       RES LAB OF ELEC                                   
+38-276                   214   OFFICE SERVICE     RES LAB OF ELEC                                   
+38-276A                  103   OFFICE SERVICE     RES LAB OF ELEC        OPT                        
+38-277E                   10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-277Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+38-280                   136   OFFICE             RES LAB OF ELEC        OPT                        
+38-285                   465   RSCH LAB-OFFICE    RES LAB OF ELEC        OPT                        
+38-285A                   63   RESEARCH LAB       RES LAB OF ELEC                                   
+38-285AA                  12   UTILITY/MECH RM    DP OF FACILITIES                                  
+38-285B                  185   LAB SUPPORT SHOP   RES LAB OF ELEC                                   
+38-285Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+38-288                   126   OFFICE             RES LAB OF ELEC        PLA                        
+38-290                   128   OFFICE             RES LAB OF ELEC        OPT                        
+38-293T                   25   TELECOM CLOSET     DP OF FACILITIES                                  
+38-293Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+38-294                   205   OFFICE             RES LAB OF ELEC        OPT                        
+38-296                   136   OFFICE             RES LAB OF ELEC        OPT                        
+38-298                   140   OFFICE             RES LAB OF ELEC        OPT                        
+                    --------                                                                        
+                      10,029                                                                        
+                                                                                                    
+38-300CA                 340   CORRIDOR           DP OF FACILITIES                                  
+38-300CB                 693   CORRIDOR           DP OF FACILITIES                                  
+38-300CC                  78   CORRIDOR           DP OF FACILITIES                                  
+38-300SA                 177   STAIRWAY           DP OF FACILITIES                                  
+38-300Z                  427   SHAFT SPACE        DP OF FACILITIES                                  
+38-301                   747   LABORATORY SVC     ELEC ENG&COMP SC                                  
+38-321E                   18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-321Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+38-325                   714   LABORATORY SVC     ELEC ENG&COMP SC                                  
+38-327                   446   RESEARCH LAB       MICROSYSTEMS LAB                                  
+38-328J                    9   JANITOR CLOSET     DP OF FACILITIES                                  
+38-329E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-329Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+38-335                   590   RESEARCH LAB       MICROSYSTEMS LAB                                  
+38-336                   150   OFFICE SERVICE     ELEC ENG&COMP SC                                  
+38-337Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+38-344                   350   OFFICE SERVICE     MICROSYSTEMS LAB                                  
+38-344A                  238   OFFICE             MICROSYSTEMS LAB                                  
+38-344B                  127   OFFICE             MICROSYSTEMS LAB                                  
+38-344C                  127   OFFICE             MICROSYSTEMS LAB                                  
+38-344D                  221   OFFICE             MICROSYSTEMS LAB                                  
+38-344F                   10   OFFICE SERVICE     MICROSYSTEMS LAB                                  
+38-345E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-345Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+38-353                    24   LABORATORY SVC     ELEC ENG&COMP SC                                  
+38-353A                   12   UTILITY/MECH RM    DP OF FACILITIES                                  
+38-353Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+38-361                   458   RESEARCH LAB       MICROSYSTEMS LAB                                  
+38-361Z                    4   SHAFT SPACE        DP OF FACILITIES                                  
+38-366                   134   OFFICE SERVICE     ELEC ENG&COMP SC                                  
+38-369Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+38-370                   604   COMPUTER FACIL     ELEC ENG&COMP SC                                  
+38-372                   160   OFFICE SERVICE     ELEC ENG&COMP SC                                  
+38-373                   198   RESEARCH LAB       MICROSYSTEMS LAB                                  
+38-376                   215   OFFICE SERVICE     ELEC ENG&COMP SC                                  
+38-376A                   26   OFFICE SERVICE     ELEC ENG&COMP SC                                  
+38-376B                   77   SECY/RECEPTION     ELEC ENG&COMP SC                                  
+38-377                   556   LABORATORY SVC     MICROSYSTEMS LAB                                  
+38-377E                   10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-377Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+38-385A                   12   UTILITY/MECH RM    DP OF FACILITIES                                  
+38-385Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+38-387                   529   RESEARCH LAB       MICROSYSTEMS LAB                                  
+38-388                   131   OFFICE             ELEC ENG&COMP SC                                  
+38-390                   119   OFFICE             ELEC ENG&COMP SC                                  
+38-393                   652   RESEARCH LAB       MICROSYSTEMS LAB                                  
+38-393T                   25   TELECOM CLOSET     DP OF FACILITIES                                  
+38-393Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+38-394                   210   OFFICE             ELEC ENG&COMP SC                                  
+38-396                    87   OFFICE SERVICE     ELEC ENG&COMP SC                                  
+38-398                   189   OFFICE             ELEC ENG&COMP SC                                  
+38-399                    46   OFFICE SERVICE     ELEC ENG&COMP SC                                  
+                    --------                                                                        
+                      10,089                                                                        
+                                                                                                    
+38-400CA               1,065   CORRIDOR           DP OF FACILITIES                                  
+38-400SA                 177   STAIRWAY           DP OF FACILITIES                                  
+38-400Z                  451   SHAFT SPACE        DP OF FACILITIES                                  
+38-401                   510   SECY/RECEPTION     ELEC ENG&COMP SC       EECS                       
+38-401A                    6   OFFICE SERVICE     ELEC ENG&COMP SC                                  
+38-403                   235   OFFICE             ELEC ENG&COMP SC       EECS                       
+38-409                   847   PVT CIRCULATION    ELEC ENG&COMP SC       EECS                       
+38-409B                  113   OFFICE             ELEC ENG&COMP SC                                  
+38-409C                  119   OFFICE             ELEC ENG&COMP SC                                  
+38-409CA                  24   OFFICE SERVICE     ELEC ENG&COMP SC                                  
+38-409D                   81   OFFICE             ELEC ENG&COMP SC                                  
+38-409DA                  31   OFFICE SERVICE     ELEC ENG&COMP SC                                  
+38-409F                  108   OFFICE             ELEC ENG&COMP SC                                  
+38-409G                   77   OFFICE SERVICE     ELEC ENG&COMP SC                                  
+38-409H                  105   SECY/RECEPTION     ELEC ENG&COMP SC                                  
+38-409K                  100   OFFICE             ELEC ENG&COMP SC                                  
+38-413                   240   CONFERENCE ROOM    ELEC ENG&COMP SC                                  
+38-421E                   17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-421Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+38-427                   246   OFFICE             ELEC ENG&COMP SC       EECS                       
+38-428J                    9   JANITOR CLOSET     DP OF FACILITIES                                  
+38-429E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-429Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+38-431Z                    1   SHAFT SPACE        DP OF FACILITIES                                  
+38-435                   247   OFFICE             ELEC ENG&COMP SC       EECS                       
+38-437                   134   OFFICE SERVICE     ELEC ENG&COMP SC       EECS                       
+38-437Z                   24   SHAFT SPACE        DP OF FACILITIES                                  
+38-444                   367   OFFICE SERVICE     ELEC ENG&COMP SC                                  
+38-444A                   92   OFFICE             ELEC ENG&COMP SC                                  
+38-444B                   94   OFFICE             ELEC ENG&COMP SC                                  
+38-444C                   98   OFFICE             ELEC ENG&COMP SC       EECS                       
+38-445                   189   OFFICE SERVICE     ELEC ENG&COMP SC       EECS                       
+38-445E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-445Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+38-450                   198   OFFICE             ELEC ENG&COMP SC       EECS                       
+38-451                   124   OFFICE             ELEC ENG&COMP SC       EECS                       
+38-453                   203   OFFICE SERVICE     ELEC ENG&COMP SC                                  
+38-453A                   12   UTILITY/MECH RM    DP OF FACILITIES                                  
+38-453Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+38-454                   251   OFFICE             ELEC ENG&COMP SC       EECS                       
+38-459                   122   OFFICE             ELEC ENG&COMP SC       EECS                       
+38-460                   217   OFFICE             ELEC ENG&COMP SC       EECS                       
+38-461Z                    4   SHAFT SPACE        DP OF FACILITIES                                  
+38-466                   547   CONFERENCE ROOM    ELEC ENG&COMP SC                                  
+38-466A                   15   OFFICE SERVICE     ELEC ENG&COMP SC       EECS                       
+38-467                   121   OFFICE             ELEC ENG&COMP SC       EECS                       
+38-469Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+38-475                   122   OFFICE             ELEC ENG&COMP SC                                  
+38-476                   558   OFFICE SERVICE     ELEC ENG&COMP SC       EECS                       
+38-476A                  101   SECY/RECEPTION     ELEC ENG&COMP SC                                  
+38-477                   193   CONFERENCE ROOM    ELEC ENG&COMP SC       EECS                       
+38-477E                   12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-477Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+38-482                   212   OFFICE             ELEC ENG&COMP SC       EECS                       
+38-483                   122   OFFICE             ELEC ENG&COMP SC       EECS                       
+38-485A                   12   UTILITY/MECH RM    DP OF FACILITIES                                  
+38-485Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+38-488                   127   OFFICE             ELEC ENG&COMP SC       EECS                       
+38-490                   125   OFFICE             ELEC ENG&COMP SC       EECS                       
+38-491                   124   OFFICE             ELEC ENG&COMP SC       EECS                       
+38-493                   122   OFFICE SERVICE     ELEC ENG&COMP SC       EECS                       
+38-493T                   25   TELECOM CLOSET     DP OF FACILITIES                                  
+38-493Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+38-494                   210   OFFICE             ELEC ENG&COMP SC       EECS                       
+38-497                   168   OFFICE             ELEC ENG&COMP SC       EECS                       
+                    --------                                                                        
+                       9,974                                                                        
+                                                                                                    
+38-500CA                 356   CORRIDOR           DP OF FACILITIES                                  
+38-500SA                 177   STAIRWAY           DP OF FACILITIES                                  
+38-500Z                  464   SHAFT SPACE        DP OF FACILITIES                                  
+38-501                 1,113   TEACHING LAB       ELEC ENG&COMP SC                                  
+38-501A                  130   TEACHING LAB       ELEC ENG&COMP SC                                  
+38-501B                  566   LABORATORY SVC     ELEC ENG&COMP SC                                  
+38-501BA                  18   LABORATORY SVC     ELEC ENG&COMP SC                                  
+38-501C                   61   OFFICE             ELEC ENG&COMP SC                                  
+38-521E                   18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-521Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+38-528J                    9   JANITOR CLOSET     DP OF FACILITIES                                  
+38-529A                   12   UTILITY/MECH RM    DP OF FACILITIES                                  
+38-529Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+38-530                 4,038   TEACHING LAB       ELEC ENG&COMP SC       EECS                       
+38-530A                   26   LABORATORY SVC     ELEC ENG&COMP SC                                  
+38-537Z                   22   SHAFT SPACE        DP OF FACILITIES                                  
+38-545                   530   LABORATORY SVC     ELEC ENG&COMP SC                                  
+38-545A                  287   TEACHING LAB       ELEC ENG&COMP SC       EECS                       
+38-545B                  417   TEACHING LAB       ELEC ENG&COMP SC       EECS                       
+38-545C                  435   TEACHING LAB       ELEC ENG&COMP SC       EECS                       
+38-545D                  190   TEACHING LAB       ELEC ENG&COMP SC       EECS                       
+38-545E                   10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-545Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+38-547                   123   LABORATORY SVC     ELEC ENG&COMP SC       EECS                       
+38-549                    70   OFFICE             ELEC ENG&COMP SC                                  
+38-553A                   11   UTILITY/MECH RM    DP OF FACILITIES                                  
+38-553Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+38-559                   280   CONFERENCE ROOM    ELEC ENG&COMP SC                                  
+38-561Z                    3   SHAFT SPACE        DP OF FACILITIES                                  
+38-567                   124   OFFICE             ELEC ENG&COMP SC                                  
+38-569Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+38-575                   120   OFFICE             ELEC ENG&COMP SC                                  
+38-577E                    9   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-577Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+38-583                   132   OFFICE             ELEC ENG&COMP SC       EECS                       
+38-585A                   11   UTILITY/MECH RM    DP OF FACILITIES                                  
+38-585Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+38-587                   127   OFFICE             ELEC ENG&COMP SC       EECS                       
+38-591                   118   OFFICE             ELEC ENG&COMP SC       EECS                       
+38-593T                   24   TELECOM CLOSET     DP OF FACILITIES                                  
+38-593Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      10,126                                                                        
+                                                                                                    
+38-600CA                 394   CORRIDOR           DP OF FACILITIES                                  
+38-600SA                 177   STAIRWAY           DP OF FACILITIES                                  
+38-600Z                  451   SHAFT SPACE        DP OF FACILITIES                                  
+38-601                   624   TEACHING LAB       ELEC ENG&COMP SC       EECS                       
+38-621E                   18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-621Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+38-628J                    9   JANITOR CLOSET     DP OF FACILITIES                                  
+38-629                 2,718   TEACHING LAB       ELEC ENG&COMP SC       EECS                       
+38-629A                   12   LABORATORY SVC     ELEC ENG&COMP SC                                  
+38-629B                   78   LABORATORY SVC     ELEC ENG&COMP SC                                  
+38-629Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+38-630                 3,225   TEACHING LAB       ELEC ENG&COMP SC       EECS                       
+38-633                   783   TEACHING LAB       ELEC ENG&COMP SC       EECS                       
+38-637Z                   23   SHAFT SPACE        DP OF FACILITIES                                  
+38-641                   259   LABORATORY SVC     ELEC ENG&COMP SC       EECS                       
+38-644                   112   OFFICE             ELEC ENG&COMP SC                                  
+38-645                   128   LABORATORY SVC     ELEC ENG&COMP SC       EECS                       
+38-645E                   11   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-645Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+38-648                   125   LABORATORY SVC     ELEC ENG&COMP SC       EECS                       
+38-652                   122   LABORATORY SVC     ELEC ENG&COMP SC       EECS                       
+38-653A                   12   UTILITY/MECH RM    DP OF FACILITIES                                  
+38-653Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+38-661Z                    3   SHAFT SPACE        DP OF FACILITIES                                  
+38-669Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+38-677E                   10   ELECTRIC CLOSET    DP OF FACILITIES                                  
+38-677Z                   12   SHAFT SPACE        DP OF FACILITIES                                  
+38-683                   125   LABORATORY SVC     ELEC ENG&COMP SC       EECS                       
+38-684                   126   LABORATORY SVC     ELEC ENG&COMP SC       EECS                       
+38-685A                   12   UTILITY/MECH RM    DP OF FACILITIES                                  
+38-685Z                   11   SHAFT SPACE        DP OF FACILITIES                                  
+38-687                   130   LABORATORY SVC     ELEC ENG&COMP SC       EECS                       
+38-688                   124   LABORATORY SVC     ELEC ENG&COMP SC       EECS                       
+38-691                   112   OFFICE             ELEC ENG&COMP SC       EECS                       
+38-692                   117   OFFICE             ELEC ENG&COMP SC       EECS                       
+38-693T                   25   TELECOM CLOSET     DP OF FACILITIES                                  
+38-693Z                   13   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      10,166                                                                        
+                                                                                                    
+38-700Z                  411   SHAFT SPACE        DP OF FACILITIES                                  
+38-790                 3,529   UTILITY/MECH RM    DP OF FACILITIES    

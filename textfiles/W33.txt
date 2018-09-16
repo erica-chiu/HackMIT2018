@@ -1,0 +1,7 @@
+W33-001                   78   ATHLETIC SERVICE   ATHLETICS                                         
+W33-003                  428   UTILITY/MECH RM    DP OF FACILITIES                                  
+W33-003A                 167   UTILITY/MECH RM    DP OF FACILITIES                                  
+W33-005                   72   PVT CIRCULATION    ATHLETICS                                         
+W33-005A                 133   STORAGE FACILITY   ATHLETICS                                         
+W33-005B                 104   STORAGE FACILITY   ATHLETICS                                         
+W33-010               31,993   ATHLETIC FACIL     ATHLETICS          

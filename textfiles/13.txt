@@ -1,0 +1,1342 @@
+13-0/000CA             2,696   CORRIDOR           DP OF FACILITIES                                  
+13-0/000E1                58   ELEVATOR           DP OF FACILITIES                                  
+13-0/000SA                75   STAIRWAY           DP OF FACILITIES                                  
+13-0/000SB                25   STAIRWAY           DP OF FACILITIES                                  
+13-0/000SE                86   STAIRWAY           DP OF FACILITIES                                  
+13-0/000SF                10   STAIRWAY           DP OF FACILITIES                                  
+13-0/000SH                12   STAIRWAY           DP OF FACILITIES                                  
+13-0/005                  42   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-0/007                 410   JANITOR STORAGE    DP OF FACILITIES                                  
+13-0/012                 103   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-0/014                  61   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-0/018                 196   JANITOR STORAGE    DP OF FACILITIES                                  
+13-0/034                 206   JANITOR STORAGE    DP OF FACILITIES                                  
+13-0/034Z                138   SHAFT SPACE        DP OF FACILITIES                                  
+13-0/063                 851   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-0/079                 978   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-0/082E              1,076   ELECTRIC CLOSET    DP OF FACILITIES                                  
+13-0/091               1,810   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-0/092E                146   ELECTRIC CLOSET    DP OF FACILITIES                                  
+13-0/095                  50   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-0/098                 104   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-0/099                  42   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-0/100                 565   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-0/101                 161   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-0/102               2,050   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-0/125                 876   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-0/158T                 29   TELECOM CLOSET     DP OF FACILITIES                                  
+13-000SG                  15   STAIRWAY           DP OF FACILITIES                                  
+13-000Z                   17   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      12,886                                                                        
+                                                                                                    
+13-1/000CA               580   CORRIDOR           DP OF FACILITIES                                  
+13-1/000E1                84   ELEVATOR           DP OF FACILITIES                                  
+13-1/000E2                89   ELEVATOR           DP OF FACILITIES                                  
+13-1/000E3                61   ELEVATOR           DP OF FACILITIES                                  
+13-1/000LA             6,009   LOBBY              DP OF FACILITIES                                  
+13-1/000SA               160   STAIRWAY           DP OF FACILITIES                                  
+13-1/000SB               209   STAIRWAY           DP OF FACILITIES                                  
+13-1/000SC               146   STAIRWAY           DP OF FACILITIES                                  
+13-1/000SD               145   STAIRWAY           DP OF FACILITIES                                  
+13-1/000SE               247   STAIRWAY           DP OF FACILITIES                                  
+13-1/000SF               108   STAIRWAY           DP OF FACILITIES                                  
+13-1/000SG                20   STAIRWAY           DP OF FACILITIES                                  
+13-1/000SH                13   STAIRWAY           DP OF FACILITIES                                  
+13-1/006                 159   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/009                 153   RECEIVING ROOM     DP OF FACIL ADM                                   
+13-1/009A                 52   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/010                  50   PUBLIC LAVATORY    DP OF FACILITIES                                  
+13-1/011                 100   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/012                 598   PVT CIRCULATION    MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/013                 106   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/014J                 53   JANITOR CLOSET     DP OF FACILITIES                                  
+13-1/015                 307   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/016                 138   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/017                  94   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/018                  63   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/019                 217   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/020                 140   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/021                 230   STORAGE FACILITY   DP OF FACIL ADM                                   
+13-1/022                 111   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/023                  83   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/024                 218   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/025                 207   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/026                 279   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/027                  71   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/028                  96   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/029                 322   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/031                 210   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/032                 138   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/033               1,315   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-1/034                  73   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/035                 232   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/036                 393   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/051               1,512   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-1/054                 553   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-1/062E                136   ELECTRIC CLOSET    DP OF FACILITIES                                  
+13-1/074E              1,163   ELECTRIC CLOSET    DP OF FACILITIES                                  
+13-1/143                 524   CLASSROOM          REGISTRAR                                         
+13-1/143A                240   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/143B                176   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/143E                 14   ELECTRIC CLOSET    DP OF FACILITIES                                  
+13-1/143Z                 48   SHAFT SPACE        DP OF FACILITIES                                  
+13-1/148                  54   CLASSROOM SVC      MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/149                 333   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/150                  58   LABORATORY SVC     REGISTRAR                                         
+13-1/150A              1,121   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/150Z                 35   SHAFT SPACE        DP OF FACILITIES                                  
+13-1/155                 180   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/157                  78   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-1/159                  99   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-100Z                   90   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      20,491                                                                        
+                                                                                                    
+13-2/000CA               409   CORRIDOR           DP OF FACILITIES                                  
+13-2/000CB             1,217   CORRIDOR           DP OF FACILITIES                                  
+13-2/000CC             1,729   CORRIDOR           DP OF FACILITIES                                  
+13-2/000CD               405   CORRIDOR           DP OF FACILITIES                                  
+13-2/000CE             1,189   CORRIDOR           DP OF FACILITIES                                  
+13-2/000CF               388   CORRIDOR           DP OF FACILITIES                                  
+13-2/000CG               373   CORRIDOR           DP OF FACILITIES                                  
+13-2/000E                 34   ELECTRIC CLOSET    DP OF FACILITIES                                  
+13-2/000E1                88   ELEVATOR           DP OF FACILITIES                                  
+13-2/000E2                93   ELEVATOR           DP OF FACILITIES                                  
+13-2/000E3                57   ELEVATOR           DP OF FACILITIES                                  
+13-2/000LA             1,109   LOBBY              DP OF FACILITIES                                  
+13-2/000SA               152   STAIRWAY           DP OF FACILITIES                                  
+13-2/000SB               149   STAIRWAY           DP OF FACILITIES                                  
+13-2/000SC               155   STAIRWAY           DP OF FACILITIES                                  
+13-2/000SD               155   STAIRWAY           DP OF FACILITIES                                  
+13-2/000SE               152   STAIRWAY           DP OF FACILITIES                                  
+13-2/002T                 39   TELECOM CLOSET     DP OF FACILITIES                                  
+13-2/002Z                 75   SHAFT SPACE        DP OF FACILITIES                                  
+13-2/005                 241   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/008                 226   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/009                 125   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/010                 127   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/011                 418   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/012                 428   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/013                 116   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/014                 106   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/017                 248   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/018                 236   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/023                 710   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/023Z                166   SHAFT SPACE        DP OF FACILITIES                                  
+13-2/024                 341   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/025                 124   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/029                 115   SECY/RECEPTION     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/030                 227   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/033                 114   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/035                 395   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/036                 744   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/036A                 80   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/037                 124   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/038                 239   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/041                 125   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/042                 229   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/045                 118   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/048                 344   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/048Z                170   SHAFT SPACE        DP OF FACILITIES                                  
+13-2/050                 113   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/053                 246   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/054                 119   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/055                 726   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/056                 412   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/057                 123   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/059                 293   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/059A                101   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/060                 410   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/061                 117   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/062                 230   CONFERENCE ROOM    MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/065                 114   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/066                 113   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/069                 124   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/070                 118   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/073                 129   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/074                 233   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/077                 114   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/080               1,372   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/080A                 51   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/080B                 76   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/080Z                166   SHAFT SPACE        DP OF FACILITIES                                  
+13-2/081J                 24   JANITOR CLOSET     DP OF FACILITIES                                  
+13-2/082                 115   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/084                 112   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/085                 161   MALE LAVATORY      DP OF FACILITIES                                  
+13-2/087C                 80   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-2/087E                 38   ELECTRIC CLOSET    DP OF FACILITIES                                  
+13-2/087T                 36   TELECOM CLOSET     DP OF FACILITIES                                  
+13-2/087Z                 74   SHAFT SPACE        DP OF FACILITIES                                  
+13-2/089                 193   FEMALE LAVATORY    DP OF FACILITIES                                  
+13-2/090                 119   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/091                  98   JANITOR STORAGE    DP OF FACILITIES                                  
+13-2/094                 113   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/096                 837   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/098                 233   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/099                 388   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/099A                120   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/099AA                14   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/099B                 83   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/099C                 93   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/101                 667   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/106                 116   SECY/RECEPTION     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/110                 109   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/111                 311   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/111A                  4   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/112                 135   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/112A                126   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/112B                 55   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/112Z                172   SHAFT SPACE        DP OF FACILITIES                                  
+13-2/114                 239   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/119                 392   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/122                 113   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/123                 389   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/126                 116   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/128                 106   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/128A                 99   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/128B                609   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/130                 107   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/132                 342   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/132Z                167   SHAFT SPACE        DP OF FACILITIES                                  
+13-2/134                 127   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/135                 318   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/137                 675   CONFERENCE ROOM    MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/142                 232   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/143                 183   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/143A                195   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/144                 319   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/144A                 86   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/145                 111   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/146                 102   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/147                 194   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/148                 467   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/148A                138   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/148B                 34   RSCH LAB-OFFICE    MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/149                 137   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/150                 127   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/153                 252   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/153A                 19   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-2/154                 237   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/155                  45   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-2/155E                 36   ELECTRIC CLOSET    DP OF FACILITIES                                  
+13-2/155T                 37   TELECOM CLOSET     DP OF FACILITIES                                  
+13-2/155Z                 72   SHAFT SPACE        DP OF FACILITIES                                  
+13-200Z                  782   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      32,333                                                                        
+                                                                                                    
+13-3/000CA               630   CORRIDOR           DP OF FACILITIES                                  
+13-3/000CB             1,028   CORRIDOR           DP OF FACILITIES                                  
+13-3/000CC             1,647   CORRIDOR           DP OF FACILITIES                                  
+13-3/000CD               405   CORRIDOR           DP OF FACILITIES                                  
+13-3/000CE             1,233   CORRIDOR           DP OF FACILITIES                                  
+13-3/000CF               393   CORRIDOR           DP OF FACILITIES                                  
+13-3/000CG               361   CORRIDOR           DP OF FACILITIES                                  
+13-3/000E                 34   ELECTRIC CLOSET    DP OF FACILITIES                                  
+13-3/000E1                88   ELEVATOR           DP OF FACILITIES                                  
+13-3/000E2                93   ELEVATOR           DP OF FACILITIES                                  
+13-3/000E3                57   ELEVATOR           DP OF FACILITIES                                  
+13-3/000LA             1,098   LOBBY              DP OF FACILITIES                                  
+13-3/000SA               152   STAIRWAY           DP OF FACILITIES                                  
+13-3/000SB               149   STAIRWAY           DP OF FACILITIES                                  
+13-3/000SC               153   STAIRWAY           DP OF FACILITIES                                  
+13-3/000SD               154   STAIRWAY           DP OF FACILITIES                                  
+13-3/000SE               152   STAIRWAY           DP OF FACILITIES                                  
+13-3/002T                 39   TELECOM CLOSET     DP OF FACILITIES                                  
+13-3/002Z                 76   SHAFT SPACE        DP OF FACILITIES                                  
+13-3/005                 123   SECY/RECEPTION     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/005A                115   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/005B                244   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/006                 238   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/010                 129   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/011                 431   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/014                 112   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/015                 421   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/017                 119   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/018                 115   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/021                 123   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/022                 124   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/023                 322   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/024                 345   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/025                 123   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/026                 123   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/028Z                166   SHAFT SPACE        DP OF FACILITIES                                  
+13-3/029                 114   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/030                 107   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/031                 804   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/033                 115   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/034                 115   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/036                 845   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/037                 122   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/038                 367   CONFERENCE ROOM    MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/041                 127   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/045                 114   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/047                 333   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/048                 155   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/048A                176   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/048Z                170   SHAFT SPACE        DP OF FACILITIES                                  
+13-3/050                 244   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/052                 411   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/053                 244   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/055                 504   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/055A                402   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/055AA               190   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/057                 127   SECY/RECEPTION     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/058                 121   SECY/RECEPTION     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/061                 112   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/062                 112   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/064                  45   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/064A                705   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/064Z                166   SHAFT SPACE        DP OF FACILITIES                                  
+13-3/065                 241   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/066                 115   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/070                 123   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/073                 127   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/074                 123   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/077                 112   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/078                 113   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/079                 394   ALTER/CONVERSION   MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/080                 425   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/081J                 25   JANITOR CLOSET     DP OF FACILITIES                                  
+13-3/082                 113   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/085                 159   MALE LAVATORY      DP OF FACILITIES                                  
+13-3/086                 122   PRINT/DUP SHOP     COPY TECH CENTER                                  
+13-3/087                  80   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-3/087E                 38   ELECTRIC CLOSET    DP OF FACILITIES                                  
+13-3/087T                 36   TELECOM CLOSET     DP OF FACILITIES                                  
+13-3/087Z                 74   SHAFT SPACE        DP OF FACILITIES                                  
+13-3/089                 193   FEMALE LAVATORY    DP OF FACILITIES                                  
+13-3/090                 124   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/094                 115   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/095                 817   RESEARCH LAB       MATERIALS RESEARCH L   BEDIV TC LAB               
+                                                  AB                                                
+                                                                                                    
+13-3/095A                143   RESEARCH LAB       MATERIALS RESEARCH L   BEDIV TC LAB               
+                                                  AB                                                
+                                                                                                    
+13-3/095B                169   RESEARCH LAB       MATERIALS RESEARCH L   BEDIV TC LAB               
+                                                  AB                                                
+                                                                                                    
+13-3/096                 418   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/100                 416   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/101                 669   CLASSROOM          REGISTRAR                                         
+13-3/102                 131   OFFICE SERVICE     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/102A                105   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/102B                237   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/112                 345   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/112Z                167   SHAFT SPACE        DP OF FACILITIES                                  
+13-3/114                 118   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/118                 123   SECY/RECEPTION     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/119                 396   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/120                 416   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/123                 397   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/124                 416   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/126                 240   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/130                 115   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/134                 126   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/135                 290   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/135A                 30   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/136                 348   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/136Z                168   SHAFT SPACE        DP OF FACILITIES                                  
+13-3/137                 427   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/138                 239   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/139                 122   MAIL ROOM          DP OF FACIL ADM                                   
+13-3/139A                114   PRINT/DUP SHOP     COPY TECH CENTER                                  
+13-3/140                 260   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/140A                558   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/140AA                 8   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/143                 392   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/145                 112   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/146                 114   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/147                 407   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/149                 136   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/150                 122   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/153                 122   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/153A                 19   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-3/154                 238   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/155                  45   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-3/155E                 36   ELECTRIC CLOSET    DP OF FACILITIES                                  
+13-3/155T                 37   TELECOM CLOSET     DP OF FACILITIES                                  
+13-3/155Z                 73   SHAFT SPACE        DP OF FACILITIES                                  
+13-3/157                 123   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-300Z                2,993   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      34,712                                                                        
+                                                                                                    
+13-4/000CA               402   CORRIDOR           DP OF FACILITIES                                  
+13-4/000CB             1,224   CORRIDOR           DP OF FACILITIES                                  
+13-4/000CC             1,760   CORRIDOR           DP OF FACILITIES                                  
+13-4/000CD               400   CORRIDOR           DP OF FACILITIES                                  
+13-4/000CE             1,142   CORRIDOR           DP OF FACILITIES                                  
+13-4/000CF               389   CORRIDOR           DP OF FACILITIES                                  
+13-4/000CG               385   CORRIDOR           DP OF FACILITIES                                  
+13-4/000E                 34   ELECTRIC CLOSET    DP OF FACILITIES                                  
+13-4/000E1                88   ELEVATOR           DP OF FACILITIES                                  
+13-4/000E2                93   ELEVATOR           DP OF FACILITIES                                  
+13-4/000E3                57   ELEVATOR           DP OF FACILITIES                                  
+13-4/000LA             1,109   LOBBY              DP OF FACILITIES                                  
+13-4/000SA               152   STAIRWAY           DP OF FACILITIES                                  
+13-4/000SB               149   STAIRWAY           DP OF FACILITIES                                  
+13-4/000SC               153   STAIRWAY           DP OF FACILITIES                                  
+13-4/000SD               154   STAIRWAY           DP OF FACILITIES                                  
+13-4/000SE               152   STAIRWAY           DP OF FACILITIES                                  
+13-4/002T                 39   TELECOM CLOSET     DP OF FACILITIES                                  
+13-4/002Z                 76   SHAFT SPACE        DP OF FACILITIES                                  
+13-4/005                 239   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/006                 234   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/009                 125   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/010                 243   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/011                 421   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/011A                199   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/012                 437   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/013                 115   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/017                 247   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/022                 242   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/023                 117   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/024                 341   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/024Z                166   SHAFT SPACE        DP OF FACILITIES                                  
+13-4/025                 242   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/026                 233   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/027                 812   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/032                 182   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/032A                224   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/037                 242   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/038                 245   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/040                 419   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/041                 246   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/042                 234   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/047                 330   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/048                 344   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/048Z                170   SHAFT SPACE        DP OF FACILITIES                                  
+13-4/050                 118   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/053                 244   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/054                 247   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/055                 395   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/056                 415   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/057                 128   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/059                 397   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/060                 413   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/061                 111   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/062                 109   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/066                 241   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/069                 241   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/071                 322   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/072                 341   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/072Z                166   SHAFT SPACE        DP OF FACILITIES                                  
+13-4/077                 245   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/078                 239   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/079                 396   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/079A                154   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/080                 277   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/081J                 18   JANITOR CLOSET     DP OF FACILITIES                                  
+13-4/084                 114   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/085                 167   MALE LAVATORY      DP OF FACILITIES                                  
+13-4/086                 119   SECY/RECEPTION     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/087C                 81   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-4/087E                 38   ELECTRIC CLOSET    DP OF FACILITIES                                  
+13-4/087T                 36   TELECOM CLOSET     DP OF FACILITIES                                  
+13-4/087Z                 75   SHAFT SPACE        DP OF FACILITIES                                  
+13-4/089                 192   FEMALE LAVATORY    DP OF FACILITIES                                  
+13-4/090                 242   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/095                 405   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/096                 421   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/099                 392   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/100                 416   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/101                 664   CLASSROOM          REGISTRAR                                         
+13-4/106                 368   CONFERENCE ROOM    MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/110                 106   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/111                 322   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/112                 345   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/112Z                167   SHAFT SPACE        DP OF FACILITIES                                  
+13-4/118                 245   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/119                 206   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/119A                188   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+
+                                                                                                                                                                    
+13-4/120                 414   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/122                 123   SECY/RECEPTION     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/123                 212   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/123A                190   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/124                 419   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/126                 111   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/130                 113   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/134                 127   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/135                 324   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/136                 347   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/136Z                168   SHAFT SPACE        DP OF FACILITIES                                  
+13-4/137                 675   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/138                 238   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/139                 839   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/147                 407   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/148                 424   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/149                 253   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/150                 126   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/150A                109   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/153                 254   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/153A                 19   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-4/154                 122   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/154A                114   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/155                  46   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-4/155E                 36   ELECTRIC CLOSET    DP OF FACILITIES                                  
+13-4/155T                 37   TELECOM CLOSET     DP OF FACILITIES                                  
+13-4/155Z                 73   SHAFT SPACE        DP OF FACILITIES                                  
+13-400Z                2,944   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      34,792                                                                        
+                                                                                                    
+13-5/000CA               377   CORRIDOR           DP OF FACILITIES                                  
+13-5/000CB             1,229   CORRIDOR           DP OF FACILITIES                                  
+13-5/000CC             1,807   CORRIDOR           DP OF FACILITIES                                  
+13-5/000CD               403   CORRIDOR           DP OF FACILITIES                                  
+13-5/000CE             1,189   CORRIDOR           DP OF FACILITIES                                  
+13-5/000CF               389   CORRIDOR           DP OF FACILITIES                                  
+13-5/000CG               376   CORRIDOR           DP OF FACILITIES                                  
+13-5/000E                 76   ELECTRIC CLOSET    DP OF FACILITIES                                  
+13-5/000E1                88   ELEVATOR           DP OF FACILITIES                                  
+13-5/000E2                93   ELEVATOR           DP OF FACILITIES                                  
+13-5/000E3                57   ELEVATOR           DP OF FACILITIES                                  
+13-5/000LA             1,099   LOBBY              DP OF FACILITIES                                  
+13-5/000SA               152   STAIRWAY           DP OF FACILITIES                                  
+13-5/000SB               149   STAIRWAY           DP OF FACILITIES                                  
+13-5/000SC               154   STAIRWAY           DP OF FACILITIES                                  
+13-5/000SD               153   STAIRWAY           DP OF FACILITIES                                  
+13-5/000SE               152   STAIRWAY           DP OF FACILITIES                                  
+13-5/001                 114   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/002                 365   CONFERENCE ROOM    MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/002A                 76   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-5/005                 120   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/011                 714   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/011A                139   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/013                 246   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/014                 114   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/016                 521   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/016A                250   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/017                 114   SECY/RECEPTION     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/018                 243   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/023                 319   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-5/025                 251   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/026                 121   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/027                 417   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/027A                415   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/029                 108   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/030                 111   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/032                 432   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/034                 248   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/037                 246   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/041                 238   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/044                 767   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/046                 235   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/047                 324   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-5/049                 242   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/050                 114   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/055               1,009   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/055A                 41   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/055B                198   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/056                 249   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/057                 121   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/061                 115   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/062                 112   SECY/RECEPTION     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/065                 113   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/066                 242   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/069                 248   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/071                 322   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-5/072                 345   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/076                 426   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/077                 113   SECY/RECEPTION     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/078                 239   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/079                 409   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/081J                 24   JANITOR CLOSET     DP OF FACILITIES                                  
+13-5/082                 240   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/085                 161   MALE LAVATORY      DP OF FACILITIES                                  
+13-5/087E                159   ELECTRIC CLOSET    DP OF FACILITIES                                  
+13-5/089                 193   FEMALE LAVATORY    DP OF FACILITIES                                  
+13-5/092                 486   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/092A                 18   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/094                 245   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/095                 355   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/098                 113   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/099                 409   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/101                 668   CLASSROOM          REGISTRAR                                         
+13-5/104                 427   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/106                 249   OFFICE             MATERIALS RESEARCH L   MS&E                       
+                                                  AB                                                
+                                                                                                    
+13-5/108                 348   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/110                 113   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/111                 322   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-5/114                 118   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/118                 121   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/119                 407   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/122                 123   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/126                 114   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/127                 367   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/127A                 48   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/128               1,158   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/128A                 49   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/130                 118   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/134                 121   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/135                 314   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-5/138                 123   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/139                  40   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/140                 433   ANIMAL RSCH LAB    MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/141                  98   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/141A                250   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/141B                393   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/141C                147   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/142                 115   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/143                 415   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/146                 113   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/147                 430   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/148                 446   RESEARCH LAB       MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/150                 121   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/151                  19   UTILITY/MECH RM    DP OF FACILITIES                                  
+13-5/153                 260   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/154                 126   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/155                  40   LABORATORY SVC     MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-5/155E                 78   ELECTRIC CLOSET    DP OF FACILITIES                                  
+13-5/158                 114   OFFICE             MATERIALS RESEARCH L                              
+                                                  AB                                                
+                                                                                                    
+13-500Z                1,538   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      32,736                                                                        
+                                                                                                    
+13-624                   223   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                            

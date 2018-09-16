@@ -1,0 +1,354 @@
+W92-000E1                 56   ELEVATOR           DP OF FACILITIES                                  
+W92-000LA                383   OFFICE SERVICE     DP OF FACIL ADM                                   
+W92-000LB                235   LOBBY              DP OF FACILITIES                                  
+W92-000SB                112   STAIRWAY           DP OF FACILITIES                                  
+W92-000SC                132   STAIRWAY           DP OF FACILITIES                                  
+W92-000Z                 491   SHAFT SPACE        DP OF FACILITIES                                  
+W92-010                  798   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-010A                  36   UTILITY/MECH RM    DP OF FACILITIES                                  
+W92-010B                 450   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-010C                 919   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-010D                 325   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-015                1,219   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-015A                 526   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-019                  782   STORAGE FACILITY   DP OF FACIL ADM                                   
+W92-019A                 411   STORAGE FACILITY   DP OF FACIL ADM                                   
+W92-021                  160   UTILITY/MECH RM    DP OF FACILITIES                                  
+W92-025               19,499   VEHICLE STORAGE    DP OF FACIL ADM                                   
+W92-025A                 192   STORAGE FACILITY   EXEC VICE PRES                                    
+W92-086                  422   UTILITY/MECH RM    DP OF FACILITIES                                  
+W92-090                  401   VEHICLE STORAGE    DP OF FACIL ADM                                   
+                    --------                                                                        
+                      27,551                                                                        
+                                                                                                    
+W92-100CA                322   CORRIDOR           DP OF FACILITIES                                  
+W92-100E1                106   ELEVATOR           DP OF FACILITIES                                  
+W92-100LB                492   LOBBY              DP OF FACILITIES                                  
+W92-100SA                 52   STAIRWAY           DP OF FACILITIES                                  
+W92-100SB                130   STAIRWAY           DP OF FACILITIES                                  
+W92-100SC                136   STAIRWAY           DP OF FACILITIES                                  
+W92-100Z                 140   SHAFT SPACE        DP OF FACILITIES                                  
+W92-106                1,087   CONFERENCE ROOM    EXEC VICE PRES                                    
+W92-106A                 275   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-106B                  15   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-109                   23   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-110                  219   SECY/RECEPTION     INFO SVCS & TECH                                  
+W92-111                   20   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-112                  194   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-112A                  11   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-114                1,340   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-114A                  56   OFFICE             INFO SVCS & TECH                                  
+W92-114B                  54   OFFICE             INFO SVCS & TECH                                  
+W92-114C                  54   OFFICE             INFO SVCS & TECH                                  
+W92-114D                 108   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-114F                 103   OFFICE             INFO SVCS & TECH                                  
+W92-114G                  54   OFFICE             INFO SVCS & TECH                                  
+W92-114H                  53   OFFICE             INFO SVCS & TECH                                  
+W92-114K                  53   OFFICE             INFO SVCS & TECH                                  
+W92-114L                  53   OFFICE             INFO SVCS & TECH                                  
+W92-114NA                107   OFFICE             INFO SVCS & TECH                                  
+W92-114NB                 53   OFFICE             INFO SVCS & TECH                                  
+W92-114NC                 54   OFFICE             INFO SVCS & TECH                                  
+W92-114ND                 54   OFFICE             INFO SVCS & TECH                                  
+W92-114NF                 53   OFFICE             INFO SVCS & TECH                                  
+W92-114NG                 53   OFFICE             INFO SVCS & TECH                                  
+W92-114NH                 53   OFFICE             INFO SVCS & TECH                                  
+W92-114NK                 15   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-114PA                 15   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-114PB                107   OFFICE             INFO SVCS & TECH                                  
+W92-114PC                 53   OFFICE             INFO SVCS & TECH                                  
+W92-114PD                 54   OFFICE             INFO SVCS & TECH                                  
+W92-114PF                 54   OFFICE             INFO SVCS & TECH                                  
+W92-114PG                 53   OFFICE             INFO SVCS & TECH                                  
+W92-114PH                 53   OFFICE             INFO SVCS & TECH                                  
+W92-114PK                 53   OFFICE             INFO SVCS & TECH                                  
+W92-114PL                 15   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-114QA                 53   OFFICE             INFO SVCS & TECH                                  
+W92-114QB                 53   OFFICE             INFO SVCS & TECH                                  
+W92-114QC                 53   OFFICE             INFO SVCS & TECH                                  
+W92-114QD                 54   OFFICE             INFO SVCS & TECH                                  
+W92-114QF                 54   OFFICE             INFO SVCS & TECH                                  
+W92-114QG                 53   OFFICE             INFO SVCS & TECH                                  
+W92-114QH                 53   OFFICE             INFO SVCS & TECH                                  
+W92-114QK                 53   OFFICE             INFO SVCS & TECH                                  
+W92-114RA                 53   OFFICE             INFO SVCS & TECH                                  
+W92-114RB                 53   OFFICE             INFO SVCS & TECH                                  
+W92-114RC                 53   OFFICE             INFO SVCS & TECH                                  
+W92-114RD                 54   OFFICE             INFO SVCS & TECH                                  
+W92-114RF                 56   OFFICE             INFO SVCS & TECH                                  
+W92-114RG                 54   OFFICE             INFO SVCS & TECH                                  
+W92-115                  184   CONFERENCE ROOM    EXEC VICE PRES                                    
+W92-120                1,521   PVT CIRCULATION    EXEC VICE PRES                                    
+W92-126                  370   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-127                  101   OFFICE             INFO SVCS & TECH                                  
+W92-129                  230   OFFICE             INFO SVCS & TECH                                  
+W92-130                3,345   COMPUTER FACIL     INFO SVCS & TECH                                  
+W92-130A                  63   COMPUTER SERVICE   INFO SVCS & TECH                                  
+W92-130B                  88   COMPUTER SERVICE   INFO SVCS & TECH                                  
+W92-138                  112   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-139                  113   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-140                2,573   PVT CIRCULATION    INFO SVCS & TECH                                  
+W92-140A                  43   OFFICE             INFO SVCS & TECH                                  
+W92-140AA                 27   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-140B                  47   OFFICE             INFO SVCS & TECH                                  
+W92-140C                  47   OFFICE             INFO SVCS & TECH                                  
+W92-140D                  47   OFFICE             INFO SVCS & TECH                                  
+W92-140E                  96   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W92-140F                  47   OFFICE             INFO SVCS & TECH                                  
+W92-140G                  47   OFFICE             INFO SVCS & TECH                                  
+W92-140H                  47   OFFICE             INFO SVCS & TECH                                  
+W92-140K                  43   OFFICE             INFO SVCS & TECH                                  
+W92-140L                  47   OFFICE             INFO SVCS & TECH                                  
+W92-140N                  47   OFFICE             INFO SVCS & TECH                                  
+W92-140P                  47   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-140Q                  43   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-141                  198   OFFICE             INFO SVCS & TECH                                  
+W92-142                  153   OFFICE             INFO SVCS & TECH                                  
+W92-143                  153   OFFICE             INFO SVCS & TECH                                  
+W92-144                  153   OFFICE             INFO SVCS & TECH                                  
+W92-145                  153   OFFICE             INFO SVCS & TECH                                  
+W92-146                  153   OFFICE             INFO SVCS & TECH                                  
+W92-147                  154   OFFICE             INFO SVCS & TECH                                  
+W92-148                  154   OFFICE             INFO SVCS & TECH                                  
+W92-149                  265   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-149J                  58   JANITOR CLOSET     DP OF FACILITIES                                  
+W92-150                  290   FEMALE LAVATORY    DP OF FACILITIES                                  
+W92-151                  264   MALE LAVATORY      DP OF FACILITIES                                  
+W92-152                  165   OFFICE             INFO SVCS & TECH                                  
+W92-153                  160   OFFICE             INFO SVCS & TECH                                  
+W92-154                  156   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-155                  160   OFFICE             INFO SVCS & TECH                                  
+W92-156                  136   OFFICE             INFO SVCS & TECH                                  
+W92-157                  138   OFFICE             INFO SVCS & TECH                                  
+W92-158                  138   OFFICE             INFO SVCS & TECH                                  
+W92-159                  167   OFFICE             INFO SVCS & TECH                                  
+W92-160AE                 99   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W92-160E                 350   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W92-163                   39   UTILITY/MECH RM    DP OF FACILITIES                                  
+W92-165T                 165   TELECOM CLOSET     DP OF FACILITIES                                  
+W92-167                  173   OFFICE             INFO SVCS & TECH                                  
+W92-168                  172   OFFICE             INFO SVCS & TECH                                  
+W92-170                  135   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-171                  156   OFFICE             INFO SVCS & TECH                                  
+W92-172                  156   OFFICE             INFO SVCS & TECH                                  
+W92-173                   54   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-174                  149   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-175                  143   OFFICE             INFO SVCS & TECH                                  
+W92-175A                  75   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-176                  137   OFFICE             INFO SVCS & TECH                                  
+W92-177                  130   MALE LAVATORY      DP OF FACILITIES                                  
+W92-178                  172   FEMALE LAVATORY    DP OF FACILITIES                                  
+W92-180                  829   UTILITY/MECH RM    DP OF FACILITIES                                  
+W92-183                  714   RECEIVING ROOM     DP OF FACIL ADM                                   
+W92-185                  111   OFFICE             DP OF FACIL ADM                                   
+W92-186                  255   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-187                   37   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-188M                 372   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-189                  155   OFFICE             INFO SVCS & TECH                                  
+W92-190                  148   OFFICE             INFO SVCS & TECH                                  
+W92-191                  181   OFFICE             INFO SVCS & TECH                                  
+W92-193                  219   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-194                  188   OFFICE             INFO SVCS & TECH                                  
+W92-195                  145   OFFICE             INFO SVCS & TECH                                  
+W92-196                  165   OFFICE             INFO SVCS & TECH                                  
+W92-197                    9   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-199                  484   CONFERENCE ROOM    INFO SVCS & TECH                                  
+W92-1OOLA                186   LOBBY              DP OF FACILITIES                                  
+                    --------                                                                        
+                      26,050                                                                        
+                                                                                                    
+W92-200E1                 64   ELEVATOR           DP OF FACILITIES                                  
+W92-200LA                219   LOBBY              DP OF FACILITIES                                  
+W92-200SA                147   STAIRWAY           DP OF FACILITIES                                  
+W92-200SB                196   STAIRWAY           DP OF FACILITIES                                  
+W92-200SC                170   STAIRWAY           DP OF FACILITIES                                  
+W92-200Z                 265   SHAFT SPACE        DP OF FACILITIES                                  
+W92-203                  852   OFFICE             INFO SVCS & TECH                                  
+W92-206                  706   OFFICE             INFO SVCS & TECH                                  
+W92-207A                  27   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-207B                  28   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-207C                  28   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-207D                  28   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-208                  275   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-208A                 104   OFFICE             INFO SVCS & TECH                                  
+W92-210                  376   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-210A                  19   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-211                2,387   PVT CIRCULATION    EXEC VICE PRES                                    
+W92-212                  238   CONFERENCE ROOM    EXEC VICE PRES                                    
+W92-213                   26   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-214                6,161   PVT CIRCULATION    INFO SVCS & TECH                                  
+W92-215A                  57   OFFICE             INFO SVCS & TECH                                  
+W92-215B                  60   OFFICE             INFO SVCS & TECH                                  
+W92-215C                  60   OFFICE             INFO SVCS & TECH                                  
+W92-215D                  57   OFFICE             INFO SVCS & TECH                                  
+W92-216A                  57   OFFICE             INFO SVCS & TECH                                  
+W92-216B                  61   OFFICE             INFO SVCS & TECH                                  
+W92-216C                  59   OFFICE             INFO SVCS & TECH                                  
+W92-216D                  57   OFFICE             INFO SVCS & TECH                                  
+W92-217A                  57   OFFICE             INFO SVCS & TECH                                  
+W92-217B                  60   OFFICE             INFO SVCS & TECH                                  
+W92-217C                  59   OFFICE             INFO SVCS & TECH                                  
+W92-217D                  57   OFFICE             INFO SVCS & TECH                                  
+W92-218A                  57   OFFICE             INFO SVCS & TECH                                  
+W92-218B                  57   OFFICE             INFO SVCS & TECH                                  
+W92-218C                  11   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-218D                  12   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-219A                  12   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-219B                  11   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-219C                  11   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-219D                  11   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-221                   39   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-222                  346   CONFERENCE ROOM    EXEC VICE PRES                                    
+W92-224E                  17   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W92-225                  470   CONFERENCE ROOM    EXEC VICE PRES                                    
+W92-226                  125   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-228A                  35   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-228B                  57   OFFICE             INFO SVCS & TECH                                  
+W92-228C                  57   OFFICE             INFO SVCS & TECH                                  
+W92-228D                  57   OFFICE             INFO SVCS & TECH                                  
+W92-228F                  57   OFFICE             INFO SVCS & TECH                                  
+W92-228G                  57   OFFICE             INFO SVCS & TECH                                  
+W92-228H                  57   OFFICE             INFO SVCS & TECH                                  
+W92-229A                  57   OFFICE             INFO SVCS & TECH                                  
+W92-229B                  57   OFFICE             INFO SVCS & TECH                                  
+W92-229C                  57   OFFICE             INFO SVCS & TECH                                  
+W92-229D                  57   OFFICE             INFO SVCS & TECH                                  
+W92-229F                  57   OFFICE             INFO SVCS & TECH                                  
+W92-229G                  57   OFFICE             INFO SVCS & TECH                                  
+W92-229H                  57   OFFICE             INFO SVCS & TECH                                  
+W92-229K                  57   OFFICE             INFO SVCS & TECH                                  
+W92-230A                  57   OFFICE             INFO SVCS & TECH                                  
+W92-230B                  57   OFFICE             INFO SVCS & TECH                                  
+W92-230C                  57   OFFICE             INFO SVCS & TECH                                  
+W92-230D                  57   OFFICE             INFO SVCS & TECH                                  
+W92-230F                  57   OFFICE             INFO SVCS & TECH                                  
+W92-230G                  57   OFFICE             INFO SVCS & TECH                                  
+W92-233A                  61   OFFICE             INFO SVCS & TECH                                  
+W92-233B                  61   OFFICE             INFO SVCS & TECH                                  
+W92-234                  106   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-234A                 136   OFFICE             EXEC VICE PRES                                    
+W92-234B                 138   OFFICE             EXEC VICE PRES                                    
+W92-234C                 101   OFFICE             EXEC VICE PRES                                    
+W92-234D                  54   SECY/RECEPTION     EXEC VICE PRES                                    
+W92-236                  318   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-236A                  54   OFFICE             EXEC VICE PRES                                    
+W92-236B                  53   OFFICE             EXEC VICE PRES                                    
+W92-236C                  53   OFFICE             EXEC VICE PRES                                    
+W92-236D                  53   OFFICE             EXEC VICE PRES                                    
+W92-236F                  53   OFFICE             EXEC VICE PRES                                    
+W92-236G                  54   OFFICE             EXEC VICE PRES                                    
+W92-238                   30   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-239                   28   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-240                  258   CONFERENCE ROOM    EXEC VICE PRES                                    
+W92-241A                  35   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-241B                  57   OFFICE             INFO SVCS & TECH                                  
+W92-241C                  57   OFFICE             INFO SVCS & TECH                                  
+W92-241D                  57   OFFICE             INFO SVCS & TECH                                  
+W92-241F                  57   OFFICE             INFO SVCS & TECH                                  
+W92-241G                  57   OFFICE             INFO SVCS & TECH                                  
+W92-241H                  57   OFFICE             INFO SVCS & TECH                                  
+W92-242A                  57   OFFICE             INFO SVCS & TECH                                  
+W92-242B                  57   OFFICE             INFO SVCS & TECH                                  
+W92-242C                  57   OFFICE             INFO SVCS & TECH                                  
+W92-242D                  57   OFFICE             INFO SVCS & TECH                                  
+W92-242F                  57   OFFICE             INFO SVCS & TECH                                  
+W92-242G                  57   OFFICE             INFO SVCS & TECH                                  
+W92-242H                  57   OFFICE             INFO SVCS & TECH                                  
+W92-242K                  57   OFFICE             INFO SVCS & TECH                                  
+W92-243A                  17   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-243B                  57   OFFICE             INFO SVCS & TECH                                  
+W92-243C                  57   OFFICE             INFO SVCS & TECH                                  
+W92-243D                  57   OFFICE             INFO SVCS & TECH                                  
+W92-243F                  57   OFFICE             INFO SVCS & TECH                                  
+W92-243G                  57   OFFICE             INFO SVCS & TECH                                  
+W92-243H                  57   OFFICE             INFO SVCS & TECH                                  
+W92-245A                  61   OFFICE             INFO SVCS & TECH                                  
+W92-245B                  59   OFFICE             INFO SVCS & TECH                                  
+W92-248                  565   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-248A                  56   OFFICE             EXEC VICE PRES                                    
+W92-248B                  57   OFFICE             EXEC VICE PRES                                    
+W92-248C                  57   OFFICE             EXEC VICE PRES                                    
+W92-248D                  56   OFFICE             EXEC VICE PRES                                    
+W92-248F                  56   OFFICE             EXEC VICE PRES                                    
+W92-248G                  57   OFFICE             EXEC VICE PRES                                    
+W92-248H                  56   OFFICE             EXEC VICE PRES                                    
+W92-248K                  57   OFFICE             EXEC VICE PRES                                    
+W92-249                  275   FEMALE LAVATORY    DP OF FACILITIES                                  
+W92-250                  257   MALE LAVATORY      DP OF FACILITIES                                  
+W92-250J                  60   JANITOR CLOSET     DP OF FACILITIES                                  
+W92-251E                 110   ELECTRIC CLOSET    DP OF FACILITIES                                  
+W92-252                  121   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-253A                  57   OFFICE             INFO SVCS & TECH                                  
+W92-253B                  57   OFFICE             INFO SVCS & TECH                                  
+W92-253C                  57   OFFICE             INFO SVCS & TECH                                  
+W92-253D                  57   OFFICE             INFO SVCS & TECH                                  
+W92-253F                  57   OFFICE             INFO SVCS & TECH                                  
+W92-253G                  57   OFFICE             INFO SVCS & TECH                                  
+W92-254B                  57   OFFICE             INFO SVCS & TECH                                  
+W92-254C                  57   OFFICE             INFO SVCS & TECH                                  
+W92-254D                  57   OFFICE             INFO SVCS & TECH                                  
+W92-254F                  57   OFFICE             INFO SVCS & TECH                                  
+W92-254G                  57   OFFICE             INFO SVCS & TECH                                  
+W92-254H                  57   OFFICE             INFO SVCS & TECH                                  
+W92-254K                  57   OFFICE             INFO SVCS & TECH                                  
+W92-254L                  57   OFFICE             INFO SVCS & TECH                                  
+W92-255A                  17   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-255B                  57   OFFICE             INFO SVCS & TECH                                  
+W92-255C                  57   OFFICE             INFO SVCS & TECH                                  
+W92-255D                  17   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-255G                  57   OFFICE             INFO SVCS & TECH                                  
+W92-255H                  57   OFFICE             INFO SVCS & TECH                                  
+W92-257                   76   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-258                   72   MALE LAVATORY      DP OF FACILITIES                                  
+W92-261                  209   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-262A                  98   OFFICE             EXEC VICE PRES                                    
+W92-262B                  82   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-264T                 169   TELECOM CLOSET     DP OF FACILITIES                                  
+W92-265A                  56   OFFICE             INFO SVCS & TECH                                  
+W92-265B                  57   OFFICE             INFO SVCS & TECH                                  
+W92-265C                  57   OFFICE             INFO SVCS & TECH                                  
+W92-265D                  56   OFFICE             INFO SVCS & TECH                                  
+W92-267A                  57   OFFICE             INFO SVCS & TECH                                  
+W92-267B                  57   OFFICE             INFO SVCS & TECH                                  
+W92-267C                  57   OFFICE             INFO SVCS & TECH                                  
+W92-267D                  57   OFFICE             INFO SVCS & TECH                                  
+W92-267F                  57   OFFICE             INFO SVCS & TECH                                  
+W92-267G                  57   OFFICE             INFO SVCS & TECH                                  
+W92-268A                  57   OFFICE             INFO SVCS & TECH                                  
+W92-268B                  57   OFFICE             INFO SVCS & TECH                                  
+W92-268C                  57   OFFICE             INFO SVCS & TECH                                  
+W92-268D                  57   OFFICE             INFO SVCS & TECH                                  
+W92-268F                  57   OFFICE             INFO SVCS & TECH                                  
+W92-268G                  57   OFFICE             INFO SVCS & TECH                                  
+W92-268H                  57   OFFICE             INFO SVCS & TECH                                  
+W92-268K                  57   OFFICE             INFO SVCS & TECH                                  
+W92-269A                  17   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-269B                  57   OFFICE             INFO SVCS & TECH                                  
+W92-269C                  57   OFFICE             INFO SVCS & TECH                                  
+W92-269D                  57   OFFICE             INFO SVCS & TECH                                  
+W92-269F                  57   OFFICE             INFO SVCS & TECH                                  
+W92-276                   85   FEMALE LAVATORY    DP OF FACILITIES                                  
+W92-277                   97   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-278                  206   CONFERENCE ROOM    INFO SVCS & TECH                                  
+W92-280                  244   OFFICE             EXEC VICE PRES                                    
+W92-281                  221   CONFERENCE ROOM    EXEC VICE PRES                                    
+W92-282                   50   OFFICE SERVICE     EXEC VICE PRES                                    
+W92-283                  113   CONFERENCE ROOM    EXEC VICE PRES                                    
+W92-284                  160   OFFICE             EXEC VICE PRES                                    
+W92-285                  148   OFFICE             EXEC VICE PRES                                    
+W92-286                  155   OFFICE             INFO SVCS & TECH                                  
+W92-287                  113   OFFICE             INFO SVCS & TECH                                  
+W92-288                  103   OFFICE             INFO SVCS & TECH                                  
+W92-289                   78   OFFICE             INFO SVCS & TECH                                  
+W92-290                   78   OFFICE             INFO SVCS & TECH                                  
+W92-291                   87   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-292                   99   OFFICE             INFO SVCS & TECH                                  
+W92-293                  180   OFFICE             INFO SVCS & TECH                                  
+W92-294                  173   OFFICE             INFO SVCS & TECH                                  
+W92-295                  181   OFFICE             INFO SVCS & TECH                                  
+W92-296                  180   OFFICE             INFO SVCS & TECH                                  
+W92-299                  195   OFFICE SERVICE     INFO SVCS & TECH                                  
+W92-299A                  59   OFFICE             INFO SVCS & TECH                                  
+W92-299B                  53   OFFICE             INFO SVCS & TECH                                  
+W92-299C                  53   OFFICE             INFO SVCS & TECH                                  
+W92-299D                  59   OFFICE             INFO SVCS & TECH 

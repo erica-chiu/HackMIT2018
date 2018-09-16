@@ -1,0 +1,96 @@
+W32-000CA                281   CORRIDOR           DP OF FACILITIES                                  
+W32-000CB                321   CORRIDOR           DP OF FACILITIES                                  
+W32-000CC              1,324   CORRIDOR           DP OF FACILITIES                                  
+W32-000CD                168   CORRIDOR           DP OF FACILITIES                                  
+W32-000LA                400   LOBBY              DP OF FACILITIES                                  
+W32-000LB              2,113   LOBBY              DP OF FACILITIES                                  
+W32-000SA                188   STAIRWAY           DP OF FACILITIES                                  
+W32-000SB                143   STAIRWAY           DP OF FACILITIES                                  
+W32-000SC                108   STAIRWAY           DP OF FACILITIES                                  
+W32-000Z                 731   SHAFT SPACE        DP OF FACILITIES                                  
+W32-003                   43   UTILITY/MECH RM    DP OF FACILITIES                                  
+W32-023                  822   ATHLETIC SERVICE   ATHLETICS                                         
+W32-045                  602   ATHLETIC FACIL     ATHLETICS                                         
+W32-047                  589   ATHLETIC FACIL     ATHLETICS                                         
+W32-049                  584   ATHLETIC FACIL     ATHLETICS                                         
+W32-054                   37   ATHLETIC SERVICE   ATHLETICS                                         
+W32-056                  192   ATHLETIC SERVICE   ATHLETICS                                         
+W32-066                  126   ATHLETIC SERVICE   ATHLETICS                                         
+W32-068                   37   ATHLETIC SERVICE   ATHLETICS                                         
+W32-068A               2,898   ATH LOCKER ROOM    ATHLETICS                                         
+W32-068B                 423   MALE LAVATORY      DP OF FACILITIES                                  
+W32-068C                 650   ATH SHOWER ROOM    ATHLETICS                                         
+W32-068D                 217   ATH LOCKER ROOM    ATHLETICS                                         
+W32-068F                 306   ATH LOCKER ROOM    ATHLETICS                                         
+W32-068G                 252   ATH LOCKER ROOM    ATHLETICS                                         
+W32-070                   37   ATHLETIC SERVICE   ATHLETICS                                         
+W32-070A               2,830   ATH LOCKER ROOM    ATHLETICS                                         
+W32-070B                 298   ATH LOCKER ROOM    ATHLETICS                                         
+W32-070C                 242   ATH LOCKER ROOM    ATHLETICS                                         
+W32-070D                 242   ATH LOCKER ROOM    ATHLETICS                                         
+W32-070F                 238   ATH SHOWER ROOM    ATHLETICS                                         
+W32-070FA                383   FEMALE LAVATORY    DP OF FACILITIES                                  
+W32-070G                 195   ATH LOCKER ROOM    ATHLETICS                                         
+W32-070H                 438   ATH SHOWER ROOM    ATHLETICS                                         
+W32-072                  576   ATHLETIC SERVICE   ATHLETICS                                         
+W32-084                   38   ATHLETIC SERVICE   ATHLETICS                                         
+W32-090                  254   ATH LOCKER ROOM    ATHLETICS                                         
+W32-090A                 162   ATH SHOWER ROOM    ATHLETICS                                         
+W32-099                  163   CONFERENCE ROOM    ATHLETICS                                         
+                    --------                                                                        
+                      19,650                                                                        
+                                                                                                    
+W32-100CA                297   CORRIDOR           DP OF FACILITIES                                  
+W32-100CC                130   CORRIDOR           DP OF FACILITIES                                  
+W32-100CD                386   CORRIDOR           DP OF FACILITIES                                  
+W32-100CE                420   CORRIDOR           DP OF FACILITIES                                  
+W32-100CF              1,317   CORRIDOR           DP OF FACILITIES                                  
+W32-100CG                209   CORRIDOR           DP OF FACILITIES                                  
+W32-100SA                200   STAIRWAY           DP OF FACILITIES                                  
+W32-100SB                271   STAIRWAY           DP OF FACILITIES                                  
+W32-100SC                175   STAIRWAY           DP OF FACILITIES                                  
+W32-100Z                 379   SHAFT SPACE        DP OF FACILITIES                                  
+W32-104                   45   FEMALE LAVATORY    DP OF FACILITIES                                  
+W32-105                  292   CONFERENCE ROOM    DEAN-STU LIFE                                     
+W32-106                  138   ATHLETIC SERVICE   ATHLETICS                                         
+W32-108                  176   ATHLETIC SERVICE   ATHLETICS                                         
+W32-109                  168   OFFICE SERVICE     DEAN-STU LIFE                                     
+W32-109A                  49   OFFICE             DEAN-STU LIFE                                     
+W32-109B                  49   OFFICE             DEAN-STU LIFE                                     
+W32-109C                  80   OFFICE             DEAN-STU LIFE                                     
+W32-109D                  73   OFFICE             DEAN-STU LIFE                                     
+W32-110                4,603   ATHLETIC FACIL     ATHLETICS                                         
+W32-114A                  17   JANITOR STORAGE    DP OF FACILITIES                                  
+W32-115                  143   OFFICE             DEAN-STU LIFE                                     
+W32-117                  136   OFFICE             DEAN-STU LIFE                                     
+W32-119                  133   OFFICE             DEAN-STU LIFE                                     
+W32-121                  145   OFFICE             DEAN-STU LIFE                                     
+W32-123                  137   OFFICE             DEAN-STU LIFE                                     
+W32-125                  139   OFFICE             DEAN-STU LIFE                                     
+W32-127                  143   OFFICE             DEAN-STU LIFE                                     
+W32-129                  137   OFFICE             DEAN-STU LIFE                                     
+W32-130                3,222   ATHLETIC FACIL     ATHLETICS                                         
+W32-131                  139   OFFICE             DEAN-STU LIFE                                     
+W32-133                  139   OFFICE             DEAN-STU LIFE                                     
+W32-135                   96   SECY/RECEPTION     DEAN-STU LIFE                                     
+W32-137                  175   OFFICE             DEAN-STU LIFE                                     
+W32-139                  182   OFFICE SERVICE     DEAN-STU LIFE                                     
+W32-139A                  49   OFFICE SERVICE     DEAN-STU LIFE                                     
+W32-139B                  71   OFFICE SERVICE     DEAN-STU LIFE                                     
+W32-139C                  67   OFFICE             DEAN-STU LIFE                                     
+W32-139D                  80   OFFICE             DEAN-STU LIFE                                     
+W32-139F                  73   OFFICE             DEAN-STU LIFE                                     
+W32-139T                  78   TELECOM CLOSET     DP OF FACILITIES                                  
+W32-140                  267   ATHLETIC FACIL     ATHLETICS                                         
+                    --------                                                                        
+                      15,228                                                                        
+                                                                                                    
+W32-200CA                288   CORRIDOR           DP OF FACILITIES                                  
+W32-200SA                165   STAIRWAY           DP OF FACILITIES                                  
+W32-200SB                 94   STAIRWAY           DP OF FACILITIES                                  
+W32-200Z                 198   SHAFT SPACE        DP OF FACILITIES                                  
+W32-205                3,777   UTILITY/MECH RM    DP OF FACILITIES                                  
+W32-240M                 288   ATHLETIC FACIL     ATHLETICS                                         
+W32-245                  587   ATHLETIC FACIL     ATHLETICS                                         
+W32-247                  579   ATHLETIC FACIL     ATHLETICS                                         
+W32-249                  587   ATHLETIC FACIL     ATHLETICS               

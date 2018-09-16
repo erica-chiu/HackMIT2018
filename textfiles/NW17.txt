@@ -1,0 +1,157 @@
+NW17-000CA               543   CORRIDOR           DP OF FACILITIES                                  
+NW17-000CB               328   CORRIDOR           DP OF FACILITIES                                  
+NW17-000CC               737   CORRIDOR           DP OF FACILITIES                                  
+NW17-000CD               425   CORRIDOR           DP OF FACILITIES                                  
+NW17-000E1                88   ELEVATOR           DP OF FACILITIES                                  
+NW17-000SA               102   STAIRWAY           DP OF FACILITIES                                  
+NW17-000SB               158   STAIRWAY           DP OF FACILITIES                                  
+NW17-000SC               203   STAIRWAY           DP OF FACILITIES                                  
+NW17-000Z                 22   SHAFT SPACE        DP OF FACILITIES                                  
+NW17-001                  82   LABORATORY SVC     K I FOR AST&SP R       LIGO                       
+NW17-001Z                 42   SHAFT SPACE        DP OF FACILITIES                                  
+NW17-003                 390   LABORATORY SVC     VP-RSCH                                           
+NW17-005                 251   LABORATORY SVC     K I FOR AST&SP R       LIGO                       
+NW17-007T                110   TELECOM CLOSET     DP OF FACILITIES                                  
+NW17-009                 179   OFFICE             K I FOR AST&SP R       LIGO                       
+NW17-011                 135   LABORATORY SVC     K I FOR AST&SP R       LIGO                       
+NW17-015                  79   LABORATORY SVC     K I FOR AST&SP R       LIGO                       
+NW17-016               1,023   LAB SUPPORT SHOP   K I FOR AST&SP R       LIGO                       
+NW17-025                 755   LAB SUPPORT SHOP   K I FOR AST&SP R       LIGO                       
+NW17-026                 268   RESEARCH LAB       K I FOR AST&SP R       LIGO                       
+NW17-026T                 24   TELECOM CLOSET     DP OF FACILITIES                                  
+NW17-030                 292   RESEARCH LAB       K I FOR AST&SP R       LIGO                       
+NW17-034                 341   RESEARCH LAB       K I FOR AST&SP R       LIGO                       
+NW17-037                 726   RESEARCH LAB       K I FOR AST&SP R       LIGO                       
+NW17-038                 274   LABORATORY SVC     K I FOR AST&SP R       LIGO                       
+NW17-060               4,067   RESEARCH LAB       K I FOR AST&SP R       LIGO                       
+NW17-061                 112   MALE LAVATORY      DP OF FACILITIES                                  
+NW17-061J                 17   JANITOR CLOSET     DP OF FACILITIES                                  
+NW17-063                 108   FEMALE LAVATORY    DP OF FACILITIES                                  
+NW17-068                 228   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW17-069                 539   RESEARCH LAB       K I FOR AST&SP R       LIGO                       
+NW17-074E                306   ELECTRIC CLOSET    DP OF FACILITIES                                  
+NW17-077                 289   RESEARCH LAB       K I FOR AST&SP R       LIGO                       
+NW17-078                 148   STORAGE FACILITY   DP OF FACIL ADM                                   
+NW17-079                 336   RESEARCH LAB       K I FOR AST&SP R       LIGO                       
+NW17-080                 224   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW17-086                 722   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      14,672                                                                        
+                                                                                                    
+NW17-100CA               251   CORRIDOR           DP OF FACILITIES                                  
+NW17-100CB               787   CORRIDOR           DP OF FACILITIES                                  
+NW17-100CC               209   CORRIDOR           DP OF FACILITIES                                  
+NW17-100CD               811   CORRIDOR           DP OF FACILITIES                                  
+NW17-100E1                88   ELEVATOR           DP OF FACILITIES                                  
+NW17-100SA               151   STAIRWAY           DP OF FACILITIES                                  
+NW17-100SB               158   STAIRWAY           DP OF FACILITIES                                  
+NW17-100SC               203   STAIRWAY           DP OF FACILITIES                                  
+NW17-100Z                100   SHAFT SPACE        DP OF FACILITIES                                  
+NW17-101                 148   OFFICE             PLASMA SCI FSN CTR                                
+NW17-103                 130   OFFICE             PLASMA SCI FSN CTR                                
+NW17-105                 132   OFFICE             PLASMA SCI FSN CTR                                
+NW17-107                 155   OFFICE             PLASMA SCI FSN CTR                                
+NW17-109                 110   OFFICE             PLASMA SCI FSN CTR                                
+NW17-110                 179   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW17-110A                 25   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW17-110B                 10   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW17-111                 217   OFFICE             PLASMA SCI FSN CTR                                
+NW17-114               1,084   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW17-114A                221   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW17-115                 108   OFFICE             PLASMA SCI FSN CTR                                
+NW17-119                 220   OFFICE             PLASMA SCI FSN CTR                                
+NW17-120                 412   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW17-121                 107   OFFICE             PLASMA SCI FSN CTR                                
+NW17-122                 145   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW17-123                 105   OFFICE             PLASMA SCI FSN CTR                                
+NW17-124                  52   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW17-125                 158   OFFICE             PLASMA SCI FSN CTR                                
+NW17-126T                 28   TELECOM CLOSET     DP OF FACILITIES                                  
+NW17-128                 204   MALE LAVATORY      DP OF FACILITIES                                  
+NW17-130                 180   OFFICE             PLASMA SCI FSN CTR                                
+NW17-132                 283   CONFERENCE ROOM    PLASMA SCI FSN CTR                                
+NW17-133                 100   OFFICE             PLASMA SCI FSN CTR                                
+NW17-135                 311   OFFICE             PLASMA SCI FSN CTR                                
+NW17-135A                450   UTILITY/MECH RM    DP OF FACILITIES                                  
+NW17-155                 195   OFFICE             PLASMA SCI FSN CTR                                
+NW17-155A                  9   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW17-156                 124   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW17-159                 109   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW17-161                 186   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW17-163                  99   FEMALE LAVATORY    DP OF FACILITIES                                  
+NW17-165J                 31   JANITOR CLOSET     DP OF FACILITIES                                  
+NW17-168                 113   OFFICE             PLASMA SCI FSN CTR                                
+NW17-169                 470   OFFICE             PLASMA SCI FSN CTR                                
+NW17-170                 111   OFFICE             PLASMA SCI FSN CTR                                
+NW17-171                 397   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW17-172                 112   OFFICE             PLASMA SCI FSN CTR                                
+NW17-174                 114   OFFICE             PLASMA SCI FSN CTR                                
+NW17-176                 111   OFFICE             PLASMA SCI FSN CTR                                
+NW17-177               1,084   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW17-178                 113   OFFICE             PLASMA SCI FSN CTR                                
+NW17-180                 109   OFFICE             PLASMA SCI FSN CTR                                
+NW17-181A                 10   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW17-182                 114   OFFICE             PLASMA SCI FSN CTR                                
+NW17-184                 112   OFFICE             PLASMA SCI FSN CTR                                
+NW17-186A                174   SECY/RECEPTION     PLASMA SCI FSN CTR                                
+NW17-186B                277   OFFICE             PLASMA SCI FSN CTR                                
+                    --------                                                                        
+                      12,202                                                                        
+                                                                                                    
+NW17-200CA               267   CORRIDOR           DP OF FACILITIES                                  
+NW17-200CB             1,142   CORRIDOR           DP OF FACILITIES                                  
+NW17-200CC               255   CORRIDOR           DP OF FACILITIES                                  
+NW17-200CD             1,174   CORRIDOR           DP OF FACILITIES                                  
+NW17-200CE               225   CORRIDOR           DP OF FACILITIES                                  
+NW17-200E1                88   ELEVATOR           DP OF FACILITIES                                  
+NW17-200SA               151   STAIRWAY           DP OF FACILITIES                                  
+NW17-200SB               158   STAIRWAY           DP OF FACILITIES                                  
+NW17-200SC               203   STAIRWAY           DP OF FACILITIES                                  
+NW17-200Z                174   SHAFT SPACE        DP OF FACILITIES                                  
+NW17-203                 436   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW17-203T                 13   TELECOM CLOSET     DP OF FACILITIES                                  
+NW17-207                 270   OFFICE             PLASMA SCI FSN CTR                                
+NW17-210                 348   OFFICE             PLASMA SCI FSN CTR                                
+NW17-211                 102   OFFICE             PLASMA SCI FSN CTR                                
+NW17-213                 220   OFFICE             PLASMA SCI FSN CTR                                
+NW17-216                 347   OFFICE             PLASMA SCI FSN CTR                                
+NW17-217                 108   OFFICE             PLASMA SCI FSN CTR                                
+NW17-218               1,342   CONFERENCE ROOM    PLASMA SCI FSN CTR                                
+NW17-219                 108   OFFICE             PLASMA SCI FSN CTR                                
+NW17-221                 108   OFFICE             PLASMA SCI FSN CTR                                
+NW17-223                 105   OFFICE             PLASMA SCI FSN CTR                                
+NW17-225                 158   OFFICE             PLASMA SCI FSN CTR                                
+NW17-226T                 21   TELECOM CLOSET     DP OF FACILITIES                                  
+NW17-228                 210   MALE LAVATORY      DP OF FACILITIES                                  
+NW17-232                 484   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW17-232A                 10   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW17-235                 206   OFFICE             PLASMA SCI FSN CTR                                
+NW17-238                 217   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW17-239                 204   OFFICE             PLASMA SCI FSN CTR                                
+NW17-240                 338   CONFERENCE ROOM    PLASMA SCI FSN CTR                                
+NW17-241                 106   OFFICE             PLASMA SCI FSN CTR                                
+NW17-243                 106   OFFICE             PLASMA SCI FSN CTR                                
+NW17-245                 334   OFFICE             PLASMA SCI FSN CTR                                
+NW17-246                 210   OFFICE             PLASMA SCI FSN CTR                                
+NW17-248                 204   OFFICE             PLASMA SCI FSN CTR                                
+NW17-249                 187   LABORATORY SVC     PLASMA SCI FSN CTR                                
+NW17-250                 163   OFFICE             PLASMA SCI FSN CTR                                
+NW17-253                 542   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW17-254                 222   OFFICE             PLASMA SCI FSN CTR                                
+NW17-258                 222   OFFICE             PLASMA SCI FSN CTR                                
+NW17-259                 490   RESEARCH LAB       PLASMA SCI FSN CTR                                
+NW17-262                 107   OFFICE             PLASMA SCI FSN CTR                                
+NW17-263                 103   FEMALE LAVATORY    DP OF FACILITIES                                  
+NW17-264                 108   OFFICE             PLASMA SCI FSN CTR                                
+NW17-265J                 33   JANITOR CLOSET     DP OF FACILITIES                                  
+NW17-268                 230   OFFICE             PLASMA SCI FSN CTR                                
+NW17-272                 230   OFFICE             PLASMA SCI FSN CTR                                
+NW17-275                 162   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW17-276                 228   OFFICE             PLASMA SCI FSN CTR                                
+NW17-277                 187   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW17-280                 106   OFFICE             PLASMA SCI FSN CTR                                
+NW17-281                 340   CONFERENCE ROOM    PLASMA SCI FSN CTR                                
+NW17-284                  98   OFFICE SERVICE     PLASMA SCI FSN CTR                                
+NW17-286                 124   OFFICE             PLASMA SCI FSN CTR                                
+NW17-288                  54   PVT CIRCULATION    PLASMA SCI FSN CTR                                
+NW17-288A                282   OFFICE             PLASMA SCI FSN CTR   

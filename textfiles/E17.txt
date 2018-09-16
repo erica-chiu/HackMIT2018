@@ -1,0 +1,508 @@
+E17-000CA                669   CORRIDOR           DP OF FACILITIES                                  
+E17-000CB                207   CORRIDOR           DP OF FACILITIES                                  
+E17-000CC                197   CORRIDOR           DP OF FACILITIES                                  
+E17-000E1                 77   ELEVATOR           DP OF FACILITIES                                  
+E17-000SA                137   STAIRWAY           DP OF FACILITIES                                  
+E17-000Z                  48   SHAFT SPACE        DP OF FACILITIES                                  
+E17-007                  115   LABORATORY SVC     PROVOST RESERVE                                   
+E17-008                  482   LABORATORY SVC     PROVOST RESERVE                                   
+E17-009                  102   LABORATORY SVC     PROVOST RESERVE                                   
+E17-009A                 175   LABORATORY SVC     PROVOST RESERVE                                   
+E17-010E                 113   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E17-011                  191   JANITOR LOCKER     DP OF FACILITIES                                  
+E17-012                  153   OFFICE             DP OF FACIL ADM                                   
+E17-012A                 151   JANITOR STORAGE    DP OF FACILITIES                                  
+E17-013                  160   STORAGE FACILITY   DP OF FACIL ADM                                   
+E17-013A                  89   STORAGE FACILITY   DP OF FACIL ADM                                   
+E17-014                  891   LABORATORY SVC     PROVOST RESERVE                                   
+E17-014A                  99   LAB SUPPORT SHOP   PROVOST RESERVE                                   
+E17-015                  171   UTILITY/MECH RM    DP OF FACILITIES                                  
+E17-016                2,460   UTILITY/MECH RM    DP OF FACILITIES                                  
+E17-017                  122   UTILITY/MECH RM    DP OF FACILITIES                                  
+E17-019                   67   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                       6,877                                                                        
+                                                                                                    
+E17-100CA                908   CORRIDOR           DP OF FACILITIES                                  
+E17-100E1                 80   ELEVATOR           DP OF FACILITIES                                  
+E17-100LA              1,255   LOBBY              DP OF FACILITIES                                  
+E17-100LC                 67   LOBBY              DP OF FACILITIES                                  
+E17-100SA                120   STAIRWAY           DP OF FACILITIES                                  
+E17-100SB                123   STAIRWAY           DP OF FACILITIES                                  
+E17-100Z                  99   SHAFT SPACE        DP OF FACILITIES                                  
+E17-101                  150   OFFICE             EXEC VICE PRES         ATLAS WELCOME              
+E17-103                  145   OFFICE             EXEC VICE PRES         ATLAS WELCOME              
+E17-106                2,913   OFFICE             EXEC VICE PRES         ATLAS WELCOME              
+E17-106A                 137   OFFICE             EXEC VICE PRES         ATLAS WELCOME              
+E17-109                   96   OFFICE             EXEC VICE PRES         ATLAS WELCOME              
+E17-109A                  70   OFFICE SERVICE     EXEC VICE PRES         ATLAS WELCOME              
+E17-111                  155   OFFICE SERVICE     EXEC VICE PRES         ATLAS WELCOME              
+E17-111A                  11   OFFICE SERVICE     EXEC VICE PRES         ATLAS WELCOME              
+E17-111B                   6   OFFICE SERVICE     EXEC VICE PRES         ATLAS WELCOME              
+E17-111E                  26   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E17-113E                   8   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E17-119                  198   FEMALE LAVATORY    DP OF FACILITIES                                  
+E17-120                  176   MALE LAVATORY      DP OF FACILITIES                                  
+E17-123                   94   OFFICE             EXEC VICE PRES         ATLAS WELCOME              
+E17-124                   91   OFFICE SERVICE     EXEC VICE PRES         ATLAS WELCOME              
+E17-125                   94   OFFICE             EXEC VICE PRES         ATLAS WELCOME              
+E17-126                   91   OFFICE SERVICE     EXEC VICE PRES         ATLAS WELCOME              
+E17-128                  567   CLASSROOM SVC      EXEC VICE PRES         ATLAS WELCOME              
+E17-128E                  21   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E17-129                  276   OFFICE SERVICE     INFO SVCS & TECH                                  
+E17-129A                  98   UTILITY/MECH RM    DP OF FACILITIES                                  
+E17-129AA                 16   UTILITY/MECH RM    DP OF FACILITIES                                  
+E17-129AZ                120   SHAFT SPACE        DP OF FACILITIES                                  
+E17-129B                  10   OFFICE SERVICE     INFO SVCS & TECH                                  
+E17-129C                  70   OFFICE SERVICE     INFO SVCS & TECH                                  
+E17-131                  115   OFFICE             EXEC VICE PRES         ATLAS WELCOME              
+E17-132                  137   OFFICE             EXEC VICE PRES         ATLAS WELCOME              
+E17-133                  110   OFFICE SERVICE     SCH OF ENGINEER        OEOP                       
+E17-134                  666   CLASSROOM          EXEC VICE PRES         ATLAS WELCOME              
+E17-134A                   6   CLASSROOM SVC      EXEC VICE PRES         ATLAS WELCOME              
+E17-136                  788   CLASSROOM          COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+E17-136A                 114   CLASSROOM SVC      PROVOST RESERVE                                   
+E17-139                  787   OFFICE             SCH OF ENGINEER        OEOP                       
+E17-139A                 102   OFFICE             SCH OF ENGINEER        OEOP                       
+E17-139B                  98   OFFICE             SCH OF ENGINEER        OEOP                       
+E17-139D                 118   OFFICE             SCH OF ENGINEER        OEOP                       
+E17-139F                 143   CONFERENCE ROOM    SCH OF ENGINEER        OEOP                       
+E17-139G                 141   CONFERENCE ROOM    SCH OF ENGINEER        OEOP                       
+E17-139H                 134   OFFICE             SCH OF ENGINEER        OEOP                       
+E17-139K                 167   OFFICE             SCH OF ENGINEER        OEOP                       
+E17-139M                  44   SECY/RECEPTION     SCH OF ENGINEER        OEOP                       
+                    --------                                                                        
+                      11,959                                                                        
+                                                                                                    
+E17-200CA                493   CORRIDOR           DP OF FACILITIES                                  
+E17-200E1                 78   ELEVATOR           DP OF FACILITIES                                  
+E17-200LA                 53   LOBBY              DP OF FACILITIES                                  
+E17-200SA                118   STAIRWAY           DP OF FACILITIES                                  
+E17-200SB                135   STAIRWAY           DP OF FACILITIES                                  
+E17-200Z                  39   SHAFT SPACE        DP OF FACILITIES                                  
+E17-269                  547   PVT CIRCULATION    CAREER SERVICES        GECD                       
+E17-269A                 136   OFFICE             CAREER SERVICES        GECD                       
+E17-269B                 162   OFFICE             CAREER SERVICES        GECD                       
+E17-269C                  93   OFFICE             CAREER SERVICES        GECD                       
+E17-269D                  92   OFFICE             CAREER SERVICES        GECD                       
+E17-269F                 107   OFFICE             CAREER SERVICES        GECD                       
+E17-269G                 135   OFFICE             CAREER SERVICES        GECD                       
+E17-269H                 100   OFFICE             CAREER SERVICES        GECD                       
+E17-269K                 100   OFFICE             CAREER SERVICES        GECD                       
+E17-269L                 176   OFFICE             CAREER SERVICES        GECD                       
+E17-269N                 102   OFFICE             CAREER SERVICES        GECD                       
+E17-269P                 109   OFFICE             CAREER SERVICES        GECD                       
+E17-269Q                  90   OFFICE             CAREER SERVICES        GECD                       
+E17-269R                 156   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-269S                  99   OFFICE             CAREER SERVICES        GECD                       
+E17-269U                  82   OFFICE             CAREER SERVICES        GECD                       
+E17-269V                  32   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-270                  603   PVT CIRCULATION    CAREER SERVICES        GECD                       
+E17-270A                 100   OFFICE             CAREER SERVICES        GECD                       
+E17-270B                 100   OFFICE             CAREER SERVICES        GECD                       
+E17-270C                  93   OFFICE             CAREER SERVICES        GECD                       
+E17-270D                 104   OFFICE             CAREER SERVICES        GECD                       
+E17-270F                 103   OFFICE             CAREER SERVICES        GECD                       
+E17-270G                 159   OFFICE             CAREER SERVICES        GECD                       
+E17-270H                  90   OFFICE             CAREER SERVICES        GECD                       
+E17-270K                  89   OFFICE             CAREER SERVICES        GECD                       
+E17-270L                 111   OFFICE             CAREER SERVICES        GECD                       
+E17-270N                 118   OFFICE             CAREER SERVICES        GECD                       
+E17-270P                  27   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-270Q                 152   OFFICE             CAREER SERVICES        GECD                       
+E17-270R                  94   OFFICE             CAREER SERVICES        GECD                       
+E17-270S                 115   CONFERENCE ROOM    CAREER SERVICES        GECD                       
+E17-270U                  38   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-270V                 111   SECY/RECEPTION     CAREER SERVICES        GECD                       
+E17-270W                  89   SECY/RECEPTION     CAREER SERVICES        GECD                       
+E17-270X                  93   OFFICE             CAREER SERVICES        GECD                       
+E17-285                   93   UTILITY/MECH RM    DP OF FACILITIES                                  
+E17-285A                  13   UTILITY/MECH RM    DP OF FACILITIES                                  
+E17-285AE                 14   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E17-285E                  22   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E17-290                  760   PVT CIRCULATION    CAREER SERVICES        GECD                       
+E17-290A                  48   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-290B                  41   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-290C                  14   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-290D                 140   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-290E                  19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E17-290F                  76   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-290G                  69   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-290H                  69   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-290K                  70   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-290L                  68   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-290N                  60   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-290P                  62   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-290Q                  66   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-290R                  78   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-290S                  62   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-290U                  58   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-290V                  61   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-290W                  62   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-290X                 237   CONFERENCE ROOM    CAREER SERVICES        GECD                       
+E17-290XA                 60   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-290Y                  43   SECY/RECEPTION     CAREER SERVICES        GECD                       
+E17-290Z                  42   OFFICE             CAREER SERVICES        GECD                       
+E17-294                  406   OFFICE SERVICE     CAREER SERVICES        GECD                       
+E17-294A                 114   OFFICE             CAREER SERVICES        GECD                       
+E17-294B                 121   SECY/RECEPTION     CAREER SERVICES        GECD                       
+E17-294E                  24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E17-296                  181   MALE LAVATORY      DP OF FACILITIES                                  
+E17-298                  181   FEMALE LAVATORY    DP OF FACILITIES                                  
+                    --------                                                                        
+                       9,055                                                                        
+                                                                                                    
+E17-300E1                 77   ELEVATOR           DP OF FACILITIES                                  
+E17-300SA                118   STAIRWAY           DP OF FACILITIES                                  
+E17-300SB                153   STAIRWAY           DP OF FACILITIES                                  
+E17-300Z                  35   SHAFT SPACE        DP OF FACILITIES                                  
+E17-343                  163   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-345                  163   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-346                   96   SECY/RECEPTION     SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-347                  174   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-348                  322   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-349                  176   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-351                  294   OFFICE SERVICE     SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-352                  328   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-353                  134   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-355                  183   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-357                  175   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-359                  175   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-361                  179   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-362                  108   CONFERENCE ROOM    SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-362A                  71   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-362B                  77   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-363                  183   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-364E                  19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E17-365                  163   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-367                  174   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-368                  110   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-369                  174   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-370                  110   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-371                  174   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-373                  174   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-374                   79   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-375                  174   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-376                   90   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-377                  173   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-378                   69   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-379                  163   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-380                  819   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-381                  162   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-385                   76   OFFICE SERVICE     SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-385A                  12   OFFICE SERVICE     SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-385AE                 12   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E17-385E                  30   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E17-386                  342   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-386A                  13   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-386B                   9   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-386C                  29   OFFICE SERVICE     SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-387T                 255   TELECOM CLOSET     DP OF FACILITIES                                  
+E17-388                  123   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-389                  109   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-390                  110   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-391                  109   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-392                  110   OFFICE             SOCIOTECH SYS RSCH C                              
+                                                  TR                                                
+                                                                                                    
+E17-393E                  24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E17-395                  112   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-396                  181   MALE LAVATORY      DP OF FACILITIES                                  
+E17-397                  105   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-398                  181   FEMALE LAVATORY    DP OF FACILITIES                                  
+E17-399                2,324   PVT CIRCULATION    INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-399A                  65   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-399B                 106   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+                    --------                                                                        
+                      10,644                                                                        
+                                                                                                    
+E17-400E1                 76   ELEVATOR           DP OF FACILITIES                                  
+E17-400SA                121   STAIRWAY           DP OF FACILITIES                                  
+E17-400SB                143   STAIRWAY           DP OF FACILITIES                                  
+E17-442                  321   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-444                  147   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-444A                  81   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-445                  187   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-446                  111   CONFERENCE ROOM    INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-447                  173   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-448                  318   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-449                  177   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-451                  295   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-452                  324   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-453                  111   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-455                  187   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-457                  178   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-459                  176   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-461                  168   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-462A                  96   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-462B                  96   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-464E                  19   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E17-467                  533   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-469                  174   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-471                  366   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-474                   77   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-475                  174   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-476                  442   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-477                  174   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-478                   57   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-479                  334   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-481                  370   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-485                   83   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-485A                  13   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-485AE                 14   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E17-485E                  30   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E17-486                  341   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-486A                  11   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-486B                   9   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-487                  352   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-488                  602   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-493E                  24   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E17-495                  223   OFFICE             INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-496                  177   MALE LAVATORY      DP OF FACILITIES                                  
+E17-498                  176   FEMALE LAVATORY    DP OF FACILITIES                                  
+E17-499                2,448   PVT CIRCULATION    INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-499A                  99   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+E17-499B                  99   OFFICE SERVICE     INST FOR DATA SYS &                               
+                                                  SOCIETY                                           
+                                                                                                    
+                    --------                                                                        
+                      10,905                                                                        
+                                                                                                    
+E17-500CA              1,667   CORRIDOR           DP OF FACILITIES                                  
+E17-500E1                 76   ELEVATOR           DP OF FACILITIES                                  
+E17-500SB                143   STAIRWAY           DP OF FACILITIES                                  
+E17-500SC                221   STAIRWAY           DP OF FACILITIES                                  
+E17-500Z                  36   SHAFT SPACE        DP OF FACILITIES                                  
+E17-502                  255   CONFERENCE ROOM    CHEMICAL ENG                                      
+E17-504                  639   OFFICE SERVICE     CHEMICAL ENG                                      
+E17-504A                 215   SECY/RECEPTION     CHEMICAL ENG                                      
+E17-504B                  74   OFFICE SERVICE     CHEMICAL ENG                                      
+E17-504C                  85   OFFICE SERVICE     CHEMICAL ENG                                      
+E17-504D                 210   OFFICE             CHEMICAL ENG                                      
+E17-504F                 205   OFFICE             CHEMICAL ENG                                      
+E17-504G                 211   OFFICE             CHEMICAL ENG                                      
+E17-504H                 212   OFFICE             CHEMICAL ENG                                      
+E17-512                  141   LABORATORY SVC     CHEMICAL ENG                                      
+E17-517                  630   CONFERENCE ROOM    CHEMICAL ENG                                      
+E17-518                1,839   RESEARCH LAB       CHEMICAL ENG                                      
+E17-523                  297   UTILITY/MECH RM    DP OF FACILITIES                                  
+E17-523A                  19   UTILITY/MECH RM    DP OF FACILITIES                                  
+E17-523AE                 23   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E17-523B                  12   UTILITY/MECH RM    DP OF FACILITIES                                  
+E17-523CE                 18   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E17-523E                  20   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E17-529                  417   LABORATORY SVC     CHEMICAL ENG                                      
+E17-529A                 107   LABORATORY SVC     CHEMICAL ENG                                      
+E17-529B                  86   LABORATORY SVC     CHEMICAL ENG                                      
+E17-529M                  31   UTILITY/MECH RM    DP OF FACILITIES                                  
+E17-530                  748   RSCH LAB-OFFICE    CHEMICAL ENG                                      
+E17-538                  359   LABORATORY SVC     CHEMICAL ENG                                      
+E17-538A                  87   LABORATORY SVC     CHEMICAL ENG                                      
+E17-539                  582   OFFICE             CHEMICAL ENG                                      
+E17-541                  149   FEMALE LAVATORY    DP OF FACILITIES                                  
+E17-579Z                 638   SHAFT SPACE        DP OF FACILITIES                                  
+                    --------                                                                        
+                      10,452                                                                        
+                                                                                                    
+E17-600CA                158   CORRIDOR           DP OF FACILITIES                                  
+E17-600E1                 80   ELEVATOR           DP OF FACILITIES                                  
+E17-600SA                138   STAIRWAY           DP OF FACILITIES                                  
+E17-600Z                 134   SHAFT SPACE        DP OF FACILITIES                                  
+E17-602                  126   FEMALE LAVATORY    DP OF FACILITIES                                  
+E17-606                  114   MALE LAVATORY      DP OF FACILITIES                                  
+E17-608                  100   ANIMAL SERVICE     DIV OF COMP MED                                   
+E17-610                1,063   ANIMAL SERVICE     DIV OF COMP MED                                   
+E17-620                  321   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E17-624                  194   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E17-627                  138   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+E17-627E                  21   ELECTRIC CLOSET    DP OF FACILITIES                                  
+E17-628                  313   ANIMAL SERVICE     DIV OF COMP MED                                   
+E17-629                   73   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E17-630                  168   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E17-641                  315   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E17-645                  265   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E17-649                  261   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E17-651                  271   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+E17-655                   94   ANIMAL SERVICE     DIV OF COMP MED                                   
+E17-659                  231   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+E17-665                  320   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+E17-665A                 267   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+E17-665B                  43   ANIMAL SERVICE     DIV OF COMP MED                                   
+E17-669                  145   ANIMAL SERVICE     DIV OF COMP MED                                   
+E17-671                  205   OFFICE             DIV OF COMP MED                                   
+E17-681                  369   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E17-685                  156   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E17-686                  112   ANIMAL RSCH LAB    DIV OF COMP MED                                   
+E17-690                  244   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E17-696                  165   ANIMAL QUARTERS    DIV OF COMP MED                                   
+E17-696E                  16   ELECTRIC CLOSET    DP OF FACILITIES  

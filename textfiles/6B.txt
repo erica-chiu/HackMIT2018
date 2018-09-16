@@ -1,0 +1,6 @@
+ROOM NUMBER            SQ FT   ROOM USE           DEPARTMENT             GROUP                      
+-----------------   --------   ----------------   --------------------   ----------------           
+6B-100                   563   STORAGE FACILITY   DP OF FACIL ADM                                   
+6B-100A                   81   STORAGE FACILITY   DP OF FACIL ADM                                   
+6B-120E                  352   ELECTRIC CLOSET    DP OF FACILITIES                                  
+6B-130E                  523   ELECTRIC CLOSET    DP OF FACILITIES    

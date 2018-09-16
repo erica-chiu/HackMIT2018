@@ -1,0 +1,111 @@
+WW15-000CA                54   CORRIDOR           DP OF FACILITIES                                  
+WW15-000CB                77   CORRIDOR           DP OF FACILITIES                                  
+WW15-000SB                30   STAIRWAY           DP OF FACILITIES                                  
+WW15-001                 128   STORAGE FACILITY   PROVOST RESERVE                                   
+WW15-002                 407   UTILITY/MECH RM    DP OF FACILITIES                                  
+WW15-003                 200   STORAGE FACILITY   PROVOST RESERVE                                   
+WW15-004                 161   STORAGE FACILITY   PROVOST RESERVE                                   
+WW15-005                  27   STORAGE FACILITY   PROVOST RESERVE                                   
+WW15-006J                 14   JANITOR CLOSET     DP OF FACILITIES                                  
+WW15-007                  32   STORAGE FACILITY   PROVOST RESERVE                                   
+WW15-008                 153   PUBLIC LAVATORY    DP OF FACILITIES                                  
+WW15-009                  65   STORAGE FACILITY   PROVOST RESERVE                                   
+WW15-010                 253   STORAGE FACILITY   PROVOST RESERVE                                   
+WW15-011                  27   STORAGE FACILITY   PROVOST RESERVE                                   
+                    --------                                                                        
+                       1,628                                                                        
+                                                                                                    
+WW15-100CA               184   CORRIDOR           DP OF FACILITIES                                  
+WW15-100CB               636   CORRIDOR           DP OF FACILITIES                                  
+WW15-100CC                80   CORRIDOR           DP OF FACILITIES                                  
+WW15-100SA                74   STAIRWAY           DP OF FACILITIES                                  
+WW15-100SB               119   STAIRWAY           DP OF FACILITIES                                  
+WW15-100SC                58   STAIRWAY           DP OF FACILITIES                                  
+WW15-100Z                 66   SHAFT SPACE        DP OF FACILITIES                                  
+WW15-101E                 14   ELECTRIC CLOSET    DP OF FACILITIES                                  
+WW15-102                 159   OFFICE             DP OF FACIL ADM                                   
+WW15-103                 578   OFFICE SERVICE     DP OF FACIL ADM                                   
+WW15-104                 120   OFFICE SERVICE     DP OF FACIL ADM                                   
+WW15-105A                 16   STORAGE FACILITY   DP OF FACIL ADM                                   
+WW15-106                 120   OFFICE SERVICE     DP OF FACIL ADM                                   
+WW15-107                 280   OFFICE SERVICE     DP OF FACIL ADM                                   
+WW15-108                 141   OFFICE SERVICE     DP OF FACIL ADM                                   
+WW15-109                  20   OFFICE SERVICE     DP OF FACIL ADM                                   
+WW15-111                  85   OFFICE SERVICE     DP OF FACIL ADM                                   
+WW15-112                  81   OFFICE SERVICE     DP OF FACIL ADM                                   
+WW15-113                 120   OFFICE             DP OF FACIL ADM                                   
+WW15-115               1,071   OFFICE SERVICE     DP OF FACIL ADM                                   
+WW15-115L                148   SECY/RECEPTION     DP OF FACIL ADM                                   
+WW15-117                 120   OFFICE SERVICE     DP OF FACIL ADM                                   
+WW15-118                 280   OFFICE             DP OF FACIL ADM                                   
+WW15-119                 146   OFFICE             DP OF FACIL ADM                                   
+WW15-120A                 15   OFFICE SERVICE     DP OF FACIL ADM                                   
+WW15-121                 169   OFFICE SERVICE     DP OF FACIL ADM                                   
+WW15-122                 272   CONFERENCE ROOM    DP OF FACIL ADM                                   
+WW15-123                 131   FEMALE LAVATORY    DP OF FACILITIES                                  
+WW15-124                 126   MALE LAVATORY      DP OF FACILITIES                                  
+WW15-126                 387   MAINTENANCE SHOP   DP OF FACIL ADM                                   
+WW15-126A                 97   STORAGE FACILITY   DP OF FACIL ADM                                   
+WW15-126B                357   STORAGE FACILITY   DP OF FACIL ADM                                   
+WW15-126C                342   OFFICE SERVICE     DP OF FACIL ADM        LETTVIN/ SEARLE            
+WW15-126J                 29   JANITOR CLOSET     DP OF FACILITIES                                  
+WW15-130                  70   UTILITY/MECH RM    DP OF FACILITIES                                  
+WW15-132                  57   UTILITY/MECH RM    DP OF FACILITIES                                  
+WW15-135               1,674   STORAGE FACILITY   PROPERTY OFFICE                                   
+WW15-135A                216   STORAGE FACILITY   DP OF FACIL ADM                                   
+WW15-135B                220   STORAGE FACILITY   CAMPUS DINING                                     
+WW15-135C                220   STORAGE FACILITY   OFF OF PROVOST                                    
+WW15-135D                220   STORAGE FACILITY   SCH OF MANAGEMNT                                  
+WW15-135F                220   STORAGE FACILITY   CHEMISTRY                                         
+WW15-135G                220   STORAGE FACILITY   CHEMISTRY                                         
+WW15-135H                291   STORAGE FACILITY   MATS SCI & ENG                                    
+WW15-135K                100   STORAGE FACILITY   MATS SCI & ENG                                    
+WW15-135L                180   STORAGE FACILITY   K I FOR AST&SP R                                  
+WW15-135M                180   STORAGE FACILITY   K I FOR AST&SP R                                  
+WW15-135N                180   STORAGE FACILITY   CHEMISTRY                                         
+WW15-135O                171   STORAGE FACILITY   EARTH ATMO&PL SC                                  
+WW15-135P                192   STORAGE FACILITY   ALUMNI/AE ASSOC                                   
+WW15-135Q                240   STORAGE FACILITY   EARTH ATMO&PL SC                                  
+WW15-135R                240   STORAGE FACILITY   LAB FOR NUCL SCI                                  
+WW15-135S                260   STORAGE FACILITY   LAB FOR NUCL SCI                                  
+WW15-135U                 90   STORAGE FACILITY   DP OF FACIL ADM                                   
+WW15-135V                180   STORAGE FACILITY   PROPERTY OFFICE        SHARED                     
+WW15-135W                180   STORAGE FACILITY   PROPERTY OFFICE        SHARED                     
+WW15-135X                180   STORAGE FACILITY   MECHANICAL ENG                                    
+WW15-135Y                180   STORAGE FACILITY   ELEC ENG&COMP SC                                  
+WW15-139Z                 28   SHAFT SPACE        DP OF FACILITIES                                  
+WW15-140                 399   PVT CIRCULATION    PROVOST RESERVE                                   
+WW15-146E                149   ELECTRIC CLOSET    DP OF FACILITIES                                  
+WW15-148T                129   COMPUTER SERVICE   INFO SVCS & TECH                                  
+WW15-155               5,247   MERCHAND FACIL     OFF OF PRESIDENT       FURN EXCHANGE              
+WW15-175               8,880   MAIL ROOM          DP OF FACIL ADM                                   
+WW15-176                  61   OFFICE SERVICE     DP OF FACIL ADM                                   
+WW15-177                 146   OFFICE SERVICE     OFF OF PRESIDENT       FURN EXCHANGE              
+WW15-178                  61   OFFICE SERVICE     DP OF FACIL ADM                                   
+WW15-180                 883   MERCHAND FACIL     OFF OF PRESIDENT       FURN EXCHANGE              
+WW15-182                 378   MERCHAND SVC       OFF OF PRESIDENT       FURN EXCHANGE              
+WW15-186                  45   MALE LAVATORY      DP OF FACILITIES                                  
+WW15-187                 220   OFFICE             PROVOST RESERVE                                   
+WW15-188                  45   FEMALE LAVATORY    DP OF FACILITIES                                  
+WW15-189               1,155   RECEIVING ROOM     PROVOST RESERVE                                   
+WW15-190J                111   JANITOR CLOSET     DP OF FACILITIES                                  
+WW15-192                 237   OFFICE SERVICE     PROVOST RESERVE                                   
+WW15-195               2,517   STORAGE FACILITY   PROPERTY OFFICE                                   
+WW15-195A                361   STORAGE FACILITY   OFF OF PROVOST                                    
+WW15-195B                190   STORAGE FACILITY   LIST VIS ART CTR                                  
+WW15-195C                240   STORAGE FACILITY   PROPERTY OFFICE                                   
+WW15-195D                240   STORAGE FACILITY   EARTH ATMO&PL SC                                  
+WW15-195F                864   STORAGE FACILITY   EARTH ATMO&PL SC                                  
+WW15-195K                180   STORAGE FACILITY   PROPERTY OFFICE        SHARED                     
+WW15-195L                180   STORAGE FACILITY   COMP SCI & AI LAB                                 
+WW15-195M                180   STORAGE FACILITY   MECHANICAL ENG                                    
+WW15-195N                180   STORAGE FACILITY   OFF OF PRESIDENT                                  
+WW15-195P                113   STORAGE FACILITY   PROVOST RESERVE                                   
+WW15-195S                621   STORAGE FACILITY   DIV OF COMP MED                                   
+WW15-195U                486   STORAGE FACILITY   SCH OF HUM & S S                                  
+WW15-195V                198   STORAGE FACILITY   OFF OF PROVOST                                    
+WW15-195W                216   STORAGE FACILITY   CHEMICAL ENG                                      
+WW15-195X                187   STORAGE FACILITY   PROPERTY OFFICE        SHARED                     
+WW15-196E                 42   ELECTRIC CLOSET    DP OF FACILITIES                                  
+WW15-197                 828   STORAGE FACILITY   PROPERTY OFFICE                                   
+WW15-197A                 95   OFFICE             PROPERTY OFFICE      

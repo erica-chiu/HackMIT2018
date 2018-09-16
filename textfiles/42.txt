@@ -1,0 +1,95 @@
+42-0000SB                167   STAIRWAY           DP OF FACILITIES                                  
+42-0026                  512   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                         679                                                                        
+                                                                                                    
+42-000E1                  48   ELEVATOR           DP OF FACILITIES                                  
+42-000LA                 138   LOBBY              DP OF FACILITIES                                  
+42-000SA                 124   STAIRWAY           DP OF FACILITIES                                  
+42-000SB                  28   STAIRWAY           DP OF FACILITIES                                  
+42-000Z                   17   SHAFT SPACE        DP OF FACILITIES                                  
+42-005                 1,662   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-010                 1,319   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-015                 5,253   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-016E                  843   ELECTRIC CLOSET    DP OF FACILITIES                                  
+42-017                    28   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-020                 5,520   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-025                 2,280   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-026                   196   STORAGE FACILITY   DP OF FACIL ADM                                   
+42-030                 1,813   STORAGE FACILITY   DP OF FACIL ADM                                   
+42-040                   314   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-040E                  427   ELECTRIC CLOSET    DP OF FACILITIES                                  
+42-050                   630   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                      20,639                                                                        
+                                                                                                    
+42-100E1                  32   ELEVATOR           DP OF FACILITIES                                  
+42-100LA                 167   LOBBY              DP OF FACILITIES                                  
+42-100LB                 391   LOBBY              DP OF FACILITIES                                  
+42-100LC                 148   LOBBY              DP OF FACILITIES                                  
+42-100SA                 124   STAIRWAY           DP OF FACILITIES                                  
+42-100Z                    7   SHAFT SPACE        DP OF FACILITIES                                  
+42-101                   322   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-110                   505   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-111                    58   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-112                   128   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-113                   110   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-130                   609   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-135                 3,499   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-150                   555   NON-ATH LOCKR RM   DP OF FACIL ADM                                   
+42-150A                  103   UTILITY/MECH RM    DP OF FACILITIES                                  
+                    --------                                                                        
+                       6,757                                                                        
+                                                                                                    
+42-200E1                  48   ELEVATOR           DP OF FACILITIES                                  
+42-200LA                 158   LOBBY              DP OF FACILITIES                                  
+42-200LB                 355   LOBBY              DP OF FACILITIES                                  
+42-200SA                 124   STAIRWAY           DP OF FACILITIES                                  
+42-200SB                  24   STAIRWAY           DP OF FACILITIES                                  
+42-200Z                   85   SHAFT SPACE        DP OF FACILITIES                                  
+42-210                 8,664   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-219                 2,151   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-219A                  175   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-220                 1,217   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-225                   178   MAINTENANCE SHOP   DP OF FACIL ADM                                   
+42-225E                  282   ELECTRIC CLOSET    DP OF FACILITIES                                  
+42-226                    37   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-227                   158   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-228T                   19   TELECOM CLOSET     DP OF FACILITIES                                  
+42-229                   154   OFFICE             DP OF FACIL ADM                                   
+42-229A                   11   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-230                 2,221   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-230A                   39   PVT LAVATORY       DP OF FACIL ADM                                   
+42-235                   453   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-240E                1,241   ELECTRIC CLOSET    DP OF FACILITIES                                  
+42-250                 1,617   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-250E                  138   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                      19,548                                                                        
+                                                                                                    
+42-300E1                  48   ELEVATOR           DP OF FACILITIES                                  
+42-300LA                 147   LOBBY              DP OF FACILITIES                                  
+42-300SA                 127   STAIRWAY           DP OF FACILITIES                                  
+42-300SB                  76   STAIRWAY           DP OF FACILITIES                                  
+42-300Z                  195   SHAFT SPACE        DP OF FACILITIES                                  
+42-319                 1,884   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-320                   917   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-321                   306   PVT CIRCULATION    DP OF FACIL ADM                                   
+42-321A                   52   OFFICE SERVICE     DP OF FACIL ADM                                   
+42-322                    54   PVT LAVATORY       DP OF FACIL ADM                                   
+42-324                   101   OFFICE             DP OF FACIL ADM                                   
+42-325                   441   OFFICE SERVICE     DP OF FACIL ADM                                   
+42-326                    95   OFFICE             DP OF FACIL ADM                                   
+42-327                   429   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-328                   212   OFFICE             DP OF FACIL ADM                                   
+42-329                   184   SECY/RECEPTION     DP OF FACIL ADM                                   
+42-330                 2,191   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-335                   712   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-340E                1,961   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                      10,131                                                                        
+                                                                                                    
+42-3M00Z                  82   SHAFT SPACE        DP OF FACILITIES                                  
+42-3M0M                1,604   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-3M5M                  721   UTILITY/MECH RM    DP OF FACILITIES                                  
+42-3M5M                  202   UTILITY/MECH RM    DP OF FACILITIES

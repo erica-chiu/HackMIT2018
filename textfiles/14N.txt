@@ -1,0 +1,345 @@
+14N-100CA                927   CORRIDOR           DP OF FACILITIES                                  
+14N-100CB              1,206   CORRIDOR           DP OF FACILITIES                                  
+14N-100CC                889   CORRIDOR           DP OF FACILITIES                                  
+14N-100E1                 65   ELEVATOR           DP OF FACILITIES                                  
+14N-100E2                 24   ELEVATOR           DP OF FACILITIES                                  
+14N-100E2M                22   ELEVATOR           DP OF FACILITIES                                  
+14N-100LA                110   LOBBY              DP OF FACILITIES                                  
+14N-100LB                328   LOBBY              DP OF FACILITIES                                  
+14N-100SA                247   STAIRWAY           DP OF FACILITIES                                  
+14N-100SB                237   STAIRWAY           DP OF FACILITIES                                  
+14N-100SE                 35   PVT CIRCULATION    LIBRARIES                                         
+14N-100SF                 18   PVT CIRCULATION    LIBRARIES                                         
+14N-100SFM                39   PVT CIRCULATION    LIBRARIES                                         
+14N-100Z                  72   SHAFT SPACE        DP OF FACILITIES                                  
+14N-106                   14   OFFICE SERVICE     LIBRARIES                                         
+14N-106E                   4   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14N-108                  268   OFFICE             COMPARATIVE MEDIA ST   WRITING & HUM ST           
+                                                  UDIES                                             
+                                                                                                    
+14N-108A                   6   OFFICE SERVICE     COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+14N-112                  446   CLASSROOM          REGISTRAR                                         
+14N-118                  933   STACK/STUDY        LIBRARIES                                         
+14N-118A                 228   OFFICE             LIBRARIES                                         
+14N-118B                  46   OFFICE SERVICE     LIBRARIES                                         
+14N-120                  968   LIBRARY PROCESS    LIBRARIES                                         
+14N-120A                 176   LIBRARY PROCESS    LIBRARIES                                         
+14N-120AM                 85   OFFICE             LIBRARIES                                         
+14N-120BM                 85   OFFICE             LIBRARIES                                         
+14N-120C                  25   OFFICE SERVICE     LIBRARIES                                         
+14N-120CM                 38   OFFICE SERVICE     LIBRARIES                                         
+14N-120DM                 85   OFFICE             LIBRARIES                                         
+14N-120FM                 85   OFFICE SERVICE     LIBRARIES                                         
+14N-120GM                 57   OFFICE SERVICE     LIBRARIES                                         
+14N-120HM                 73   OFFICE             LIBRARIES                                         
+14N-120KM                 85   OFFICE             LIBRARIES                                         
+14N-120LM                 85   OFFICE             LIBRARIES                                         
+14N-120M                 187   PVT CIRCULATION    LIBRARIES                                         
+14N-130                  327   EXHIBITION FACIL   LIBRARIES                                         
+14N-132                1,069   STACK/STUDY        LIBRARIES                                         
+14N-132Z                  31   SHAFT SPACE        DP OF FACILITIES                                  
+14N-140J                  20   JANITOR CLOSET     DP OF FACILITIES                                  
+                    --------                                                                        
+                       9,646                                                                        
+                                                                                                    
+14N-200CA              1,233   CORRIDOR           DP OF FACILITIES                                  
+14N-200CC                 41   CORRIDOR           DP OF FACILITIES                                  
+14N-200E1                 52   ELEVATOR           DP OF FACILITIES                                  
+14N-200SA                264   STAIRWAY           DP OF FACILITIES                                  
+14N-200SB                298   STAIRWAY           DP OF FACILITIES                                  
+14N-200Z                   1   SHAFT SPACE        DP OF FACILITIES                                  
+14N-204                  112   MALE LAVATORY      DP OF FACILITIES                                  
+14N-205                  182   OFFICE             COMPARATIVE MEDIA ST   LITERATURE/CMS             
+                                                  UDIES                                             
+                                                                                                    
+14N-206                  115   OFFICE             GLOBAL STUDIES & LAN   LITERATURE/CMS             
+                                                  GUAGES                                            
+                                                                                                    
+14N-206Z                  13   SHAFT SPACE        DP OF FACILITIES                                  
+14N-207                  274   OFFICE             COMPARATIVE MEDIA ST   LITERATURE/CMS             
+                                                  UDIES                                             
+                                                                                                    
+14N-207E                   4   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14N-208                  119   OFFICE             SCH OF HUM & S S                                  
+14N-209                  149   OFFICE             COMPARATIVE MEDIA ST   LITERATURE/CMS             
+                                                  UDIES                                             
+                                                                                                    
+14N-210                  117   OFFICE             COMPARATIVE MEDIA ST   WRITING                    
+                                                  UDIES                                             
+                                                                                                    
+14N-211                  188   OFFICE             SCH OF HUM & S S       WRITING                    
+14N-212                  114   OFFICE             COMPARATIVE MEDIA ST   WRITING                    
+                                                  UDIES                                             
+                                                                                                    
+14N-213                  186   OFFICE             SCH OF HUM & S S       LITERATURE/CMS             
+14N-213A                 179   OFFICE             SCH OF HUM & S S       LITERATURE/CMS             
+14N-214                  126   OFFICE             COMPARATIVE MEDIA ST   WRITING                    
+                                                  UDIES                                             
+                                                                                                    
+14N-216                  115   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-217                  378   CLASSROOM          GLOBAL STUDIES & LAN   LITERATURE/CMS             
+                                                  GUAGES                                            
+                                                                                                    
+14N-218                  117   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-220                  121   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-221A                 156   OFFICE             COMPARATIVE MEDIA ST   WRITING                    
+                                                  UDIES                                             
+                                                                                                    
+14N-221B                  91   OFFICE             WOMEN & GENDER STUDI   WOMEN STUDIES              
+                                                  ES                                                
+                                                                                                    
+14N-221C                  68   OFFICE             COMPARATIVE MEDIA ST   WRITING                    
+                                                  UDIES                                             
+                                                                                                    
+14N-222                  124   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-224                  114   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-225                  372   CLASSROOM          GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-226                  122   OFFICE SERVICE     COMPARATIVE MEDIA ST   WRITING & HUM ST           
+                                                  UDIES                                             
+                                                                                                    
+14N-228                  118   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-229                  188   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+14N-230                  123   OFFICE             COMPARATIVE MEDIA ST   WRITING & HUM ST           
+                                                  UDIES                                             
+                                                                                                    
+14N-231                  181   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+14N-232                  113   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-233                   41   OFFICE             COMPARATIVE MEDIA ST                              
+                                                  UDIES                                             
+                                                                                                    
+14N-233A                  75   OFFICE SERVICE     COMPARATIVE MEDIA ST   WRITING                    
+                                                  UDIES                                             
+                                                                                                    
+14N-233B                 105   OFFICE             COMPARATIVE MEDIA ST   WRITING & HUM ST           
+                                                  UDIES                                             
+                                                                                                    
+14N-233C                  94   OFFICE             COMPARATIVE MEDIA ST   WRITING & HUM ST           
+                                                  UDIES                                             
+                                                                                                    
+14N-233D                  67   OFFICE             COMPARATIVE MEDIA ST   WRITING & HUM ST           
+                                                  UDIES                                             
+                                                                                                    
+14N-234                  121   OFFICE             COMPARATIVE MEDIA ST   WRITING & HUM ST           
+                                                  UDIES                                             
+                                                                                                    
+14N-236                  111   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-237                  107   FEMALE LAVATORY    DP OF FACILITIES                                  
+14N-237Z                  22   SHAFT SPACE        DP OF FACILITIES                                  
+14N-238                  162   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-239J                  13   JANITOR CLOSET     DP OF FACILITIES                                  
+14N-239Z                  40   SHAFT SPACE        DP OF FACILITIES                                  
+14N-241E                   6   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       7,238                                                                        
+                                                                                                    
+14N-300CA              1,229   CORRIDOR           DP OF FACILITIES                                  
+14N-300CB                 39   CORRIDOR           DP OF FACILITIES                                  
+14N-300E1                 53   ELEVATOR           DP OF FACILITIES                                  
+14N-300SA                259   STAIRWAY           DP OF FACILITIES                                  
+14N-300SB                301   STAIRWAY           DP OF FACILITIES                                  
+14N-300Z                  16   SHAFT SPACE        DP OF FACILITIES                                  
+14N-303                  192   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-304                  111   MALE LAVATORY      DP OF FACILITIES                                  
+14N-305                  267   SECY/RECEPTION     GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-306                  108   OFFICE SERVICE     GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-306E                   5   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14N-306Z                  13   SHAFT SPACE        DP OF FACILITIES                                  
+14N-307                   20   OFFICE SERVICE     GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-308                  106   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-309                  208   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-310                  118   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-311                  158   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-312                  114   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-313                  377   CLASSROOM          GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-314                  126   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-316                  115   OFFICE             COMPARATIVE MEDIA ST   WRITING                    
+                                                  UDIES                                             
+                                                                                                    
+14N-317                  380   OFFICE SERVICE     COMPARATIVE MEDIA ST   WRITING                    
+                                                  UDIES                                             
+                                                                                                    
+14N-318                  118   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-320                  120   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-321                  184   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-322                  124   OFFICE             COMPARATIVE MEDIA ST   WRITING                    
+                                                  UDIES                                             
+                                                                                                    
+14N-323                  177   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-324                  115   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-325                  374   CLASSROOM          REGISTRAR                                         
+14N-326                  122   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-328                  117   OFFICE             COMPARATIVE MEDIA ST   WRITING                    
+                                                  UDIES                                             
+                                                                                                    
+14N-329A                  93   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-329B                  94   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-329C                  69   OFFICE SERVICE     GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-329D                  68   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-330                  124   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-332                  113   OFFICE             COMPARATIVE MEDIA ST   WRITING                    
+                                                  UDIES                                             
+                                                                                                    
+14N-333                  184   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-334                  121   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-335                  204   OFFICE             LITERATURE             LITERATURE                 
+14N-336                  111   OFFICE             COMPARATIVE MEDIA ST   WRITING                    
+                                                  UDIES                                             
+                                                                                                    
+14N-337Z                  14   SHAFT SPACE        DP OF FACILITIES                                  
+14N-338                  164   OFFICE             COMPARATIVE MEDIA ST   WRITING                    
+                                                  UDIES                                             
+                                                                                                    
+14N-339                  214   FEMALE LAVATORY    DP OF FACILITIES                                  
+14N-339A                  38   JANITOR LOCKER     DP OF FACILITIES                                  
+14N-339J                  16   JANITOR CLOSET     DP OF FACILITIES                                  
+14N-341E                   5   ELECTRIC CLOSET    DP OF FACILITIES                                  
+                    --------                                                                        
+                       7,401                                                                        
+                                                                                                    
+14N-400CA              1,276   CORRIDOR           DP OF FACILITIES                                  
+14N-400CB                106   CORRIDOR           DP OF FACILITIES                                  
+14N-400E1                 53   ELEVATOR           DP OF FACILITIES                                  
+14N-400SA                280   STAIRWAY           DP OF FACILITIES                                  
+14N-400SB                318   STAIRWAY           DP OF FACILITIES                                  
+14N-400SG                123   STAIRWAY           DP OF FACILITIES                                  
+14N-400Z                 131   SHAFT SPACE        DP OF FACILITIES                                  
+14N-404                  117   FEMALE LAVATORY    DP OF FACILITIES                                  
+14N-405                  195   OFFICE             LITERATURE             LITERATURE                 
+14N-405E                   3   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14N-406                  119   OFFICE SERVICE     LITERATURE             LITERATURE                 
+14N-406Z                  17   SHAFT SPACE        DP OF FACILITIES                                  
+14N-407                  297   SECY/RECEPTION     LITERATURE             LITERATURE                 
+14N-408                  157   OFFICE             SCH OF HUM & S S                                  
+14N-409                  146   OFFICE             LITERATURE             LITERATURE                 
+14N-410                  156   OFFICE             SCH OF HUM & S S                                  
+14N-411                  149   OFFICE             LITERATURE             LITERATURE                 
+14N-412                  157   OFFICE             SCH OF HUM & S S                                  
+14N-413                  153   OFFICE             LITERATURE             LITERATURE                 
+14N-414                  154   OFFICE             LITERATURE             LITERATURE                 
+14N-415                  146   OFFICE             LITERATURE             LITERATURE                 
+14N-416                  151   OFFICE             LITERATURE             LITERATURE                 
+14N-417                  292   CLASSROOM          SCH OF HUM & S S                                  
+14N-418                  149   OFFICE             LITERATURE             LITERATURE                 
+14N-420                  151   OFFICE             COMPARATIVE MEDIA ST   WRITING                    
+                                                  UDIES                                             
+                                                                                                    
+14N-421                  145   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-422                  157   OFFICE             LITERATURE             LITERATURE                 
+14N-423                  150   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-424                  153   OFFICE             LITERATURE             LITERATURE                 
+14N-425                  146   OFFICE             COMPARATIVE MEDIA ST   WRITING                    
+                                                  UDIES                                             
+                                                                                                    
+14N-426                  150   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-427                  144   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-428                  154   OFFICE             LITERATURE             LITERATURE                 
+14N-429                  147   OFFICE             GLOBAL STUDIES & LAN                              
+                                                  GUAGES                                            
+                                                                                                    
+14N-430                  158   OFFICE             LITERATURE             LITERATURE                 
+14N-431                  151   OFFICE             LITERATURE             LITERATURE                 
+14N-432                  147   OFFICE             LITERATURE             LITERATURE                 
+14N-433                  141   OFFICE             LITERATURE             LITERATURE                 
+14N-434                  154   OFFICE             LITERATURE             LITERATURE                 
+14N-435                  142   OFFICE             COMPARATIVE MEDIA ST   WRITING                    
+                                                  UDIES                                             
+                                                                                                    
+14N-436                  158   OFFICE             COMPARATIVE MEDIA ST   WRITING                    
+                                                  UDIES                                             
+                                                                                                    
+14N-437                  155   OFFICE             LITERATURE             LITERATURE                 
+14N-438                  163   OFFICE             LITERATURE             LITERATURE                 
+14N-439                  161   MALE LAVATORY      DP OF FACILITIES                                  
+14N-439E                   5   ELECTRIC CLOSET    DP OF FACILITIES                                  
+14N-439J                  17   JANITOR CLOSET     DP OF FACILITIES                                  
+14N-439Z                  22   SHAFT SPACE        DP OF FACILITIES                                  
+14N-445                  134   OFFICE SERVICE     SCH OF HUM & S S                                  
+                    --------                                                                        
+                       8,050                                                                        
+                                                                                                    
+14N-500SA                149   STAIRWAY           DP OF FACILITIES                                  
+14N-500SG                157   STAIRWAY           DP OF FACILITIES                                  
+14N-504                  229   UTILITY/MECH RM    DP OF FACILITIES                                  
+14N-545                  310   OFFICE SERVICE     SCH OF HUM & S S    

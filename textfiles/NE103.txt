@@ -1,0 +1,14 @@
+NE103-101              1,097   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+NE103-101A                50   OFFICE             SCH OF MANAGEMNT                                  
+NE103-101B                50   OFFICE             SCH OF MANAGEMNT                                  
+NE103-101C                50   OFFICE             SCH OF MANAGEMNT                                  
+NE103-101D                50   OFFICE             SCH OF MANAGEMNT                                  
+NE103-101F                39   OFFICE             SCH OF MANAGEMNT                                  
+NE103-101G                39   OFFICE             SCH OF MANAGEMNT                                  
+NE103-101H                39   OFFICE             SCH OF MANAGEMNT                                  
+NE103-101K                39   OFFICE             SCH OF MANAGEMNT                                  
+NE103-102                 75   OFFICE SERVICE     SCH OF MANAGEMNT                                  
+NE103-103                101   OFFICE             SCH OF MANAGEMNT                                  
+NE103-104                121   OFFICE             SCH OF MANAGEMNT                                  
+NE103-105                101   OFFICE             SCH OF MANAGEMNT                                  
+NE103-106                105   OFFICE             SCH OF MANAGEMNT                
