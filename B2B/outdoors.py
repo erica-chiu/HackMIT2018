@@ -4,6 +4,7 @@ import math
 import random
 import numpy as np
 from PIL import Image, ImageDraw, ImageColor
+import os
 
 building_map = {}
 foot_traffic = {}
@@ -245,7 +246,7 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1, stai
     for i in range(len(coords)-1):
         draw.line((coords[i][1], coords[i][0], coords[i+1][1], coords[i+1][0]), fill=(0, 0, 255), width=3)
     del draw
-    im.save("sp_out.png", "PNG")
+    im.save("{}/static/sp_out.png".format(os.getcwd()), "PNG")
     return generate_instructions(coords, s_meth_d=s_meth_d, e_floor=end_floor, e_meth_d=e_meth_d)
 
 
