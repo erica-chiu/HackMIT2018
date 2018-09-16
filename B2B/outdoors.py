@@ -89,7 +89,7 @@ def generate_instructions(coords, s_meth_d=None, e_floor=1, e_meth_d=None):
         i = j  # update current position
     if e_meth_d is not None:
         ret += "\nAscend to floor {} using the {}".format(e_floor, e_meth_d)
-    ret += "\nYou have arrived at building {}!".format(building_map[coords[-1][0]][coords[-1][1]])
+    ret += "\nYou have arrived at floor {} of building {}!".format(e_floor, building_map[coords[-1][0]][coords[-1][1]])
     return ret
 
 
@@ -223,8 +223,8 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1, stai
 # debugging
 if __name__ == '__main__':
 
-    x = '8'
-    y = '38'
+    x = 'NW13'
+    y = '3'
     sp = shortest_path(x, y, 1, 8)
     print(sp)
     # x = 'N52'

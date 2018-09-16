@@ -41,7 +41,7 @@ def load_json_file( path ):
 ### STATIC FILES: GET any path relative to PWD
 ### ----------------------------------
 # redirrect "/" to "static/index.html"
-RPCServerHandler.register_redirect("", "/frontend/index.html")
+RPCServerHandler.register_redirect("", "../frontend/index.html")
 
 ### ----------------------------------
 ### RPC API (POST)
@@ -61,6 +61,10 @@ RPCServerHandler.register_function(lambda d : cat_file( d['path'] ), 'cat')
 # load_json: read json object from a file
 # returns json object encoded by a file
 RPCServerHandler.register_function(lambda d : load_json_file( d['path'] ), 'load_json')
+
+# find_shortest_path: Return the shortest path between two buildings
+# returns a list of strings of instructions.
+RPCServerHandler.register_function(lambda d : wrapper.find_shortest_path( d ), 'find_shortest_path')
 
 # call: call student code
 # returns return value
