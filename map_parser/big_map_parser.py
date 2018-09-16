@@ -282,7 +282,14 @@ def map_parse():
                 if railroad[x][y] == 255:
                     map[x][y] = '-2'
                 if red[x][y] == 255:
-                    map[x][y] = '-3'
+                    neighbors = [(x + 1, y), (x - 1, y), (x, y + 1),
+                                 (x, y - 1)]
+                    for px,py in neighbors:
+                        if 0<=px<len(map) and 0<=py<len(map[0]):
+                            if map[px][py] != '0' or map[px][py] != '-2':
+                                map[x][y] = map[px][py]
+                                break
+                    
 
         hello = 255*(np.array(map) == '-2')
         out = PILImage.new(mode='L', size=img.size)
