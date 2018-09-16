@@ -8,7 +8,7 @@ with open('building_map.txt', 'r') as f:
     string_v = f.readline()
 
 building_map = eval(string_v)  # the building map, 2D array of labels (strings/ints) floodfilled to building number
-foot_traffic = 100*list(np.ones([len(building_map),len(building_map[0])]))  # the foot traffic, for distance purposes (based on time). Default is 100
+foot_traffic = list(100 * np.ones([len(building_map),len(building_map[0])]))  # the foot traffic, for distance purposes (based on time). Default is 100
 extrema = {}
 
 VERBS = ["Head", "Walk", "Travel", "Go",  "Move", "Grapevine"]  # to reduce redundancy
@@ -111,6 +111,7 @@ def get_building_extrema():
     """
     Builds building extrema
     """
+    global extrema
     for i in range(rows):
         for j in range(cols):
             min_x, max_x, min_y, max_y = extrema.get(building_map[i][j], (INF, 0, INF, 0))
@@ -153,15 +154,23 @@ def get_closest_door(cur_x, cur_y, building_id, floor):
     return int(prop_x * (max_x - min_x) + min_x), int(prop_y * (max_y - min_y) + min_y), cd[2]
 
 
-def shortest_path(start_building, end_building, start_floor=1, end_floor=1):
+def shortest_path(start_building, end_building, start_floor=1, end_floor=1, stair_limit=INF):
     """
     Finds detailed shortest path between two buildings.
     :param start_building: building the user starts at
     :param end_building: building the user ends at
     :param start_floor: floor you start on
     :param end_floor: floor you end on
+    :param stair_limit: max amount of stairs user wants to climb in a row
     :return: an English direction based on a list of coordinates generated
     """
+    # initialize useful globals
+    global rows, cols, STAIR_LIM
+    rows, cols = len(building_map), len(building_map[0])
+    STAIR_LIM = stair_limit
+    get_building_extrema()
+
+    # shortest paths
     startx, starty = find_xy_cluster(start_building)
     #startx, starty, startd = get_closest_door(startx, starty, start_building, start_floor)
     dist = [[INF] * cols for _ in range(rows)]
@@ -188,7 +197,7 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1):
                 continue
             ndist = cdist
             if (building_map[cx][cy] != OUTSIDE and building_map[nx][ny] == OUTSIDE or
-                building_map[cx][cy] == OUTSIDE and building_map[nx][ny] != OUTSIDE):
+                    building_map[cx][cy] == OUTSIDE and building_map[nx][ny] != OUTSIDE):
                 ndist += SWITCH_PENALTY
             if building_map[nx][ny] == OUTSIDE:
                 ndist += foot_traffic[nx][ny]
@@ -211,30 +220,11 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1):
     return generate_instructions(list(reversed(ret)), s_meth_d=s_meth_d, e_floor=end_floor, e_meth_d=e_meth_d)
 
 
-def build_vals(traffic=None, stair_lim=None):
-    """
-    Builds globals
-    :param traffic: map of foot traffic
-    :param stair_lim: limit of stairs to travel
-    :return: None
-    """
-    global foot_traffic, STAIR_LIM, rows, cols
-    rows, cols = len(building_map), len(building_map[0])
-    get_building_extrema()
-    if traffic is None:
-        foot_traffic = [[100] * cols for _ in range(rows)]
-    else:
-        foot_traffic = traffic
-    if stair_lim is not None:
-        STAIR_LIM = stair_lim
-
-
 # debugging
 if __name__ == '__main__':
 
     x = '8'
     y = '38'
-    build_vals()
     sp = shortest_path(x, y, 1, 8)
     print(sp)
     # x = 'N52'
