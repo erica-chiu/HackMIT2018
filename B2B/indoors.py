@@ -90,17 +90,17 @@ def door_ff(building_id, floor, start_x, start_y, can_stair=False):
     return [dist[d[0]][d[1]] for d in door_locs[building_id][floor]], min_floor_t_dist, floor_t_loc
 
 
-def traverse(building_id, door_index=0, start_floor=1, end_floor=1, stair_limit=INF):
+def traverse(building_size, door_index=0, start_floor=1, end_floor=1, stair_limit=INF):
     """
     Finds time to traverse through a building
-    :param building_id: building to start
+    :param building_size: geometric mean of building dimension
     :param door_index: door the user entered from
     :param start_floor: floor to start
     :param end_floor: floor to end
     :param stair_limit: max amount of floors the user wants to climb in a row
     :return: time taken to travel
     """
-    floor_traffic = 200 * 200  # TODO: hardcoded
+    floor_traffic = 250 * building_size
     total_time, meth_d = floor_traffic, None  # method of descent
     #door_x, door_y = door_locs[building_id][start_floor][door_index]
     if start_floor != end_floor:

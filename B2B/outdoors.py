@@ -127,6 +127,17 @@ def get_building_extrema(building_id):
     return min_x, max_x, min_y, max_y
 
 
+def get_size(building_id):
+    """
+    Building size
+    :param building_id: id
+    :return: size
+    """
+    min_x, max_x, min_y, max_y = get_building_extrema(building_id)
+    range_x, range_y = max_x - min_x, max_y - min_y
+    return math.sqrt(range_x * range_x + range_y * range_y)
+
+
 def get_closest_door(cur_x, cur_y, building_id, floor):
     """
     Finds closest door to building by testing proportions
@@ -159,7 +170,7 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1):
     prev = [[None] * cols for _ in range(rows)]
     #starting_doors = indoors.get_scaled_door_locs(start_building, start_floor, get_building_extrema(start_building))
     #door_dists = indoors.traverse(start_building, startd, start_floor, stair_limit=STAIR_LIM)
-    start_dist, s_meth_d = indoors.traverse(start_building, start_floor=start_floor, stair_limit=STAIR_LIM)
+    start_dist, s_meth_d = indoors.traverse(get_size(start_building), start_floor=start_floor, stair_limit=STAIR_LIM)
     dist[startx][starty] = start_dist
     q = Q.PriorityQueue()
     q.put((start_dist, startx, starty))
@@ -183,14 +194,14 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1):
             elif building_map[nx][ny] != building_map[cx][cy]:
                 # starting_door = get_closest_door(nx, ny, building_map[nx][ny], 1)[2]
                 # door_dists = indoors.traverse(building_map[nx][ny], door_index=starting_door, stair_limit=STAIR_LIM)
-                add, meth_d = indoors.traverse(building_map[nx][ny])
+                add, meth_d = indoors.traverse(get_size(building_map[nx][ny]))
                 ndist += add
             if ndist < dist[nx][ny]:
                 dist[nx][ny] = ndist
                 prev[nx][ny] = (cx, cy)
                 q.put((ndist, nx, ny))
     ret = []
-    end_dist, e_meth_d = indoors.traverse(end_building, end_floor=end_floor, stair_limit=STAIR_LIM)
+    end_dist, e_meth_d = indoors.traverse(get_size(end_building), end_floor=end_floor, stair_limit=STAIR_LIM)
     dist[endx][endy] += end_dist
     cur = (endx, endy)
     while cur:
@@ -219,8 +230,8 @@ def build_vals(traffic=None, stair_lim=None):
 # debugging
 if __name__ == '__main__':
 
-    x = 'N52'
-    y = 'W20'
+    x = 'NE43'
+    y = '26'
     build_vals()
     sp = shortest_path(x, y)
     print(sp)
