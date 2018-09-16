@@ -35,6 +35,14 @@ function readInput() {
 	return instructions
 }
 
+function addPicture() {
+	var imageDiv = document.getElementById('image_goes');
+	var image = document.createElement('img');
+	image.setAttribute('src', '/static/sp_out.png');
+	image.setAttribute('class', 'center-fit');
+	imageDiv.appendChild(image);
+}
+
 function parseInputForShortestPath(dept, dest, max_floor){
 	var initial_floor = 1;
 	var final_floor = 1;
@@ -66,6 +74,7 @@ function makeRequest(input){
 		return_data = data
 		instructionDiv = document.getElementById('instruction');
 		instructionDiv.innerText = data;
+		addPicture();
 	});
 	return return_data;
 }
