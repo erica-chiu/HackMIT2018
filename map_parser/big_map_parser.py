@@ -242,11 +242,11 @@ def map_parse():
             for x,y in b:
                 map[x][y] = building_nums[i]
         for x,y in briggs_vals:
-            map[x][y] = -2
+            map[x][y] = '-2'
         for x in range(len(map)):
             for y in range(len(map[0])):
                 if railroad[x][y] == 255:
-                    map[x][y] = -2
+                    map[x][y] = '-2'
 
         with open('building_map.txt','w+') as f:
             f.write(str(map))
