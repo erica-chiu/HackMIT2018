@@ -1,7 +1,8 @@
-function loadData(filename){
-	loadJSon(filename, function(response){
+async function loadData(filename){
+	loadJSon(filename, async function(response){
 		var actual_JSON = JSON.parse(response);
 		console.log(actual_JSON);
+		await new Promise(resolve => setTimeout(resolve, 3000));
 		return actual_JSON
 	});
 }
@@ -22,53 +23,43 @@ function callbackSuccess() {
 	console.log('Data load is successful.');
 }
 
-function eventListener() {
+function eventListener(building_set, room_set) {
 	var submit = document.getElementById('submit');
 	submit.addEventListener("click", function(){
 		console.log('button is clocked!');
-		readInput()
+		if (document.getElementById('errPara') !== null){
+			document.getElementById('errPara').remove();
+		}
+		readInput(building_set, room_set);
 	});
 }
 
 
-function readInput() {
+function readInput(building_set, room_set) {
 	console.log('Entering readInput');
 	var deptElement = document.getElementById('dept');
-	var departureRoom = deptElement.value;
+	var departureRoom = deptElement.value.toString();
+	console.log(departureRoom)
 	deptElement.value = "";
 
 	var destElement = document.getElementById('dest');
-	var destinationRoom = destElement.value;
+	var destinationRoom = destElement.value.toString();
+	console.log(destinationRoom)
 	destElement.value = ""
 
 	var maxFloorElement = document.getElementById('max_floor');
 	var maxFloorTolerance = maxFloorElement.value;
-	maxFloorTolerance.value = ""
-
-	/*
-	if (checkInputValidity(departureRoom, destinationRoom, maxFloorTolerance)){
-		// Make function calls to the python.
-	}
-	else{
-		// Append a reminder that there is an error.
-	}
-	*/
-}
-
-function checkInputValidity(start, end, max_floor) {
+	console.log(maxFloorTolerance)
+	maxFloorElement.value = ""
 
 }
 
-function inputErrorWarning(){
-
+function findShortestPath(start, destination){
+	
 }
 
 function main(){
-	const building_dir = "../json/buildings.json";
-	const room_dir = "../json/rooms2.json";
-	var building_data = loadData(building_dir);
-	var room_data = loadData(room_dir);
-	eventListener();
+	eventListener(building_data, room_data);
 }
 
 main()
