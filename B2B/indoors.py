@@ -98,32 +98,30 @@ def traverse(building_id, door_index=0, start_floor=1, end_floor=1, stair_limit=
     :param start_floor: floor to start
     :param end_floor: floor to end
     :param stair_limit: max amount of floors the user wants to climb in a row
-    :return: tuple(travel time for each door, method of de/ascension)
+    :return: time taken to travel
     """
-    total_times, meth_d = [], None  # method of descent
-    door_x, door_y = door_locs[building_id][start_floor][door_index]
+    floor_traffic = 200 * 200  # TODO: hardcoded
+    total_time, meth_d = floor_traffic, None  # method of descent
+    #door_x, door_y = door_locs[building_id][start_floor][door_index]
     if start_floor != end_floor:
-        floor_plan = building_map[building_id][start_floor]
+        #floor_plan = building_map[building_id][start_floor]
         # start floor door -> stairs/elevators
+        #ff_info = door_ff(building_id, start_floor, door_x, door_y, can_stair=can_stair)
+        #to_floor_t_time = ff_info[1]
+        #floor_t_x, floor_t_y = ff_info[2]
+        # meth_d = "elevator" if floor_plan[floor_t_x][floor_t_y] == ELEVATOR else "stairs"
+        # if meth_d == "elevator":
         floor_diff = abs(start_floor - end_floor)
         can_stair = floor_diff <= stair_limit
-        ff_info = door_ff(building_id, start_floor, door_x, door_y, can_stair=can_stair)
-        to_floor_t_time = ff_info[1]
-        floor_t_x, floor_t_y = ff_info[2]
-        meth_d = "elevator" if floor_plan[floor_t_x][floor_t_y] == ELEVATOR else "stairs"
-        if meth_d == "elevator":
-            elevator_wait = ELEVATOR_WAIT * foot_traffic[building_id][start_floor]
-            elevator_time = ELEVATOR_TIME * foot_traffic[building_id][start_floor] / 100 * floor_diff
-            floor_t_time = elevator_time + elevator_wait
-        else:
-            floor_t_time = CLIMBING_TIME * floor_diff
-        # stairs/elevators -> end floor door
-        door_times = door_ff(building_id, end_floor, floor_t_x, floor_t_y)[0]
-        total_times = [t + to_floor_t_time + floor_t_time for t in door_times]
-    else:
-        # wow this is so much simpler
-        total_times = door_ff(building_id, start_floor, door_x, door_y)[0]
-    return total_times, meth_d
+        elevator_wait = ELEVATOR_WAIT * floor_traffic
+        elevator_time = ELEVATOR_TIME * floor_traffic / 100 * floor_diff
+        tot_elevator_time = elevator_time + elevator_wait
+        tot_stair_time = CLIMBING_TIME * floor_diff
+        meth_d = "stairs" if can_stair and tot_stair_time <= tot_elevator_time else "elevators"
+        total_time = tot_stair_time if meth_d == "stairs" else tot_elevator_time
+        #door_times = door_ff(building_id, end_floor, floor_t_x, floor_t_y)[0]
+        #total_times = [t + to_floor_t_time + floor_t_time for t in door_times]
+    return total_time, meth_d
 
 
 def build_vals(buildings, traffic):

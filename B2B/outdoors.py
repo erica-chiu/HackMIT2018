@@ -4,7 +4,7 @@ import math
 import random
 import numpy as np
 
-with open('building_map.txt','r') as f:
+with open('building_map.txt', 'r') as f:
     string_v = f.readline()
 
 building_map = eval(string_v)  # the building map, 2D array of labels (strings/ints) floodfilled to building number
@@ -12,12 +12,12 @@ foot_traffic = 100*list(np.ones([len(building_map),len(building_map[0])]))  # th
 
 VERBS = ["Head", "Walk", "Travel", "Go",  "Move", "Grapevine"]  # to reduce redundancy
 
-OUTSIDE = 0
-ILLEGAL = -2
+OUTSIDE = "0"
+ILLEGAL = "-2"
 rows, cols = -1, -1
 INF = 1e9  # very large
-TO_MIN = 1 / 6000  # from pure units to minutes  TODO: fix this scaling
-CHANGE_DIRECTION_STEP = 2  # the number of steps to check if overall path direction changed (to get around curvy paths)  TODO: fix this scaling
+TO_MIN = 1 / (6000 * 4)  # from pure units to minutes  TODO: fix this scaling
+CHANGE_DIRECTION_STEP = 15  # the number of steps to check if overall path direction changed (to get around curvy paths)  TODO: fix this scaling
 
 STAIR_LIM = INF
 
@@ -43,10 +43,13 @@ def get_direction(c1, c2):
     return ["North", "West", "South", "East", "Northwest", "Southwest", "Southeast", "Northeast"][mx_ind]
 
 
-def generate_instructions(coords):
+def generate_instructions(coords, s_meth_d=None, e_floor=1, e_meth_d=None):
     """
     Gets an English set of directions given a coordinate path and distance
     :param coords: the output from shortest_path
+    :param s_meth_d: starting descending method
+    :param e_floor: ending floor
+    :param e_meth_d: ending ascending method
     :return: an English string
     """
     def get_building_name(bid):
@@ -56,7 +59,8 @@ def generate_instructions(coords):
     i, n = 0, len(coords)
     ret = "This path should take you at most {0:.3f} minutes.\nStart at building {1}".format(coords[-1][2] * TO_MIN,
                                                                                              building_map[coords[i][0]][coords[i][1]])
-    # TODO: Descending step
+    if s_meth_d is not None:
+        ret += "\nDescend to floor 1 using the {}".format(s_meth_d)
     while i < n-1:  # shouldn't do directions for last building
         j = i+1
         building_i = building_map[coords[i][0]][coords[i][1]]
@@ -82,7 +86,8 @@ def generate_instructions(coords):
                                                           to_building=to_building,
                                                           time=(coords[j][2]-coords[j][1]) * TO_MIN)
         i = j  # update current position
-    # TODO: Ascending step
+    if e_meth_d is not None:
+        ret += "\nAscend to floor {} using the {}".format(e_floor, e_meth_d)
     ret += "\nYou have arrived at building {}!".format(building_map[coords[-1][0]][coords[-1][1]])
     return ret
 
@@ -149,15 +154,18 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1):
     :return: a list of coordinates for the user to go with times
     """
     startx, starty = find_xy_cluster(start_building)
-    startx, starty, startd = get_closest_door(startx, starty, start_building, start_floor)
+    #startx, starty, startd = get_closest_door(startx, starty, start_building, start_floor)
     dist = [[INF] * cols for _ in range(rows)]
     prev = [[None] * cols for _ in range(rows)]
-    starting_doors = indoors.get_scaled_door_locs(start_building, start_floor, get_building_extrema(start_building))
-    door_dists = indoors.traverse(start_building, startd, start_floor, stair_limit=STAIR_LIM)
+    #starting_doors = indoors.get_scaled_door_locs(start_building, start_floor, get_building_extrema(start_building))
+    #door_dists = indoors.traverse(start_building, startd, start_floor, stair_limit=STAIR_LIM)
+    start_dist, s_meth_d = indoors.traverse(start_building, start_floor=start_floor, stair_limit=STAIR_LIM)
+    dist[startx][starty] = start_dist
     q = Q.PriorityQueue()
-    for ind, (door_x, door_y) in enumerate(starting_doors):
-        dist[door_x][door_y] = door_dists[ind]
-        q.put((dist[door_x][door_y], door_x, door_y))
+    q.put((start_dist, startx, starty))
+    # for ind, (door_x, door_y) in enumerate(starting_doors):
+    #     dist[door_x][door_y] = door_dists[ind]
+    #     q.put((dist[door_x][door_y], door_x, door_y))
     while not q.empty():
         cdist, cx, cy = q.get()
         if cdist > dist[cx][cy]:  # lol we don't do decrease-key in these parts
@@ -167,40 +175,39 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1):
             break  # we found it!
         for k in range(4):
             nx, ny = cx + dx[k], cy + dy[k]
-            if nx < 0 or ny < 0 or nx >= rows or ny >= cols or building_map[nx][ny] == ILLEGAL or (
-                building_map[nx][ny] == building_map[cx][cy] and building_map[cx][cy] != OUTSIDE
-            ):  # no illegal steps or steps within the same building (those are handled by indoors)
+            if nx < 0 or ny < 0 or nx >= rows or ny >= cols or building_map[nx][ny] == ILLEGAL:  # no illegal steps
                 continue
             ndist = cdist
             if building_map[nx][ny] == OUTSIDE:
                 ndist += foot_traffic[nx][ny]
             elif building_map[nx][ny] != building_map[cx][cy]:
-                # TODO: implement doors
-                ndist += indoors.traverse(building_map[nx][ny])
+                # starting_door = get_closest_door(nx, ny, building_map[nx][ny], 1)[2]
+                # door_dists = indoors.traverse(building_map[nx][ny], door_index=starting_door, stair_limit=STAIR_LIM)
+                add, meth_d = indoors.traverse(building_map[nx][ny])
+                ndist += add
             if ndist < dist[nx][ny]:
                 dist[nx][ny] = ndist
                 prev[nx][ny] = (cx, cy)
                 q.put((ndist, nx, ny))
     ret = []
-    _, _, endd = get_closest_door(endx, endy, end_building, end_floor)
-    dist[endx][endy] += min(indoors.traverse(end_building, endd, end_floor, stair_limit=STAIR_LIM)[0])
+    end_dist, e_meth_d = indoors.traverse(end_building, end_floor=end_floor, stair_limit=STAIR_LIM)
+    dist[endx][endy] += end_dist
     cur = (endx, endy)
     while cur:
         ret.append((cur[0], cur[1], dist[cur[0]][cur[1]]))
         cur = prev[cur[0]][cur[1]]
-    return list(reversed(ret))
+    return generate_instructions(list(reversed(ret)), s_meth_d=s_meth_d, e_meth_d=e_meth_d)
 
 
-def build_vals(buildings, traffic=None, stair_lim=None):
+def build_vals(traffic=None, stair_lim=None):
     """
     Builds globals
     :param buildings: map of buildings
     :param traffic: map of foot traffic
     :return: None
     """
-    global building_map, foot_traffic, STAIR_LIM, rows, cols
-    building_map = buildings
-    rows, cols = len(buildings), len(buildings[0])
+    global foot_traffic, STAIR_LIM, rows, cols
+    rows, cols = len(building_map), len(building_map[0])
     if traffic is None:
         foot_traffic = [[100] * cols for _ in range(rows)]
     else:
@@ -214,7 +221,8 @@ if __name__ == '__main__':
 
     x = 'N52'
     y = 'W20'
-    sp = shortest_path(x,y)
+    build_vals()
+    sp = shortest_path(x, y)
     print(sp)
     # x = 'N52'
     # y = 54
