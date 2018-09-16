@@ -5,11 +5,8 @@ import random
 import numpy as np
 from PIL import Image, ImageDraw, ImageColor
 
-with open('building_map.txt', 'r') as f:
-    string_v = f.readline()
-
-building_map = eval(string_v)  # the building map, 2D array of labels (strings/ints) floodfilled to building number
-foot_traffic = list(100 * np.ones([len(building_map),len(building_map[0])]))  # the foot traffic, for distance purposes (based on time). Default is 100
+building_map = {}
+foot_traffic = {}
 extrema = {}
 
 VERBS = ["Head", "Walk", "Travel", "Go",  "Move", "Grapevine"]  # to reduce redundancy
@@ -178,7 +175,14 @@ def shortest_path(start_building, end_building, start_floor=1, end_floor=1, stai
     if end_building in ["E23", "E25"]:
         end_building = "E23/E25"
     # initialize useful globals/variables
-    global rows, cols, STAIR_LIM
+    global building_map, foot_traffic, rows, cols, STAIR_LIM
+    start_floor = int(start_floor)
+    end_floor = int(end_floor)
+    with open('building_map.txt', 'r') as f:
+        string_v = f.readline()
+
+    building_map = eval(string_v)  # the building map, 2D array of labels (strings/ints) floodfilled to building number
+    foot_traffic = list(100 * np.ones([len(building_map),len(building_map[0])]))  # the foot traffic, for distance purposes (based on time). Default is 100
     rows, cols = len(building_map), len(building_map[0])
     STAIR_LIM = stair_limit
     get_building_extrema()

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>MIT Random Walk</title>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+		<link rel="stylesheet", href="{{ url_for('static', filename='style.css') }}">
+	</head>
+	<body>
+		<nav class="navbar navbar-light bg-light">
+  		<span class="navbar-text">
+    	MIT Random Walk
+  		</span>
+		</nav>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm">
+					<div class="input-group mb-3">
+						<div class="input-group-prepend">
+							<span class="input-group-text" id="basic-addon1">Depart From</span>
+						</div>
+						<input type="text" class="form-control" id="dept" placeholder="Enter a classroom/building number(Ex. 10-250)" aria-label="departure" aria-describedby="basic-addon1">
+					</div>
+					<div class="input-group mb-3">
+						<div class="input-group-prepend">
+							<span class="input-group-text" id="basic-addon1">Destination</span>
+						</div>
+						<input type="text" class="form-control" id="dest" placeholder="Enter a classroom/building number(Ex. E25-111)" aria-label="destination" aria-describedby="basic-addon1">
+					</div>
+					<div class="input-group mb-3">
+						<div class="input-group-prepend">
+							<span class="input-group-text" id="basic-addon1">How much stairs are you willing to climb?</span>
+						</div>
+						<input type="text" class="form-control" id="max_floor" placeholder="Enter a # of floors of stairs" aria-label="max_floor" aria-describedby="basic-addon1">
+					</div>
+					<div id="inputErrorRemind">
+						<!-- placeholder for possible -->
+					</div>
+					<div class="row" id="submit">
+						<button type="button" class="btn btn-primary">Submit</button>
+					</div>
+				</div>
+				<div class="col-sm">
+					<h2>Instructions</h2>
+					<div class="instruction-list", id="instruction">
+						<!-- -->
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<!-- Insert map here -->
+			</div>
+		</div>
+		<script type="text/javascript" src="http://code.jquery.com/jquery-2.1.4.min.js"></script> 
+		<script src="{{ url_for('static', filename='main.js') }}"></script>
+	</body>
+</html>

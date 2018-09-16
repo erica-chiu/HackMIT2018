@@ -1,11 +1,17 @@
+from flask import Flask, render_template, request, jsonify
 import outdoors
-from importlib import reload
-reload(outdoors)
+import pdb
+import sys
 
-# Functions required by ui.js
-def find_shortest_path(d):
-	return outdoors.shortest_path(d['start_building'], d["end_building"], d['start_floor'], d['end_floor'])
+app = Flask(__name__)
 
-def get_route_description(d):
-	return outdoors.generate_instructions(d['path'])
-	
+@app.route('/find_shortest_path', methods=['POST'])
+def find_shortest_path():
+	d = request.form
+	print(d, file=sys.stderr)
+	return jsonify(outdoors.shortest_path(d['start_building'], d["end_building"], d['start_floor'], d['end_floor']))
+
+@app.route('/')
+def render_HTML():
+	return render_template('index.html')
+
